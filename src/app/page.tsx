@@ -27,7 +27,7 @@ export default function Home() {
               /> : (
               <section className="introduction" aria-labelledby="intro-heading">
                 <p className="eyebrow">Direkte fra gården</p>
-                <h1 id="intro-heading"><span>Find r&aring;</span><span>M&aelig;lk i</span><span>Danmark.</span></h1>
+                <h1 id="intro-heading"><span>Find r&aring;</span><span>M&aelig;lk<span className="heading-i">i</span></span><span>Danmark.</span></h1>
                 <p>Find gårde og producenter, der sælger rå mælk direkte til forbrugere.</p>
                 <a className="intro-link" href="#kort">Vælg en region <span aria-hidden="true">↓</span></a>
               </section>

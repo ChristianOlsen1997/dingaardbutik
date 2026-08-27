@@ -15,11 +15,11 @@ export function LocationItem({ location, onExpandedChange }: { location: Locatio
 
   return (
     <article className="location-item">
-      <button className="location-summary" type="button" aria-expanded={expanded} aria-controls={panelId} onClick={() => setExpanded((value) => {
-        const next = !value;
+      <button className="location-summary" type="button" aria-expanded={expanded} aria-controls={panelId} onClick={() => {
+        const next = !expanded;
+        setExpanded(next);
         onExpandedChange(location, next);
-        return next;
-      })}>
+      }}>
         <span className="location-main">
           <span className="location-title-line">
             <span className="location-name">{location.name}</span>

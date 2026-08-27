@@ -53,7 +53,7 @@ export function DenmarkMap({ selectedRegion, markerPosition, onSelect }: Denmark
         }}
       />
       {markerPosition && (
-        <svg className="map-marker-overlay" viewBox="0 0 1000 810" aria-hidden="true">
+        <svg className="map-marker-overlay" viewBox="-6 -5 1012 820" aria-hidden="true">
           <circle className="map-marker-ring" cx={markerPosition.x} cy={markerPosition.y} r="15" />
           <circle className="map-marker-dot" cx={markerPosition.x} cy={markerPosition.y} r="8" />
         </svg>
