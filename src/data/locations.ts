@@ -1,0 +1,48 @@
+import type { Location } from "@/types/locations";
+
+export const locations: Location[] = [
+  {
+    id: "den-glade-bondemand",
+    name: "Den Glade Bondemand",
+    region: "nordjylland",
+    address: "Stavadvej 351, Manna",
+    postalCode: "9700",
+    city: "Brønderslev",
+    phone: "40134349",
+    mapPosition: { x: 300, y: 175 },
+    description: "Komælk til 15kr pr. liter. Hentes i 5L plastikspand som man afleverer igen.",
+  },
+  {
+    id: "poetgaard-faareost-gaardmejeri",
+    name: "Pøtgaard Fåreost Gårdmejeri",
+    region: "midtjylland",
+    address: "Norupvej 10",
+    postalCode: "8830",
+    city: "Vammen",
+    phone: "24768830",
+    mapPosition: { x: 255, y: 375 },
+    description: "Ko- og fåremælk. Komælk koster 30 kr., og fåremælk koster 55 kr. Glasflasker koster 10 kr. første gang; derefter afleverer eller bytter man flasken ved næste besøg. Køerne spiser græs og hø.",
+  },
+  {
+    id: "projekt-livsalling",
+    name: "Projekt Livsalling",
+    region: "nordjylland",
+    address: "Hvalpsundvej 11",
+    postalCode: "7870",
+    city: "Roslev",
+    phone: "21479023",
+    mapPosition: { x: 175, y: 310 },
+    website: "https://delemaelk.dk",
+    description: "Økologisk komælk fra græsfodrede køer. Koen går med sin egen kalv i mindst tre måneder. Mælken koster 25 kr. pr. liter. Ring i forvejen, og medbring selv en beholder til mælken.",
+  },
+  {
+    id: "copenhagen-goat-milk",
+    name: "Copenhagen Goat Milk",
+    region: "sjaelland",
+    address: "Roskildevej 603",
+    postalCode: "4174",
+    city: "Jystrup Midtsj",
+    phone: "51858126",
+    mapPosition: { x: 500, y: 545 },
+    description: "Gedemælk til 45 kr. pr. liter, solgt i glasflasker. Copenhagen Goat Milk er også ofte at finde på Grønt Marked. Gederne spiser græs.",
+  },];
