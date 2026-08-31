@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useState } from "react";
 
 const links = [
@@ -12,7 +13,10 @@ export function Header() {
 
   return (
     <header className="site-header">
-      <a className="wordmark" href="#top" aria-label="Find Rå Mælk, gå til toppen">Find Rå Mælk</a>
+      <a className="header-brand" href="#top" aria-label="Find Rå Mælk, gå til toppen">
+        <Image className="header-brand-image" src="/isolated-milk-bottle-with-copy-space.png" alt="" width={40} height={40} priority />
+        <span className="wordmark">Find Rå Mælk</span>
+      </a>
       <button className="menu-button" type="button" aria-expanded={open} aria-controls="site-nav" onClick={() => setOpen((value) => !value)}>
         {open ? "Luk" : "Menu"}
       </button>
