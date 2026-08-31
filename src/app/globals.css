@@ -10,14 +10,12 @@ button, a { -webkit-tap-highlight-color:transparent; }
 :focus-visible { outline:2px solid var(--forest); outline-offset:4px; }
 .page-frame { width:min(100%, 1600px); margin:auto; padding:0 clamp(20px, 4vw, 64px); }
 .site-header { min-height:88px; display:flex; align-items:center; justify-content:space-between; border-bottom:1px solid var(--line); position:relative; z-index:10; }
-.header-brand { order:2; display:flex; align-items:center; gap:10px; text-decoration:none; }
-.header-brand-image { width:40px; height:40px; object-fit:cover; border-radius:50%; }
 .wordmark { font-size:.83rem; line-height:1; font-weight:750; letter-spacing:.17em; text-transform:uppercase; text-decoration:none; white-space:nowrap; }
-.site-nav { order:1; display:flex; align-items:center; gap:clamp(24px, 3.2vw, 54px); }
+.site-nav { display:flex; align-items:center; gap:clamp(24px, 3.2vw, 54px); }
 .site-nav a { font-size:.7rem; font-weight:700; letter-spacing:.14em; text-transform:uppercase; text-decoration:none; }
 .site-nav a::after { content:""; display:block; width:0; border-bottom:1px solid; padding-top:5px; transition:width 220ms ease; }
 .site-nav a:hover::after, .site-nav a:focus-visible::after { width:100%; }
-.menu-button { order:1; display:none; background:transparent; border:0; text-transform:uppercase; letter-spacing:.12em; font-size:.72rem; font-weight:700; }
+.menu-button { display:none; background:transparent; border:0; text-transform:uppercase; letter-spacing:.12em; font-size:.72rem; font-weight:700; }
 .finder { position:relative; min-height:calc(100svh - 89px); display:grid; grid-template-columns:minmax(330px, 38fr) minmax(510px, 62fr); border-bottom:1px solid var(--line); }
 .content-column { position:relative; z-index:2; display:flex; align-items:center; padding:clamp(44px, 7vh, 90px) clamp(28px, 4.5vw, 74px) clamp(44px, 7vh, 90px) 0; }
 .content-column > * { width:100%; animation:content-in 420ms ease both; }
