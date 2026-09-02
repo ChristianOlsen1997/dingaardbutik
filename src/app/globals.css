@@ -86,10 +86,12 @@ button, a { -webkit-tap-highlight-color:transparent; }
 
 @media (max-width: 800px) {
   .page-frame { padding:0 20px; }
-  .site-header { min-height:72px; grid-template-columns:1fr auto; }
-  .advertising-slot { display:none; }
-  .menu-button { display:block; cursor:pointer; }
-  .site-nav { display:none; position:absolute; left:-20px; right:-20px; top:72px; padding:20px; background:var(--paper); border-bottom:1px solid var(--line); flex-direction:column; align-items:flex-start; gap:20px; }
+  .site-header { min-height:0; grid-template-columns:1fr auto; grid-template-areas:"brand menu" "advert advert"; row-gap:13px; padding:16px 0; }
+  .site-header > .wordmark { grid-area:brand; }
+  .advertising-slot { grid-area:advert; display:flex; width:100%; min-width:0; min-height:46px; padding:8px 12px; }
+  .advertising-slot strong { font-size:.95rem; }
+  .menu-button { grid-area:menu; display:block; cursor:pointer; }
+  .site-nav { display:none; position:absolute; left:-20px; right:-20px; top:100%; padding:20px; background:var(--paper); border-bottom:1px solid var(--line); flex-direction:column; align-items:flex-start; gap:20px; }
   .site-nav.is-open { display:flex; }
   .finder { min-height:auto; display:flex; flex-direction:column; }
   .content-column { display:block; padding:54px 0 30px; order:1; }
