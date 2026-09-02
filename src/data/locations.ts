@@ -54,7 +54,7 @@ export const locations: Location[] = [
     phone: "53622026",
     website: "https://www.facebook.com/profile.php?id=61575054072541",
     mapPosition: { x: 370, y: 650 },
-    description: "Rå mælk på Fyn. Kontakt Østerlund via Facebook inden afhentning for at høre om pris, tidspunkt og dagens udvalg.",
+    description: "Biodynamisk rå mælk til 15 kr. pr. liter. Kontakt Østerlund via Facebook inden afhentning for at høre om tidspunkt og dagens udvalg.",
   },
   {
     id: "verningelund",
