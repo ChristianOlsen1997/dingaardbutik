@@ -35,6 +35,9 @@ export function DenmarkMap({ selectedRegion, markerPosition, onSelect }: Denmark
         className="denmark-map"
         data-active-region={selectedRegion ?? undefined}
         data-hover-region={hoveredRegion ?? undefined}
+        onMouseDown={(event: MouseEvent<SVGSVGElement>) => {
+          event.preventDefault();
+        }}
         onPointerMove={(event: PointerEvent<SVGSVGElement>) => {
           const region = findRegion(event.target, event.currentTarget);
           setHoveredRegion((current) => current === region ? current : region);

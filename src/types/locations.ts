@@ -12,7 +12,7 @@ export type Location = {
   address: string;
   postalCode: string;
   city: string;
-  phone: string;
+  phone?: string;
   website?: string;
   mapPosition: MapPosition;
   description: string;

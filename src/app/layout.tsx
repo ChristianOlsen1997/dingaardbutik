@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { DM_Sans, Fraunces } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const sans = DM_Sans({ subsets: ["latin"], variable: "--font-sans" });
@@ -14,5 +15,12 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="da"><body className={`${sans.variable} ${display.variable}`}>{children}</body></html>;
+  return (
+    <html lang="da">
+      <body className={`${sans.variable} ${display.variable}`}>
+        {children}
+        <Analytics />
+      </body>
+    </html>
+  );
 }

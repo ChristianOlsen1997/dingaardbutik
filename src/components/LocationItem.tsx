@@ -24,7 +24,7 @@ export function LocationItem({ location, onExpandedChange }: { location: Locatio
           <span className="location-title-line">
             <span className="location-name">{location.name}</span>
           </span>
-          <span className="location-address">{location.address}<br />{location.postalCode} {location.city} · {formatPhone(location.phone)}</span>
+          <span className="location-address">{location.address}<br />{location.postalCode} {location.city}{location.phone && <> · {formatPhone(location.phone)}</>}</span>
         </span>
         <span className="expand-icon" aria-hidden="true">{expanded ? "−" : "+"}</span>
       </button>
@@ -32,7 +32,7 @@ export function LocationItem({ location, onExpandedChange }: { location: Locatio
         <div className="location-details-inner">
           <p>{location.description}</p>
           <div className="location-actions">
-            <a href={`tel:+45${location.phone}`} aria-label={`Ring til ${location.name} på ${formatPhone(location.phone)}`}>Ring {formatPhone(location.phone)}</a>
+            {location.phone && <a href={`tel:+45${location.phone}`} aria-label={`Ring til ${location.name} på ${formatPhone(location.phone)}`}>Ring {formatPhone(location.phone)}</a>}
             {location.website && <a href={location.website} target="_blank" rel="noreferrer">Bes&oslash;g hjemmesiden <span aria-hidden="true">&#8599;</span></a>}
             <a href={mapsUrl} target="_blank" rel="noreferrer">Se adresse på Google Maps <span aria-hidden="true">↗</span></a>
           </div>

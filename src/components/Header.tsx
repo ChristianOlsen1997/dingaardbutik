@@ -13,6 +13,10 @@ export function Header() {
   return (
     <header className="site-header">
       <a className="wordmark" href="#top" aria-label="Find Rå Mælk, gå til toppen">Find Rå Mælk</a>
+      <a className="advertising-slot" href="#annoncering" aria-label="Kontakt om ledig annonceplads">
+        <span>Annonceplads</span>
+        <strong>Din virksomhed her</strong>
+      </a>
       <button className="menu-button" type="button" aria-expanded={open} aria-controls="site-nav" onClick={() => setOpen((value) => !value)}>
         {open ? "Luk" : "Menu"}
       </button>

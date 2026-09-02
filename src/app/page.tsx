@@ -49,8 +49,13 @@ export default function Home() {
           <p>En enkel vejviser til rå mælk, solgt direkte fra danske producenter.</p>
         </section>
         <footer id="tilfoej" className="footer">
-          <div><span className="wordmark">Find Rå Mælk</span><p>En uafhængig oversigt over steder, der sælger rå mælk.</p></div>
-          <p>Bekræft altid oplysningerne direkte med producenten, før du tager afsted.</p>
+          <div><span className="wordmark">Find Rå Mælk</span><p>En uafhængig oversigt over steder, der sælger rå mælk.</p><p>Bekræft altid oplysningerne direkte med producenten, før du tager afsted.</p></div>
+          <div id="annoncering" className="advertising-contact">
+            <p className="eyebrow">Kontakt for annonceplads og andre henvendelser</p>
+            <strong>Christian Olsen</strong>
+            <a href="tel:+4560492050">60 49 20 50</a>
+            <a href="mailto:Christian@olsenvideo.dk">Christian@olsenvideo.dk</a>
+          </div>
           <p>© {new Date().getFullYear()}</p>
         </footer>
       </div>
