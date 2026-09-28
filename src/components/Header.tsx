@@ -14,8 +14,8 @@ export function Header() {
     <header className="site-header">
       <a className="wordmark" href="#top" aria-label="dingårdbutik, gå til toppen">dingårdbutik</a>
       <a className="advertising-slot" href="#annoncering" aria-label="Kontakt om ledig annonceplads">
-        <span>Annonceplads</span>
-        <strong>Din virksomhed her</strong>
+        <strong>Støt lokale gårdbutikker</strong>
+        <span>Annoncér her og hjælp flere med at finde dem.</span>
       </a>
       <button className="menu-button" type="button" aria-expanded={open} aria-controls="site-nav" onClick={() => setOpen((value) => !value)}>
         {open ? "Luk" : "Menu"}

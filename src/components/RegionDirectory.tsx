@@ -1,11 +1,10 @@
 "use client";
 
-import { useState } from "react";
 import { locations } from "@/data/locations";
 import { regions } from "@/data/regions";
 import type { MapPosition } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
-import { LocationItem } from "@/components/LocationItem";
+import { LocationSearch } from "@/components/LocationSearch";
 
 export function RegionDirectory({
   regionId,
@@ -16,7 +15,6 @@ export function RegionDirectory({
   onReset: () => void;
   onLocationSelect: (position: MapPosition | null) => void;
 }) {
-  const [expandedId, setExpandedId] = useState<string | null>(null);
   const region = regions.find((item) => item.id === regionId);
   const matches = locations.filter((location) => location.region === regionId).sort((a, b) => a.name.localeCompare(b.name, "da"));
   if (!region) return null;
@@ -28,21 +26,7 @@ export function RegionDirectory({
       <h1 id="directory-heading">{region.name}</h1>
       <p className="directory-count">{matches.length} {matches.length === 1 ? "registreret gårdbutik" : "registrerede gårdbutikker"}</p>
       <p className="directory-intro">{region.introduction}</p>
-      <div className="location-list">
-        {matches.length > 0 ? matches.map((location) => <LocationItem
-          key={location.id}
-          location={location}
-          expanded={expandedId === location.id}
-          onExpandedChange={(item, expanded) => {
-            setExpandedId(expanded ? item.id : null);
-            onLocationSelect(expanded ? item.mapPosition : null);
-          }}
-        />) : (
-          <div className="empty-state">
-            <p>Vi har endnu ikke registreret gårdbutikker i denne region.</p>
-          </div>
-        )}
-      </div>
+      <LocationSearch regionId={regionId} onLocationSelect={onLocationSelect} />
     </section>
   );
 }

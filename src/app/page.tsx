@@ -4,25 +4,28 @@ import { useState } from "react";
 import { DenmarkMap } from "@/components/DenmarkMap";
 import { Header } from "@/components/Header";
 import { RegionDirectory } from "@/components/RegionDirectory";
+import { LocationSearch } from "@/components/LocationSearch";
 import type { MapPosition } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
 
 export default function Home() {
   const [selectedRegion, setSelectedRegion] = useState<RegionId | null>(null);
   const [markerPosition, setMarkerPosition] = useState<MapPosition | null>(null);
+  const [searching, setSearching] = useState(false);
 
   return (
     <>
       <div id="top" className="page-frame">
         <Header />
-        <main id="find-gaardbutik" className="finder" data-selected={selectedRegion !== null}>
-          <div className="content-column" aria-live="polite">
+        <main id="find-gaardbutik" className="finder" data-selected={selectedRegion !== null} data-searching={searching}>
+          <div className="content-column">
             {selectedRegion ? <RegionDirectory
                 key={selectedRegion}
                 regionId={selectedRegion}
                 onReset={() => {
                   setSelectedRegion(null);
                   setMarkerPosition(null);
+                  setSearching(false);
                 }}
                 onLocationSelect={setMarkerPosition}
               /> : (
@@ -30,6 +33,7 @@ export default function Home() {
                 <p className="eyebrow">Direkte fra gården</p>
                 <h1 id="intro-heading"><span>Find din</span><span>gårdbutik</span><span>i Danmark.</span></h1>
                 <p>Find gårdbutikker, der sælger lokale varer direkte fra gården.</p>
+                <LocationSearch onLocationSelect={setMarkerPosition} onSearchChange={setSearching} />
                 <a className="intro-link" href="#kort">Vælg en region <span aria-hidden="true">↓</span></a>
               </section>
             )}
@@ -40,6 +44,7 @@ export default function Home() {
               markerPosition={markerPosition}
               onSelect={(region) => {
                 setSelectedRegion(region);
+                setSearching(false);
                 setMarkerPosition(null);
               }}
             />
