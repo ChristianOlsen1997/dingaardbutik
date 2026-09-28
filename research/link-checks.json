@@ -1,0 +1,368 @@
+[
+  {
+    "id": "baastrup-skovgaard",
+    "url": "https://baastrupskovgaard.dk/",
+    "resolved": "https://baastrupskovgaard.dk/",
+    "status": 200,
+    "title": "Båstrup Skovgård 100% Græsfodret"
+  },
+  {
+    "id": "dalsgaard",
+    "url": "https://dalsgaardilangballe.dk/",
+    "resolved": "https://dalsgaardilangballe.dk/",
+    "status": 200,
+    "title": "Dalsgaard i Langballe"
+  },
+  {
+    "id": "den-lille-bondegaard",
+    "url": "https://lillebondegaard.dk/",
+    "resolved": "https://lillebondegaard.dk/",
+    "status": 200,
+    "title": "Den lille Bondeg&aring;rd - Den lille Bondeg&aring;rd"
+  },
+  {
+    "id": "fjerland",
+    "url": "https://fjerland.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "fru-moellers",
+    "url": "https://frumollersmolleri.dk/",
+    "resolved": "https://frumollersmolleri.dk/",
+    "status": 200,
+    "title": "Velkommen - Fru Møllers Mølleri"
+  },
+  {
+    "id": "gartnergaarden",
+    "url": "https://www.ggaarhus.dk/",
+    "resolved": "https://www.ggaarhus.dk/",
+    "status": 200,
+    "title": "Gartnergården Djurs"
+  },
+  {
+    "id": "gothenborg",
+    "url": "https://gothenborg.dk/",
+    "resolved": "https://gothenborg.dk/",
+    "status": 200,
+    "title": "Gothenborg | Økologisk fjerkræ, brunch og selskabslokaler"
+  },
+  {
+    "id": "maansson",
+    "url": "https://www.maanssons.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "hedeagergaard",
+    "url": "https://hedeager.info/",
+    "resolved": "https://hedeager.info/",
+    "status": 200,
+    "title": "Hedeagergaard &#8211; Kød af højeste kvalitet produceret med omtanke &#8211; Økologiske og biodynamiske fødevarer af højeste kvalitet &#8211; skabt i pagt med naturen og med omtanke for miljø, trivsel og sundhed"
+  },
+  {
+    "id": "jysk-naturkoed",
+    "url": "https://www.jysknaturkoed.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "oekogaardene",
+    "url": "https://oekogaardene.dk/",
+    "resolved": "https://oekogaardene.dk/",
+    "status": 200,
+    "title": "Økogaardene - Økologisk kød fra egne dyr &ndash; Økogårdene"
+  },
+  {
+    "id": "noerregaarden",
+    "url": "https://www.norregaardens.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "baksminde",
+    "url": "https://baksminde.dk/",
+    "resolved": "https://baksminde.dk/",
+    "status": 200,
+    "title": "Home - Baksminde &Oslash;kog&aring;rden i Asaa"
+  },
+  {
+    "id": "madsens",
+    "url": "https://www.madsensgaardbutik.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "omfaun",
+    "url": "https://omfaun.dk/",
+    "resolved": "https://omfaun.dk/",
+    "status": 200,
+    "title": "Omfaun Landbrug | Regenerativt landbrug nær Aalborg &amp; Dronninglund"
+  },
+  {
+    "id": "raevhede",
+    "url": "https://raevhedecharcuteri.dk/",
+    "resolved": "https://raevhedecharcuteri.dk/",
+    "status": 200,
+    "title": "Rævhede Charcuteri &#8211; Respekt for råvarerne. Respekt for håndværket"
+  },
+  {
+    "id": "rosenbeck",
+    "url": "https://frilandskoed.dk/",
+    "resolved": "https://frilandskoed.dk/",
+    "status": 200,
+    "title": "Kød til døren | Køb kød online fra Slagter Rosenbeck her"
+  },
+  {
+    "id": "dreyers",
+    "url": "https://xn--dreyersgrdbutik-olb.dk/",
+    "resolved": "https://xn--dreyersgrdbutik-olb.dk/",
+    "status": 200,
+    "title": "Gårdbutik på Fyn &#183; Stort udvalg &#183; Dreyers Gårdbutik"
+  },
+  {
+    "id": "holmelund",
+    "url": "https://holmelund-ko.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "hoekildegaard",
+    "url": "https://hoekildegaard.dk/",
+    "resolved": "https://hoekildegaard.dk/",
+    "status": 200,
+    "title": "Høkildegård Landhandel - gårdbutik med godt kød"
+  },
+  {
+    "id": "palleshavegaard",
+    "url": "https://palleshavegaard.dk/",
+    "resolved": "https://palleshavegaard.dk/",
+    "status": 200,
+    "title": "Velkommen til Palleshavegaard | Palleshavegaard"
+  },
+  {
+    "id": "steensgaard",
+    "url": "https://steensgaard.dk/",
+    "resolved": "https://steensgaard.dk/",
+    "status": 200,
+    "title": "Forside | Steensgaard"
+  },
+  {
+    "id": "verningelund",
+    "url": "https://verningelund.dk/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+  },
+  {
+    "id": "abildskaer",
+    "url": "https://abildskaergaard.dk/",
+    "resolved": "https://abildskaergaard.dk/",
+    "status": 200,
+    "title": "&Oslash;kologisk g&aring;rdbutik i R&oslash;dding n&aelig;r Gram, Ribe &amp; Vejen | Bes&oslash;g os!"
+  },
+  {
+    "id": "fiskbaek",
+    "url": "https://gl.dk/fiskbaek-gaardbutik/",
+    "resolved": "https://gl.dk/fiskbaek-gaardbutik/",
+    "status": 200,
+    "title": "Fiskbæk Gårdbutik - Gråsten Landbrugsskole"
+  },
+  {
+    "id": "gram-slot",
+    "url": "https://www.gramslot.dk/",
+    "resolved": "https://www.gramslot.dk/",
+    "status": 200,
+    "title": "Gram Slot | Hold festen her | Møder &amp; konferencer  | Gastronomisk håndværk"
+  },
+  {
+    "id": "koed-og-ko",
+    "url": "https://www.koedogko.dk/",
+    "resolved": "https://www.koedogko.dk/",
+    "status": 200,
+    "title": "Kød &amp; Ko | Lokalt og bæredygtigt kvalitetskød"
+  },
+  {
+    "id": "varde-aadal",
+    "url": "https://www.vardeaadallam.dk/",
+    "resolved": "https://www.vardeaadallam.dk/",
+    "status": 200,
+    "title": "Varde Ådal Lam – Familiedrevet økologisk landbrug"
+  },
+  {
+    "id": "aarstiderne",
+    "url": "https://kundeservice.aarstiderne.com/da/articles/3919-vores-cafe-og-gardbutik-pa-krogerup-i-humlebaek",
+    "resolved": "https://kundeservice.aarstiderne.com/da/articles/3919-vores-cafe-og-gardbutik-pa-krogerup-i-humlebaek",
+    "status": 200,
+    "title": "Vores café og gårdbutik på Krogerup i Humlebæk"
+  },
+  {
+    "id": "bondegaarden",
+    "url": "https://bondegaarden.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "dyssegaarden",
+    "url": "https://www.dyssegaarden.com/",
+    "resolved": "https://www.dyssegaarden.com/",
+    "status": 200,
+    "title": "Juletræer &amp; Juletræsplantage | En Familietradition | Dyssegaarden"
+  },
+  {
+    "id": "grennessminde",
+    "url": "https://gminde.dk/",
+    "resolved": "https://gminde.dk/",
+    "status": 200,
+    "title": "Grennessminde - Botilbud, stu &amp; øko. besøgsgård med café"
+  },
+  {
+    "id": "hoejgaard",
+    "url": "https://hojgaard-hereford.dk/",
+    "resolved": "https://hojgaard-hereford.dk/",
+    "status": 200,
+    "title": "Salg af Hereford kød i Gadstrup, Roskilde | Tlf. 3031 2145"
+  },
+  {
+    "id": "stensboelgaard",
+    "url": "https://stensbolgaard.dk/",
+    "error": "HTTP Error 455: "
+  },
+  {
+    "id": "toftegaarden",
+    "url": "https://toftegaarden.albertslund.dk/toftegaarden",
+    "resolved": "https://toftegaarden.albertslund.dk/toftegaarden",
+    "status": 200,
+    "title": "Tofteg&#xE5;rden | Tofteg&#xE5;rden"
+  },
+  {
+    "id": "oellingegaard",
+    "url": "https://www.oellingegaard.dk/",
+    "resolved": "https://www.oellingegaard.dk/",
+    "status": 200,
+    "title": "øllingegaard.dk &#8211; Øllingegaards webside"
+  },
+  {
+    "id": "fjand",
+    "url": "https://fjand-gaardbutik.dk/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "fru-hansens",
+    "url": "https://fru.dk/",
+    "resolved": "https://fru.dk/",
+    "status": 200,
+    "title": "Fru Hansens Butik &amp; Café"
+  },
+  {
+    "id": "tinnetgaard",
+    "url": "https://www.tinnetgaard.dk/",
+    "resolved": "https://tinnetgaard.dk/",
+    "status": 200,
+    "title": "Tinnetgaard Bo- og Erhvervsskole | STU &amp; Botilbud 2026"
+  },
+  {
+    "id": "lophave",
+    "url": "https://lophave.dk/",
+    "resolved": "https://lophave.dk/",
+    "status": 200,
+    "title": "Lophave Hereford"
+  },
+  {
+    "id": "kraghoejgaard",
+    "url": "https://kraghojgaardbutik.dk/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kraghojgaardbutik.dk'. (_ssl.c:1010)>"
+  },
+  {
+    "id": "kokaergaard",
+    "url": "https://kokaergaard.dk/",
+    "resolved": "https://kokaergaard.dk/",
+    "status": 200,
+    "title": "Hjem - Kokærgård"
+  },
+  {
+    "id": "solskin",
+    "url": "https://solskin.biz/",
+    "resolved": "https://solskin.biz/",
+    "status": 200,
+    "title": "Økologiske grøntsager og kød fra Solskin i Taps"
+  },
+  {
+    "id": "babberup",
+    "url": "https://www.babberup.dk/",
+    "resolved": "https://www.facebook.com/babberupkoed",
+    "status": 200,
+    "title": "Babberup Gammelgaard - Gårdbutik | Babberup"
+  },
+  {
+    "id": "stengaarden",
+    "url": "https://stengaardenoko.dk/",
+    "resolved": "https://stengaardenoko.dk/",
+    "status": 200,
+    "title": "Stengårdens Gårdbutik"
+  },
+  {
+    "id": "lammehave",
+    "url": "https://www.lammehaveoekologi.dk/",
+    "resolved": "https://www.lammehaveoekologi.dk/",
+    "status": 200,
+    "title": "Hjem | Lammehave"
+  },
+  {
+    "id": "tothaven",
+    "url": "https://tothaven.dk/",
+    "resolved": "https://tothaven.dk/",
+    "status": 200,
+    "title": "Tothaven - Tothaven"
+  },
+  {
+    "id": "lindhoej",
+    "url": "https://lindhoejs-dexter.dk/",
+    "resolved": "https://lindhoejs-dexter.dk/",
+    "status": 200,
+    "title": "Lindhøjs Dexter - lækker og lokalt oksekød"
+  },
+  {
+    "id": "birkemosegaard",
+    "url": "https://www.birkemosegaard.dk/",
+    "resolved": "https://birkemosegaard.dk/",
+    "status": 200,
+    "title": "Birkemosegaard"
+  },
+  {
+    "id": "oekoladen",
+    "url": "https://www.okoladen.dk/",
+    "resolved": "https://www.okoladen.dk/",
+    "status": 200,
+    "title": "Økoladen"
+  },
+  {
+    "id": "moellehoej",
+    "url": "https://www.xn--mllehj-byae.dk/",
+    "resolved": "https://www.xn--mllehj-byae.dk/",
+    "status": 200,
+    "title": "Gårdbutik | Møllehøj | Danmark"
+  },
+  {
+    "id": "lindegaarden",
+    "url": "https://www.lindegaardens.dk/",
+    "resolved": "https://lindegaardens.dk/",
+    "status": 200,
+    "title": "Lindegården Gårdbutik - Dyrket med rødder i den sønderjyske muld"
+  },
+  {
+    "id": "vester-krogsgaard",
+    "url": "https://www.vesterkrogsgaard.dk/",
+    "resolved": "https://www.vesterkrogsgaard.dk/",
+    "status": 200,
+    "title": "Home | Vester Krogsgaard"
+  },
+  {
+    "id": "dalhoejgaard",
+    "url": "https://www.dalhojgaard.dk/",
+    "resolved": "https://www.dalhojgaard.dk/",
+    "status": 200,
+    "title": "Hosted By One.com | Webhosting made simple"
+  },
+  {
+    "id": "sommergroent",
+    "url": "https://www.sommergroent.dk/",
+    "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+  },
+  {
+    "id": "alsoe",
+    "url": "https://www.godtkoed.dk/",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  }
+]

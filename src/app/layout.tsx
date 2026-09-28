@@ -7,10 +7,10 @@ const sans = DM_Sans({ subsets: ["latin"], variable: "--font-sans" });
 const display = Fraunces({ subsets: ["latin"], variable: "--font-display" });
 
 export const metadata: Metadata = {
-  title: "Find Rå Mælk — direkte fra gården",
-  description: "Find gårde og producenter, der sælger rå mælk direkte til forbrugere i Danmark.",
+  title: "dingårdbutik — direkte fra gården",
+  description: "Find gårdbutikker og lokale varer direkte fra gården i Danmark.",
   icons: {
-    icon: "/isolated-milk-bottle-with-copy-space.png",
+    icon: "/gaardbutik.svg",
   },
 };
 

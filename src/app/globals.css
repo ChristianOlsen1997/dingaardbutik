@@ -25,7 +25,7 @@ button, a { -webkit-tap-highlight-color:transparent; }
 .content-column > * { width:100%; animation:content-in 420ms ease both; }
 .eyebrow { margin:0 0 20px; font-size:.7rem; font-weight:750; letter-spacing:.18em; text-transform:uppercase; }
 .introduction h1, .directory h1 { margin:0; font-family:var(--font-display), serif; font-weight:570; letter-spacing:-.045em; line-height:.92; }
-.introduction h1 { font-size:clamp(3.3rem, 5.4vw, 6.4rem); text-transform:uppercase; max-width:680px; }
+.introduction h1 { font-size:clamp(2.4rem, 4vw, 4.7rem); text-transform:uppercase; max-width:680px; }
 .introduction h1 > span { display:block; white-space:nowrap; }
 .introduction h1 .heading-i { display:inline; margin-left:.34em; }
 .introduction > p:not(.eyebrow) { max-width:440px; margin:30px 0 0; font-size:clamp(1rem, 1.25vw, 1.22rem); line-height:1.65; }
@@ -84,6 +84,13 @@ button, a { -webkit-tap-highlight-color:transparent; }
 @keyframes content-in { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:none; } }
 @keyframes advertising-glow { 0%, 100% { background-color:rgb(255 255 255 / .18); border-color:color-mix(in srgb, var(--forest) 38%, transparent); } 50% { background-color:rgb(44 165 87 / .12); border-color:color-mix(in srgb, var(--green) 72%, transparent); } }
 
+.map-shell[data-has-selection="true"] .denmark-map .region { transform:none; }
+
+@media (min-width: 801px) {
+  .finder[data-selected="true"] .map-column { align-items:flex-start; }
+  .finder[data-selected="true"] .map-shell { position:sticky; top:24px; min-height:0; height:min(85svh, 730px); }
+}
+
 @media (max-width: 800px) {
   .page-frame { padding:0 20px; }
   .site-header { min-height:0; grid-template-columns:1fr auto; grid-template-areas:"brand menu" "advert advert"; row-gap:13px; padding:16px 0; }
@@ -98,7 +105,7 @@ button, a { -webkit-tap-highlight-color:transparent; }
   .map-column { min-height:0; padding:0; order:2; }
   .map-shell { height:min(74svh, 590px); min-height:450px; }
   .map-instruction { top:12px; left:0; }
-  .introduction h1 { font-size:clamp(3rem, 14vw, 5rem); }
+  .introduction h1 { font-size:clamp(2rem, 10vw, 5rem); }
   .introduction > p:not(.eyebrow) { margin-top:24px; }
   .intro-link { margin-top:28px; }
   .finder[data-selected="true"] .content-column { order:3; padding-top:26px; padding-bottom:55px; }

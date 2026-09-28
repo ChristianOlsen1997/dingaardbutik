@@ -3,7 +3,7 @@
 import { useState } from "react";
 
 const links = [
-  { label: "Find mælk", href: "#find-maelk" },
+  { label: "Find gårdbutik", href: "#find-gaardbutik" },
   { label: "Om", href: "#om" },
 ];
 
@@ -12,7 +12,7 @@ export function Header() {
 
   return (
     <header className="site-header">
-      <a className="wordmark" href="#top" aria-label="Find Rå Mælk, gå til toppen">Find Rå Mælk</a>
+      <a className="wordmark" href="#top" aria-label="dingårdbutik, gå til toppen">dingårdbutik</a>
       <a className="advertising-slot" href="#annoncering" aria-label="Kontakt om ledig annonceplads">
         <span>Annonceplads</span>
         <strong>Din virksomhed her</strong>

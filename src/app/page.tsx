@@ -15,9 +15,10 @@ export default function Home() {
     <>
       <div id="top" className="page-frame">
         <Header />
-        <main id="find-maelk" className="finder" data-selected={selectedRegion !== null}>
+        <main id="find-gaardbutik" className="finder" data-selected={selectedRegion !== null}>
           <div className="content-column" aria-live="polite">
             {selectedRegion ? <RegionDirectory
+                key={selectedRegion}
                 regionId={selectedRegion}
                 onReset={() => {
                   setSelectedRegion(null);
@@ -27,8 +28,8 @@ export default function Home() {
               /> : (
               <section className="introduction" aria-labelledby="intro-heading">
                 <p className="eyebrow">Direkte fra gården</p>
-                <h1 id="intro-heading"><span>Find r&aring;</span><span>M&aelig;lk<span className="heading-i">i</span></span><span>Danmark.</span></h1>
-                <p>Find gårde og producenter, der sælger rå mælk direkte til forbrugere.</p>
+                <h1 id="intro-heading"><span>Find din</span><span>gårdbutik</span><span>i Danmark.</span></h1>
+                <p>Find gårdbutikker, der sælger lokale varer direkte fra gården.</p>
                 <a className="intro-link" href="#kort">Vælg en region <span aria-hidden="true">↓</span></a>
               </section>
             )}
@@ -46,10 +47,10 @@ export default function Home() {
         </main>
         <section id="om" className="about-strip">
           <p className="eyebrow">Om oversigten</p>
-          <p>En enkel vejviser til rå mælk, solgt direkte fra danske producenter.</p>
+          <p>En enkel vejviser til danske gårdbutikker og lokale varer direkte fra gården.</p>
         </section>
         <footer id="tilfoej" className="footer">
-          <div><span className="wordmark">Find Rå Mælk</span><p>En uafhængig oversigt over steder, der sælger rå mælk.</p><p>Bekræft altid oplysningerne direkte med producenten, før du tager afsted.</p></div>
+          <div><span className="wordmark">dingårdbutik</span><p>En uafhængig oversigt over gårdbutikker i Danmark.</p><p>Bekræft altid oplysningerne direkte med gårdbutikken, før du tager afsted.</p></div>
           <div id="annoncering" className="advertising-contact">
             <p className="eyebrow">Kontakt for annonceplads og andre henvendelser</p>
             <strong>Christian Olsen</strong>

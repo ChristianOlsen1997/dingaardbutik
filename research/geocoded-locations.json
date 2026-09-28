@@ -1,0 +1,546 @@
+[
+  {
+    "id": "baastrup-skovgaard",
+    "address": "Båstrupvej 8, 8660 Skanderborg",
+    "longitude": 9.95036707,
+    "latitude": 55.99266269,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c2-23f3-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "dalsgaard",
+    "address": "Langballevej 117, 8320 Mårslet",
+    "longitude": 10.20424694,
+    "latitude": 56.07552908,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c3-7ae4-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "den-lille-bondegaard",
+    "address": "Koldingvej 613, Tiufkær, 7100 Vejle",
+    "longitude": 9.49672944,
+    "latitude": 55.63694185,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-592c-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fjerland",
+    "address": "Bjerringholmvej 10, 8800 Viborg",
+    "longitude": 9.46578061,
+    "latitude": 56.47446111,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-51f1-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fru-moellers",
+    "address": "Bjeragervej 35, Bjerager, 8300 Odder",
+    "longitude": 10.20474782,
+    "latitude": 55.95935017,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c0-954d-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "gartnergaarden",
+    "address": "Randersvej 5, Korslund, 8410 Rønde",
+    "longitude": 10.42562587,
+    "latitude": 56.3158582,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c1-9d94-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "gothenborg",
+    "address": "Gothenborgvej 3, 8653 Them",
+    "longitude": 9.53926727,
+    "latitude": 56.10087208,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c2-5969-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "maansson",
+    "address": "Grarupvej 15A, 7330 Brande",
+    "longitude": 9.17820459,
+    "latitude": 55.94225674,
+    "source": "https://api.dataforsyningen.dk/adresser/40eb1f85-a182-4581-e044-0003ba298018",
+    "approximate": true
+  },
+  {
+    "id": "hedeagergaard",
+    "address": "Lynevej 9, 6870 Ølgod",
+    "longitude": 8.57747085,
+    "latitude": 55.79780109,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-2fce-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "jysk-naturkoed",
+    "address": "Ole Rømers Vej 32, 8670 Låsby",
+    "longitude": 9.81721315,
+    "latitude": 56.15609875,
+    "source": "https://api.dataforsyningen.dk/adresser/7f3f61c1-2671-4c80-bc28-87b09df82bf1",
+    "approximate": true
+  },
+  {
+    "id": "oekogaardene",
+    "address": "Gåsdalvej 36, Borris, 6900 Skjern",
+    "longitude": 8.7058805,
+    "latitude": 55.98327739,
+    "source": "https://api.dataforsyningen.dk/adresser/6243a482-0b57-573d-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "noerregaarden",
+    "address": "Stengårdsvej 27, Brårup, 9670 Løgstør",
+    "longitude": 9.37473101,
+    "latitude": 56.93462352,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c8-9120-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "baksminde",
+    "address": "Skelgårdsvej 77A, 9340 Asaa",
+    "longitude": 10.39346002,
+    "latitude": 57.15688695,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c7-14a5-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "madsens",
+    "address": "Rævebakken 2, Nr Onsild, 9500 Hobro",
+    "longitude": 9.77619481,
+    "latitude": 56.60183819,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c8-6b38-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "omfaun",
+    "address": "Slotsgade 8, 9330 Dronninglund",
+    "longitude": 10.26155701,
+    "latitude": 57.15509139,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c7-15bb-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "raevhede",
+    "address": "Sandmosevej 84, Birkelse, 9440 Aabybro",
+    "longitude": 9.68360652,
+    "latitude": 57.16817225,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c9-a80f-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "rosenbeck",
+    "address": "Bolleskovvej 7, 9330 Dronninglund",
+    "longitude": 10.31460855,
+    "latitude": 57.12277671,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c7-052e-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "dreyers",
+    "address": "Bindekildevej 93, Brændekilde, 5250 Odense SV",
+    "longitude": 10.27656196,
+    "latitude": 55.33865813,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b3-9556-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "holmelund",
+    "address": "Gestelevlundevej 31, Nybølle, 5750 Ringe",
+    "longitude": 10.3931663,
+    "latitude": 55.21671359,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b5-2e59-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "hoekildegaard",
+    "address": "Åmarksvej 46A, 5762 Vester Skerninge",
+    "longitude": 10.46393058,
+    "latitude": 55.05282788,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b2-836d-32b8-e044-0003ba298018",
+    "approximate": true
+  },
+  {
+    "id": "palleshavegaard",
+    "address": "Palleshavevej 14, Palleshave, 5750 Ringe",
+    "longitude": 10.41267959,
+    "latitude": 55.2500339,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b5-3648-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "steensgaard",
+    "address": "Steensgaard 7, 5642 Millinge",
+    "longitude": 10.18332609,
+    "latitude": 55.14114199,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b2-b6a9-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "verningelund",
+    "address": "Odensevej 46, Verninge, 5690 Tommerup",
+    "longitude": 10.23032595,
+    "latitude": 55.29700394,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b5-e2e3-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "abildskaer",
+    "address": "Abildskærvej 2, Harreby, 6630 Rødding",
+    "longitude": 8.91952997,
+    "latitude": 55.33198795,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b7-3c23-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fiskbaek",
+    "address": "Fiskbækvej 15, 6300 Gråsten",
+    "longitude": 9.60173661,
+    "latitude": 54.93908593,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b6-9789-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "gram-slot",
+    "address": "Slotsvej 56, 6510 Gram",
+    "longitude": 9.05975787,
+    "latitude": 55.29694742,
+    "source": "https://api.dataforsyningen.dk/adresser/674c47dc-1cad-43d9-aafa-dd80d014d0c5",
+    "approximate": false
+  },
+  {
+    "id": "koed-og-ko",
+    "address": "Nydamvej 24, Øster Sottrup, 6400 Sønderborg",
+    "longitude": 9.71733231,
+    "latitude": 54.95114083,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b7-80c5-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "varde-aadal",
+    "address": "Toftnæsvej 30, Alslev, 6800 Varde",
+    "longitude": 8.42547047,
+    "latitude": 55.59841107,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-0011-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "aarstiderne",
+    "address": "Krogerupvej 3C, 3050 Humlebæk",
+    "longitude": 12.5351565,
+    "latitude": 55.97272567,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50a8-34b8-32b8-e044-0003ba298018",
+    "approximate": true
+  },
+  {
+    "id": "bondegaarden",
+    "address": "Engtoften 14, Østrup, 3670 Veksø Sjælland",
+    "longitude": 12.20126283,
+    "latitude": 55.72842922,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ab-327d-32b8-e044-0003ba298018",
+    "approximate": true
+  },
+  {
+    "id": "dyssegaarden",
+    "address": "Frederiksborgvej 570, Gundsømagle, 4000 Roskilde",
+    "longitude": 12.13466619,
+    "latitude": 55.74323021,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ab-33c0-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "grennessminde",
+    "address": "Snubbekorsvej 16, Klovtofte, 2630 Taastrup",
+    "longitude": 12.28981396,
+    "latitude": 55.66672944,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50a5-e396-32b8-e044-0003ba298018",
+    "approximate": true
+  },
+  {
+    "id": "hoejgaard",
+    "address": "Køgevej 226, 4621 Gadstrup",
+    "longitude": 12.12600888,
+    "latitude": 55.56504353,
+    "source": "https://api.dataforsyningen.dk/adresser/22729a66-9faf-44d0-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "stensboelgaard",
+    "address": "Smedevej 18, Kyndeløse, 4070 Kirke Hyllinge",
+    "longitude": 11.87099863,
+    "latitude": 55.71045705,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50aa-d7ba-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "ryttergaarden",
+    "address": "Kirkerupvej 30, Kirkerup, 4000 Roskilde",
+    "longitude": 12.1818435,
+    "latitude": 55.72095735,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ab-39a5-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "toftegaarden",
+    "address": "Vridsløsestræde 29, 2620 Albertslund",
+    "longitude": 12.33092941,
+    "latitude": 55.65905766,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50a5-3c47-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "oellingegaard",
+    "address": "Borupvej 69, Borup, 3320 Skævinge",
+    "longitude": 12.18818798,
+    "latitude": 55.89995227,
+    "source": "https://api.dataforsyningen.dk/adresser/093088cf-4140-4ea5-b389-a935adf04fff",
+    "approximate": false
+  },
+  {
+    "id": "fjand",
+    "address": "Sdr Fjandvej 1, Fjand, 6990 Ulfborg",
+    "longitude": 8.14630647,
+    "latitude": 56.31837395,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50bf-22e2-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fru-hansens",
+    "address": "Ebeltoftvej 5, Drastrup, 8960 Randers SØ",
+    "longitude": 10.18264921,
+    "latitude": 56.43855972,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c2-48b7-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "tinnetgaard",
+    "address": "Hammervej 28, Tinnet, 7173 Vonge",
+    "longitude": 9.40148752,
+    "latitude": 55.89854491,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-fee7-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "lophave",
+    "address": "Lophavevej 49, Vennebjerg, 9800 Hjørring",
+    "longitude": 9.81582406,
+    "latitude": 57.45636222,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c8-2afd-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "kraghoejgaard",
+    "address": "Trapsandevej 17, Sjørring, 7700 Thisted",
+    "longitude": 8.55259132,
+    "latitude": 56.97365223,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-3568-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "naturbruget-tranum",
+    "address": "Ejstrupvej 12, Tranum, 9460 Brovst",
+    "longitude": 9.44815149,
+    "latitude": 57.13043243,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-cbb7-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "oesterlund",
+    "address": "Sortemosevej 7, Lakkendrup, 5892 Gudbjerg Sydfyn",
+    "longitude": 10.66091675,
+    "latitude": 55.13406734,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b2-d7cf-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "kokaergaard",
+    "address": "Kokærvej 90, 6070 Christiansfeld",
+    "longitude": 9.46517851,
+    "latitude": 55.31904544,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b6-7b4e-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "solskin",
+    "address": "Ødisvej 45, Taps, 6070 Christiansfeld",
+    "longitude": 9.4721667,
+    "latitude": 55.39110066,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b6-8692-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "babberup",
+    "address": "Høsten Teglværksvej 80, Babberup, 4690 Haslev",
+    "longitude": 12.04385536,
+    "latitude": 55.31284286,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-2c61-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "stengaarden",
+    "address": "Høveltevej 40, 3460 Birkerød",
+    "longitude": 12.37844231,
+    "latitude": 55.83852113,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50a8-11f7-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "lammehave",
+    "address": "Eriksdalsvej 24, Horbelev, 4871 Horbelev",
+    "longitude": 12.037918,
+    "latitude": 54.82164141,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-600a-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "engmosegaard",
+    "address": "Sverkilstrup Byvej 8, 3390 Hundested",
+    "longitude": 11.94043977,
+    "latitude": 55.97259459,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50a9-fb88-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "tothaven",
+    "address": "Torupvejen 2, 3390 Hundested",
+    "longitude": 11.88179814,
+    "latitude": 55.97409789,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50a9-fd00-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "lindhoej",
+    "address": "Lindhøjvej 2, Hjelm, 4990 Sakskøbing",
+    "longitude": 11.76918357,
+    "latitude": 54.80898221,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-3c9e-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "saxenhoej",
+    "address": "Kalkbrænderivej 17, 4990 Sakskøbing",
+    "longitude": 11.6231638,
+    "latitude": 54.80381529,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-3aeb-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "birkemosegaard",
+    "address": "Oddenvej 165, Overby, 4583 Sjællands Odde",
+    "longitude": 11.38672011,
+    "latitude": 55.96113303,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50af-4162-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "oekoladen",
+    "address": "Nørbæk 15, Højmark, 6950 Ringkøbing",
+    "longitude": 8.35879381,
+    "latitude": 56.06575478,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50be-a2b6-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "moellehoej",
+    "address": "Brunhøjvej 6, Søsum, 3670 Veksø Sjælland",
+    "longitude": 12.23447231,
+    "latitude": 55.77585905,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50aa-9a11-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "lindegaarden",
+    "address": "Hajstrupgade 31, Øsby, 6100 Haderslev",
+    "longitude": 9.66839439,
+    "latitude": 55.25517975,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b6-ba31-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "vester-krogsgaard",
+    "address": "Stenbjergvej 44, Nørhå, 7752 Snedsted",
+    "longitude": 8.45897743,
+    "latitude": 56.89739663,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-2fa6-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "horstmann",
+    "address": "Slagelsevej 91, 4180 Sorø",
+    "longitude": 11.53751042,
+    "latitude": 55.44407905,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ae-e892-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "vestkystens",
+    "address": "Houvig Klitvej 77, Houvig, 6950 Ringkøbing",
+    "longitude": 8.12345172,
+    "latitude": 56.1605612,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50bd-ca15-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "dalhoejgaard",
+    "address": "Nykøbingvej 277, Radsted, 4990 Sakskøbing",
+    "longitude": 11.70897779,
+    "latitude": 54.78171348,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-3fa2-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "sommergroent",
+    "address": "Ravngårdsvej 27, 8370 Hadsten",
+    "longitude": 10.03609052,
+    "latitude": 56.304125,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50bf-f814-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "alsoe",
+    "address": "Godstedvej 8, 4894 Øster Ulslev",
+    "longitude": 11.61531725,
+    "latitude": 54.72123347,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b0-59c0-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "diddesminde",
+    "address": "Errested Kirkevej 20, Bjerning, 6100 Haderslev",
+    "longitude": 9.50738544,
+    "latitude": 55.29475232,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b6-75cd-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "den-glade-bondemand",
+    "address": "Stavadvej 351, 9700 Brønderslev",
+    "longitude": 9.76096056,
+    "latitude": 57.24959809,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-fa3e-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "hvolbaekgaard",
+    "address": "Ellelausvej 37, Hvolbæk, 8660 Skanderborg",
+    "longitude": 10.00598947,
+    "latitude": 56.01838475,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c2-269a-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "det-var-soerens",
+    "address": "Sennels Hede 1, Sennels, 7700 Thisted",
+    "longitude": 8.82727788,
+    "latitude": 56.98498452,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-2a23-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "bakkemosegaard",
+    "address": "Ravnsborgvej 31, 4943 Torrig L",
+    "longitude": 11.35252206,
+    "latitude": 54.89274801,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b0-fc5d-32b8-e044-0003ba298018",
+    "approximate": false
+  }
+]

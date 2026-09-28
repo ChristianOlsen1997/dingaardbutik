@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import { locations } from "@/data/locations";
 import { regions } from "@/data/regions";
 import type { MapPosition } from "@/types/locations";
@@ -13,8 +16,9 @@ export function RegionDirectory({
   onReset: () => void;
   onLocationSelect: (position: MapPosition | null) => void;
 }) {
+  const [expandedId, setExpandedId] = useState<string | null>(null);
   const region = regions.find((item) => item.id === regionId);
-  const matches = locations.filter((location) => location.region === regionId);
+  const matches = locations.filter((location) => location.region === regionId).sort((a, b) => a.name.localeCompare(b.name, "da"));
   if (!region) return null;
 
   return (
@@ -22,16 +26,20 @@ export function RegionDirectory({
       <button className="back-button" type="button" onClick={onReset}><span aria-hidden="true">←</span> Hele Danmark</button>
       <p className="eyebrow">Region</p>
       <h1 id="directory-heading">{region.name}</h1>
-      <p className="directory-count">{matches.length} {matches.length === 1 ? "registreret sted" : "registrerede steder"}</p>
+      <p className="directory-count">{matches.length} {matches.length === 1 ? "registreret gårdbutik" : "registrerede gårdbutikker"}</p>
       <p className="directory-intro">{region.introduction}</p>
       <div className="location-list">
         {matches.length > 0 ? matches.map((location) => <LocationItem
           key={location.id}
           location={location}
-          onExpandedChange={(item, expanded) => onLocationSelect(expanded ? item.mapPosition : null)}
+          expanded={expandedId === location.id}
+          onExpandedChange={(item, expanded) => {
+            setExpandedId(expanded ? item.id : null);
+            onLocationSelect(expanded ? item.mapPosition : null);
+          }}
         />) : (
           <div className="empty-state">
-            <p>Vi har endnu ikke registreret steder i denne region.</p>
+            <p>Vi har endnu ikke registreret gårdbutikker i denne region.</p>
           </div>
         )}
       </div>
