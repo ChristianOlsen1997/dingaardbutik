@@ -9,9 +9,6 @@ const display = Fraunces({ subsets: ["latin"], variable: "--font-display" });
 export const metadata: Metadata = {
   title: "dingårdbutik — direkte fra gården",
   description: "Find gårdbutikker og lokale varer direkte fra gården i Danmark.",
-  icons: {
-    icon: "/gaardbutik.svg",
-  },
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
