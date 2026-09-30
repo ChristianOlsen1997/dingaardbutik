@@ -4,6 +4,7 @@
 .region-links a { text-decoration:underline; text-underline-offset:4px; }
 .region-links a[aria-current="page"] { font-weight:700; }
 .region-page { max-width:900px; margin:48px auto 64px; }
+.region-page > .back-button { display:inline-block; margin-bottom:28px; }
 .region-page h1 { font-family:var(--font-display),serif; font-size:clamp(2.3rem,5vw,4rem); line-height:1.12; margin:24px 0; }
 .region-intro { font-size:1.15rem; line-height:1.65; }
 .region-list { margin-top:40px; }
