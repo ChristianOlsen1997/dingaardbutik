@@ -1014,5 +1014,421 @@ export const locations: Location[] = [
     "description": "Græsfodret oksekød fra gården i Ravnsby.",
     "phone": "40595185",
     "website": "https://www.facebook.com/Bakkemosegaard"
+  },
+  {
+    "id": "moen-is",
+    "name": "Møn Is",
+    "region": "sjaelland",
+    "address": "Hovgårdsvej 4",
+    "postalCode": "4780",
+    "city": "Stege",
+    "mapPosition": {
+      "x": 596.1,
+      "y": 684.1
+    },
+    "description": "Ismejeri og gårdbutik på Møn med is fra gårdens egen mælk, frisk mælk og lokale specialiteter.",
+    "phone": "23263819",
+    "website": "https://www.moen-is.dk/"
+  },
+  {
+    "id": "gartneriet-roedmose",
+    "name": "Gartneriet Rødmose",
+    "region": "syddanmark",
+    "address": "Rødmosevej 131",
+    "postalCode": "6052",
+    "city": "Viuf",
+    "mapPosition": {
+      "x": 227.0,
+      "y": 534.9
+    },
+    "description": "Biodynamiske og økologiske grøntsager og frugt. Vejbod ved gartneriet i Tiufkær samt torvesalg.",
+    "phone": "51242207",
+    "website": "https://www.roedmose.dk/"
+  },
+  {
+    "id": "bodebjergvej-42",
+    "name": "Gårdbutikken Bodebjergvej 42",
+    "region": "syddanmark",
+    "address": "Bodebjergvej 42",
+    "postalCode": "5620",
+    "city": "Glamsbjerg",
+    "mapPosition": {
+      "x": 304.0,
+      "y": 620.4
+    },
+    "description": "Økologisk oksekød og lammekød fra gårdens egne dyr samt most, marmelade og lokale specialiteter på Vestfyn.",
+    "phone": "28737733",
+    "website": "https://www.bodebjergvej.dk/"
+  },
+  {
+    "id": "toftegaards-oerbaek",
+    "name": "Toftegaards Gårdbutik",
+    "region": "syddanmark",
+    "address": "Glorupvej 16",
+    "postalCode": "5853",
+    "city": "Ørbæk",
+    "mapPosition": {
+      "x": 379.9,
+      "y": 628.8
+    },
+    "description": "Græsfodret oksekød fra naturplejekvæg på Fyn. Udskæringer, kødpakker og spegepølser; bestilling og levering efter aftale.",
+    "phone": "20775349",
+    "website": "https://toftegaards-gaardbutik.dk/"
+  },
+  {
+    "id": "stald-kaersgaard",
+    "name": "Stald Kærsgård",
+    "region": "syddanmark",
+    "address": "Søbyvej 3",
+    "postalCode": "5700",
+    "city": "Svendborg",
+    "mapPosition": {
+      "x": 363.9,
+      "y": 683.5
+    },
+    "description": "Gårdbutik på Tåsinge med okse- og kalvekød fra Herefordkvæg, lammekød, honning, most og garn.",
+    "phone": "22897362",
+    "website": "https://www.facebook.com/staldkaersgaard/"
+  },
+  {
+    "id": "fuglhoejgaard",
+    "name": "Fuglhøjgaard",
+    "region": "syddanmark",
+    "address": "Vork Skolevej 6",
+    "postalCode": "6040",
+    "city": "Egtved",
+    "mapPosition": {
+      "x": 204.1,
+      "y": 531.0
+    },
+    "description": "Kød fra gårdens frilandsgrise samt pølser og pålæg. Bestil i webshoppen og se mulighederne for afhentning og levering.",
+    "phone": "28707910",
+    "website": "https://www.fuglhojgaard.dk/"
+  },
+  {
+    "id": "fuglsanggaard",
+    "name": "Fuglsanggaard",
+    "region": "sjaelland",
+    "address": "Fuglsangvej 13",
+    "postalCode": "4720",
+    "city": "Præstø",
+    "mapPosition": {
+      "x": 565.8,
+      "y": 650.9
+    },
+    "description": "Gårdbutik og selvplukhave i Roneklint med sæsonens bær, grøntsager og krydderurter samt syltetøj, saft og is med egne bær.",
+    "phone": "25684646",
+    "website": "https://www.fuglsanggaard.info/"
+  },
+  {
+    "id": "roenhave-slagteren",
+    "name": "RønhaveSlagteren",
+    "region": "syddanmark",
+    "address": "Hestehave 24",
+    "postalCode": "6400",
+    "city": "Sønderborg",
+    "mapPosition": {
+      "x": 261.4,
+      "y": 687.9
+    },
+    "description": "Slagterbutik på Rønhave med fersk kød, pølser, pålæg og færdigretter. Også webshop.",
+    "phone": "29881085",
+    "website": "https://www.ronhaveslagteren.dk/"
+  },
+  {
+    "id": "soetofte-gaardmejeri",
+    "name": "Søtofte Gårdmejeri",
+    "region": "sjaelland",
+    "address": "Søtoftevej 74",
+    "postalCode": "4100",
+    "city": "Ringsted",
+    "mapPosition": {
+      "x": 508.5,
+      "y": 561.2
+    },
+    "description": "Gårdmejeri og gårdbutik med økologiske mejeriprodukter, blandt andet mælk, yoghurt og ost.",
+    "phone": "27202878",
+    "website": "https://www.xn--stoftegrdmejeri-nlb03a.dk/"
+  },
+  {
+    "id": "fyns-graesaeg",
+    "name": "Fyns GræsÆg",
+    "region": "syddanmark",
+    "address": "Snarupvejen 24",
+    "postalCode": "5750",
+    "city": "Ringe",
+    "mapPosition": {
+      "x": 347.7,
+      "y": 636.5
+    },
+    "description": "Æg fra fritgående høns i mobile hønsehuse på græs. Æggehus med salg til private ved Espe på Fyn.",
+    "phone": "24486391",
+    "website": "https://fynsgraesaeg.dk/"
+  },
+  {
+    "id": "roejlegaardens",
+    "name": "Røjlegårdens Gårdbutik",
+    "region": "sjaelland",
+    "address": "Nykøbingvej 26C",
+    "postalCode": "4440",
+    "city": "Mørkøv",
+    "mapPosition": {
+      "x": 482.2,
+      "y": 525.6
+    },
+    "description": "Gårdbutik med landæg i Mørkøv. Kontakt gården for aktuelt udvalg og åbningstider.",
+    "phone": "50356372"
+  },
+  {
+    "id": "dm-aeg",
+    "name": "DM Æg",
+    "region": "sjaelland",
+    "address": "Vejlebyvej 19",
+    "postalCode": "4970",
+    "city": "Rødby",
+    "mapPosition": {
+      "x": 463.5,
+      "y": 733.4
+    },
+    "description": "Ægproducent i Vejleby på Lolland. Kontakt producenten eller se Facebook-gruppen for aftale om køb og afhentning.",
+    "phone": "23472394",
+    "website": "https://www.facebook.com/groups/804652010116138/"
+  },
+  {
+    "id": "lf-koed",
+    "name": "LF Kød",
+    "region": "sjaelland",
+    "address": "Maribovej 86",
+    "postalCode": "4990",
+    "city": "Sakskøbing",
+    "mapPosition": {
+      "x": 496.3,
+      "y": 723.2
+    },
+    "description": "Slagterbutik i Våbensted på Lolland med fersk kød og forskellige udskæringer.",
+    "phone": "54707030",
+    "website": "https://www.facebook.com/lfkoed"
+  },
+  {
+    "id": "vesterborg-fjerkrae",
+    "name": "Vesterborg Fjerkræ- og Vildtslagteri",
+    "region": "sjaelland",
+    "address": "Gallemosevej 6",
+    "postalCode": "4953",
+    "city": "Vesterborg",
+    "mapPosition": {
+      "x": 459.4,
+      "y": 712.0
+    },
+    "description": "Fjerkræ og vildt fra slagteriet på Lolland. Ring for aktuelt udvalg, bestilling og aftale om afhentning.",
+    "phone": "28156118"
+  },
+  {
+    "id": "gaardstoften",
+    "name": "Gårdstoften",
+    "region": "sjaelland",
+    "address": "Gårdstofte 19",
+    "postalCode": "4100",
+    "city": "Ringsted",
+    "mapPosition": {
+      "x": 510.4,
+      "y": 569.5
+    },
+    "description": "Gårdbutik med svinekød, pølser, bacon og leverpostej fra egne grise samt salg af æbletræer.",
+    "phone": "27215696",
+    "website": "https://gaardstoften.dk/"
+  },
+  {
+    "id": "noergaard-charolais",
+    "name": "Nørgaard Charolais",
+    "region": "nordjylland",
+    "address": "Sennelsvej 147",
+    "postalCode": "7700",
+    "city": "Thisted",
+    "mapPosition": {
+      "x": 136.1,
+      "y": 216.5
+    },
+    "description": "Oksekød fra Charolaiskvæg ved Lønnerup Fjord. Kødkasser og udskæringer bestilles på forhånd; aftal afhentning eller levering.",
+    "phone": "24988474",
+    "website": "https://www.facebook.com/679036625810147/"
+  },
+  {
+    "id": "over-ugilt",
+    "name": "Over Ugilt Gårdbutik",
+    "region": "nordjylland",
+    "address": "Ugiltvej 591",
+    "postalCode": "9800",
+    "city": "Hjørring",
+    "mapPosition": {
+      "x": 307.8,
+      "y": 116.5
+    },
+    "description": "Gårdbutik med oksekød, svinekød, kylling, æg og lokale specialiteter ved Hjørring.",
+    "phone": "40686986",
+    "website": "https://www.over-ugilt.dk/"
+  },
+  {
+    "id": "skotsgaard",
+    "name": "Skotsgaard Gårdbutik",
+    "region": "syddanmark",
+    "address": "Vejlevej 40",
+    "postalCode": "7182",
+    "city": "Bredsten",
+    "mapPosition": {
+      "x": 212.6,
+      "y": 518.6
+    },
+    "description": "Kød, vildt, charcuteri, ost og delikatesser fra udvalgte producenter. Også drikkevarer og gavekurve.",
+    "phone": "61310264",
+    "website": "https://skotsgaard.dk/"
+  },
+  {
+    "id": "sandgaarden-hoeve",
+    "name": "Sandgaarden",
+    "region": "sjaelland",
+    "address": "Høve Stræde 6",
+    "postalCode": "4550",
+    "city": "Asnæs",
+    "mapPosition": {
+      "x": 483.6,
+      "y": 486.1
+    },
+    "description": "Gårdbutik i Høve med æg, sæsonens grøntsager og bær samt kød fra gårdens kvæg, grise og fjerkræ."
+  },
+  {
+    "id": "brodamgaard",
+    "name": "Brodamgaard",
+    "region": "nordjylland",
+    "address": "Brodam 5",
+    "postalCode": "9310",
+    "city": "Vodskov",
+    "mapPosition": {
+      "x": 308.3,
+      "y": 197.8
+    },
+    "description": "Selvbetjent gårdbutik med sæsonens økologiske grøntsager og æg fra frilandshøns ved Vodskov.",
+    "phone": "22838054",
+    "website": "https://brodamgaard.dk/"
+  },
+  {
+    "id": "hegnsholt",
+    "name": "Hegnsholt",
+    "region": "sjaelland",
+    "address": "Lejrevej 52A",
+    "postalCode": "4320",
+    "city": "Lejre",
+    "mapPosition": {
+      "x": 544.5,
+      "y": 543.8
+    },
+    "description": "Økologisk smålandbrug og gårdbutik med æg, grøntsager og surdejsbageri ved Lejre.",
+    "phone": "20250525",
+    "website": "https://www.hegnsholt.net/"
+  },
+  {
+    "id": "troldgaarden",
+    "name": "Troldgaarden",
+    "region": "midtjylland",
+    "address": "Troldkirkevej 4",
+    "postalCode": "8732",
+    "city": "Hovedgård",
+    "mapPosition": {
+      "x": 295.3,
+      "y": 460.4
+    },
+    "description": "Økologisk gårdbutik i Vedslet ved Horsens med kød fra sortbrogede grise, græsfodret oksekød, charcuteri og honning.",
+    "phone": "28693516",
+    "website": "https://troldgaarden.dk/"
+  },
+  {
+    "id": "rydskovgaard",
+    "name": "Rydskovgaard",
+    "region": "syddanmark",
+    "address": "Viuf Skovvej 86",
+    "postalCode": "6052",
+    "city": "Viuf",
+    "mapPosition": {
+      "x": 227.8,
+      "y": 539.4
+    },
+    "description": "Økologisk svinekød og oksekød fra egne dyr samt pølser og økologiske kolonialvarer i gårdbutikken.",
+    "phone": "24439812",
+    "website": "https://rydskovgaard.dk/"
+  },
+  {
+    "id": "solhoejgaard-oekologi",
+    "name": "Solhøjgård Økologi",
+    "region": "syddanmark",
+    "address": "Nørupvej 30",
+    "postalCode": "7321",
+    "city": "Gadbjerg",
+    "mapPosition": {
+      "x": 199.1,
+      "y": 510.1
+    },
+    "description": "Økologisk svinekød fra gårdens egne frilandsgrise. Udskæringer i gårdbutikken og halve grise efter forudbestilling.",
+    "phone": "25481348",
+    "website": "https://xn--solhjgrdkologi-qib51af.dk/"
+  },
+  {
+    "id": "hallegaard",
+    "name": "Hallegård",
+    "region": "hovedstaden",
+    "address": "Aspevej 3",
+    "postalCode": "3751",
+    "city": "Østermarie",
+    "mapPosition": {
+      "x": 942.9,
+      "y": 650.7
+    },
+    "description": "Gårdbutik og pølsemageri på Bornholm med kød, spegepølser, grillpølser og charcuteri. Også webshop.",
+    "phone": "51889981",
+    "website": "https://hallegaard.eu/"
+  },
+  {
+    "id": "wagyu-bornholm",
+    "name": "Wagyu Bornholm – Torvehal Bornholm",
+    "region": "hovedstaden",
+    "address": "Gartnervangen 6",
+    "postalCode": "3700",
+    "city": "Rønne",
+    "mapPosition": {
+      "x": 897.2,
+      "y": 652.0
+    },
+    "description": "Bornholmsk Wagyu-oksekød og udskæringer. Producentens salgssted er Torvehal Bornholm i Rønne.",
+    "phone": "28158823",
+    "website": "https://wagyubornholm.dk/salg-af-koed/"
+  },
+  {
+    "id": "den-bornholmske-kalv",
+    "name": "Den Bornholmske Kalv – Nygård-Pilegård",
+    "region": "hovedstaden",
+    "address": "Simblegårdsvej 22",
+    "postalCode": "3790",
+    "city": "Hasle",
+    "mapPosition": {
+      "x": 902.1,
+      "y": 636.3
+    },
+    "description": "Gårdbutik på Bornholm med kalvekød, steaks, spegepølser og leverpostej. Nygård-Pilegård har også pluk-selv-blomster i sæsonen.",
+    "phone": "20478657",
+    "website": "https://nygaard-pilegaard.dk/"
+  },
+  {
+    "id": "krogsholm-frugt",
+    "name": "Krogsholm Frugt",
+    "region": "hovedstaden",
+    "address": "Kongensmark 12",
+    "postalCode": "3700",
+    "city": "Rønne",
+    "mapPosition": {
+      "x": 921.1,
+      "y": 639.2
+    },
+    "description": "Gårdbutik og mosteri på Bornholm med frugt, grøntsager, æblemost, saft og marmelade. Egne afgrøder dyrkes uden sprøjtemidler.",
+    "phone": "27979289",
+    "website": "https://krogsholmfrugt.dk/"
   }
 ];

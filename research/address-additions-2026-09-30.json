@@ -1,0 +1,902 @@
+[
+  {
+    "id": "gartneriet-roedmose",
+    "query": "Rødmosevej 131, 6052",
+    "url": "https://api.dataforsyningen.dk/adresser?q=R%C3%B8dmosevej+131%2C+6052&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ba-5f4e-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "2004",
+        "vejnavn": "Rødmosevej",
+        "adresseringsvejnavn": "Rødmosevej",
+        "husnr": "131",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Tiufkær",
+        "postnr": "6052",
+        "postnrnavn": "Viuf",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0630",
+        "adgangsadresseid": "0a3f508e-cd2a-32b8-e044-0003ba298018",
+        "x": 9.50297729,
+        "y": 55.62813081,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ba-5f4e-32b8-e044-0003ba298018",
+        "betegnelse": "Rødmosevej 131, Tiufkær, 6052 Viuf"
+      }
+    ]
+  },
+  {
+    "id": "bodebjergvej-42",
+    "query": "Bodebjergvej 42, 5620",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Bodebjergvej+42%2C+5620&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b2-c2d8-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0143",
+        "vejnavn": "Bodebjergvej",
+        "adresseringsvejnavn": "Bodebjergvej",
+        "husnr": "42",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Køng",
+        "postnr": "5620",
+        "postnrnavn": "Glamsbjerg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0420",
+        "adgangsadresseid": "0a3f5088-39e3-32b8-e044-0003ba298018",
+        "x": 10.10083379,
+        "y": 55.25173486,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b2-c2d8-32b8-e044-0003ba298018",
+        "betegnelse": "Bodebjergvej 42, Køng, 5620 Glamsbjerg"
+      }
+    ]
+  },
+  {
+    "id": "moen-is",
+    "query": "Hovgårdsvej 4, 4780",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Hovg%C3%A5rdsvej+4%2C+4780&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50af-e329-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0612",
+        "vejnavn": "Hovgårdsvej",
+        "adresseringsvejnavn": "Hovgårdsvej",
+        "husnr": "4",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Pollerup",
+        "postnr": "4780",
+        "postnrnavn": "Stege",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0390",
+        "adgangsadresseid": "0a3f5085-8aa5-32b8-e044-0003ba298018",
+        "x": 12.36838947,
+        "y": 54.96886975,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50af-e329-32b8-e044-0003ba298018",
+        "betegnelse": "Hovgårdsvej 4, Pollerup, 4780 Stege"
+      }
+    ]
+  },
+  {
+    "id": "toftegaards-oerbaek",
+    "query": "Glorupvej 16, 5853",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Glorupvej+16%2C+5853&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b6-18a2-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0295",
+        "vejnavn": "Glorupvej",
+        "adresseringsvejnavn": "Glorupvej",
+        "husnr": "16",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Svindinge",
+        "postnr": "5853",
+        "postnrnavn": "Ørbæk",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0450",
+        "adgangsadresseid": "0a3f508a-f812-32b8-e044-0003ba298018",
+        "x": 10.68976291,
+        "y": 55.21447115,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b6-18a2-32b8-e044-0003ba298018",
+        "betegnelse": "Glorupvej 16, Svindinge, 5853 Ørbæk"
+      }
+    ]
+  },
+  {
+    "id": "fuglhoejgaard",
+    "query": "Vork Skolevej 6, 6040",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Vork+Skolevej+6%2C+6040&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ba-7f03-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "2837",
+        "vejnavn": "Vork Skolevej",
+        "adresseringsvejnavn": "Vork Skolevej",
+        "husnr": "6",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "6040",
+        "postnrnavn": "Egtved",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0630",
+        "adgangsadresseid": "0a3f508e-ee2a-32b8-e044-0003ba298018",
+        "x": 9.32527157,
+        "y": 55.6452835,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ba-7f03-32b8-e044-0003ba298018",
+        "betegnelse": "Vork Skolevej 6, 6040 Egtved"
+      }
+    ]
+  },
+  {
+    "id": "fuglsanggaard",
+    "query": "Fuglsangvej 13, 4720",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Fuglsangvej+13%2C+4720&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b0-ee4f-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0420",
+        "vejnavn": "Fuglsangvej",
+        "adresseringsvejnavn": "Fuglsangvej",
+        "husnr": "13",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "4720",
+        "postnrnavn": "Præstø",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0390",
+        "adgangsadresseid": "0a3f5086-6551-32b8-e044-0003ba298018",
+        "x": 12.13295634,
+        "y": 55.1165979,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b0-ee4f-32b8-e044-0003ba298018",
+        "betegnelse": "Fuglsangvej 13, 4720 Præstø"
+      }
+    ]
+  },
+  {
+    "id": "stald-kaersgaard",
+    "query": "Søbyvej 3, 5700",
+    "url": "https://api.dataforsyningen.dk/adresser?q=S%C3%B8byvej+3%2C+5700&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b5-a748-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "8058",
+        "vejnavn": "Søbyvej",
+        "adresseringsvejnavn": "Søbyvej",
+        "husnr": "3",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Tåsinge",
+        "postnr": "5700",
+        "postnrnavn": "Svendborg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0479",
+        "adgangsadresseid": "0a3f508a-852b-32b8-e044-0003ba298018",
+        "x": 10.56565663,
+        "y": 54.97157082,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b5-a748-32b8-e044-0003ba298018",
+        "betegnelse": "Søbyvej 3, Tåsinge, 5700 Svendborg"
+      }
+    ]
+  },
+  {
+    "id": "roenhave-slagteren",
+    "query": "Hestehave 24, 6400",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Hestehave+24%2C+6400&struktur=mini",
+    "matches": [
+      {
+        "id": "98088c7d-2fe3-44b4-ba5c-88e5661f5163",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0731",
+        "vejnavn": "Hestehave",
+        "adresseringsvejnavn": "Hestehave",
+        "husnr": "24",
+        "etage": null,
+        "dør": "1",
+        "supplerendebynavn": "Kær",
+        "postnr": "6400",
+        "postnrnavn": "Sønderborg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0540",
+        "adgangsadresseid": "584ed9cb-55f3-4b6b-8c8b-8d74b7bca8e3",
+        "x": 9.7706111,
+        "y": 54.95229829,
+        "href": "https://api.dataforsyningen.dk/adresser/98088c7d-2fe3-44b4-ba5c-88e5661f5163",
+        "betegnelse": "Hestehave 24, 1, Kær, 6400 Sønderborg"
+      },
+      {
+        "id": "29a12afb-d85b-4033-9f6c-5b40302cc6d0",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0731",
+        "vejnavn": "Hestehave",
+        "adresseringsvejnavn": "Hestehave",
+        "husnr": "24",
+        "etage": null,
+        "dør": "2",
+        "supplerendebynavn": "Kær",
+        "postnr": "6400",
+        "postnrnavn": "Sønderborg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0540",
+        "adgangsadresseid": "584ed9cb-55f3-4b6b-8c8b-8d74b7bca8e3",
+        "x": 9.7706111,
+        "y": 54.95229829,
+        "href": "https://api.dataforsyningen.dk/adresser/29a12afb-d85b-4033-9f6c-5b40302cc6d0",
+        "betegnelse": "Hestehave 24, 2, Kær, 6400 Sønderborg"
+      }
+    ]
+  },
+  {
+    "id": "roejlegaardens",
+    "query": "Nykøbingvej 26C, 4440",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Nyk%C3%B8bingvej+26C%2C+4440&struktur=mini",
+    "matches": [
+      {
+        "id": "3a226fcb-c90d-4c45-adb9-475ef153e729",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1122",
+        "vejnavn": "Nykøbingvej",
+        "adresseringsvejnavn": "Nykøbingvej",
+        "husnr": "26C",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Stigs Bjergby",
+        "postnr": "4440",
+        "postnrnavn": "Mørkøv",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0316",
+        "adgangsadresseid": "07736c34-569a-40fa-b540-acf446fdca0e",
+        "x": 11.48396382,
+        "y": 55.66910932,
+        "href": "https://api.dataforsyningen.dk/adresser/3a226fcb-c90d-4c45-adb9-475ef153e729",
+        "betegnelse": "Nykøbingvej 26C, Stigs Bjergby, 4440 Mørkøv"
+      }
+    ]
+  },
+  {
+    "id": "soetofte-gaardmejeri",
+    "query": "Søtoftevej 74, 4100",
+    "url": "https://api.dataforsyningen.dk/adresser?q=S%C3%B8toftevej+74%2C+4100&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50af-68ad-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1638",
+        "vejnavn": "Søtoftevej",
+        "adresseringsvejnavn": "Søtoftevej",
+        "husnr": "74",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Søtofte",
+        "postnr": "4100",
+        "postnrnavn": "Ringsted",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0316",
+        "adgangsadresseid": "0a3f5085-0eb9-32b8-e044-0003ba298018",
+        "x": 11.68842254,
+        "y": 55.5130425,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50af-68ad-32b8-e044-0003ba298018",
+        "betegnelse": "Søtoftevej 74, Søtofte, 4100 Ringsted"
+      }
+    ]
+  },
+  {
+    "id": "fyns-graesaeg",
+    "query": "Snarupvejen 24, 5750",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Snarupvejen+24%2C+5750&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b5-38db-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1344",
+        "vejnavn": "Snarupvejen",
+        "adresseringsvejnavn": "Snarupvejen",
+        "husnr": "24",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Herringe",
+        "postnr": "5750",
+        "postnrnavn": "Ringe",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0430",
+        "adgangsadresseid": "0a3f508a-24f7-32b8-e044-0003ba298018",
+        "x": 10.4405231,
+        "y": 55.18033474,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b5-38db-32b8-e044-0003ba298018",
+        "betegnelse": "Snarupvejen 24, Herringe, 5750 Ringe"
+      },
+      {
+        "id": "0a3f50b5-3892-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1344",
+        "vejnavn": "Snarupvejen",
+        "adresseringsvejnavn": "Snarupvejen",
+        "husnr": "9B",
+        "etage": null,
+        "dør": "24",
+        "supplerendebynavn": "Espe",
+        "postnr": "5750",
+        "postnrnavn": "Ringe",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0430",
+        "adgangsadresseid": "0a3f508a-24e3-32b8-e044-0003ba298018",
+        "x": 10.41340501,
+        "y": 55.1982889,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b5-3892-32b8-e044-0003ba298018",
+        "betegnelse": "Snarupvejen 9B, 24, Espe, 5750 Ringe"
+      }
+    ]
+  },
+  {
+    "id": "dm-aeg",
+    "query": "Vejlebyvej 19, 4970",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Vejlebyvej+19%2C+4970&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b1-26d8-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1898",
+        "vejnavn": "Vejlebyvej",
+        "adresseringsvejnavn": "Vejlebyvej",
+        "husnr": "19",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "4970",
+        "postnrnavn": "Rødby",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0360",
+        "adgangsadresseid": "0a3f5086-a1f1-32b8-e044-0003ba298018",
+        "x": 11.33902185,
+        "y": 54.74895041,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b1-26d8-32b8-e044-0003ba298018",
+        "betegnelse": "Vejlebyvej 19, 4970 Rødby"
+      }
+    ]
+  },
+  {
+    "id": "gaardstoften",
+    "query": "Gårdstofte 19, 4100",
+    "url": "https://api.dataforsyningen.dk/adresser?q=G%C3%A5rdstofte+19%2C+4100&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ae-334c-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "2800",
+        "vejnavn": "Gårdstofte",
+        "adresseringsvejnavn": "Gårdstofte",
+        "husnr": "19",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Ørslevvester",
+        "postnr": "4100",
+        "postnrnavn": "Ringsted",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0329",
+        "adgangsadresseid": "0a3f5083-fba0-32b8-e044-0003ba298018",
+        "x": 11.70317052,
+        "y": 55.47644402,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ae-334c-32b8-e044-0003ba298018",
+        "betegnelse": "Gårdstofte 19, Ørslevvester, 4100 Ringsted"
+      }
+    ]
+  },
+  {
+    "id": "vesterborg-fjerkrae",
+    "query": "Gallemosevej 6, 4953",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Gallemosevej+6%2C+4953&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50af-c667-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0425",
+        "vejnavn": "Gallemosevej",
+        "adresseringsvejnavn": "Gallemosevej",
+        "husnr": "6",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "4953",
+        "postnrnavn": "Vesterborg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0360",
+        "adgangsadresseid": "0a3f5085-6f07-32b8-e044-0003ba298018",
+        "x": 11.30727663,
+        "y": 54.84453758,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50af-c667-32b8-e044-0003ba298018",
+        "betegnelse": "Gallemosevej 6, 4953 Vesterborg"
+      },
+      {
+        "id": "ea5935a0-aede-47b0-bb94-3e4fdc237ebd",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0425",
+        "vejnavn": "Gallemosevej",
+        "adresseringsvejnavn": "Gallemosevej",
+        "husnr": "6",
+        "etage": "1",
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "4953",
+        "postnrnavn": "Vesterborg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0360",
+        "adgangsadresseid": "0a3f5085-6f07-32b8-e044-0003ba298018",
+        "x": 11.30727663,
+        "y": 54.84453758,
+        "href": "https://api.dataforsyningen.dk/adresser/ea5935a0-aede-47b0-bb94-3e4fdc237ebd",
+        "betegnelse": "Gallemosevej 6, 1., 4953 Vesterborg"
+      },
+      {
+        "id": "350ab7f6-9079-40e5-bbd2-c19d270ea03f",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0425",
+        "vejnavn": "Gallemosevej",
+        "adresseringsvejnavn": "Gallemosevej",
+        "husnr": "6",
+        "etage": "st",
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "4953",
+        "postnrnavn": "Vesterborg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0360",
+        "adgangsadresseid": "0a3f5085-6f07-32b8-e044-0003ba298018",
+        "x": 11.30727663,
+        "y": 54.84453758,
+        "href": "https://api.dataforsyningen.dk/adresser/350ab7f6-9079-40e5-bbd2-c19d270ea03f",
+        "betegnelse": "Gallemosevej 6, st., 4953 Vesterborg"
+      }
+    ]
+  },
+  {
+    "id": "lf-koed",
+    "query": "Maribovej 86, 4990",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Maribovej+86%2C+4990&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b1-3daa-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1259",
+        "vejnavn": "Maribovej",
+        "adresseringsvejnavn": "Maribovej",
+        "husnr": "86",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Våbensted",
+        "postnr": "4990",
+        "postnrnavn": "Sakskøbing",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0376",
+        "adgangsadresseid": "0a3f5086-ba5a-32b8-e044-0003ba298018",
+        "x": 11.59371474,
+        "y": 54.79459533,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b1-3daa-32b8-e044-0003ba298018",
+        "betegnelse": "Maribovej 86, Våbensted, 4990 Sakskøbing"
+      }
+    ]
+  },
+  {
+    "id": "noergaard-charolais",
+    "query": "Sennelsvej 147, 7700",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Sennelsvej+147%2C+7700&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50c6-2abc-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "6130",
+        "vejnavn": "Sennelsvej",
+        "adresseringsvejnavn": "Sennelsvej",
+        "husnr": "147",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Hov",
+        "postnr": "7700",
+        "postnrnavn": "Thisted",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0787",
+        "adgangsadresseid": "0a3f5098-97fd-32b8-e044-0003ba298018",
+        "x": 8.79768914,
+        "y": 56.99867953,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50c6-2abc-32b8-e044-0003ba298018",
+        "betegnelse": "Sennelsvej 147, Hov, 7700 Thisted"
+      }
+    ]
+  },
+  {
+    "id": "skotsgaard",
+    "query": "Vejlevej 40, 7182",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Vejlevej+40%2C+7182&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ba-7dc5-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "2719",
+        "vejnavn": "Vejlevej",
+        "adresseringsvejnavn": "Vejlevej",
+        "husnr": "40",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "7182",
+        "postnrnavn": "Bredsten",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0630",
+        "adgangsadresseid": "0a3f508e-ecd3-32b8-e044-0003ba298018",
+        "x": 9.39172803,
+        "y": 55.69968869,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ba-7dc5-32b8-e044-0003ba298018",
+        "betegnelse": "Vejlevej 40, 7182 Bredsten"
+      }
+    ]
+  },
+  {
+    "id": "brodamgaard",
+    "query": "Brodam 5, 9310",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Brodam+5%2C+9310&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50c7-bc2e-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0167",
+        "vejnavn": "Brodam",
+        "adresseringsvejnavn": "Brodam",
+        "husnr": "5",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Vester Hassing",
+        "postnr": "9310",
+        "postnrnavn": "Vodskov",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0851",
+        "adgangsadresseid": "0a3f509a-1470-32b8-e044-0003ba298018",
+        "x": 10.1344998,
+        "y": 57.07782515,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50c7-bc2e-32b8-e044-0003ba298018",
+        "betegnelse": "Brodam 5, Vester Hassing, 9310 Vodskov"
+      }
+    ]
+  },
+  {
+    "id": "over-ugilt",
+    "query": "Ugiltvej 591, 9800",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Ugiltvej+591%2C+9800&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50c9-2113-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "3798",
+        "vejnavn": "Ugiltvej",
+        "adresseringsvejnavn": "Ugiltvej",
+        "husnr": "591",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Ugilt",
+        "postnr": "9800",
+        "postnrnavn": "Hjørring",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0860",
+        "adgangsadresseid": "0a3f509b-7f6c-32b8-e044-0003ba298018",
+        "x": 10.13029671,
+        "y": 57.41942602,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50c9-2113-32b8-e044-0003ba298018",
+        "betegnelse": "Ugiltvej 591, Ugilt, 9800 Hjørring"
+      }
+    ]
+  },
+  {
+    "id": "sandgaarden-hoeve",
+    "query": "Høve Stræde 6, 4550",
+    "url": "https://api.dataforsyningen.dk/adresser?q=H%C3%B8ve+Str%C3%A6de+6%2C+4550&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ac-bb06-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1033",
+        "vejnavn": "Høve Stræde",
+        "adresseringsvejnavn": "Høve Stræde",
+        "husnr": "6",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "4550",
+        "postnrnavn": "Asnæs",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0306",
+        "adgangsadresseid": "0a3f5082-ace1-32b8-e044-0003ba298018",
+        "x": 11.49496272,
+        "y": 55.84150336,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ac-bb06-32b8-e044-0003ba298018",
+        "betegnelse": "Høve Stræde 6, 4550 Asnæs"
+      }
+    ]
+  },
+  {
+    "id": "hegnsholt",
+    "query": "Lejrevej 52A, 4320",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Lejrevej+52A%2C+4320&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ab-aa3b-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0435",
+        "vejnavn": "Lejrevej",
+        "adresseringsvejnavn": "Lejrevej",
+        "husnr": "52A",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Allerslev",
+        "postnr": "4320",
+        "postnrnavn": "Lejre",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0350",
+        "adgangsadresseid": "0a3f5081-c532-32b8-e044-0003ba298018",
+        "x": 11.96806403,
+        "y": 55.58920956,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ab-aa3b-32b8-e044-0003ba298018",
+        "betegnelse": "Lejrevej 52A, Allerslev, 4320 Lejre"
+      }
+    ]
+  },
+  {
+    "id": "troldgaarden",
+    "query": "Troldkirkevej 4, 8732",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Troldkirkevej+4%2C+8732&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50ba-f5ee-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0613",
+        "vejnavn": "Troldkirkevej",
+        "adresseringsvejnavn": "Troldkirkevej",
+        "husnr": "4",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Vedslet",
+        "postnr": "8732",
+        "postnrnavn": "Hovedgård",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0615",
+        "adgangsadresseid": "0a3f508f-4880-32b8-e044-0003ba298018",
+        "x": 10.03314081,
+        "y": 55.9534677,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50ba-f5ee-32b8-e044-0003ba298018",
+        "betegnelse": "Troldkirkevej 4, Vedslet, 8732 Hovedgård"
+      }
+    ]
+  },
+  {
+    "id": "rydskovgaard",
+    "query": "Viuf Skovvej 86, 6052",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Viuf+Skovvej+86%2C+6052&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50bc-58a3-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "9380",
+        "vejnavn": "Viuf Skovvej",
+        "adresseringsvejnavn": "Viuf Skovvej",
+        "husnr": "86",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": null,
+        "postnr": "6052",
+        "postnrnavn": "Viuf",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0621",
+        "adgangsadresseid": "0a3f5090-6869-32b8-e044-0003ba298018",
+        "x": 9.50930105,
+        "y": 55.60874437,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50bc-58a3-32b8-e044-0003ba298018",
+        "betegnelse": "Viuf Skovvej 86, 6052 Viuf"
+      }
+    ]
+  },
+  {
+    "id": "solhoejgaard-oekologi",
+    "query": "Nørupvej 30, 7321",
+    "url": "https://api.dataforsyningen.dk/adresser?q=N%C3%B8rupvej+30%2C+7321&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50bb-05c9-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1786",
+        "vejnavn": "Nørupvej",
+        "adresseringsvejnavn": "Nørupvej",
+        "husnr": "30",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Rostrup",
+        "postnr": "7321",
+        "postnrnavn": "Gadbjerg",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0630",
+        "adgangsadresseid": "0a3f508f-5adb-32b8-e044-0003ba298018",
+        "x": 9.28683565,
+        "y": 55.73662973,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50bb-05c9-32b8-e044-0003ba298018",
+        "betegnelse": "Nørupvej 30, Rostrup, 7321 Gadbjerg"
+      }
+    ]
+  },
+  {
+    "id": "wagyu-bornholm",
+    "query": "Gartnervangen 6, 3700",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Gartnervangen+6%2C+3700&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b1-e895-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "1176",
+        "vejnavn": "Gartnervangen",
+        "adresseringsvejnavn": "Gartnervangen",
+        "husnr": "6",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Rønne",
+        "postnr": "3700",
+        "postnrnavn": "Rønne",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0400",
+        "adgangsadresseid": "0a3f5087-667b-32b8-e044-0003ba298018",
+        "x": 14.70544044,
+        "y": 55.11172922,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b1-e895-32b8-e044-0003ba298018",
+        "betegnelse": "Gartnervangen 6, Rønne, 3700 Rønne"
+      }
+    ]
+  },
+  {
+    "id": "den-bornholmske-kalv",
+    "query": "Simblegårdsvej 22, 3790",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Simbleg%C3%A5rdsvej+22%2C+3790&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b2-1d78-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "3609",
+        "vejnavn": "Simblegårdsvej",
+        "adresseringsvejnavn": "Simblegårdsvej",
+        "husnr": "22",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Klemensker",
+        "postnr": "3790",
+        "postnrnavn": "Hasle",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0400",
+        "adgangsadresseid": "0a3f5087-99e0-32b8-e044-0003ba298018",
+        "x": 14.74365032,
+        "y": 55.18144516,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b2-1d78-32b8-e044-0003ba298018",
+        "betegnelse": "Simblegårdsvej 22, Klemensker, 3790 Hasle"
+      }
+    ]
+  },
+  {
+    "id": "hallegaard",
+    "query": "Aspevej 3, 3751",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Aspevej+3%2C+3751&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b1-d5ff-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "0147",
+        "vejnavn": "Aspevej",
+        "adresseringsvejnavn": "Aspevej",
+        "husnr": "3",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Østermarie",
+        "postnr": "3751",
+        "postnrnavn": "Østermarie",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0400",
+        "adgangsadresseid": "0a3f5087-538d-32b8-e044-0003ba298018",
+        "x": 15.06037955,
+        "y": 55.11736542,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b1-d5ff-32b8-e044-0003ba298018",
+        "betegnelse": "Aspevej 3, Østermarie, 3751 Østermarie"
+      }
+    ]
+  },
+  {
+    "id": "krogsholm-frugt",
+    "query": "Kongensmark 12, 3700",
+    "url": "https://api.dataforsyningen.dk/adresser?q=Kongensmark+12%2C+3700&struktur=mini",
+    "matches": [
+      {
+        "id": "0a3f50b1-fc8b-32b8-e044-0003ba298018",
+        "status": 1,
+        "darstatus": 3,
+        "vejkode": "2157",
+        "vejnavn": "Kongensmark",
+        "adresseringsvejnavn": "Kongensmark",
+        "husnr": "12",
+        "etage": null,
+        "dør": null,
+        "supplerendebynavn": "Aarsballe",
+        "postnr": "3700",
+        "postnrnavn": "Rønne",
+        "stormodtagerpostnr": null,
+        "stormodtagerpostnrnavn": null,
+        "kommunekode": "0400",
+        "adgangsadresseid": "0a3f5087-79f5-32b8-e044-0003ba298018",
+        "x": 14.89108311,
+        "y": 55.1684324,
+        "href": "https://api.dataforsyningen.dk/adresser/0a3f50b1-fc8b-32b8-e044-0003ba298018",
+        "betegnelse": "Kongensmark 12, Aarsballe, 3700 Rønne"
+      }
+    ]
+  }
+]

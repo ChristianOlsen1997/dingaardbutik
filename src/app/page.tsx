@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { regions } from "@/data/regions";
 import { DenmarkMap } from "@/components/DenmarkMap";
 import { Header } from "@/components/Header";
@@ -63,6 +64,14 @@ export default function Home() {
             <p className="founder-name">Sebastian Behnke</p>
             <p className="founder-role">Personlig træner</p>
             <a className="founder-link" href="https://www.sebastianb.dk/behnke-coaching" target="_blank" rel="noreferrer">Mød Sebastian <span aria-hidden="true">↗</span></a>
+            <Image
+              className="founder-portrait"
+              src="/sebastian-behnke-gaard.jpg"
+              alt="Sebastian Behnke med en bakke æg ved et skilt til gårdsalg"
+              width={1320}
+              height={1713}
+              sizes="(max-width: 800px) 90vw, 32vw"
+            />
           </div>
           <div className="founder-letter">
             <p className="founder-lead">Jeg ønsker at gøre det nemmere for dig at finde og støtte de små lokale og online producenter og gårdbutikker rundt omkring i hele Danmark.</p>

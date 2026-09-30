@@ -1,0 +1,490 @@
+[
+  {
+    "farm": [
+      "moen-is",
+      "Møn Is",
+      "sjaelland",
+      "Hovgårdsvej 4",
+      "4780",
+      "Stege",
+      "23263819",
+      "https://www.moen-is.dk/",
+      "Ismejeri og gårdbutik på Møn med is fra gårdens egen mælk, frisk mælk og lokale specialiteter.",
+      "https://www.moen-is.dk/kontakt"
+    ],
+    "sources": [
+      "https://www.moen-is.dk/",
+      "https://moenguide.com/wp-content/uploads/2025/04/50-things-to-do-on-Moen-2025-til-swipebook.pdf"
+    ],
+    "note": "Telefon fra Møn-guiden 2025; adresse og produktion fra egen hjemmeside."
+  },
+  {
+    "farm": [
+      "gartneriet-roedmose",
+      "Gartneriet Rødmose",
+      "syddanmark",
+      "Rødmosevej 131",
+      "6052",
+      "Viuf",
+      "51242207",
+      "https://www.roedmose.dk/",
+      "Biodynamiske og økologiske grøntsager og frugt. Vejbod ved gartneriet i Tiufkær samt torvesalg.",
+      "https://www.roedmose.dk/biodynamiskgartneri/gartneriets-historie"
+    ],
+    "sources": [
+      "https://direktefragaarden.dk/producent/gartneriet-rodmose"
+    ]
+  },
+  {
+    "farm": [
+      "bodebjergvej-42",
+      "Gårdbutikken Bodebjergvej 42",
+      "syddanmark",
+      "Bodebjergvej 42",
+      "5620",
+      "Glamsbjerg",
+      "28737733",
+      "https://www.bodebjergvej.dk/",
+      "Økologisk oksekød og lammekød fra gårdens egne dyr samt most, marmelade og lokale specialiteter på Vestfyn.",
+      "https://www.bodebjergvej.dk/"
+    ],
+    "sources": [
+      "https://www.visitdenmark.dk/danmark/explore/gaardbutikken-paa-bodebjergvej-42-gdk1135127"
+    ],
+    "note": "Egen hjemmeside og VisitDenmark har telefon 28737733; ældre katalogers nummer er ikke anvendt."
+  },
+  {
+    "farm": [
+      "toftegaards-oerbaek",
+      "Toftegaards Gårdbutik",
+      "syddanmark",
+      "Glorupvej 16",
+      "5853",
+      "Ørbæk",
+      "20775349",
+      "https://toftegaards-gaardbutik.dk/",
+      "Græsfodret oksekød fra naturplejekvæg på Fyn. Udskæringer, kødpakker og spegepølser; bestilling og levering efter aftale.",
+      "https://toftegaards-gaardbutik.dk/kontakt/"
+    ],
+    "sources": [
+      "https://toftegaards-gaardbutik.dk/koeb-koed-oestfyn/"
+    ],
+    "note": "Ikke samme sted som den eksisterende Toftegården i Albertslund. Svinekød og certificeret økologi ikke bekræftet på egen side; derfor ikke anført. Siden skriver økologiske principper."
+  },
+  {
+    "farm": [
+      "stald-kaersgaard",
+      "Stald Kærsgård",
+      "syddanmark",
+      "Søbyvej 3",
+      "5700",
+      "Svendborg",
+      "22897362",
+      "https://www.facebook.com/staldkaersgaard/",
+      "Gårdbutik på Tåsinge med okse- og kalvekød fra Herefordkvæg, lammekød, honning, most og garn.",
+      "https://aabentlandbrug.dk/besoeg-en-gaardbutik/kort/stald-kaersgaard-gaardbutik/"
+    ],
+    "sources": [
+      "https://svendborg.cylex.dk/firma/stald-k%C3%A6rsg%C3%A5rd/13979271.html"
+    ],
+    "note": "Facebook-link fra producentens profil hos Åbent Landbrug; Facebook-indhold kunne ikke læses. Telefon fra Cylex. Tåsinge er udeladt af det eksisterende forenklede SVG-kort. Markøren bevarer den korrekte DAR-koordinat (54.97157082, 10.56565663); rutevejledning bruger besøgsadressen."
+  },
+  {
+    "farm": [
+      "fuglhoejgaard",
+      "Fuglhøjgaard",
+      "syddanmark",
+      "Vork Skolevej 6",
+      "6040",
+      "Egtved",
+      "28707910",
+      "https://www.fuglhojgaard.dk/",
+      "Kød fra gårdens frilandsgrise samt pølser og pålæg. Bestil i webshoppen og se mulighederne for afhentning og levering.",
+      "https://www.fuglhojgaard.dk/"
+    ],
+    "sources": []
+  },
+  {
+    "farm": [
+      "fuglsanggaard",
+      "Fuglsanggaard",
+      "sjaelland",
+      "Fuglsangvej 13",
+      "4720",
+      "Præstø",
+      "25684646",
+      "https://www.fuglsanggaard.info/",
+      "Gårdbutik og selvplukhave i Roneklint med sæsonens bær, grøntsager og krydderurter samt syltetøj, saft og is med egne bær.",
+      "https://www.fuglsanggaard.info/"
+    ],
+    "sources": []
+  },
+  {
+    "farm": [
+      "roenhave-slagteren",
+      "RønhaveSlagteren",
+      "syddanmark",
+      "Hestehave 24",
+      "6400",
+      "Sønderborg",
+      "29881085",
+      "https://www.ronhaveslagteren.dk/",
+      "Slagterbutik på Rønhave med fersk kød, pølser, pålæg og færdigretter. Også webshop.",
+      "https://www.ronhaveslagteren.dk/pages/contact"
+    ],
+    "sources": [
+      "https://ronhave.eu/ronhave-slagteren/"
+    ],
+    "note": "Egen side skriver Hestehave 24,2. Besøgsadresse Hestehave 24 anvendt; gårdens side beskriver indgang fra gårdspladsen."
+  },
+  {
+    "farm": [
+      "soetofte-gaardmejeri",
+      "Søtofte Gårdmejeri",
+      "sjaelland",
+      "Søtoftevej 74",
+      "4100",
+      "Ringsted",
+      "27202878",
+      "https://www.xn--stoftegrdmejeri-nlb03a.dk/",
+      "Gårdmejeri og gårdbutik med økologiske mejeriprodukter, blandt andet mælk, yoghurt og ost.",
+      "https://www.xn--stoftegrdmejeri-nlb03a.dk/kontakt"
+    ],
+    "sources": [
+      "https://erhvervsforum.dk/wp-content/uploads/2021/03/ROKOST.pdf"
+    ],
+    "note": "Adresse fra egen hjemmeside. Telefon fra producentbrochure; ikke vist på kontakt-sidens læsbare tekst."
+  },
+  {
+    "farm": [
+      "fyns-graesaeg",
+      "Fyns GræsÆg",
+      "syddanmark",
+      "Snarupvejen 24",
+      "5750",
+      "Ringe",
+      "24486391",
+      "https://fynsgraesaeg.dk/",
+      "Æg fra fritgående høns i mobile hønsehuse på græs. Æggehus med salg til private ved Espe på Fyn.",
+      "https://fynsgraesaeg.dk/"
+    ],
+    "sources": []
+  },
+  {
+    "farm": [
+      "roejlegaardens",
+      "Røjlegårdens Gårdbutik",
+      "sjaelland",
+      "Nykøbingvej 26C",
+      "4440",
+      "Mørkøv",
+      "50356372",
+      "",
+      "Gårdbutik med landæg i Mørkøv. Kontakt gården for aktuelt udvalg og åbningstider.",
+      "https://www.findsmiley.dk/1515340"
+    ],
+    "sources": [
+      "https://bizdex.dk/companies/friske-landaeg-fra-roejlegaarden-45658767"
+    ],
+    "note": "Besøgsadresse bekræftet i fødevarekontrollen 17. februar 2026. Telefon og ægproduktion fra virksomhedsdata. Eget aktivt link ikke fundet sikkert."
+  },
+  {
+    "farm": [
+      "dm-aeg",
+      "DM Æg",
+      "sjaelland",
+      "Vejlebyvej 19",
+      "4970",
+      "Rødby",
+      "23472394",
+      "https://www.facebook.com/groups/804652010116138/",
+      "Ægproducent i Vejleby på Lolland. Kontakt producenten eller se Facebook-gruppen for aftale om køb og afhentning.",
+      "https://www.krak.dk/dm%2B%C3%A6g%2Bi%252fs%2Br%C3%B8dby/166146312/firma"
+    ],
+    "sources": [
+      "https://www.facebook.com/groups/804652010116138/",
+      "https://www.postage.dk/virksomhed/1054249-dm-aeg-i-s/"
+    ],
+    "note": "Facebook-gruppe leveret af brugeren. Indhold ikke tilgængeligt ved opslag. Adresse er registreret producentadresse; separat kundeadresse og åbningstider ikke bekræftet. Beskrivelse beder derfor om aftale før afhentning."
+  },
+  {
+    "farm": [
+      "lf-koed",
+      "LF Kød",
+      "sjaelland",
+      "Maribovej 86",
+      "4990",
+      "Sakskøbing",
+      "54707030",
+      "https://www.facebook.com/lfkoed",
+      "Slagterbutik i Våbensted på Lolland med fersk kød og forskellige udskæringer.",
+      "https://saxby.dk/partnere/lf-koed/"
+    ],
+    "sources": [
+      "https://www.findsmiley.dk/Sider/VirkSide.aspx?virk=1420856"
+    ],
+    "note": "Facebook-link fra byportal. Hjemmesiden lf-koed.dk kunne ikke åbnes ved kontrollen; brugbart kontaktalternativ anvendt."
+  },
+  {
+    "farm": [
+      "vesterborg-fjerkrae",
+      "Vesterborg Fjerkræ- og Vildtslagteri",
+      "sjaelland",
+      "Gallemosevej 6",
+      "4953",
+      "Vesterborg",
+      "28156118",
+      "",
+      "Fjerkræ og vildt fra slagteriet på Lolland. Ring for aktuelt udvalg, bestilling og aftale om afhentning.",
+      "https://www.tsho.dk/partnere/"
+    ],
+    "sources": [
+      "https://www.findsmiley.dk/Sider/VirkSide.aspx?virk=954474",
+      "https://www.allegaardenskylling.dk/om-dyrene"
+    ],
+    "note": "Salg/gårdbutik omtalt af Allégården i forbindelse med ænder 2024. Adresse fra fødevarekontrollen, telefon fra partnerliste. Aktivt eget link ikke fundet sikkert."
+  },
+  {
+    "farm": [
+      "gaardstoften",
+      "Gårdstoften",
+      "sjaelland",
+      "Gårdstofte 19",
+      "4100",
+      "Ringsted",
+      "27215696",
+      "https://gaardstoften.dk/",
+      "Gårdbutik med svinekød, pølser, bacon og leverpostej fra egne grise samt salg af æbletræer.",
+      "https://gaardstoften.dk/"
+    ],
+    "sources": [
+      "https://www.proff.dk/firma/g%C3%A5rdstoften/ringsted/jordbrug/GWWVNJI10OF"
+    ],
+    "note": "Salg, telefon og udvalg fra egen side; adresse fra CVR-oplysninger."
+  },
+  {
+    "farm": [
+      "noergaard-charolais",
+      "Nørgaard Charolais",
+      "nordjylland",
+      "Sennelsvej 147",
+      "7700",
+      "Thisted",
+      "24988474",
+      "https://www.facebook.com/679036625810147/",
+      "Oksekød fra Charolaiskvæg ved Lønnerup Fjord. Kødkasser og udskæringer bestilles på forhånd; aftal afhentning eller levering.",
+      "https://www.foodbevg.com/DK/Thisted/679036625810147/N%C3%B8rgaard-Charolais"
+    ],
+    "sources": [
+      "https://www.facebook.com/679036625810147/"
+    ],
+    "note": "Aktuelle opslag fra 2026 om kødsalg og telefon læst via offentlig spejling af Facebook. Direkte Facebook-indhold utilgængeligt. Ældre ophørt CVR for Stig er ikke brugt som bevis for ophørt salg."
+  },
+  {
+    "farm": [
+      "over-ugilt",
+      "Over Ugilt Gårdbutik",
+      "nordjylland",
+      "Ugiltvej 591",
+      "9800",
+      "Hjørring",
+      "40686986",
+      "https://www.over-ugilt.dk/",
+      "Gårdbutik med oksekød, svinekød, kylling, æg og lokale specialiteter ved Hjørring.",
+      "https://www.over-ugilt.dk/"
+    ],
+    "sources": []
+  },
+  {
+    "farm": [
+      "skotsgaard",
+      "Skotsgaard Gårdbutik",
+      "syddanmark",
+      "Vejlevej 40",
+      "7182",
+      "Bredsten",
+      "61310264",
+      "https://skotsgaard.dk/",
+      "Kød, vildt, charcuteri, ost og delikatesser fra udvalgte producenter. Også drikkevarer og gavekurve.",
+      "https://skotsgaard.dk/"
+    ],
+    "sources": [
+      "https://skotsgaard.dk/kontakt/"
+    ]
+  },
+  {
+    "farm": [
+      "sandgaarden-hoeve",
+      "Sandgaarden",
+      "sjaelland",
+      "Høve Stræde 6",
+      "4550",
+      "Asnæs",
+      "",
+      "",
+      "Gårdbutik i Høve med æg, sæsonens grøntsager og bær samt kød fra gårdens kvæg, grise og fjerkræ.",
+      "https://www.fritidsmarkedet.dk/artikel/128505-jesper-tog-turen-fra-malkeproducent-til-morten-korch"
+    ],
+    "sources": [
+      "https://www.findmenukort.dk/sandgaarden-hoeve-straede-6-4550-asnaes/",
+      "https://hoeve-bylaug.dk/43336092"
+    ],
+    "note": "Gårdbutik i Høve, ikke restauranten i Søndervig. Drift dokumenteret i reportage august 2025; adresse fra fødevarekontrol-katalog. Sikkert offentligt telefonnummer og eget link ikke fundet."
+  },
+  {
+    "farm": [
+      "brodamgaard",
+      "Brodamgaard",
+      "nordjylland",
+      "Brodam 5",
+      "9310",
+      "Vodskov",
+      "22838054",
+      "https://brodamgaard.dk/",
+      "Selvbetjent gårdbutik med sæsonens økologiske grøntsager og æg fra frilandshøns ved Vodskov.",
+      "https://brodamgaard.dk/"
+    ],
+    "sources": [],
+    "note": "Brugerens Brodamsgaard identificeret som Brodamgaard. Sortiment og økologibeskrivelse fra producentens egen hjemmeside."
+  },
+  {
+    "farm": [
+      "hegnsholt",
+      "Hegnsholt",
+      "sjaelland",
+      "Lejrevej 52A",
+      "4320",
+      "Lejre",
+      "20250525",
+      "https://www.hegnsholt.net/",
+      "Økologisk smålandbrug og gårdbutik med æg, grøntsager og surdejsbageri ved Lejre.",
+      "https://www.hegnsholt.net/kontakt"
+    ],
+    "sources": [
+      "https://www.hegnsholt.net/produkter",
+      "https://goforlocal.dk/find-lokale-foedevarer/hegnsholt"
+    ],
+    "note": "Egen kontakt-side angiver 52A; telefon fra producentprofil på GoForLocal."
+  },
+  {
+    "farm": [
+      "troldgaarden",
+      "Troldgaarden",
+      "midtjylland",
+      "Troldkirkevej 4",
+      "8732",
+      "Hovedgård",
+      "28693516",
+      "https://troldgaarden.dk/",
+      "Økologisk gårdbutik i Vedslet ved Horsens med kød fra sortbrogede grise, græsfodret oksekød, charcuteri og honning.",
+      "https://troldgaarden.dk/"
+    ],
+    "sources": []
+  },
+  {
+    "farm": [
+      "rydskovgaard",
+      "Rydskovgaard",
+      "syddanmark",
+      "Viuf Skovvej 86",
+      "6052",
+      "Viuf",
+      "24439812",
+      "https://rydskovgaard.dk/",
+      "Økologisk svinekød og oksekød fra egne dyr samt pølser og økologiske kolonialvarer i gårdbutikken.",
+      "https://rydskovgaard.dk/"
+    ],
+    "sources": [
+      "https://www.rydskovgaard.dk/index.php/gardbutik/salg-fra-gardbutik"
+    ],
+    "note": "Egen side læst via søgeindeks; direkte hentning gav 403. Navnet er Rydskovgaard, ikke Rydskovsgaard."
+  },
+  {
+    "farm": [
+      "solhoejgaard-oekologi",
+      "Solhøjgård Økologi",
+      "syddanmark",
+      "Nørupvej 30",
+      "7321",
+      "Gadbjerg",
+      "25481348",
+      "https://xn--solhjgrdkologi-qib51af.dk/",
+      "Økologisk svinekød fra gårdens egne frilandsgrise. Udskæringer i gårdbutikken og halve grise efter forudbestilling.",
+      "https://xn--solhjgrdkologi-qib51af.dk/"
+    ],
+    "sources": [
+      "https://danskokojord.dk/jord/solhojgard/"
+    ]
+  },
+  {
+    "farm": [
+      "hallegaard",
+      "Hallegård",
+      "hovedstaden",
+      "Aspevej 3",
+      "3751",
+      "Østermarie",
+      "51889981",
+      "https://hallegaard.eu/",
+      "Gårdbutik og pølsemageri på Bornholm med kød, spegepølser, grillpølser og charcuteri. Også webshop.",
+      "https://hallegaard.eu/"
+    ],
+    "sources": [],
+    "note": "Egen side har telefon 51889981 og domænet hallegaard.eu. Ældre turistkatalogers telefon er ikke anvendt."
+  },
+  {
+    "farm": [
+      "wagyu-bornholm",
+      "Wagyu Bornholm – Torvehal Bornholm",
+      "hovedstaden",
+      "Gartnervangen 6",
+      "3700",
+      "Rønne",
+      "28158823",
+      "https://wagyubornholm.dk/salg-af-koed/",
+      "Bornholmsk Wagyu-oksekød og udskæringer. Producentens salgssted er Torvehal Bornholm i Rønne.",
+      "https://wagyubornholm.dk/salg-af-koed/"
+    ],
+    "sources": [
+      "https://wagyubornholm.dk/kontakt/"
+    ],
+    "note": "Besøgsadresse er salgsstedet angivet på producentens hjemmeside, ikke gårdens avlsadresse."
+  },
+  {
+    "farm": [
+      "den-bornholmske-kalv",
+      "Den Bornholmske Kalv – Nygård-Pilegård",
+      "hovedstaden",
+      "Simblegårdsvej 22",
+      "3790",
+      "Hasle",
+      "20478657",
+      "https://nygaard-pilegaard.dk/",
+      "Gårdbutik på Bornholm med kalvekød, steaks, spegepølser og leverpostej. Nygård-Pilegård har også pluk-selv-blomster i sæsonen.",
+      "https://nygaard-pilegaard.dk/"
+    ],
+    "sources": [
+      "https://gaarden.nu/da/gourmet-bornholm/den-bornholmske-kalv/"
+    ],
+    "note": "Den Bornholmske Kalv og Nygård-Pilegård i brugerens liste er samme producent/besøgssted og er samlet i én post."
+  },
+  {
+    "farm": [
+      "krogsholm-frugt",
+      "Krogsholm Frugt",
+      "hovedstaden",
+      "Kongensmark 12",
+      "3700",
+      "Rønne",
+      "27979289",
+      "https://krogsholmfrugt.dk/",
+      "Gårdbutik og mosteri på Bornholm med frugt, grøntsager, æblemost, saft og marmelade. Egne afgrøder dyrkes uden sprøjtemidler.",
+      "https://krogsholmfrugt.dk/"
+    ],
+    "sources": [
+      "https://krogsholmfrugt.dk/om-os/",
+      "https://bornholm.info/krogsholm-frugt/"
+    ],
+    "note": "Adresse og telefon fra Destination Bornholm; udvalg og dyrkningsform fra egen hjemmeside. Sprøjtefri er ikke omformuleret til certificeret økologisk."
+  }
+]

@@ -93,6 +93,7 @@ button, a { -webkit-tap-highlight-color:transparent; }
 .founder-name { margin:0 0 6px; font-weight:700; }
 .founder-role { margin:0; font-size:.82rem; line-height:1.6; }
 .founder-link { display:inline-block; margin-top:22px; font-size:.75rem; font-weight:700; text-underline-offset:5px; }
+.founder-portrait { display:block; width:100%; max-width:400px; height:auto; margin-top:32px; border-radius:3px; }
 .founder-letter { max-width:680px; font-size:1rem; line-height:1.8; }
 .founder-letter p { margin:0 0 24px; }
 .founder-letter .founder-lead { font-family:var(--font-display),serif; font-size:clamp(1.4rem,2vw,1.9rem); line-height:1.45; margin-bottom:32px; }

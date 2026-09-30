@@ -1,10 +1,10 @@
 # Gårdbutikker – kilder og kontrol
 
-Kontrolleret 28. september 2026. Udgangspunkt: brugerens Danske Gårdbutikker.pdf. 68 unikke steder; Nørregaarden var en dublet. Ingen åbningstider er importeret.
+Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. I alt 96 unikke steder. Ingen åbningstider er importeret.
 
 Kontaktdata er fundet på butikkernes egne sider, hvor muligt, og ellers i de angivne sekundære kilder. Et adresseopslag bekræfter adressens eksistens, ikke at butikken fortsat drives. Tomme felter betyder ikke fundet sikkert. Links kan ændre sig eller kræve Facebook-login.
 
-Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen og omregnes til kortets Mercator-projektion. Seks kortmarkører bruger en nærliggende bygning, fordi butikken angiver et hovednummer eller nummerinterval, som DAR opdeler.
+Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen og omregnes til kortets Mercator-projektion. Enkelte kortmarkører bruger en nærliggende bygning, fordi butikken angiver et hovednummer eller nummerinterval, som DAR opdeler.
 
 ## Båstrup Skovgård
 
@@ -568,4 +568,275 @@ Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen og omregn
 - Kontaktkilde: https://www.findmenukort.dk/bakkemosegaard-ravnsborgvej-31-4943-torrig-l/
 - DAR: https://api.dataforsyningen.dk/adresser/0a3f50b0-fc5d-32b8-e044-0003ba298018
 - Bemærkning: Facebook-link leveret af brugeren. Facebook viste utilgængeligt indhold uden login; linkets indhold kunne ikke bekræftes. Adresse og telefon fra den anførte sekundære kilde.
+
+## Møn Is
+
+- Adresse: Hovgårdsvej 4, 4780 Stege
+- Telefon: 23263819
+- Link: https://www.moen-is.dk/
+- Kontaktkilde: https://www.moen-is.dk/kontakt
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50af-e329-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.moen-is.dk/
+- Supplerende kilde: https://moenguide.com/wp-content/uploads/2025/04/50-things-to-do-on-Moen-2025-til-swipebook.pdf
+- Bemærkning: Telefon fra Møn-guiden 2025; adresse og produktion fra egen hjemmeside.
+
+## Gartneriet Rødmose
+
+- Adresse: Rødmosevej 131, 6052 Viuf
+- Telefon: 51242207
+- Link: https://www.roedmose.dk/
+- Kontaktkilde: https://www.roedmose.dk/biodynamiskgartneri/gartneriets-historie
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ba-5f4e-32b8-e044-0003ba298018
+- Supplerende kilde: https://direktefragaarden.dk/producent/gartneriet-rodmose
+
+## Gårdbutikken Bodebjergvej 42
+
+- Adresse: Bodebjergvej 42, 5620 Glamsbjerg
+- Telefon: 28737733
+- Link: https://www.bodebjergvej.dk/
+- Kontaktkilde: https://www.bodebjergvej.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b2-c2d8-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.visitdenmark.dk/danmark/explore/gaardbutikken-paa-bodebjergvej-42-gdk1135127
+- Bemærkning: Egen hjemmeside og VisitDenmark har telefon 28737733; ældre katalogers nummer er ikke anvendt.
+
+## Toftegaards Gårdbutik
+
+- Adresse: Glorupvej 16, 5853 Ørbæk
+- Telefon: 20775349
+- Link: https://toftegaards-gaardbutik.dk/
+- Kontaktkilde: https://toftegaards-gaardbutik.dk/kontakt/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b6-18a2-32b8-e044-0003ba298018
+- Supplerende kilde: https://toftegaards-gaardbutik.dk/koeb-koed-oestfyn/
+- Bemærkning: Ikke samme sted som den eksisterende Toftegården i Albertslund. Svinekød og certificeret økologi ikke bekræftet på egen side; derfor ikke anført. Siden skriver økologiske principper.
+
+## Stald Kærsgård
+
+- Adresse: Søbyvej 3, 5700 Svendborg
+- Telefon: 22897362
+- Link: https://www.facebook.com/staldkaersgaard/
+- Kontaktkilde: https://aabentlandbrug.dk/besoeg-en-gaardbutik/kort/stald-kaersgaard-gaardbutik/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b5-a748-32b8-e044-0003ba298018
+- Supplerende kilde: https://svendborg.cylex.dk/firma/stald-k%C3%A6rsg%C3%A5rd/13979271.html
+- Bemærkning: Facebook-link fra producentens profil hos Åbent Landbrug; Facebook-indhold kunne ikke læses. Telefon fra Cylex. Tåsinge er udeladt af det eksisterende forenklede SVG-kort. Markøren bevarer den korrekte DAR-koordinat (54.97157082, 10.56565663); rutevejledning bruger besøgsadressen.
+
+## Fuglhøjgaard
+
+- Adresse: Vork Skolevej 6, 6040 Egtved
+- Telefon: 28707910
+- Link: https://www.fuglhojgaard.dk/
+- Kontaktkilde: https://www.fuglhojgaard.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ba-7f03-32b8-e044-0003ba298018
+
+## Fuglsanggaard
+
+- Adresse: Fuglsangvej 13, 4720 Præstø
+- Telefon: 25684646
+- Link: https://www.fuglsanggaard.info/
+- Kontaktkilde: https://www.fuglsanggaard.info/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b0-ee4f-32b8-e044-0003ba298018
+
+## RønhaveSlagteren
+
+- Adresse: Hestehave 24, 6400 Sønderborg
+- Telefon: 29881085
+- Link: https://www.ronhaveslagteren.dk/
+- Kontaktkilde: https://www.ronhaveslagteren.dk/pages/contact
+- DAR: https://api.dataforsyningen.dk/adresser/98088c7d-2fe3-44b4-ba5c-88e5661f5163
+- Supplerende kilde: https://ronhave.eu/ronhave-slagteren/
+- Bemærkning: Egen side skriver Hestehave 24,2. Besøgsadresse Hestehave 24 anvendt; gårdens side beskriver indgang fra gårdspladsen.
+
+## Søtofte Gårdmejeri
+
+- Adresse: Søtoftevej 74, 4100 Ringsted
+- Telefon: 27202878
+- Link: https://www.xn--stoftegrdmejeri-nlb03a.dk/
+- Kontaktkilde: https://www.xn--stoftegrdmejeri-nlb03a.dk/kontakt
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50af-68ad-32b8-e044-0003ba298018
+- Supplerende kilde: https://erhvervsforum.dk/wp-content/uploads/2021/03/ROKOST.pdf
+- Bemærkning: Adresse fra egen hjemmeside. Telefon fra producentbrochure; ikke vist på kontakt-sidens læsbare tekst.
+
+## Fyns GræsÆg
+
+- Adresse: Snarupvejen 24, 5750 Ringe
+- Telefon: 24486391
+- Link: https://fynsgraesaeg.dk/
+- Kontaktkilde: https://fynsgraesaeg.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b5-38db-32b8-e044-0003ba298018
+
+## Røjlegårdens Gårdbutik
+
+- Adresse: Nykøbingvej 26C, 4440 Mørkøv
+- Telefon: 50356372
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://www.findsmiley.dk/1515340
+- DAR: https://api.dataforsyningen.dk/adresser/3a226fcb-c90d-4c45-adb9-475ef153e729
+- Supplerende kilde: https://bizdex.dk/companies/friske-landaeg-fra-roejlegaarden-45658767
+- Bemærkning: Besøgsadresse bekræftet i fødevarekontrollen 17. februar 2026. Telefon og ægproduktion fra virksomhedsdata. Eget aktivt link ikke fundet sikkert.
+
+## DM Æg
+
+- Adresse: Vejlebyvej 19, 4970 Rødby
+- Telefon: 23472394
+- Link: https://www.facebook.com/groups/804652010116138/
+- Kontaktkilde: https://www.krak.dk/dm%2B%C3%A6g%2Bi%252fs%2Br%C3%B8dby/166146312/firma
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b1-26d8-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.facebook.com/groups/804652010116138/
+- Supplerende kilde: https://www.postage.dk/virksomhed/1054249-dm-aeg-i-s/
+- Bemærkning: Facebook-gruppe leveret af brugeren. Indhold ikke tilgængeligt ved opslag. Adresse er registreret producentadresse; separat kundeadresse og åbningstider ikke bekræftet. Beskrivelse beder derfor om aftale før afhentning.
+
+## LF Kød
+
+- Adresse: Maribovej 86, 4990 Sakskøbing
+- Telefon: 54707030
+- Link: https://www.facebook.com/lfkoed
+- Kontaktkilde: https://saxby.dk/partnere/lf-koed/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b1-3daa-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.findsmiley.dk/Sider/VirkSide.aspx?virk=1420856
+- Bemærkning: Facebook-link fra byportal. Hjemmesiden lf-koed.dk kunne ikke åbnes ved kontrollen; brugbart kontaktalternativ anvendt.
+
+## Vesterborg Fjerkræ- og Vildtslagteri
+
+- Adresse: Gallemosevej 6, 4953 Vesterborg
+- Telefon: 28156118
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://www.tsho.dk/partnere/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50af-c667-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.findsmiley.dk/Sider/VirkSide.aspx?virk=954474
+- Supplerende kilde: https://www.allegaardenskylling.dk/om-dyrene
+- Bemærkning: Salg/gårdbutik omtalt af Allégården i forbindelse med ænder 2024. Adresse fra fødevarekontrollen, telefon fra partnerliste. Aktivt eget link ikke fundet sikkert.
+
+## Gårdstoften
+
+- Adresse: Gårdstofte 19, 4100 Ringsted
+- Telefon: 27215696
+- Link: https://gaardstoften.dk/
+- Kontaktkilde: https://gaardstoften.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ae-334c-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.proff.dk/firma/g%C3%A5rdstoften/ringsted/jordbrug/GWWVNJI10OF
+- Bemærkning: Salg, telefon og udvalg fra egen side; adresse fra CVR-oplysninger.
+
+## Nørgaard Charolais
+
+- Adresse: Sennelsvej 147, 7700 Thisted
+- Telefon: 24988474
+- Link: https://www.facebook.com/679036625810147/
+- Kontaktkilde: https://www.foodbevg.com/DK/Thisted/679036625810147/N%C3%B8rgaard-Charolais
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50c6-2abc-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.facebook.com/679036625810147/
+- Bemærkning: Aktuelle opslag fra 2026 om kødsalg og telefon læst via offentlig spejling af Facebook. Direkte Facebook-indhold utilgængeligt. Ældre ophørt CVR for Stig er ikke brugt som bevis for ophørt salg.
+
+## Over Ugilt Gårdbutik
+
+- Adresse: Ugiltvej 591, 9800 Hjørring
+- Telefon: 40686986
+- Link: https://www.over-ugilt.dk/
+- Kontaktkilde: https://www.over-ugilt.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50c9-2113-32b8-e044-0003ba298018
+
+## Skotsgaard Gårdbutik
+
+- Adresse: Vejlevej 40, 7182 Bredsten
+- Telefon: 61310264
+- Link: https://skotsgaard.dk/
+- Kontaktkilde: https://skotsgaard.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ba-7dc5-32b8-e044-0003ba298018
+- Supplerende kilde: https://skotsgaard.dk/kontakt/
+
+## Sandgaarden
+
+- Adresse: Høve Stræde 6, 4550 Asnæs
+- Telefon: Ikke fundet sikkert
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://www.fritidsmarkedet.dk/artikel/128505-jesper-tog-turen-fra-malkeproducent-til-morten-korch
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ac-bb06-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.findmenukort.dk/sandgaarden-hoeve-straede-6-4550-asnaes/
+- Supplerende kilde: https://hoeve-bylaug.dk/43336092
+- Bemærkning: Gårdbutik i Høve, ikke restauranten i Søndervig. Drift dokumenteret i reportage august 2025; adresse fra fødevarekontrol-katalog. Sikkert offentligt telefonnummer og eget link ikke fundet.
+
+## Brodamgaard
+
+- Adresse: Brodam 5, 9310 Vodskov
+- Telefon: 22838054
+- Link: https://brodamgaard.dk/
+- Kontaktkilde: https://brodamgaard.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50c7-bc2e-32b8-e044-0003ba298018
+- Bemærkning: Brugerens Brodamsgaard identificeret som Brodamgaard. Sortiment og økologibeskrivelse fra producentens egen hjemmeside.
+
+## Hegnsholt
+
+- Adresse: Lejrevej 52A, 4320 Lejre
+- Telefon: 20250525
+- Link: https://www.hegnsholt.net/
+- Kontaktkilde: https://www.hegnsholt.net/kontakt
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ab-aa3b-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.hegnsholt.net/produkter
+- Supplerende kilde: https://goforlocal.dk/find-lokale-foedevarer/hegnsholt
+- Bemærkning: Egen kontakt-side angiver 52A; telefon fra producentprofil på GoForLocal.
+
+## Troldgaarden
+
+- Adresse: Troldkirkevej 4, 8732 Hovedgård
+- Telefon: 28693516
+- Link: https://troldgaarden.dk/
+- Kontaktkilde: https://troldgaarden.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50ba-f5ee-32b8-e044-0003ba298018
+
+## Rydskovgaard
+
+- Adresse: Viuf Skovvej 86, 6052 Viuf
+- Telefon: 24439812
+- Link: https://rydskovgaard.dk/
+- Kontaktkilde: https://rydskovgaard.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50bc-58a3-32b8-e044-0003ba298018
+- Supplerende kilde: https://www.rydskovgaard.dk/index.php/gardbutik/salg-fra-gardbutik
+- Bemærkning: Egen side læst via søgeindeks; direkte hentning gav 403. Navnet er Rydskovgaard, ikke Rydskovsgaard.
+
+## Solhøjgård Økologi
+
+- Adresse: Nørupvej 30, 7321 Gadbjerg
+- Telefon: 25481348
+- Link: https://xn--solhjgrdkologi-qib51af.dk/
+- Kontaktkilde: https://xn--solhjgrdkologi-qib51af.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50bb-05c9-32b8-e044-0003ba298018
+- Supplerende kilde: https://danskokojord.dk/jord/solhojgard/
+
+## Hallegård
+
+- Adresse: Aspevej 3, 3751 Østermarie
+- Telefon: 51889981
+- Link: https://hallegaard.eu/
+- Kontaktkilde: https://hallegaard.eu/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b1-d5ff-32b8-e044-0003ba298018
+- Bemærkning: Egen side har telefon 51889981 og domænet hallegaard.eu. Ældre turistkatalogers telefon er ikke anvendt.
+
+## Wagyu Bornholm – Torvehal Bornholm
+
+- Adresse: Gartnervangen 6, 3700 Rønne
+- Telefon: 28158823
+- Link: https://wagyubornholm.dk/salg-af-koed/
+- Kontaktkilde: https://wagyubornholm.dk/salg-af-koed/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b1-e895-32b8-e044-0003ba298018
+- Supplerende kilde: https://wagyubornholm.dk/kontakt/
+- Bemærkning: Besøgsadresse er salgsstedet angivet på producentens hjemmeside, ikke gårdens avlsadresse.
+
+## Den Bornholmske Kalv – Nygård-Pilegård
+
+- Adresse: Simblegårdsvej 22, 3790 Hasle
+- Telefon: 20478657
+- Link: https://nygaard-pilegaard.dk/
+- Kontaktkilde: https://nygaard-pilegaard.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b2-1d78-32b8-e044-0003ba298018
+- Supplerende kilde: https://gaarden.nu/da/gourmet-bornholm/den-bornholmske-kalv/
+- Bemærkning: Den Bornholmske Kalv og Nygård-Pilegård i brugerens liste er samme producent/besøgssted og er samlet i én post.
+
+## Krogsholm Frugt
+
+- Adresse: Kongensmark 12, 3700 Rønne
+- Telefon: 27979289
+- Link: https://krogsholmfrugt.dk/
+- Kontaktkilde: https://krogsholmfrugt.dk/
+- DAR: https://api.dataforsyningen.dk/adresser/0a3f50b1-fc8b-32b8-e044-0003ba298018
+- Supplerende kilde: https://krogsholmfrugt.dk/om-os/
+- Supplerende kilde: https://bornholm.info/krogsholm-frugt/
+- Bemærkning: Adresse og telefon fra Destination Bornholm; udvalg og dyrkningsform fra egen hjemmeside. Sprøjtefri er ikke omformuleret til certificeret økologisk.
 

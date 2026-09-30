@@ -542,5 +542,229 @@
     "latitude": 54.89274801,
     "source": "https://api.dataforsyningen.dk/adresser/0a3f50b0-fc5d-32b8-e044-0003ba298018",
     "approximate": false
+  },
+  {
+    "id": "moen-is",
+    "address": "Hovgårdsvej 4, Pollerup, 4780 Stege",
+    "longitude": 12.36838947,
+    "latitude": 54.96886975,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50af-e329-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "gartneriet-roedmose",
+    "address": "Rødmosevej 131, Tiufkær, 6052 Viuf",
+    "longitude": 9.50297729,
+    "latitude": 55.62813081,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-5f4e-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "bodebjergvej-42",
+    "address": "Bodebjergvej 42, Køng, 5620 Glamsbjerg",
+    "longitude": 10.10083379,
+    "latitude": 55.25173486,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b2-c2d8-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "toftegaards-oerbaek",
+    "address": "Glorupvej 16, Svindinge, 5853 Ørbæk",
+    "longitude": 10.68976291,
+    "latitude": 55.21447115,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b6-18a2-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "stald-kaersgaard",
+    "address": "Søbyvej 3, Tåsinge, 5700 Svendborg",
+    "longitude": 10.56565663,
+    "latitude": 54.97157082,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b5-a748-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fuglhoejgaard",
+    "address": "Vork Skolevej 6, 6040 Egtved",
+    "longitude": 9.32527157,
+    "latitude": 55.6452835,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-7f03-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fuglsanggaard",
+    "address": "Fuglsangvej 13, 4720 Præstø",
+    "longitude": 12.13295634,
+    "latitude": 55.1165979,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b0-ee4f-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "roenhave-slagteren",
+    "address": "Hestehave 24, 1, Kær, 6400 Sønderborg",
+    "longitude": 9.7706111,
+    "latitude": 54.95229829,
+    "source": "https://api.dataforsyningen.dk/adresser/98088c7d-2fe3-44b4-ba5c-88e5661f5163",
+    "approximate": false
+  },
+  {
+    "id": "soetofte-gaardmejeri",
+    "address": "Søtoftevej 74, Søtofte, 4100 Ringsted",
+    "longitude": 11.68842254,
+    "latitude": 55.5130425,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50af-68ad-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "fyns-graesaeg",
+    "address": "Snarupvejen 24, Herringe, 5750 Ringe",
+    "longitude": 10.4405231,
+    "latitude": 55.18033474,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b5-38db-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "roejlegaardens",
+    "address": "Nykøbingvej 26C, Stigs Bjergby, 4440 Mørkøv",
+    "longitude": 11.48396382,
+    "latitude": 55.66910932,
+    "source": "https://api.dataforsyningen.dk/adresser/3a226fcb-c90d-4c45-adb9-475ef153e729",
+    "approximate": false
+  },
+  {
+    "id": "dm-aeg",
+    "address": "Vejlebyvej 19, 4970 Rødby",
+    "longitude": 11.33902185,
+    "latitude": 54.74895041,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-26d8-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "lf-koed",
+    "address": "Maribovej 86, Våbensted, 4990 Sakskøbing",
+    "longitude": 11.59371474,
+    "latitude": 54.79459533,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-3daa-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "vesterborg-fjerkrae",
+    "address": "Gallemosevej 6, 4953 Vesterborg",
+    "longitude": 11.30727663,
+    "latitude": 54.84453758,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50af-c667-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "gaardstoften",
+    "address": "Gårdstofte 19, Ørslevvester, 4100 Ringsted",
+    "longitude": 11.70317052,
+    "latitude": 55.47644402,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ae-334c-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "noergaard-charolais",
+    "address": "Sennelsvej 147, Hov, 7700 Thisted",
+    "longitude": 8.79768914,
+    "latitude": 56.99867953,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c6-2abc-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "over-ugilt",
+    "address": "Ugiltvej 591, Ugilt, 9800 Hjørring",
+    "longitude": 10.13029671,
+    "latitude": 57.41942602,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c9-2113-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "skotsgaard",
+    "address": "Vejlevej 40, 7182 Bredsten",
+    "longitude": 9.39172803,
+    "latitude": 55.69968869,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-7dc5-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "sandgaarden-hoeve",
+    "address": "Høve Stræde 6, 4550 Asnæs",
+    "longitude": 11.49496272,
+    "latitude": 55.84150336,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ac-bb06-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "brodamgaard",
+    "address": "Brodam 5, Vester Hassing, 9310 Vodskov",
+    "longitude": 10.1344998,
+    "latitude": 57.07782515,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50c7-bc2e-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "hegnsholt",
+    "address": "Lejrevej 52A, Allerslev, 4320 Lejre",
+    "longitude": 11.96806403,
+    "latitude": 55.58920956,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ab-aa3b-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "troldgaarden",
+    "address": "Troldkirkevej 4, Vedslet, 8732 Hovedgård",
+    "longitude": 10.03314081,
+    "latitude": 55.9534677,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50ba-f5ee-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "rydskovgaard",
+    "address": "Viuf Skovvej 86, 6052 Viuf",
+    "longitude": 9.50930105,
+    "latitude": 55.60874437,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50bc-58a3-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "solhoejgaard-oekologi",
+    "address": "Nørupvej 30, Rostrup, 7321 Gadbjerg",
+    "longitude": 9.28683565,
+    "latitude": 55.73662973,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50bb-05c9-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "hallegaard",
+    "address": "Aspevej 3, Østermarie, 3751 Østermarie",
+    "longitude": 15.06037955,
+    "latitude": 55.11736542,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-d5ff-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "wagyu-bornholm",
+    "address": "Gartnervangen 6, Rønne, 3700 Rønne",
+    "longitude": 14.70544044,
+    "latitude": 55.11172922,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-e895-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "den-bornholmske-kalv",
+    "address": "Simblegårdsvej 22, Klemensker, 3790 Hasle",
+    "longitude": 14.74365032,
+    "latitude": 55.18144516,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b2-1d78-32b8-e044-0003ba298018",
+    "approximate": false
+  },
+  {
+    "id": "krogsholm-frugt",
+    "address": "Kongensmark 12, Aarsballe, 3700 Rønne",
+    "longitude": 14.89108311,
+    "latitude": 55.1684324,
+    "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-fc8b-32b8-e044-0003ba298018",
+    "approximate": false
   }
 ]
