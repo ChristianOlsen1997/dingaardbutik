@@ -1,5 +1,17 @@
 @import "tailwindcss";
 
+.region-links { display:flex; flex-wrap:wrap; gap:14px 24px; padding:24px 0; font-size:.9rem; }
+.region-links a { text-decoration:underline; text-underline-offset:4px; }
+.region-links a[aria-current="page"] { font-weight:700; }
+.region-page { max-width:900px; margin:48px auto 64px; }
+.region-page h1 { font-family:var(--font-display),serif; font-size:clamp(2.3rem,5vw,4rem); line-height:1.12; margin:24px 0; }
+.region-intro { font-size:1.15rem; line-height:1.65; }
+.region-list { margin-top:40px; }
+.region-entry { padding:28px 0; border-top:1px solid var(--forest); }
+.region-entry h2 { font-family:var(--font-display),serif; font-size:1.65rem; margin:0 0 12px; }
+.region-entry p { margin:12px 0; line-height:1.6; }
+.region-entry address { font-style:normal; line-height:1.6; margin-bottom:16px; }
+
 :root { --paper:#f3f0e7; --forest:#173c29; --green:#2ca557; --line:#cfc9b8; --cream:#faf8f1; }
 * { box-sizing: border-box; }
 html { max-width:100%; overflow-x:clip; scroll-behavior:smooth; }

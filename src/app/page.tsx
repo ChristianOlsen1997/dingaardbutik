@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import Link from "next/link";
+import { regions } from "@/data/regions";
 import { DenmarkMap } from "@/components/DenmarkMap";
 import { Header } from "@/components/Header";
 import { RegionDirectory } from "@/components/RegionDirectory";
@@ -54,6 +56,9 @@ export default function Home() {
           <p className="eyebrow">Om oversigten</p>
           <p>En enkel vejviser til danske gårdbutikker og lokale varer direkte fra gården.</p>
         </section>
+        <nav className="region-links" aria-label="Find gårdbutikker efter region">
+          {regions.map((region) => <Link key={region.id} href={`/gaardbutikker/${region.id}`}>Gårdbutikker i {region.name}</Link>)}
+        </nav>
         <footer id="tilfoej" className="footer">
           <div><span className="wordmark">dingårdbutik</span><p>En uafhængig oversigt over gårdbutikker i Danmark.</p><p>Bekræft altid oplysningerne direkte med gårdbutikken, før du tager afsted.</p></div>
           <div id="annoncering" className="advertising-contact">
