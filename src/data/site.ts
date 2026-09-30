@@ -1,1 +1,1 @@
-export const siteUrl = "https://dingaardbutik.dk";
+export const siteUrl = "https://www.dingaardbutik.dk";
