@@ -59,10 +59,9 @@ export default function Home() {
         </section>
         <section className="founder-story" aria-labelledby="founder-heading">
           <div className="founder-profile">
-            <p className="eyebrow">Mennesket bag initiativet</p>
             <h2 id="founder-heading">Mere end bare<br />en gårdbutiksliste.</h2>
             <p className="founder-name">Sebastian Behnke</p>
-            <p className="founder-role">Personlig træner</p>
+            <p className="founder-role">Personlig træner og coach</p>
             <a className="founder-link" href="https://www.sebastianb.dk/behnke-coaching" target="_blank" rel="noreferrer">Mød Sebastian <span aria-hidden="true">↗</span></a>
             <Image
               className="founder-portrait"
