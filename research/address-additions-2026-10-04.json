@@ -1,0 +1,2210 @@
+[
+  {
+    "id": "henrik-obling",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Hagelsk%C3%A6rvej+46%2C+7430&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Hagelskærvej",
+        "husnr": "46",
+        "postnr": "7430",
+        "x": 9.121484784341314,
+        "y": 56.15737798577911,
+        "betegnelse": "Hagelskærvej 46, 7430 Ikast",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5092-0a65-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5092-0a65-32b8-e044-0003ba298018",
+          "husnummertekst": "46",
+          "adgangsadressebetegnelse": "Hagelskærvej 46, 7430 Ikast",
+          "vejnavn": "Hagelskærvej",
+          "status": "3",
+          "virkningfra": "2025-10-23T11:10:19.457Z",
+          "virkningtil": null,
+          "registreringfra": "2025-10-23T11:10:19.457Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5092-0a65-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2015-06-29T14:26:55.237+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                507545.92,
+                6223602.2
+              ]
+            },
+            "koordinater": {
+              "x": 507545.92,
+              "y": 6223602.2
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "1954a0e1-4747-463f-b981-8c9e998eb29e",
+            "navn": "Ikast",
+            "postnr": "7430",
+            "status": "3",
+            "virkningfra": "2023-03-24T14:05:03.587401+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T14:05:03.587401+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "79110e56-ee01-40b7-911c-88aff6157744",
+            "vejnavn": "Hagelskærvej",
+            "virkningfra": "2026-03-10T12:59:11.662428+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-03-10T12:59:11.662428+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbbe905-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0756",
+            "vejkode": "0303",
+            "navngivenvej": "79110e56-ee01-40b7-911c-88aff6157744",
+            "virkningfra": "2026-03-10T12:59:11.662428+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-03-10T12:59:11.662428+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "bc0adea8-1623-4b05-9202-42dc80dd4319",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "hoejlund-gaardbutik",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Brandevej+5%2C+8766&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Brandevej",
+        "husnr": "5",
+        "postnr": "8766",
+        "x": 9.365024140746083,
+        "y": 55.971467502949125,
+        "betegnelse": "Brandevej 5, Grættrup, 8766 Nørre Snede",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5090-774a-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5090-774a-32b8-e044-0003ba298018",
+          "husnummertekst": "5",
+          "adgangsadressebetegnelse": "Brandevej 5, Grættrup, 8766 Nørre Snede",
+          "vejnavn": "Brandevej",
+          "status": "3",
+          "virkningfra": "2024-10-25T07:23:08.096Z",
+          "virkningtil": null,
+          "registreringfra": "2024-10-25T07:23:08.096Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5090-774a-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2015-06-29T11:42:00.44+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                522782.47,
+                6202964.15
+              ]
+            },
+            "koordinater": {
+              "x": 522782.47,
+              "y": 6202964.15
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "4766b406-1ec6-4f98-9ec0-b77bdd1a6366",
+            "navn": "Nørre Snede",
+            "postnr": "8766",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:26:30.499501+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:26:30.499501+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "e5e6be0f-7c90-4a68-aafe-67ba602e9aae",
+            "vejnavn": "Brandevej",
+            "virkningfra": "2024-09-17T12:25:44.342648+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-09-17T12:25:44.342648+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbb85c6-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0756",
+            "vejkode": "0075",
+            "navngivenvej": "e5e6be0f-7c90-4a68-aafe-67ba602e9aae",
+            "virkningfra": "2024-08-27T10:59:33.829917+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-08-27T10:59:33.829917+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "bcb168bc-1b97-46c5-b11c-e72391c4f15f",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "885d4674-70ee-4ccf-9627-a85eb2fa28ce",
+            "status": "3",
+            "supplerendebynavn": "655374",
+            "navn": "Grættrup",
+            "virkningfra": "2023-03-24T23:49:27.812956+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T23:49:27.812956+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "vild-hvede",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Skovm%C3%B8llevej+51%2C+5474&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Skovmøllevej",
+        "husnr": "51",
+        "postnr": "5474",
+        "x": 10.1264316733167,
+        "y": 55.43257199904918,
+        "betegnelse": "Skovmøllevej 51, Vædeledgård, 5474 Veflinge",
+        "href": "https://adressevaelger.dk/husnumre/0a3f508a-b3ce-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f508a-b3ce-32b8-e044-0003ba298018",
+          "husnummertekst": "51",
+          "adgangsadressebetegnelse": "Skovmøllevej 51, Vædeledgård, 5474 Veflinge",
+          "vejnavn": "Skovmøllevej",
+          "status": "3",
+          "virkningfra": "2024-02-24T14:58:24.255Z",
+          "virkningtil": null,
+          "registreringfra": "2024-02-24T14:58:24.255Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f508a-b3ce-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2015-10-27T13:04:58.773+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                571277.27,
+                6143506.31
+              ]
+            },
+            "koordinater": {
+              "x": 571277.27,
+              "y": 6143506.31
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "9e7d65f6-d4eb-4380-9f95-bf0ecfdce83d",
+            "navn": "Veflinge",
+            "postnr": "5474",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:46:24.749611+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:46:24.749611+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "d9ef4fb9-3aee-4ba4-9aca-8a6ee21225ec",
+            "vejnavn": "Skovmøllevej",
+            "virkningfra": "2026-05-01T21:09:48.449884+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-05-01T21:09:48.449884+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cad06eb-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0480",
+            "vejkode": "1092",
+            "navngivenvej": "d9ef4fb9-3aee-4ba4-9aca-8a6ee21225ec",
+            "virkningfra": "2022-01-07T15:59:18.697221+00:00",
+            "virkningtil": null,
+            "registreringfra": "2022-01-07T15:59:18.697221+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "ef826420-ca20-4e0e-89ce-d414d6cf3294",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "2bfedd41-8764-4d06-97bd-a27f4f9f8fba",
+            "status": "3",
+            "supplerendebynavn": "659345",
+            "navn": "Vædeledgård",
+            "virkningfra": "2023-03-24T15:16:40.654712+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:16:40.654712+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "toftegaard-oekologi",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Kollevej+25%2C+6830&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Kollevej",
+        "husnr": "25",
+        "postnr": "6830",
+        "x": 8.299994972291698,
+        "y": 55.77397988080555,
+        "betegnelse": "Kollevej 25, 6830 Nørre Nebel",
+        "href": "https://adressevaelger.dk/husnumre/0a3f508d-188c-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f508d-188c-32b8-e044-0003ba298018",
+          "husnummertekst": "25",
+          "adgangsadressebetegnelse": "Kollevej 25, 6830 Nørre Nebel",
+          "vejnavn": "Kollevej",
+          "status": "3",
+          "virkningfra": "2018-07-04T16:00:00.000Z",
+          "virkningtil": null,
+          "registreringfra": "2018-07-04T16:00:00.000Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f508d-188c-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2017-12-20T20:02:28.5+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                456088.17,
+                6181146.42
+              ]
+            },
+            "koordinater": {
+              "x": 456088.17,
+              "y": 6181146.42
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "77246053-aa82-42ef-8833-54b743371b6a",
+            "navn": "Nørre Nebel",
+            "postnr": "6830",
+            "status": "3",
+            "virkningfra": "2023-03-24T17:42:15.952268+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T17:42:15.952268+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "48123aef-36c6-4ecd-84ab-2911c91fa9e1",
+            "vejnavn": "Kollevej",
+            "virkningfra": "2026-01-16T05:07:41.190278+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-01-16T05:07:41.190278+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cb0a7b7-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0573",
+            "vejkode": "0690",
+            "navngivenvej": "48123aef-36c6-4ecd-84ab-2911c91fa9e1",
+            "virkningfra": "2026-01-16T05:07:41.190278+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-01-16T05:07:41.190278+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "07e57ed8-b4f3-4903-b1a0-dbc3d3ed266b",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "soeagergaard",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Skebjergvej+4%2C+2765&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Skebjergvej",
+        "husnr": "4",
+        "postnr": "2765",
+        "x": 12.285779914430854,
+        "y": 55.7279679252386,
+        "betegnelse": "Skebjergvej 4, Smørumovre, 2765 Smørum",
+        "href": "https://adressevaelger.dk/husnumre/0a3f507d-32e7-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f507d-32e7-32b8-e044-0003ba298018",
+          "husnummertekst": "4",
+          "adgangsadressebetegnelse": "Skebjergvej 4, Smørumovre, 2765 Smørum",
+          "vejnavn": "Skebjergvej",
+          "status": "3",
+          "virkningfra": "2019-09-23T12:42:51.419Z",
+          "virkningtil": null,
+          "registreringfra": "2019-09-23T12:42:51.419Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f507d-32e7-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2010-07-01T10:29:15.953+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                706322.66,
+                6180694.9
+              ]
+            },
+            "koordinater": {
+              "x": 706322.66,
+              "y": 6180694.9
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "2b4984e0-38f9-4638-895c-aa6567e7c07e",
+            "navn": "Smørum",
+            "postnr": "2765",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:28:56.319849+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:28:56.319849+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "28fa60fa-9889-433a-badf-7657da4c0480",
+            "vejnavn": "Skebjergvej",
+            "virkningfra": "2026-08-10T12:02:24.832755+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-08-10T12:02:24.832755+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5c9e27ac-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0240",
+            "vejkode": "0775",
+            "navngivenvej": "28fa60fa-9889-433a-badf-7657da4c0480",
+            "virkningfra": "2025-09-15T14:59:50.917521+00:00",
+            "virkningtil": null,
+            "registreringfra": "2025-09-15T14:59:50.917521+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "034af7d6-a7c7-4027-82df-f70a6ac4633d",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "9d87f071-3701-4d86-bfcd-3cf82d12be4f",
+            "status": "3",
+            "supplerendebynavn": "683069",
+            "navn": "Smørumovre",
+            "virkningfra": "2023-03-25T05:25:30.946739+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-25T05:25:30.946739+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "pluk-selv-aarhus",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Nym%C3%B8llevej+5%2C+8200&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Nymøllevej",
+        "husnr": "5",
+        "postnr": "8200",
+        "x": 10.156730234121419,
+        "y": 56.20885289709801,
+        "betegnelse": "Nymøllevej 5, Lisbjerg, 8200 Aarhus N",
+        "href": "https://adressevaelger.dk/husnumre/a3fd7093-bc45-471d-93d8-0aa34268ba82?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "a3fd7093-bc45-471d-93d8-0aa34268ba82",
+          "husnummertekst": "5",
+          "adgangsadressebetegnelse": "Nymøllevej 5, Lisbjerg, 8200 Aarhus N",
+          "vejnavn": "Nymøllevej",
+          "status": "3",
+          "virkningfra": "2024-01-09T11:09:09.525Z",
+          "virkningtil": null,
+          "registreringfra": "2024-01-09T11:09:09.525Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "ff44379b-af11-47ce-a925-a59c7a945d7a",
+            "status": "8",
+            "virkningfra": "2021-07-23T07:36:36.94783+00:00",
+            "virkningtil": null,
+            "registreringfra": "2021-07-23T07:36:36.94783+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                571751.343502687,
+                6229926.70985342
+              ]
+            },
+            "koordinater": {
+              "x": 571751.343502687,
+              "y": 6229926.70985342
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "424c9a07-5db9-4db9-b328-9eab9001d081",
+            "navn": "Aarhus N",
+            "postnr": "8200",
+            "status": "3",
+            "virkningfra": "2023-03-24T19:14:41.009476+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T19:14:41.009476+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "2eef3856-02a8-49c1-8a73-d8ca7e1832af",
+            "vejnavn": "Nymøllevej",
+            "virkningfra": "2024-04-20T17:11:27.589959+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-04-20T17:11:27.589959+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbb1d3e-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0751",
+            "vejkode": "6023",
+            "navngivenvej": "2eef3856-02a8-49c1-8a73-d8ca7e1832af",
+            "virkningfra": "2024-04-20T17:11:27.589959+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-04-20T17:11:27.589959+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "01778fee-e11b-4980-89af-303594a5f9e2",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "e98fec7c-a234-42d8-b4ae-cd983f017933",
+            "status": "3",
+            "supplerendebynavn": "655454",
+            "navn": "Lisbjerg",
+            "virkningfra": "2025-03-03T10:20:08.623705+00:00",
+            "virkningtil": null,
+            "registreringfra": "2025-03-03T10:20:08.623705+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "noergaards-geder",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=B%C3%B8gelyvej+14%2C+6920&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Bøgelyvej",
+        "husnr": "14",
+        "postnr": "6920",
+        "x": 8.678477293041189,
+        "y": 56.06669830908591,
+        "betegnelse": "Bøgelyvej 14, Skovby, 6920 Videbæk",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5092-f048-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5092-f048-32b8-e044-0003ba298018",
+          "husnummertekst": "14",
+          "adgangsadressebetegnelse": "Bøgelyvej 14, Skovby, 6920 Videbæk",
+          "vejnavn": "Bøgelyvej",
+          "status": "3",
+          "virkningfra": "2025-08-07T09:06:43.331Z",
+          "virkningtil": null,
+          "registreringfra": "2025-08-07T09:06:43.331Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5092-f048-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2012-04-12T06:25:41.427+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                479981.92,
+                6213549.57
+              ]
+            },
+            "koordinater": {
+              "x": 479981.92,
+              "y": 6213549.57
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "cecb8dad-ac76-44ad-91b8-c529bee2af53",
+            "navn": "Videbæk",
+            "postnr": "6920",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:54:15.664017+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:54:15.664017+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "8a962af6-a90a-4468-9a7f-83ebbe1ab854",
+            "vejnavn": "Bøgelyvej",
+            "virkningfra": "2026-08-04T18:01:05.491132+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-08-04T18:01:05.491132+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbbec23-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0760",
+            "vejkode": "0285",
+            "navngivenvej": "8a962af6-a90a-4468-9a7f-83ebbe1ab854",
+            "virkningfra": "2024-05-03T05:19:32.555661+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-05-03T05:19:32.555661+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "956d65d2-b538-4418-8988-12d92e317e52",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "aba5caf7-dd92-4d0d-ad19-7af2be74f394",
+            "status": "3",
+            "supplerendebynavn": "666044",
+            "navn": "Skovby",
+            "virkningfra": "2023-03-25T05:33:45.652857+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-25T05:33:45.652857+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "fam-christoffersens",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Karreb%C3%A6kvej+771%2C+4736&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Karrebækvej",
+        "husnr": "771",
+        "postnr": "4736",
+        "x": 11.662467715021812,
+        "y": 55.19913354884098,
+        "betegnelse": "Karrebækvej 771, Karrebæk, 4736 Karrebæksminde",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5086-18b1-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5086-18b1-32b8-e044-0003ba298018",
+          "husnummertekst": "771",
+          "adgangsadressebetegnelse": "Karrebækvej 771, Karrebæk, 4736 Karrebæksminde",
+          "vejnavn": "Karrebækvej",
+          "status": "3",
+          "virkningfra": "2018-07-04T16:00:00.000Z",
+          "virkningtil": null,
+          "registreringfra": "2018-07-04T16:00:00.000Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5086-18b1-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-24T00:50:11+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                669448.38,
+                6120184.99
+              ]
+            },
+            "koordinater": {
+              "x": 669448.38,
+              "y": 6120184.99
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "2f8f69ed-3e97-4e4f-af91-d859be9eb2c3",
+            "navn": "Karrebæksminde",
+            "postnr": "4736",
+            "status": "3",
+            "virkningfra": "2023-03-24T16:39:27.307879+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T16:39:27.307879+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "238d7ff7-c011-4858-a224-249e64e5f777",
+            "vejnavn": "Karrebækvej",
+            "virkningfra": "2024-01-04T12:59:42.772198+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-01-04T12:59:42.772198+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca69ca3-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0370",
+            "vejkode": "0792",
+            "navngivenvej": "238d7ff7-c011-4858-a224-249e64e5f777",
+            "virkningfra": "2024-01-04T12:59:42.772198+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-01-04T12:59:42.772198+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "b2d99907-75d9-41f3-89f1-d783761fdec9",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "0748b03a-310a-4be7-b586-01ac1d2c3b9a",
+            "status": "3",
+            "supplerendebynavn": "694547",
+            "navn": "Karrebæk",
+            "virkningfra": "2023-03-25T04:28:25.022784+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-25T04:28:25.022784+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "buresoedal",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=J%C3%B8rlunde+Overdrev+7%2C+3550&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Jørlunde Overdrev",
+        "husnr": "7",
+        "postnr": "3550",
+        "x": 12.204330097626988,
+        "y": 55.83214331059937,
+        "betegnelse": "Jørlunde Overdrev 7, Jørlunde, 3550 Slangerup",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5080-be06-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5080-be06-32b8-e044-0003ba298018",
+          "husnummertekst": "7",
+          "adgangsadressebetegnelse": "Jørlunde Overdrev 7, Jørlunde, 3550 Slangerup",
+          "vejnavn": "Jørlunde Overdrev",
+          "status": "3",
+          "virkningfra": "2026-04-27T09:11:16.916Z",
+          "virkningtil": null,
+          "registreringfra": "2026-04-27T09:11:16.916Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5080-be06-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2014-03-03T11:42:14.72+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                700673.78,
+                6192042.72
+              ]
+            },
+            "koordinater": {
+              "x": 700673.78,
+              "y": 6192042.72
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "0ffcbfb4-86ae-4abf-b861-5e30c73a7799",
+            "navn": "Slangerup",
+            "postnr": "3550",
+            "status": "3",
+            "virkningfra": "2023-03-24T14:19:53.977614+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T14:19:53.977614+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "c673da01-03ea-4db5-a71a-3e205359360e",
+            "vejnavn": "Jørlunde Overdrev",
+            "virkningfra": "2025-05-01T00:59:32.07633+00:00",
+            "virkningtil": null,
+            "registreringfra": "2025-05-01T00:59:32.07633+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5c9e8ccd-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0250",
+            "vejkode": "0594",
+            "navngivenvej": "c673da01-03ea-4db5-a71a-3e205359360e",
+            "virkningfra": "2025-04-30T18:16:19.422419+00:00",
+            "virkningtil": null,
+            "registreringfra": "2025-04-30T18:16:19.422419+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "258396ca-a3fd-4083-97f3-cd85d0704b79",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "a6b3a4ab-77a9-414e-bc96-049e20e27785",
+            "status": "3",
+            "supplerendebynavn": "655833",
+            "navn": "Jørlunde",
+            "virkningfra": "2024-04-19T04:16:43.846592+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-04-19T04:16:43.846592+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "norlin-wagyu",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Jenslevvej+50%2C+4070&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Jenslevvej",
+        "husnr": "50",
+        "postnr": "4070",
+        "x": 11.888964516765567,
+        "y": 55.685724365997444,
+        "betegnelse": "Jenslevvej 50, Jenslev, 4070 Kirke Hyllinge",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5081-03f6-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5081-03f6-32b8-e044-0003ba298018",
+          "husnummertekst": "50",
+          "adgangsadressebetegnelse": "Jenslevvej 50, Jenslev, 4070 Kirke Hyllinge",
+          "vejnavn": "Jenslevvej",
+          "status": "3",
+          "virkningfra": "2021-11-16T08:42:07.850Z",
+          "virkningtil": null,
+          "registreringfra": "2021-11-16T08:42:07.850Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5081-03f6-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2013-11-01T10:23:25.187+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                681609.77,
+                6174885.47
+              ]
+            },
+            "koordinater": {
+              "x": 681609.77,
+              "y": 6174885.47
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "ad5328fd-b04c-48e2-93d9-838de941baa9",
+            "navn": "Kirke Hyllinge",
+            "postnr": "4070",
+            "status": "3",
+            "virkningfra": "2023-03-24T17:45:46.617001+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T17:45:46.617001+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "e7653ab7-3d2a-40d3-91bf-f9993c755f67",
+            "vejnavn": "Jenslevvej",
+            "virkningfra": "2019-10-07T19:00:21.2701+00:00",
+            "virkningtil": null,
+            "registreringfra": "2019-10-07T18:59:04.689369+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca5cb36-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0350",
+            "vejkode": "0345",
+            "navngivenvej": "e7653ab7-3d2a-40d3-91bf-f9993c755f67",
+            "virkningfra": "2019-10-07T19:00:21.2701+00:00",
+            "virkningtil": null,
+            "registreringfra": "2019-10-07T18:59:04.689369+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "f80418d2-196a-4ff9-acc2-86c0fb1093a8",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "45fd1d04-7f51-4624-b69e-7998d0dfc1b8",
+            "status": "3",
+            "supplerendebynavn": "664065",
+            "navn": "Jenslev",
+            "virkningfra": "2023-03-24T17:25:11.394801+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T17:25:11.394801+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "naturmaelk-butikken",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Gerreb%C3%A6kvej+24%2C+6360&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Gerrebækvej",
+        "husnr": "24",
+        "postnr": "6360",
+        "x": 9.246665310921054,
+        "y": 54.89854569556302,
+        "betegnelse": "Gerrebækvej 24, Broderup, 6360 Tinglev",
+        "href": "https://adressevaelger.dk/husnumre/0a3f508c-92e9-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f508c-92e9-32b8-e044-0003ba298018",
+          "husnummertekst": "24",
+          "adgangsadressebetegnelse": "Gerrebækvej 24, Broderup, 6360 Tinglev",
+          "vejnavn": "Gerrebækvej",
+          "status": "3",
+          "virkningfra": "2026-06-16T19:29:34.518Z",
+          "virkningtil": null,
+          "registreringfra": "2026-06-16T19:29:34.518Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f508c-92e9-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2011-03-14T15:23:34.96+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                515818.59,
+                6083529.64
+              ]
+            },
+            "koordinater": {
+              "x": 515818.59,
+              "y": 6083529.64
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "0938cd58-1001-4efd-9067-01c0a1d6f363",
+            "navn": "Tinglev",
+            "postnr": "6360",
+            "status": "3",
+            "virkningfra": "2023-03-24T19:56:06.095604+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T19:56:06.095604+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "69b04772-380a-437a-b3b7-85393da2680e",
+            "vejnavn": "Gerrebækvej",
+            "virkningfra": "2026-02-20T02:29:10.379096+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-02-20T02:29:10.379096+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cb1764b-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0580",
+            "vejkode": "0483",
+            "navngivenvej": "69b04772-380a-437a-b3b7-85393da2680e",
+            "virkningfra": "2024-08-24T16:59:05.930848+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-08-24T16:59:05.930848+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "e9fa31eb-5575-45d2-acad-27ac5645bb03",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "30d4c4e3-cde0-4074-b59a-d7b4c14ae604",
+            "status": "3",
+            "supplerendebynavn": "666248",
+            "navn": "Broderup",
+            "virkningfra": "1753-01-01T00:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "grolykke",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Brom%C3%B8llevej+7%2C+8850&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Bromøllevej",
+        "husnr": "7",
+        "postnr": "8850",
+        "x": 9.581779516462134,
+        "y": 56.41992126278605,
+        "betegnelse": "Bromøllevej 7, Mammen, 8850 Bjerringbro",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5097-39c8-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5097-39c8-32b8-e044-0003ba298018",
+          "husnummertekst": "7",
+          "adgangsadressebetegnelse": "Bromøllevej 7, Mammen, 8850 Bjerringbro",
+          "vejnavn": "Bromøllevej",
+          "status": "3",
+          "virkningfra": "2025-10-21T10:33:10.310Z",
+          "virkningtil": null,
+          "registreringfra": "2025-10-21T10:33:10.310Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5097-39c8-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2018-01-29T06:57:34.253+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                535889.67,
+                6252969.09
+              ]
+            },
+            "koordinater": {
+              "x": 535889.67,
+              "y": 6252969.09
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "22b298d2-511c-4b6f-a1b0-24f459fef126",
+            "navn": "Bjerringbro",
+            "postnr": "8850",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:41:21.812163+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:41:21.812163+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "fcb12171-af06-4062-97bf-f3dbd31bbbe6",
+            "vejnavn": "Bromøllevej",
+            "virkningfra": "2023-01-12T20:03:24.930232+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-01-12T20:03:24.930232+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbeb7a9-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0791",
+            "vejkode": "0161",
+            "navngivenvej": "fcb12171-af06-4062-97bf-f3dbd31bbbe6",
+            "virkningfra": "2023-01-12T20:03:24.930232+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-01-12T20:03:24.930232+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "48d400eb-456e-4dc1-9869-cf5aa909a447",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "d0e1daef-80e7-4b62-930b-208b63a22c3e",
+            "status": "3",
+            "supplerendebynavn": "691727",
+            "navn": "Mammen",
+            "virkningfra": "2023-03-25T05:52:16.555976+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-25T05:52:16.555976+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "oekobo-bjoernoe",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Bj%C3%B8rn%C3%B8+11%2C+5603&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Bjørnø",
+        "husnr": "11",
+        "postnr": "5603",
+        "x": 10.24959426985141,
+        "y": 55.06479048306297,
+        "betegnelse": "Bjørnø 11, 5603 Bjørnø",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5088-1576-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5088-1576-32b8-e044-0003ba298018",
+          "husnummertekst": "11",
+          "adgangsadressebetegnelse": "Bjørnø 11, 5603 Bjørnø",
+          "vejnavn": "Bjørnø",
+          "status": "3",
+          "virkningfra": "2026-03-11T06:34:23.292Z",
+          "virkningtil": null,
+          "registreringfra": "2026-03-11T06:34:23.292Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5088-1576-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-23T22:27:19+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                579803.68,
+                6102714.75
+              ]
+            },
+            "koordinater": {
+              "x": 579803.68,
+              "y": 6102714.75
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "0c33e3ec-d879-4735-b5d5-aaba80827cb5",
+            "navn": "Bjørnø",
+            "postnr": "5603",
+            "status": "3",
+            "virkningfra": "1753-01-01T00:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "34d69bd5-815e-457a-bc39-e153a8df2def",
+            "vejnavn": "Bjørnø",
+            "virkningfra": "2026-04-28T20:07:42.515705+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-04-28T20:07:42.515705+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5caa3a8b-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0430",
+            "vejkode": "0100",
+            "navngivenvej": "34d69bd5-815e-457a-bc39-e153a8df2def",
+            "virkningfra": "2026-04-28T20:07:42.515705+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-04-28T20:07:42.515705+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "beadbcbe-0710-4062-a88f-fe63e57e3704",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "jordkaergaard",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Jordk%C3%A6rvej+8%2C+8600&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Jordkærvej",
+        "husnr": "8",
+        "postnr": "8600",
+        "x": 9.479780143825888,
+        "y": 56.1867696487368,
+        "betegnelse": "Jordkærvej 8, 8600 Silkeborg",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5095-66f6-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5095-66f6-32b8-e044-0003ba298018",
+          "husnummertekst": "8",
+          "adgangsadressebetegnelse": "Jordkærvej 8, 8600 Silkeborg",
+          "vejnavn": "Jordkærvej",
+          "status": "3",
+          "virkningfra": "2021-03-05T07:21:59.989Z",
+          "virkningtil": null,
+          "registreringfra": "2021-03-05T07:21:59.989Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5095-66f6-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2011-05-17T06:18:44.4+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                529778.24,
+                6226970.45
+              ]
+            },
+            "koordinater": {
+              "x": 529778.24,
+              "y": 6226970.45
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "39cb998e-19a7-4479-a0df-17b8ac2a4330",
+            "navn": "Silkeborg",
+            "postnr": "8600",
+            "status": "3",
+            "virkningfra": "2023-03-24T13:58:41.622154+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T13:58:41.622154+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "87990630-d1d9-4d1e-aa62-9bee88993738",
+            "vejnavn": "Jordkærvej",
+            "virkningfra": "2026-09-22T13:02:56.458944+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-09-22T13:02:56.458944+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cb980fb-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0740",
+            "vejkode": "0861",
+            "navngivenvej": "87990630-d1d9-4d1e-aa62-9bee88993738",
+            "virkningfra": "2026-09-22T11:59:44.402307+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-09-22T11:59:44.402307+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "ac6452ee-9686-4173-92a8-047dacde1cc1",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "egebjerggaard-groent",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=K%C3%A6rbyvej+2%2C+5466&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Kærbyvej",
+        "husnr": "2",
+        "postnr": "5466",
+        "x": 9.91974138347377,
+        "y": 55.48495303153695,
+        "betegnelse": "Kærbyvej 2, Kærby, 5466 Asperup",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5088-e6c2-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5088-e6c2-32b8-e044-0003ba298018",
+          "husnummertekst": "2",
+          "adgangsadressebetegnelse": "Kærbyvej 2, Kærby, 5466 Asperup",
+          "vejnavn": "Kærbyvej",
+          "status": "3",
+          "virkningfra": "2018-07-04T16:00:00.000Z",
+          "virkningtil": null,
+          "registreringfra": "2018-07-04T16:00:00.000Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5088-e6c2-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2012-05-11T07:11:10.92+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                558121.88,
+                6149143.07
+              ]
+            },
+            "koordinater": {
+              "x": 558121.88,
+              "y": 6149143.07
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "87d7f3d0-5675-4ff4-a30a-e1ccea835196",
+            "navn": "Asperup",
+            "postnr": "5466",
+            "status": "3",
+            "virkningfra": "2023-03-24T18:45:18.3347+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T18:45:18.3347+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "f317c1a2-9e1b-44ea-bde4-7ee3be6c22fa",
+            "vejnavn": "Kærbyvej",
+            "virkningfra": "1973-03-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-29T15:30:00.004005+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca96ebb-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0410",
+            "vejkode": "0688",
+            "navngivenvej": "f317c1a2-9e1b-44ea-bde4-7ee3be6c22fa",
+            "virkningfra": "1973-03-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "05da50e8-ec22-4055-9774-05aa9f1afa9b",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "53a601d9-b3bb-44e0-ac2f-6b6df2e9301c",
+            "status": "3",
+            "supplerendebynavn": "678013",
+            "navn": "Kærby",
+            "virkningfra": "2023-03-24T16:56:04.226961+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T16:56:04.226961+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "det-lille-oekori",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Lystrupvej+16%2C+8781&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Lystrupvej",
+        "husnr": "16",
+        "postnr": "8781",
+        "x": 9.781988010722586,
+        "y": 55.8033961370884,
+        "betegnelse": "Lystrupvej 16, 8781 Stenderup",
+        "href": "https://adressevaelger.dk/husnumre/0a3f508f-fa00-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f508f-fa00-32b8-e044-0003ba298018",
+          "husnummertekst": "16",
+          "adgangsadressebetegnelse": "Lystrupvej 16, 8781 Stenderup",
+          "vejnavn": "Lystrupvej",
+          "status": "3",
+          "virkningfra": "2026-09-02T09:35:40.428Z",
+          "virkningtil": null,
+          "registreringfra": "2026-09-02T09:35:40.428Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f508f-fa00-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2015-12-14T13:56:44.517+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                549017.62,
+                6184475.14
+              ]
+            },
+            "koordinater": {
+              "x": 549017.62,
+              "y": 6184475.14
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "7b8e70f7-2d13-408a-87c3-e469b94ccf3c",
+            "navn": "Stenderup",
+            "postnr": "8781",
+            "status": "3",
+            "virkningfra": "2023-03-24T14:09:55.451911+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T14:09:55.451911+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "ef8c4d75-665d-4ad6-8258-41bcd63dfbe9",
+            "vejnavn": "Lystrupvej",
+            "virkningfra": "2019-06-23T06:05:07.614961+00:00",
+            "virkningtil": null,
+            "registreringfra": "2019-06-23T05:59:06.299971+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbd1d31-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0766",
+            "vejkode": "0880",
+            "navngivenvej": "ef8c4d75-665d-4ad6-8258-41bcd63dfbe9",
+            "virkningfra": "2019-06-23T06:05:07.614961+00:00",
+            "virkningtil": null,
+            "registreringfra": "2019-06-23T05:59:06.299971+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "38eea0f6-a0a5-4a61-bc36-1d2e09dee611",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "vores-lille-gaard",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=L%C3%B8ngvej+9%2C+4180&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Løngvej",
+        "husnr": "9",
+        "postnr": "4180",
+        "x": 11.537847565930523,
+        "y": 55.457882772387244,
+        "betegnelse": "Løngvej 9, 4180 Sorø",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5084-83cb-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5084-83cb-32b8-e044-0003ba298018",
+          "husnummertekst": "9",
+          "adgangsadressebetegnelse": "Løngvej 9, 4180 Sorø",
+          "vejnavn": "Løngvej",
+          "status": "3",
+          "virkningfra": "2018-07-04T16:00:00.000Z",
+          "virkningtil": null,
+          "registreringfra": "2018-07-04T16:00:00.000Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5084-83cb-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-24T00:50:11+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                660469.71,
+                6148674.26
+              ]
+            },
+            "koordinater": {
+              "x": 660469.71,
+              "y": 6148674.26
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "5a92f598-07c2-4926-a6d8-e1f97a44b794",
+            "navn": "Sorø",
+            "postnr": "4180",
+            "status": "3",
+            "virkningfra": "2023-03-24T19:23:04.031357+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T19:23:04.031357+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "1d1c7ebe-988c-4e1e-b247-945757f6b1f9",
+            "vejnavn": "Løngvej",
+            "virkningfra": "2022-10-05T12:02:08.384343+00:00",
+            "virkningtil": null,
+            "registreringfra": "2022-10-05T12:02:08.384343+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca564b5-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0340",
+            "vejkode": "0486",
+            "navngivenvej": "1d1c7ebe-988c-4e1e-b247-945757f6b1f9",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "acc3ac62-4f98-4021-839d-854dafdec10d",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "ulstrup-faar",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Bjerredevej+27%2C+4682&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Bjerredevej",
+        "husnr": "27",
+        "postnr": "4682",
+        "x": 12.048298050063222,
+        "y": 55.38383383444926,
+        "betegnelse": "Bjerredevej 27, 4682 Tureby",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5083-0041-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5083-0041-32b8-e044-0003ba298018",
+          "husnummertekst": "27",
+          "adgangsadressebetegnelse": "Bjerredevej 27, 4682 Tureby",
+          "vejnavn": "Bjerredevej",
+          "status": "3",
+          "virkningfra": "2018-07-04T16:00:00.000Z",
+          "virkningtil": null,
+          "registreringfra": "2018-07-04T16:00:00.000Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5083-0041-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-24T00:50:11+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                693096.99,
+                6141734.41
+              ]
+            },
+            "koordinater": {
+              "x": 693096.99,
+              "y": 6141734.41
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "42c9dde9-387a-4270-b7a2-ba87d81f2769",
+            "navn": "Tureby",
+            "postnr": "4682",
+            "status": "3",
+            "virkningfra": "2023-03-24T19:55:35.921096+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T19:55:35.921096+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "7464eee4-f6ce-40d6-956d-2ea1c422b763",
+            "vejnavn": "Bjerredevej",
+            "virkningfra": "2018-08-27T15:30:00.000072+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-08-27T15:30:00.000072+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca2f94c-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0320",
+            "vejkode": "0056",
+            "navngivenvej": "7464eee4-f6ce-40d6-956d-2ea1c422b763",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "d7a374d7-1e82-4b63-bd54-ffdad381685d",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "muuhhies",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Tulvej+5%2C+4700&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Tulvej",
+        "husnr": "5",
+        "postnr": "4700",
+        "x": 11.905191276495913,
+        "y": 55.20077959884335,
+        "betegnelse": "Tulvej 5, Bøgesø, 4700 Næstved",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5085-39db-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5085-39db-32b8-e044-0003ba298018",
+          "husnummertekst": "5",
+          "adgangsadressebetegnelse": "Tulvej 5, Bøgesø, 4700 Næstved",
+          "vejnavn": "Tulvej",
+          "status": "3",
+          "virkningfra": "2025-10-20T11:28:21.149Z",
+          "virkningtil": null,
+          "registreringfra": "2025-10-20T11:28:21.149Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5085-39db-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-24T00:50:11+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                684884.07,
+                6120984.71
+              ]
+            },
+            "koordinater": {
+              "x": 684884.07,
+              "y": 6120984.71
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "aa2db801-c7c1-460c-a65d-d4482a984fb1",
+            "navn": "Næstved",
+            "postnr": "4700",
+            "status": "3",
+            "virkningfra": "2023-03-24T19:13:58.348568+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T19:13:58.348568+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "7ab2b6cb-e84b-41db-a05e-628f5577f0a2",
+            "vejnavn": "Tulvej",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-29T15:30:00.004005+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca703e7-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0370",
+            "vejkode": "1784",
+            "navngivenvej": "7ab2b6cb-e84b-41db-a05e-628f5577f0a2",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "5055646c-17be-4152-bf59-8e26937fcd07",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "6387f0b4-d0c8-401d-980b-26da65ba0994",
+            "status": "3",
+            "supplerendebynavn": "660453",
+            "navn": "Bøgesø",
+            "virkningfra": "2023-03-25T03:46:48.596429+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-25T03:46:48.596429+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "torup-bakkegaard-orelund",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Middelfartvej+105%2C+5610&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Middelfartvej",
+        "husnr": "105",
+        "postnr": "5610",
+        "x": 9.938051592425916,
+        "y": 55.33757693238772,
+        "betegnelse": "Middelfartvej 105, Torup, 5610 Assens",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5087-c657-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5087-c657-32b8-e044-0003ba298018",
+          "husnummertekst": "105",
+          "adgangsadressebetegnelse": "Middelfartvej 105, Torup, 5610 Assens",
+          "vejnavn": "Middelfartvej",
+          "status": "3",
+          "virkningfra": "2022-01-27T15:07:16.813Z",
+          "virkningtil": null,
+          "registreringfra": "2022-01-27T15:07:16.813Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5087-c657-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-23T22:27:19+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                559500,
+                6132758.33
+              ]
+            },
+            "koordinater": {
+              "x": 559500,
+              "y": 6132758.33
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "20697657-2cf4-4919-a64e-52deeb82319e",
+            "navn": "Assens",
+            "postnr": "5610",
+            "status": "3",
+            "virkningfra": "2023-03-24T18:28:43.280043+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T18:28:43.280043+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "60db3f61-cedf-4e7b-8020-c5e6f6c2311f",
+            "vejnavn": "Middelfartvej",
+            "virkningfra": "2025-11-24T20:05:24.342832+00:00",
+            "virkningtil": null,
+            "registreringfra": "2025-11-24T20:05:24.342832+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca9d65f-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0420",
+            "vejkode": "1075",
+            "navngivenvej": "60db3f61-cedf-4e7b-8020-c5e6f6c2311f",
+            "virkningfra": "2024-02-10T06:04:58.201016+00:00",
+            "virkningtil": null,
+            "registreringfra": "2024-02-10T06:04:58.201016+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "1b97d163-05a1-4640-a1e3-606cec0ffd1e",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": "fac3d2f9-0ac6-4693-89a8-453d340e54e6",
+            "status": "3",
+            "supplerendebynavn": "688492",
+            "navn": "Torup",
+            "virkningfra": "2023-03-25T07:06:00.423905+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-25T07:06:00.423905+00:00",
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "the-branding-garage",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Moltkesvej+3%2C+4291&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Moltkesvej",
+        "husnr": "3",
+        "postnr": "4291",
+        "x": 11.421326287438497,
+        "y": 55.53519327043829,
+        "betegnelse": "Moltkesvej 3, 4291 Ruds Vedby",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5082-95e9-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5082-95e9-32b8-e044-0003ba298018",
+          "husnummertekst": "3",
+          "adgangsadressebetegnelse": "Moltkesvej 3, 4291 Ruds Vedby",
+          "vejnavn": "Moltkesvej",
+          "status": "3",
+          "virkningfra": "2023-02-07T09:11:41.607Z",
+          "virkningtil": null,
+          "registreringfra": "2023-02-07T09:11:41.607Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5082-95e9-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-24T00:50:11+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                652803.88,
+                6157012.5
+              ]
+            },
+            "koordinater": {
+              "x": 652803.88,
+              "y": 6157012.5
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "bf40696e-9e34-44c4-9c8c-97d9e0f09b34",
+            "navn": "Ruds Vedby",
+            "postnr": "4291",
+            "status": "3",
+            "virkningfra": "2023-03-24T16:07:26.155925+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T16:07:26.155925+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "0dc13009-7093-41f1-be2d-529822e50529",
+            "vejnavn": "Moltkesvej",
+            "virkningfra": "2026-01-15T16:59:44.339096+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-01-15T16:59:44.339096+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5ca564c8-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0340",
+            "vejkode": "0509",
+            "navngivenvej": "0dc13009-7093-41f1-be2d-529822e50529",
+            "virkningfra": "2026-01-15T16:59:44.339096+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-01-15T16:59:44.339096+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "46875cd7-ae29-4633-ace5-af4dfddeb529",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "hjoernegaarden-dollerup",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Guldborgvej+14%2C+8800&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Guldborgvej",
+        "husnr": "14",
+        "postnr": "8800",
+        "x": 9.29565356086658,
+        "y": 56.371697526988854,
+        "betegnelse": "Guldborgvej 14, 8800 Viborg",
+        "href": "https://adressevaelger.dk/husnumre/0a3f5098-cf38-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f5098-cf38-32b8-e044-0003ba298018",
+          "husnummertekst": "14",
+          "adgangsadressebetegnelse": "Guldborgvej 14, 8800 Viborg",
+          "vejnavn": "Guldborgvej",
+          "status": "3",
+          "virkningfra": "2018-07-04T16:00:00.000Z",
+          "virkningtil": null,
+          "registreringfra": "2018-07-04T16:00:00.000Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f5098-cf38-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2018-01-29T07:07:38.993+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                518261.87,
+                6247489
+              ]
+            },
+            "koordinater": {
+              "x": 518261.87,
+              "y": 6247489
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "dae35f23-d5b3-4ed8-8e2d-365bc4a87180",
+            "navn": "Viborg",
+            "postnr": "8800",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:29:49.791459+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:29:49.791459+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "c6ad6040-0a96-4a98-9645-319d60a36568",
+            "vejnavn": "Guldborgvej",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-29T15:30:00.004005+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cbf202c-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0791",
+            "vejkode": "2891",
+            "navngivenvej": "c6ad6040-0a96-4a98-9645-319d60a36568",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "3ccd4dff-941e-454b-a4fa-331d21bda90c",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "knudsens-oeko-graesaeg",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Baung%C3%A5rdsvej+65%2C+6600&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Baungårdsvej",
+        "husnr": "65",
+        "postnr": "6600",
+        "x": 9.123973195023531,
+        "y": 55.4851821322741,
+        "betegnelse": "Baungårdsvej 65, 6600 Vejen",
+        "href": "https://adressevaelger.dk/husnumre/0a3f508e-7490-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f508e-7490-32b8-e044-0003ba298018",
+          "husnummertekst": "65",
+          "adgangsadressebetegnelse": "Baungårdsvej 65, 6600 Vejen",
+          "vejnavn": "Baungårdsvej",
+          "status": "3",
+          "virkningfra": "2025-04-09T11:56:25.575Z",
+          "virkningtil": null,
+          "registreringfra": "2025-04-09T11:56:25.575Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f508e-7490-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2013-06-11T03:02:04.28+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                507834.4,
+                6148791.15
+              ]
+            },
+            "koordinater": {
+              "x": 507834.4,
+              "y": 6148791.15
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "b3f960e2-5f1c-4c2c-8f91-8bdb8679cd1b",
+            "navn": "Vejen",
+            "postnr": "6600",
+            "status": "3",
+            "virkningfra": "2023-03-24T16:19:30.534194+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T16:19:30.534194+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "a4edc04f-4e9b-4016-9323-d6a45e210e57",
+            "vejnavn": "Baungårdsvej",
+            "virkningfra": "2026-03-19T18:26:05.675105+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-03-19T18:26:05.675105+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cb11131-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0575",
+            "vejkode": "0820",
+            "navngivenvej": "a4edc04f-4e9b-4016-9323-d6a45e210e57",
+            "virkningfra": "2020-11-25T17:17:00.430888+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-11-25T17:17:00.430888+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "e435681e-3877-4705-b8ce-db3f52bc0f6e",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,10 +1,10 @@
 # Gårdbutikker – kilder og kontrol
 
-Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. I alt 96 unikke steder. Ingen åbningstider er importeret.
+Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. I alt 119 fysiske steder. Ingen åbningstider er importeret.
 
 Kontaktdata er fundet på butikkernes egne sider, hvor muligt, og ellers i de angivne sekundære kilder. Et adresseopslag bekræfter adressens eksistens, ikke at butikken fortsat drives. Tomme felter betyder ikke fundet sikkert. Links kan ændre sig eller kræve Facebook-login.
 
-Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen og omregnes til kortets Mercator-projektion. Enkelte kortmarkører bruger en nærliggende bygning, fordi butikken angiver et hovednummer eller nummerinterval, som DAR opdeler.
+Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen (oprindelige steder) og Adressevælgeren (4. oktober 2026) og omregnes til kortets Mercator-projektion. Enkelte kortmarkører bruger en nærliggende bygning, fordi butikken angiver et hovednummer eller nummerinterval, som DAR opdeler.
 
 ## Båstrup Skovgård
 
@@ -839,4 +839,229 @@ Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen og omregn
 - Supplerende kilde: https://krogsholmfrugt.dk/om-os/
 - Supplerende kilde: https://bornholm.info/krogsholm-frugt/
 - Bemærkning: Adresse og telefon fra Destination Bornholm; udvalg og dyrkningsform fra egen hjemmeside. Sprøjtefri er ikke omformuleret til certificeret økologisk.
+
+## Henrik Obling Gårdbutik
+
+- Adresse: Hagelskærvej 46, 7430 Ikast
+- Telefon: 97153923
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://ikast.cylex.dk/firma/henrik-obling/12029460.html
+- DAR: https://adressevaelger.dk/husnumre/0a3f5092-0a65-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://effektivtlandbrug.landbrugnet.dk/artikler/cap-i-danmark/90714/se-det-summer-af-sol-over-engen
+- Bemærkning: Også kendt som Oblings Gårdbutik. Telefonnummer fra Cylex; egen hjemmeside undersøges separat.
+
+## Højlund Gårdbutik
+
+- Adresse: Brandevej 5, 8766 Nørre Snede
+- Telefon: 27201877
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://www.krak.dk/h%C3%B8jlund%2Bg%C3%A5rdbutik%2Bn%C3%B8rre%2Bsnede/66990508/firma
+- DAR: https://adressevaelger.dk/husnumre/0a3f5090-774a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://insight.biq.dk/companies/fd52170d-1a7e-46d3-992f-821b8726fe5a
+- Bemærkning: Adresse og telefon bekræftet i flere kataloger. Intet sikkert aktuelt produktsortiment eller eget link fundet; modstridende virksomhedsstatus i ét katalog, øvrige angiver aktiv.
+
+## Vild Hvede
+
+- Adresse: Skovmøllevej 51, 5474 Veflinge
+- Telefon: 28965022
+- Link: https://vildhvede.com/
+- Kontaktkilde: https://vildhvede.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508a-b3ce-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.visitnordfyn.dk/nordfyn/explore/vild-hvede-mikromoelleri-og-gaardbutik-gdk1126181
+- Bemærkning: Egen hjemmeside angiver onsdag 12–18 og lørdag 10–15; turistkilden har en afvigende onsdagstid. Egen kilde prioriteres.
+
+## Toftegaard Økologi
+
+- Adresse: Kollevej 25, 6830 Nørre Nebel
+- Telefon: 20916213
+- Link: https://www.toftegaardokologi.dk/
+- Kontaktkilde: https://www.toftegaardokologi.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508d-188c-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.toftegaardokologi.dk/om-os
+- Bemærkning: En anden producent end de eksisterende Toftegaarden i Albertslund og Toftegaards Gårdbutik i Ørbæk.
+
+## Søagergård Regenerativt Jordbrug
+
+- Adresse: Skebjergvej 4, 2765 Smørum
+- Telefon: Ikke fundet sikkert
+- Link: https://soeagergaard.com/
+- Kontaktkilde: https://soeagergaard.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507d-32e7-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://direktefragaarden.dk/producent/soeagergaard-regenerativt-jordbrug-gaardbutik
+- Bemærkning: Telefon hos den ældre Søagergård-virksomhed i Krak vedrører ejendomsudlejning og er udeladt. Regenerativ er ikke omformuleret til certificeret økologisk.
+
+## Pluk Selv Aarhus
+
+- Adresse: Nymøllevej 5, 8200 Aarhus N
+- Telefon: Ikke fundet sikkert
+- Link: https://pluk-selv.dk/
+- Kontaktkilde: https://pluk-selv.dk/aarhus/
+- DAR: https://adressevaelger.dk/husnumre/a3fd7093-bc45-471d-93d8-0aa34268ba82?token=adressevaelger123
+- Supplerende kilde: https://pluk-selv.dk/pluk-selv/
+- Bemærkning: Nuværende besøgsadresse fra egen hjemmeside; ældre katalogers Lisbjerg Buen 12 er ikke anvendt.
+
+## Nørgaards Geder
+
+- Adresse: Bøgelyvej 14, 6920 Videbæk
+- Telefon: 20878527
+- Link: https://noergaards-geder.dk/
+- Kontaktkilde: https://noergaards-geder.dk/om-os/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5092-f048-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.visitdenmark.dk/danmark/explore/gaardbutikken-noergaards-geder-gdk1138463
+- Supplerende kilde: https://skole.lf.dk/kom-paa-gaardbesoeg/6920-noergaards-familielandbrug/
+- Bemærkning: Egen side angiver døgnåbent, turistkilden 8–20. Adresse er Bøgelyvej, ikke den fejlstavede Bøgelvej i en gammel brochure.
+
+## Fam. Christoffersens Gårdbutik
+
+- Adresse: Karrebækvej 771, 4736 Karrebæksminde
+- Telefon: 40595862
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://www.foodbevg.com/DK/N%C3%A6stved/851391235009448/Fam.-Christoffersens-G%C3%A5rdbutik
+- DAR: https://adressevaelger.dk/husnumre/0a3f5086-18b1-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Besøgsadresse og sortiment fra gengivne butiksopslag fra 2026. Teglværksvej 24 er ægpakkeri/lager, ikke besøgsadressen. Egen Facebook-adresse søges separat.
+
+## Buresødal
+
+- Adresse: Jørlunde Overdrev 7, 3550 Slangerup
+- Telefon: 20137521
+- Link: https://xn--buresdal-94a.dk/
+- Kontaktkilde: https://xn--buresdal-94a.dk/kontakt/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5080-be06-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Adresse, telefon og sortiment fra egen hjemmeside.
+
+## Norlin Wagyu
+
+- Adresse: Jenslevvej 50, 4070 Kirke Hyllinge
+- Telefon: Ikke fundet sikkert
+- Link: https://www.norlinwagyu.com/
+- Kontaktkilde: https://www.norlinwagyu.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5081-03f6-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Direkte kødsalg, ikke dokumenteret som en butik med faste åbningstider. Wagyu-kvæget får en sammensat diæt; græsfodret gælder det øvrige kvæg.
+
+## Naturmælk – Butikken
+
+- Adresse: Gerrebækvej 24, 6360 Tinglev
+- Telefon: 74642801
+- Link: https://www.xn--naturmlk-o0a.dk/besoeg-vores-butik/
+- Kontaktkilde: https://www.xn--naturmlk-o0a.dk/besoeg-vores-butik/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508c-92e9-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://naturost.dk/policies/terms-of-service
+- Bemærkning: Butikssiden angiver alle dage 6–21 og 74642801. Netbutikkens betingelser angiver et andet telefonnummer, som ikke erstatter butikkens eget.
+
+## Grolykke
+
+- Adresse: Bromøllevej 7, 8850 Bjerringbro
+- Telefon: Ikke fundet sikkert
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://vores-bjerringbro.dk/a/bjerringbro-mad-og-kunstmarked-byder-paa-nye-marmelader/25d4f8a3-a947-47bc-aeb6-70cfafaccb89
+- DAR: https://adressevaelger.dk/husnumre/0a3f5097-39c8-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.proff.dk/firma/grolykke-vstinne-juhl-navntoft/bjerringbro/skovbrug/0RIL46I01I9
+- Bemærkning: Adresse også oplyst af brugeren. Produkter omtalt 2. oktober 2026 med Bjerringbro Mad- og Kunstmarked som kilde. Faste butikstider, offentligt telefonnummer og egen hjemmeside ikke bekræftet.
+
+## Økobo – Bjørnø Gårdbutik
+
+- Adresse: Bjørnø 11, 5603 Bjørnø
+- Telefon: 30142207
+- Link: https://www.okobo.dk/grdbutik
+- Kontaktkilde: https://www.okobo.dk/grdbutik
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-1576-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.geoparkoehavet.dk/oplev-geoparken/planlaeg-din-tur/bjoernoe-gaardbutik-oekobo-gdk1145159
+- Bemærkning: ØkoBo Bjørnø fortolket som én post. Besøgsadresse Bjørnø 11 fra turistbureauet; egen sides footer Bjørnø 15 er firmaets kontaktadresse. Telefon fra egen side.
+
+## JordKærGård
+
+- Adresse: Jordkærvej 8, 8600 Silkeborg
+- Telefon: 28511545
+- Link: https://jordkaergaard.dk/
+- Kontaktkilde: https://jordkaergaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5095-66f6-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Brugerens jordkærgård silkeborg matcher JordKærGård, ikke en vilkårlig jordbærplantage.
+
+## Egebjerggård Grønt
+
+- Adresse: Kærbyvej 2, 5466 Asperup
+- Telefon: Ikke fundet sikkert
+- Link: https://egebjerggaardgroent.dk/
+- Kontaktkilde: https://egebjerggaardgroent.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-e6c2-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Gravefri dyrkning og permakultur er dokumenteret; ingen påstand om certificeret økologi tilføjet.
+
+## Det lille Økori
+
+- Adresse: Lystrupvej 16, 8781 Stenderup
+- Telefon: 52400226
+- Link: https://detlilleoekori.dk/
+- Kontaktkilde: https://detlilleoekori.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508f-fa00-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.kystlandet.dk/kystlandet/planlaeg-turen/det-lille-oekori-gdk1136816
+- Supplerende kilde: https://goforlocal.dk/find-lokale-foedevarer/det-lille-oekori
+- Bemærkning: 8781 Stenderup fra egen side, ikke 8700 Horsens fra ældre erhvervskatalog. Hedensted Kommune ligger i Region Midtjylland.
+
+## Vores Lille Gård
+
+- Adresse: Løngvej 9, 4180 Sorø
+- Telefon: 60166647
+- Link: https://voreslillegaard.dk/
+- Kontaktkilde: https://voreslillegaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5084-83cb-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://voreslillegaard.dk/regenerativt-landbrug/
+- Bemærkning: Egen side oplyser gårdbutik lørdag 10–13 og ellers efter aftale. Æg kan købes i træhytten.
+
+## Ulstrup Får
+
+- Adresse: Bjerredevej 27, 4682 Tureby
+- Telefon: 29242284
+- Link: Ikke fundet aktivt
+- Kontaktkilde: https://www.findmenukort.dk/ulstrup-faar-gaardbutik-bjerredevej-27-4682-tureby/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5083-0041-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://mapcarta.com/N8704246852
+- Supplerende kilde: https://klithedegaarden.dk/hovedstaden/kobenhavn/ulstrup-far/
+- Bemærkning: Ingen sikker egen hjemmeside fundet. Sekundære katalogers København-kategorisering er forkert. Udokumenterede økologi- og åbningstidspåstande udeladt.
+
+## Muuhhies Gårdsbutik
+
+- Adresse: Tulvej 5, 4700 Næstved
+- Telefon: Ikke fundet sikkert
+- Link: https://www.facebook.com/profile.php?id=61589390111196
+- Kontaktkilde: https://www.facebook.com/profile.php?id=61589390111196
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-39db-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://xn--sydsjl-tua.dk/steder
+- Bemærkning: Egen Facebook-profil leveret af brugeren. Offentlige profiloplysninger bekræfter Tulvej 5 i Bøgesø, frisk mælk, lokale specialiteter og selvbetjening. Intet sikkert telefonnummer fundet.
+
+## Torup Bakkegård og Orelund
+
+- Adresse: Middelfartvej 105, 5610 Assens
+- Telefon: 61543592
+- Link: https://torupbakkegaard.dk/gaardbutikken/
+- Kontaktkilde: https://torupbakkegaard.dk/gaardbutikken/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5087-c657-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://torupbakkegaard.dk/
+- Bemærkning: Torup Bakkegård og Orelund er én virksomhed og ét besøgssted. Telefon er butikkens direkte nummer fra egen side.
+
+## The Branding Garage
+
+- Adresse: Moltkesvej 3, 4291 Ruds Vedby
+- Telefon: Ikke fundet sikkert
+- Link: https://www.facebook.com/thebrandinggarage
+- Kontaktkilde: https://www.facebook.com/thebrandinggarage
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-95e9-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Brugeren har bekræftet gårdbutik og besøgsadresse. Landbrugets profilbeskrivelse er offentligt tilgængelig; aktuelt butikssortiment og telefonnummer er ikke dokumenteret.
+
+## Hjørnegården – en himmel til forskel
+
+- Adresse: Guldborgvej 14, 8800 Viborg
+- Telefon: Ikke fundet sikkert
+- Link: https://www.facebook.com/profile.php?id=61593860555615
+- Kontaktkilde: https://www.facebook.com/profile.php?id=61593860555615
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-cf38-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Besøgsadresse fra brugerens Facebook-kortlink. Profilen beskriver grise; præcise udskæringer, øvrigt sortiment og telefonnummer er ikke bekræftet. Ikke den ældre Hjørnegården i Skamby.
+
+## Knudsens Øko Græsæg
+
+- Adresse: Baungårdsvej 65, 6600 Vejen
+- Telefon: Ikke fundet sikkert
+- Link: https://www.facebook.com/profile.php?id=100089791791313
+- Kontaktkilde: https://www.facebook.com/Knudsens-Gr%C3%A6s%C3%86g-103854182616524/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508e-7490-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Besøgsadresse oplyst af brugeren. Offentlig profilbeskrivelse bekræfter økologiske græsæg og selvbetjent bod alle ugens dage. Ingen sikker telefon eller faste klokkeslæt fundet.
 

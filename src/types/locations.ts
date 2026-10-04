@@ -6,6 +6,7 @@ export type MapPosition = {
 };
 
 export type Location = {
+  kind?: "farm";
   id: string;
   name: string;
   region: RegionId;
@@ -17,3 +18,14 @@ export type Location = {
   mapPosition: MapPosition;
   description: string;
 };
+
+export type OnlineShop = {
+  kind: "webshop";
+  id: string;
+  name: string;
+  description: string;
+  website: string;
+  phone?: string;
+};
+
+export type DirectoryEntry = Location | OnlineShop;

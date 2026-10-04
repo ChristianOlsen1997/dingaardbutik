@@ -766,5 +766,189 @@
     "latitude": 55.1684324,
     "source": "https://api.dataforsyningen.dk/adresser/0a3f50b1-fc8b-32b8-e044-0003ba298018",
     "approximate": false
+  },
+  {
+    "id": "henrik-obling",
+    "address": "Hagelskærvej 46, 7430 Ikast",
+    "longitude": 9.121484784341314,
+    "latitude": 56.15737798577911,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5092-0a65-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hoejlund-gaardbutik",
+    "address": "Brandevej 5, Grættrup, 8766 Nørre Snede",
+    "longitude": 9.365024140746083,
+    "latitude": 55.971467502949125,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5090-774a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "vild-hvede",
+    "address": "Skovmøllevej 51, Vædeledgård, 5474 Veflinge",
+    "longitude": 10.1264316733167,
+    "latitude": 55.43257199904918,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508a-b3ce-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "toftegaard-oekologi",
+    "address": "Kollevej 25, 6830 Nørre Nebel",
+    "longitude": 8.299994972291698,
+    "latitude": 55.77397988080555,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508d-188c-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "soeagergaard",
+    "address": "Skebjergvej 4, Smørumovre, 2765 Smørum",
+    "longitude": 12.285779914430854,
+    "latitude": 55.7279679252386,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507d-32e7-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "pluk-selv-aarhus",
+    "address": "Nymøllevej 5, Lisbjerg, 8200 Aarhus N",
+    "longitude": 10.156730234121419,
+    "latitude": 56.20885289709801,
+    "source": "https://adressevaelger.dk/husnumre/a3fd7093-bc45-471d-93d8-0aa34268ba82?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "noergaards-geder",
+    "address": "Bøgelyvej 14, Skovby, 6920 Videbæk",
+    "longitude": 8.678477293041189,
+    "latitude": 56.06669830908591,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5092-f048-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "fam-christoffersens",
+    "address": "Karrebækvej 771, Karrebæk, 4736 Karrebæksminde",
+    "longitude": 11.662467715021812,
+    "latitude": 55.19913354884098,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5086-18b1-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "buresoedal",
+    "address": "Jørlunde Overdrev 7, Jørlunde, 3550 Slangerup",
+    "longitude": 12.204330097626988,
+    "latitude": 55.83214331059937,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5080-be06-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "norlin-wagyu",
+    "address": "Jenslevvej 50, Jenslev, 4070 Kirke Hyllinge",
+    "longitude": 11.888964516765567,
+    "latitude": 55.685724365997444,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5081-03f6-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "naturmaelk-butikken",
+    "address": "Gerrebækvej 24, Broderup, 6360 Tinglev",
+    "longitude": 9.246665310921054,
+    "latitude": 54.89854569556302,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508c-92e9-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "grolykke",
+    "address": "Bromøllevej 7, Mammen, 8850 Bjerringbro",
+    "longitude": 9.581779516462134,
+    "latitude": 56.41992126278605,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5097-39c8-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "oekobo-bjoernoe",
+    "address": "Bjørnø 11, 5603 Bjørnø",
+    "longitude": 10.24959426985141,
+    "latitude": 55.06479048306297,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-1576-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "jordkaergaard",
+    "address": "Jordkærvej 8, 8600 Silkeborg",
+    "longitude": 9.479780143825888,
+    "latitude": 56.1867696487368,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5095-66f6-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "egebjerggaard-groent",
+    "address": "Kærbyvej 2, Kærby, 5466 Asperup",
+    "longitude": 9.91974138347377,
+    "latitude": 55.48495303153695,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-e6c2-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "det-lille-oekori",
+    "address": "Lystrupvej 16, 8781 Stenderup",
+    "longitude": 9.781988010722586,
+    "latitude": 55.8033961370884,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508f-fa00-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "vores-lille-gaard",
+    "address": "Løngvej 9, 4180 Sorø",
+    "longitude": 11.537847565930523,
+    "latitude": 55.457882772387244,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5084-83cb-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "ulstrup-faar",
+    "address": "Bjerredevej 27, 4682 Tureby",
+    "longitude": 12.048298050063222,
+    "latitude": 55.38383383444926,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5083-0041-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "muuhhies",
+    "address": "Tulvej 5, Bøgesø, 4700 Næstved",
+    "longitude": 11.905191276495913,
+    "latitude": 55.20077959884335,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-39db-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "torup-bakkegaard-orelund",
+    "address": "Middelfartvej 105, Torup, 5610 Assens",
+    "longitude": 9.938051592425916,
+    "latitude": 55.33757693238772,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5087-c657-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "the-branding-garage",
+    "address": "Moltkesvej 3, 4291 Ruds Vedby",
+    "longitude": 11.421326287438497,
+    "latitude": 55.53519327043829,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-95e9-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hjoernegaarden-dollerup",
+    "address": "Guldborgvej 14, 8800 Viborg",
+    "longitude": 9.29565356086658,
+    "latitude": 56.371697526988854,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-cf38-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "knudsens-oeko-graesaeg",
+    "address": "Baungårdsvej 65, 6600 Vejen",
+    "longitude": 9.123973195023531,
+    "latitude": 55.4851821322741,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508e-7490-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
   }
 ]

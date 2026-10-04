@@ -62,7 +62,7 @@ export default function Home() {
             <h2 id="founder-heading">Mere end bare<br />en gårdbutiksliste.</h2>
             <p className="founder-name">Sebastian Behnke</p>
             <p className="founder-role">Personlig træner og coach</p>
-            <a className="founder-link" href="https://www.sebastianb.dk/behnke-coaching" target="_blank" rel="noreferrer">Mød Sebastian <span aria-hidden="true">↗</span></a>
+            <a className="founder-link" href="https://www.instagram.com/sebastianbehnke/" target="_blank" rel="noreferrer">Mød Sebastian <span aria-hidden="true">↗</span></a>
             <Image
               className="founder-portrait"
               src="/sebastian-behnke-gaard.jpg"
@@ -73,16 +73,20 @@ export default function Home() {
             />
           </div>
           <div className="founder-letter">
-            <p className="founder-lead">Jeg ønsker at gøre det nemmere for dig at finde og støtte de små lokale og online producenter og gårdbutikker rundt omkring i hele Danmark.</p>
-            <p>For mig handler det om mere end bare at købe æg, oksekød og nogle grøntsager direkte fra kilden. Det handler om selv at vælge, hvem vi lægger vores penge hos. Om at støtte mennesker, der har valgt at gå en anden vej end masseproduktion. Mennesker, der brænder for deres fag, for kvalitet, for deres dyr, deres jord og de råvarer, de producerer.</p>
-            <p>Jeg tror på, at vi som borgere har mere indflydelse, end vi nogle gange går og tror. Hver gang vi handler, træffer vi et valg om, hvad vi gerne vil støtte, og hvad vi gerne vil se mere af i fremtiden.</p>
-            <p>Jeg tror på værdien i at vide, hvor maden kommer fra. At møde mennesket bag håndværket. Give dem hånden og sige “TAK”. At støtte en lokal familie frem for endnu en stor kæde. Og at få mere rigtig mad af god kvalitet ind i hverdagen.</p>
-            <p>Derfor lavede jeg denne Gårdbutiksliste.</p>
-            <p>Mit håb er, at listen med tiden kan blive en platform, der hjælper endnu flere med at opdage de små steder, der allerede findes lige i nærheden af, hvor de bor.</p>
-            <p>For jo flere vi er, der bruger og støtter dem, jo større mulighed er der for, at de også findes om 10, 20 og 30 år. Og flere gårdbutikker vil forhåbentligt dukke op.</p>
-            <p className="founder-emphasis">Det er en fremtid, jeg ønsker for mine børn. Frihed til at vælge.</p>
-            <p>Det synes jeg er værd at støtte, og det stopper jeg aldrig med at tale højt om.</p>
-            <p>Tak fordi du læser med her, og tak for din støtte.</p>
+            <p className="founder-lead">Din Gårdbutik er skabt for at gøre det nemmere for dig at finde og støtte de små lokale producenter og gårdbutikker rundt omkring i Danmark.</p>
+            <p>For mig handler det om meget mere end bare at købe æg, kød og grøntsager direkte fra kilden.</p>
+            <p>Det handler om at vælge, hvem vi lægger vores penge hos. At støtte mennesker, der har valgt en anden vej end masseproduktion. Mennesker, der brænder for deres fag, deres dyr, deres jord og kvaliteten af de råvarer, de producerer.</p>
+            <p>Jeg tror på, at vi som borgere har langt mere indflydelse, end vi nogle gange går og tror.</p>
+            <p>For hver gang vi handler, stemmer vi med vores penge. Vi er med til at bestemme, hvad der skal vokse, og hvad der skal forsvinde.</p>
+            <p>Jeg tror på værdien i at vide, hvor maden kommer fra. At møde mennesket bag. At give dem hånden og sige tak. At støtte en lokal familie frem for endnu en stor kæde.</p>
+            <p>Og at få mere rigtig mad af god kvalitet ind i hverdagen.</p>
+            <p>Derfor er Din Gårdbutik skabt.</p>
+            <p>Mit håb er, at vi sammen kan være med til at flytte noget. At flere får øjnene op for værdien af at handle lokalt, støtte de små og tage mere ansvar for, hvor vores mad kommer fra.</p>
+            <p>For hvis vi vil have dem om 10, 20 og 30 år, skal vi også bruge dem i dag.</p>
+            <p>Det her er et valg. Et valg om at lægge vores penge hos dem, vi gerne vil se mere af i fremtiden.</p>
+            <p>En stille revolution, der giver os mere kontrol over vores egen forsyning.</p>
+            <p className="founder-emphasis">Det er den fremtid, jeg ønsker for mine børn. Frihed til at vælge.</p>
+            <p>Tak, fordi du er med.</p>
             <p className="founder-signoff">Mojn.<span>Sebastian</span></p>
           </div>
         </section>

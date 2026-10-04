@@ -1,0 +1,403 @@
+[
+  {
+    "farm": [
+      "henrik-obling",
+      "Henrik Obling Gårdbutik",
+      "midtjylland",
+      "Hagelskærvej 46",
+      "7430",
+      "Ikast",
+      "97153923",
+      "",
+      "Sæsonens grøntsager og kød fra gårdens egen besætning.",
+      "https://ikast.cylex.dk/firma/henrik-obling/12029460.html"
+    ],
+    "sources": [
+      "https://effektivtlandbrug.landbrugnet.dk/artikler/cap-i-danmark/90714/se-det-summer-af-sol-over-engen"
+    ],
+    "note": "Også kendt som Oblings Gårdbutik. Telefonnummer fra Cylex; egen hjemmeside undersøges separat."
+  },
+  {
+    "farm": [
+      "hoejlund-gaardbutik",
+      "Højlund Gårdbutik",
+      "midtjylland",
+      "Brandevej 5",
+      "8766",
+      "Nørre Snede",
+      "27201877",
+      "",
+      "Gårdbutik ved Nørre Snede. Ring for oplysninger om det aktuelle sortiment og åbningstider.",
+      "https://www.krak.dk/h%C3%B8jlund%2Bg%C3%A5rdbutik%2Bn%C3%B8rre%2Bsnede/66990508/firma"
+    ],
+    "sources": [
+      "https://insight.biq.dk/companies/fd52170d-1a7e-46d3-992f-821b8726fe5a"
+    ],
+    "note": "Adresse og telefon bekræftet i flere kataloger. Intet sikkert aktuelt produktsortiment eller eget link fundet; modstridende virksomhedsstatus i ét katalog, øvrige angiver aktiv."
+  },
+  {
+    "farm": [
+      "vild-hvede",
+      "Vild Hvede",
+      "syddanmark",
+      "Skovmøllevej 51",
+      "5474",
+      "Veflinge",
+      "28965022",
+      "https://vildhvede.com/",
+      "Økologisk, stenkværnet mel fra eget mikromølleri, hele kerner og friskbagt brød. Gårdbutik, bageri og webshop.",
+      "https://vildhvede.com/"
+    ],
+    "sources": [
+      "https://www.visitnordfyn.dk/nordfyn/explore/vild-hvede-mikromoelleri-og-gaardbutik-gdk1126181"
+    ],
+    "note": "Egen hjemmeside angiver onsdag 12–18 og lørdag 10–15; turistkilden har en afvigende onsdagstid. Egen kilde prioriteres."
+  },
+  {
+    "farm": [
+      "toftegaard-oekologi",
+      "Toftegaard Økologi",
+      "syddanmark",
+      "Kollevej 25",
+      "6830",
+      "Nørre Nebel",
+      "20916213",
+      "https://www.toftegaardokologi.dk/",
+      "Økologiske æg, kød fra gårdens frilandsdyr og grøntsager efter sæson. Familiedrevet landbrug med gårdbutik.",
+      "https://www.toftegaardokologi.dk/"
+    ],
+    "sources": [
+      "https://www.toftegaardokologi.dk/om-os"
+    ],
+    "note": "En anden producent end de eksisterende Toftegaarden i Albertslund og Toftegaards Gårdbutik i Ørbæk."
+  },
+  {
+    "farm": [
+      "soeagergaard",
+      "Søagergård Regenerativt Jordbrug",
+      "hovedstaden",
+      "Skebjergvej 4",
+      "2765",
+      "Smørum",
+      "",
+      "https://soeagergaard.com/",
+      "Æg, mejeriprodukter, græsfodret oksekød, skovgris og honning fra regenerativt jordbrug. Bestil online til afhentning på gården eller på afhentningssteder i København.",
+      "https://soeagergaard.com/"
+    ],
+    "sources": [
+      "https://direktefragaarden.dk/producent/soeagergaard-regenerativt-jordbrug-gaardbutik"
+    ],
+    "note": "Telefon hos den ældre Søagergård-virksomhed i Krak vedrører ejendomsudlejning og er udeladt. Regenerativ er ikke omformuleret til certificeret økologisk."
+  },
+  {
+    "farm": [
+      "pluk-selv-aarhus",
+      "Pluk Selv Aarhus",
+      "midtjylland",
+      "Nymøllevej 5",
+      "8200",
+      "Aarhus N",
+      "",
+      "https://pluk-selv.dk/",
+      "Økologisk selvpluk af jordbær, ærter, kartofler, kål, græskar og blomster efter sæson. Tjek hjemmesiden for aktuelle afgrøder og sæsonåbning.",
+      "https://pluk-selv.dk/aarhus/"
+    ],
+    "sources": [
+      "https://pluk-selv.dk/pluk-selv/"
+    ],
+    "note": "Nuværende besøgsadresse fra egen hjemmeside; ældre katalogers Lisbjerg Buen 12 er ikke anvendt."
+  },
+  {
+    "farm": [
+      "noergaards-geder",
+      "Nørgaards Geder",
+      "midtjylland",
+      "Bøgelyvej 14",
+      "6920",
+      "Videbæk",
+      "20878527",
+      "https://noergaards-geder.dk/",
+      "Økologiske gedeoste, yoghurt, pasteuriseret gedemælk og kød fra gårdens dyr. Selvbetjent gårdbutik ved familiens eget gedemejeri.",
+      "https://noergaards-geder.dk/om-os/"
+    ],
+    "sources": [
+      "https://www.visitdenmark.dk/danmark/explore/gaardbutikken-noergaards-geder-gdk1138463",
+      "https://skole.lf.dk/kom-paa-gaardbesoeg/6920-noergaards-familielandbrug/"
+    ],
+    "note": "Egen side angiver døgnåbent, turistkilden 8–20. Adresse er Bøgelyvej, ikke den fejlstavede Bøgelvej i en gammel brochure."
+  },
+  {
+    "farm": [
+      "fam-christoffersens",
+      "Fam. Christoffersens Gårdbutik",
+      "sjaelland",
+      "Karrebækvej 771",
+      "4736",
+      "Karrebæksminde",
+      "40595862",
+      "",
+      "Sæsonens frugt og grøntsager, kartofler og æg fra egne frilandshøns. Udvalget omfatter også lokal honning og æblemost.",
+      "https://www.foodbevg.com/DK/N%C3%A6stved/851391235009448/Fam.-Christoffersens-G%C3%A5rdbutik"
+    ],
+    "sources": [],
+    "note": "Besøgsadresse og sortiment fra gengivne butiksopslag fra 2026. Teglværksvej 24 er ægpakkeri/lager, ikke besøgsadressen. Egen Facebook-adresse søges separat."
+  },
+  {
+    "farm": [
+      "buresoedal",
+      "Buresødal",
+      "hovedstaden",
+      "Jørlunde Overdrev 7",
+      "3550",
+      "Slangerup",
+      "20137521",
+      "https://xn--buresdal-94a.dk/",
+      "Økologisk stalddørssalg med sæsonens grøntsager, blandt andet kartofler, kål, rodfrugter, majs, græskar, jordbær og ærter.",
+      "https://xn--buresdal-94a.dk/kontakt/"
+    ],
+    "sources": [],
+    "note": "Adresse, telefon og sortiment fra egen hjemmeside."
+  },
+  {
+    "farm": [
+      "norlin-wagyu",
+      "Norlin Wagyu",
+      "sjaelland",
+      "Jenslevvej 50",
+      "4070",
+      "Kirke Hyllinge",
+      "",
+      "https://www.norlinwagyu.com/",
+      "Oksekød fra fuldblods Wagyu og græsfodret kvæg. Salg annonceres via producentens nyhedsbrev; bestilling og afhentning aftales med gården.",
+      "https://www.norlinwagyu.com/"
+    ],
+    "sources": [],
+    "note": "Direkte kødsalg, ikke dokumenteret som en butik med faste åbningstider. Wagyu-kvæget får en sammensat diæt; græsfodret gælder det øvrige kvæg."
+  },
+  {
+    "farm": [
+      "naturmaelk-butikken",
+      "Naturmælk – Butikken",
+      "syddanmark",
+      "Gerrebækvej 24",
+      "6360",
+      "Tinglev",
+      "74642801",
+      "https://www.xn--naturmlk-o0a.dk/besoeg-vores-butik/",
+      "Selvbetjent mejeriudsalg med økologiske mejeriprodukter og ost fra Naturmælk. Gavekurve og specialbestillinger aftales på forhånd.",
+      "https://www.xn--naturmlk-o0a.dk/besoeg-vores-butik/"
+    ],
+    "sources": [
+      "https://naturost.dk/policies/terms-of-service"
+    ],
+    "note": "Butikssiden angiver alle dage 6–21 og 74642801. Netbutikkens betingelser angiver et andet telefonnummer, som ikke erstatter butikkens eget."
+  },
+  {
+    "farm": [
+      "grolykke",
+      "Grolykke",
+      "midtjylland",
+      "Bromøllevej 7",
+      "8850",
+      "Bjerringbro",
+      "",
+      "",
+      "Lokale specialiteter som marmelade, syltetøj, pesto og sennep. Kontakt producenten for aktuelt udvalg og aftale om køb på gården.",
+      "https://vores-bjerringbro.dk/a/bjerringbro-mad-og-kunstmarked-byder-paa-nye-marmelader/25d4f8a3-a947-47bc-aeb6-70cfafaccb89"
+    ],
+    "sources": [
+      "https://www.proff.dk/firma/grolykke-vstinne-juhl-navntoft/bjerringbro/skovbrug/0RIL46I01I9"
+    ],
+    "note": "Adresse også oplyst af brugeren. Produkter omtalt 2. oktober 2026 med Bjerringbro Mad- og Kunstmarked som kilde. Faste butikstider, offentligt telefonnummer og egen hjemmeside ikke bekræftet."
+  },
+  {
+    "farm": [
+      "oekobo-bjoernoe",
+      "Økobo – Bjørnø Gårdbutik",
+      "syddanmark",
+      "Bjørnø 11",
+      "5603",
+      "Bjørnø",
+      "30142207",
+      "https://www.okobo.dk/grdbutik",
+      "Selvbetjent økologisk gårdbutik på Bjørnø med sæsonens grøntsager, æg, oksekød, delikatesser og Skarø is. Grøntkasser til afhentning i Faaborg kan bestilles hos producenten.",
+      "https://www.okobo.dk/grdbutik"
+    ],
+    "sources": [
+      "https://www.geoparkoehavet.dk/oplev-geoparken/planlaeg-din-tur/bjoernoe-gaardbutik-oekobo-gdk1145159"
+    ],
+    "note": "ØkoBo Bjørnø fortolket som én post. Besøgsadresse Bjørnø 11 fra turistbureauet; egen sides footer Bjørnø 15 er firmaets kontaktadresse. Telefon fra egen side."
+  },
+  {
+    "farm": [
+      "jordkaergaard",
+      "JordKærGård",
+      "midtjylland",
+      "Jordkærvej 8",
+      "8600",
+      "Silkeborg",
+      "28511545",
+      "https://jordkaergaard.dk/",
+      "Økologiske grøntsager, urter, frugt og bær fra regenerativt minilandbrug. Vejbod med sæsonens friske råvarer og bestilling af grønt hos producenten.",
+      "https://jordkaergaard.dk/"
+    ],
+    "sources": [],
+    "note": "Brugerens jordkærgård silkeborg matcher JordKærGård, ikke en vilkårlig jordbærplantage."
+  },
+  {
+    "farm": [
+      "egebjerggaard-groent",
+      "Egebjerggård Grønt",
+      "syddanmark",
+      "Kærbyvej 2",
+      "5466",
+      "Asperup",
+      "",
+      "https://egebjerggaardgroent.dk/",
+      "Grøntsager fra egen gravefri køkkenhave, æg og honning. Gårdbutik med sæsonens udvalg samt køkkenhavekurser og workshops.",
+      "https://egebjerggaardgroent.dk/"
+    ],
+    "sources": [],
+    "note": "Gravefri dyrkning og permakultur er dokumenteret; ingen påstand om certificeret økologi tilføjet."
+  },
+  {
+    "farm": [
+      "det-lille-oekori",
+      "Det lille Økori",
+      "midtjylland",
+      "Lystrupvej 16",
+      "8781",
+      "Stenderup",
+      "52400226",
+      "https://detlilleoekori.dk/",
+      "Økologisk mikrolandbrug med selvbetjent gårdbutik. Sæsonens grøntsager, østershatte, mikrogrønt og æg fra gårdens høns.",
+      "https://detlilleoekori.dk/"
+    ],
+    "sources": [
+      "https://www.kystlandet.dk/kystlandet/planlaeg-turen/det-lille-oekori-gdk1136816",
+      "https://goforlocal.dk/find-lokale-foedevarer/det-lille-oekori"
+    ],
+    "note": "8781 Stenderup fra egen side, ikke 8700 Horsens fra ældre erhvervskatalog. Hedensted Kommune ligger i Region Midtjylland."
+  },
+  {
+    "farm": [
+      "vores-lille-gaard",
+      "Vores Lille Gård",
+      "sjaelland",
+      "Løngvej 9",
+      "4180",
+      "Sorø",
+      "60166647",
+      "https://voreslillegaard.dk/",
+      "Økologisk kød fra gårdens egne fritgående dyr samt økologiske græsæg. Gårdbutik, webshop og æggehytte på gårdspladsen. Besøg til køb af kød kan også aftales telefonisk.",
+      "https://voreslillegaard.dk/"
+    ],
+    "sources": [
+      "https://voreslillegaard.dk/regenerativt-landbrug/"
+    ],
+    "note": "Egen side oplyser gårdbutik lørdag 10–13 og ellers efter aftale. Æg kan købes i træhytten."
+  },
+  {
+    "farm": [
+      "ulstrup-faar",
+      "Ulstrup Får",
+      "sjaelland",
+      "Bjerredevej 27",
+      "4682",
+      "Tureby",
+      "29242284",
+      "",
+      "Gårdbutik ved fåreavlen i Ulstrup. Ring for at høre om lammekød, det aktuelle udvalg og mulighederne for afhentning.",
+      "https://www.findmenukort.dk/ulstrup-faar-gaardbutik-bjerredevej-27-4682-tureby/"
+    ],
+    "sources": [
+      "https://mapcarta.com/N8704246852",
+      "https://klithedegaarden.dk/hovedstaden/kobenhavn/ulstrup-far/"
+    ],
+    "note": "Ingen sikker egen hjemmeside fundet. Sekundære katalogers København-kategorisering er forkert. Udokumenterede økologi- og åbningstidspåstande udeladt."
+  },
+  {
+    "farm": [
+      "muuhhies",
+      "Muuhhies Gårdsbutik",
+      "sjaelland",
+      "Tulvej 5",
+      "4700",
+      "Næstved",
+      "",
+      "https://www.facebook.com/profile.php?id=61589390111196",
+      "Selvbetjent gårdbutik i Bøgesø med mælk fra gårdens egne køer og lokale specialiteter. Tjek butikkens aktuelle oplysninger før besøget.",
+      "https://www.facebook.com/profile.php?id=61589390111196"
+    ],
+    "sources": [
+      "https://xn--sydsjl-tua.dk/steder"
+    ],
+    "note": "Egen Facebook-profil leveret af brugeren. Offentlige profiloplysninger bekræfter Tulvej 5 i Bøgesø, frisk mælk, lokale specialiteter og selvbetjening. Intet sikkert telefonnummer fundet."
+  },
+  {
+    "farm": [
+      "torup-bakkegaard-orelund",
+      "Torup Bakkegård og Orelund",
+      "syddanmark",
+      "Middelfartvej 105",
+      "5610",
+      "Assens",
+      "61543592",
+      "https://torupbakkegaard.dk/gaardbutikken/",
+      "Sæsonens frugt og grøntsager fra egne marker, blandt andet asparges, kartofler og jordbær. Gårdbutik med kød, brød, mel og fynske delikatesser fra lokale producenter.",
+      "https://torupbakkegaard.dk/gaardbutikken/"
+    ],
+    "sources": [
+      "https://torupbakkegaard.dk/"
+    ],
+    "note": "Torup Bakkegård og Orelund er én virksomhed og ét besøgssted. Telefon er butikkens direkte nummer fra egen side."
+  },
+  {
+    "farm": [
+      "the-branding-garage",
+      "The Branding Garage",
+      "sjaelland",
+      "Moltkesvej 3",
+      "4291",
+      "Ruds Vedby",
+      "",
+      "https://www.facebook.com/thebrandinggarage",
+      "Gårdbutik ved et økologisk hobbylandbrug med kvæg, grise, grøntsager og æbleplantage. Se Facebook for aktuelt udvalg og aftale om besøg.",
+      "https://www.facebook.com/thebrandinggarage"
+    ],
+    "sources": [],
+    "note": "Brugeren har bekræftet gårdbutik og besøgsadresse. Landbrugets profilbeskrivelse er offentligt tilgængelig; aktuelt butikssortiment og telefonnummer er ikke dokumenteret."
+  },
+  {
+    "farm": [
+      "hjoernegaarden-dollerup",
+      "Hjørnegården – en himmel til forskel",
+      "midtjylland",
+      "Guldborgvej 14",
+      "8800",
+      "Viborg",
+      "",
+      "https://www.facebook.com/profile.php?id=61593860555615",
+      "Gårdbutik ved Hjørnegården i Dollerup, hvor der holdes grise. Kontakt gården via Facebook for aktuelt udvalg og muligheder for køb.",
+      "https://www.facebook.com/profile.php?id=61593860555615"
+    ],
+    "sources": [],
+    "note": "Besøgsadresse fra brugerens Facebook-kortlink. Profilen beskriver grise; præcise udskæringer, øvrigt sortiment og telefonnummer er ikke bekræftet. Ikke den ældre Hjørnegården i Skamby."
+  },
+  {
+    "farm": [
+      "knudsens-oeko-graesaeg",
+      "Knudsens Øko Græsæg",
+      "syddanmark",
+      "Baungårdsvej 65",
+      "6600",
+      "Vejen",
+      "",
+      "https://www.facebook.com/profile.php?id=100089791791313",
+      "Økologiske græsæg i en lille selvbetjent bod. Friske æg kan hentes alle ugens dage; se Facebook for aktuelle oplysninger.",
+      "https://www.facebook.com/Knudsens-Gr%C3%A6s%C3%86g-103854182616524/"
+    ],
+    "sources": [],
+    "note": "Besøgsadresse oplyst af brugeren. Offentlig profilbeskrivelse bekræfter økologiske græsæg og selvbetjent bod alle ugens dage. Ingen sikker telefon eller faste klokkeslæt fundet."
+  }
+]

@@ -1430,5 +1430,336 @@ export const locations: Location[] = [
     "description": "Gårdbutik og mosteri på Bornholm med frugt, grøntsager, æblemost, saft og marmelade. Egne afgrøder dyrkes uden sprøjtemidler.",
     "phone": "27979289",
     "website": "https://krogsholmfrugt.dk/"
+  },
+  {
+    "id": "henrik-obling",
+    "name": "Henrik Obling Gårdbutik",
+    "region": "midtjylland",
+    "address": "Hagelskærvej 46",
+    "postalCode": "7430",
+    "city": "Ikast",
+    "mapPosition": {
+      "x": 177.8,
+      "y": 413.3
+    },
+    "description": "Sæsonens grøntsager og kød fra gårdens egen besætning.",
+    "phone": "97153923"
+  },
+  {
+    "id": "hoejlund-gaardbutik",
+    "name": "Højlund Gårdbutik",
+    "region": "midtjylland",
+    "address": "Brandevej 5",
+    "postalCode": "8766",
+    "city": "Nørre Snede",
+    "mapPosition": {
+      "x": 209.2,
+      "y": 456.2
+    },
+    "description": "Gårdbutik ved Nørre Snede. Ring for oplysninger om det aktuelle sortiment og åbningstider.",
+    "phone": "27201877"
+  },
+  {
+    "id": "vild-hvede",
+    "name": "Vild Hvede",
+    "region": "syddanmark",
+    "address": "Skovmøllevej 51",
+    "postalCode": "5474",
+    "city": "Veflinge",
+    "mapPosition": {
+      "x": 307.3,
+      "y": 579.5
+    },
+    "description": "Økologisk, stenkværnet mel fra eget mikromølleri, hele kerner og friskbagt brød. Gårdbutik, bageri og webshop.",
+    "phone": "28965022",
+    "website": "https://vildhvede.com/"
+  },
+  {
+    "id": "toftegaard-oekologi",
+    "name": "Toftegaard Økologi",
+    "region": "syddanmark",
+    "address": "Kollevej 25",
+    "postalCode": "6830",
+    "city": "Nørre Nebel",
+    "mapPosition": {
+      "x": 72.0,
+      "y": 501.6
+    },
+    "description": "Økologiske æg, kød fra gårdens frilandsdyr og grøntsager efter sæson. Familiedrevet landbrug med gårdbutik.",
+    "phone": "20916213",
+    "website": "https://www.toftegaardokologi.dk/"
+  },
+  {
+    "id": "soeagergaard",
+    "name": "Søagergård Regenerativt Jordbrug",
+    "region": "hovedstaden",
+    "address": "Skebjergvej 4",
+    "postalCode": "2765",
+    "city": "Smørum",
+    "mapPosition": {
+      "x": 585.5,
+      "y": 512.1
+    },
+    "description": "Æg, mejeriprodukter, græsfodret oksekød, skovgris og honning fra regenerativt jordbrug. Bestil online til afhentning på gården eller på afhentningssteder i København.",
+    "website": "https://soeagergaard.com/"
+  },
+  {
+    "id": "pluk-selv-aarhus",
+    "name": "Pluk Selv Aarhus",
+    "region": "midtjylland",
+    "address": "Nymøllevej 5",
+    "postalCode": "8200",
+    "city": "Aarhus N",
+    "mapPosition": {
+      "x": 311.2,
+      "y": 401.4
+    },
+    "description": "Økologisk selvpluk af jordbær, ærter, kartofler, kål, græskar og blomster efter sæson. Tjek hjemmesiden for aktuelle afgrøder og sæsonåbning.",
+    "website": "https://pluk-selv.dk/"
+  },
+  {
+    "id": "noergaards-geder",
+    "name": "Nørgaards Geder",
+    "region": "midtjylland",
+    "address": "Bøgelyvej 14",
+    "postalCode": "6920",
+    "city": "Videbæk",
+    "mapPosition": {
+      "x": 120.7,
+      "y": 434.3
+    },
+    "description": "Økologiske gedeoste, yoghurt, pasteuriseret gedemælk og kød fra gårdens dyr. Selvbetjent gårdbutik ved familiens eget gedemejeri.",
+    "phone": "20878527",
+    "website": "https://noergaards-geder.dk/"
+  },
+  {
+    "id": "fam-christoffersens",
+    "name": "Fam. Christoffersens Gårdbutik",
+    "region": "sjaelland",
+    "address": "Karrebækvej 771",
+    "postalCode": "4736",
+    "city": "Karrebæksminde",
+    "mapPosition": {
+      "x": 505.2,
+      "y": 632.3
+    },
+    "description": "Sæsonens frugt og grøntsager, kartofler og æg fra egne frilandshøns. Udvalget omfatter også lokal honning og æblemost.",
+    "phone": "40595862"
+  },
+  {
+    "id": "buresoedal",
+    "name": "Buresødal",
+    "region": "hovedstaden",
+    "address": "Jørlunde Overdrev 7",
+    "postalCode": "3550",
+    "city": "Slangerup",
+    "mapPosition": {
+      "x": 575.0,
+      "y": 488.3
+    },
+    "description": "Økologisk stalddørssalg med sæsonens grøntsager, blandt andet kartofler, kål, rodfrugter, majs, græskar, jordbær og ærter.",
+    "phone": "20137521",
+    "website": "https://xn--buresdal-94a.dk/"
+  },
+  {
+    "id": "norlin-wagyu",
+    "name": "Norlin Wagyu",
+    "region": "sjaelland",
+    "address": "Jenslevvej 50",
+    "postalCode": "4070",
+    "city": "Kirke Hyllinge",
+    "mapPosition": {
+      "x": 534.3,
+      "y": 521.8
+    },
+    "description": "Oksekød fra fuldblods Wagyu og græsfodret kvæg. Salg annonceres via producentens nyhedsbrev; bestilling og afhentning aftales med gården.",
+    "website": "https://www.norlinwagyu.com/"
+  },
+  {
+    "id": "naturmaelk-butikken",
+    "name": "Naturmælk – Butikken",
+    "region": "syddanmark",
+    "address": "Gerrebækvej 24",
+    "postalCode": "6360",
+    "city": "Tinglev",
+    "mapPosition": {
+      "x": 193.9,
+      "y": 699.9
+    },
+    "description": "Selvbetjent mejeriudsalg med økologiske mejeriprodukter og ost fra Naturmælk. Gavekurve og specialbestillinger aftales på forhånd.",
+    "phone": "74642801",
+    "website": "https://www.xn--naturmlk-o0a.dk/besoeg-vores-butik/"
+  },
+  {
+    "id": "grolykke",
+    "name": "Grolykke",
+    "region": "midtjylland",
+    "address": "Bromøllevej 7",
+    "postalCode": "8850",
+    "city": "Bjerringbro",
+    "mapPosition": {
+      "x": 237.1,
+      "y": 352.4
+    },
+    "description": "Lokale specialiteter som marmelade, syltetøj, pesto og sennep. Kontakt producenten for aktuelt udvalg og aftale om køb på gården."
+  },
+  {
+    "id": "oekobo-bjoernoe",
+    "name": "Økobo – Bjørnø Gårdbutik",
+    "region": "syddanmark",
+    "address": "Bjørnø 11",
+    "postalCode": "5603",
+    "city": "Bjørnø",
+    "mapPosition": {
+      "x": 323.1,
+      "y": 662.6
+    },
+    "description": "Selvbetjent økologisk gårdbutik på Bjørnø med sæsonens grøntsager, æg, oksekød, delikatesser og Skarø is. Grøntkasser til afhentning i Faaborg kan bestilles hos producenten.",
+    "phone": "30142207",
+    "website": "https://www.okobo.dk/grdbutik"
+  },
+  {
+    "id": "jordkaergaard",
+    "name": "JordKærGård",
+    "region": "midtjylland",
+    "address": "Jordkærvej 8",
+    "postalCode": "8600",
+    "city": "Silkeborg",
+    "mapPosition": {
+      "x": 224.0,
+      "y": 406.5
+    },
+    "description": "Økologiske grøntsager, urter, frugt og bær fra regenerativt minilandbrug. Vejbod med sæsonens friske råvarer og bestilling af grønt hos producenten.",
+    "phone": "28511545",
+    "website": "https://jordkaergaard.dk/"
+  },
+  {
+    "id": "egebjerggaard-groent",
+    "name": "Egebjerggård Grønt",
+    "region": "syddanmark",
+    "address": "Kærbyvej 2",
+    "postalCode": "5466",
+    "city": "Asperup",
+    "mapPosition": {
+      "x": 280.6,
+      "y": 567.6
+    },
+    "description": "Grøntsager fra egen gravefri køkkenhave, æg og honning. Gårdbutik med sæsonens udvalg samt køkkenhavekurser og workshops.",
+    "website": "https://egebjerggaardgroent.dk/"
+  },
+  {
+    "id": "det-lille-oekori",
+    "name": "Det lille Økori",
+    "region": "midtjylland",
+    "address": "Lystrupvej 16",
+    "postalCode": "8781",
+    "city": "Stenderup",
+    "mapPosition": {
+      "x": 262.9,
+      "y": 494.9
+    },
+    "description": "Økologisk mikrolandbrug med selvbetjent gårdbutik. Sæsonens grøntsager, østershatte, mikrogrønt og æg fra gårdens høns.",
+    "phone": "52400226",
+    "website": "https://detlilleoekori.dk/"
+  },
+  {
+    "id": "vores-lille-gaard",
+    "name": "Vores Lille Gård",
+    "region": "sjaelland",
+    "address": "Løngvej 9",
+    "postalCode": "4180",
+    "city": "Sorø",
+    "mapPosition": {
+      "x": 489.1,
+      "y": 573.7
+    },
+    "description": "Økologisk kød fra gårdens egne fritgående dyr samt økologiske græsæg. Gårdbutik, webshop og æggehytte på gårdspladsen. Besøg til køb af kød kan også aftales telefonisk.",
+    "phone": "60166647",
+    "website": "https://voreslillegaard.dk/"
+  },
+  {
+    "id": "ulstrup-faar",
+    "name": "Ulstrup Får",
+    "region": "sjaelland",
+    "address": "Bjerredevej 27",
+    "postalCode": "4682",
+    "city": "Tureby",
+    "mapPosition": {
+      "x": 554.9,
+      "y": 590.5
+    },
+    "description": "Gårdbutik ved fåreavlen i Ulstrup. Ring for at høre om lammekød, det aktuelle udvalg og mulighederne for afhentning.",
+    "phone": "29242284"
+  },
+  {
+    "id": "muuhhies",
+    "name": "Muuhhies Gårdsbutik",
+    "region": "sjaelland",
+    "address": "Tulvej 5",
+    "postalCode": "4700",
+    "city": "Næstved",
+    "mapPosition": {
+      "x": 536.4,
+      "y": 631.9
+    },
+    "description": "Selvbetjent gårdbutik i Bøgesø med mælk fra gårdens egne køer og lokale specialiteter. Tjek butikkens aktuelle oplysninger før besøget.",
+    "website": "https://www.facebook.com/profile.php?id=61589390111196"
+  },
+  {
+    "id": "torup-bakkegaard-orelund",
+    "name": "Torup Bakkegård og Orelund",
+    "region": "syddanmark",
+    "address": "Middelfartvej 105",
+    "postalCode": "5610",
+    "city": "Assens",
+    "mapPosition": {
+      "x": 283.0,
+      "y": 601.0
+    },
+    "description": "Sæsonens frugt og grøntsager fra egne marker, blandt andet asparges, kartofler og jordbær. Gårdbutik med kød, brød, mel og fynske delikatesser fra lokale producenter.",
+    "phone": "61543592",
+    "website": "https://torupbakkegaard.dk/gaardbutikken/"
+  },
+  {
+    "id": "the-branding-garage",
+    "name": "The Branding Garage",
+    "region": "sjaelland",
+    "address": "Moltkesvej 3",
+    "postalCode": "4291",
+    "city": "Ruds Vedby",
+    "mapPosition": {
+      "x": 474.1,
+      "y": 556.1
+    },
+    "description": "Gårdbutik ved et økologisk hobbylandbrug med kvæg, grise, grøntsager og æbleplantage. Se Facebook for aktuelt udvalg og aftale om besøg.",
+    "website": "https://www.facebook.com/thebrandinggarage"
+  },
+  {
+    "id": "hjoernegaarden-dollerup",
+    "name": "Hjørnegården – en himmel til forskel",
+    "region": "midtjylland",
+    "address": "Guldborgvej 14",
+    "postalCode": "8800",
+    "city": "Viborg",
+    "mapPosition": {
+      "x": 200.2,
+      "y": 363.6
+    },
+    "description": "Gårdbutik ved Hjørnegården i Dollerup, hvor der holdes grise. Kontakt gården via Facebook for aktuelt udvalg og muligheder for køb.",
+    "website": "https://www.facebook.com/profile.php?id=61593860555615"
+  },
+  {
+    "id": "knudsens-oeko-graesaeg",
+    "name": "Knudsens Øko Græsæg",
+    "region": "syddanmark",
+    "address": "Baungårdsvej 65",
+    "postalCode": "6600",
+    "city": "Vejen",
+    "mapPosition": {
+      "x": 178.1,
+      "y": 567.5
+    },
+    "description": "Økologiske græsæg i en lille selvbetjent bod. Friske æg kan hentes alle ugens dage; se Facebook for aktuelle oplysninger.",
+    "website": "https://www.facebook.com/profile.php?id=100089791791313"
   }
 ];
