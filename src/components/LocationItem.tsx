@@ -21,7 +21,7 @@ export function LocationItem({ location, expanded, onExpandedChange }: { locatio
           <span className="location-title-line">
             <span className="location-name">{location.name}</span>
           </span>
-          <span className="location-address">{isOnline ? "Online webshop" : <>{location.address}<br />{location.postalCode} {location.city}</>}{location.phone && <> · {formatPhone(location.phone)}</>}</span>
+          {(!isOnline || location.phone) && <span className="location-address">{!isOnline && <>{location.address}<br />{location.postalCode} {location.city}</>}{location.phone && <>{!isOnline && " · "}{formatPhone(location.phone)}</>}</span>}
         </span>
         <span className="expand-icon" aria-hidden="true">{expanded ? "−" : "+"}</span>
       </button>

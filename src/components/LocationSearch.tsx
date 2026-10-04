@@ -30,9 +30,7 @@ export function LocationSearch({ regionId, onLocationSelect, onSearchChange }: {
     const text = normalize([location.name, addressTerms, location.description].join(" "));
     return terms.every((term) => text.includes(term));
   }).sort((a, b) => a.name.localeCompare(b.name, "da"));
-  const webshopCount = matches.filter((location) => location.kind === "webshop").length;
-  const farmCount = matches.length - webshopCount;
-  const resultLabel = [farmCount > 0 ? `${farmCount} ${farmCount === 1 ? "gårdbutik" : "gårdbutikker"}` : null, webshopCount > 0 ? `${webshopCount} ${webshopCount === 1 ? "webshop" : "webshops"}` : null].filter(Boolean).join(" og ") || "0 gårdbutikker";
+  const resultLabel = `${matches.length} ${matches.length === 1 ? "gårdbutik" : "gårdbutikker"}`;
 
   function changeQuery(value: string) {
     setQuery(value);
