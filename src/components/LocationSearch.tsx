@@ -1,6 +1,6 @@
 "use client";
 
-import { useId, useState } from "react";
+import { useId } from "react";
 import { LocationItem } from "@/components/LocationItem";
 import { locations } from "@/data/locations";
 import { onlineShops } from "@/data/online-shops";
@@ -17,11 +17,10 @@ export function LocationSearch({ regionId, onLocationSelect, query, onQueryChang
   selectedId: string | null;
 }) {
   const inputId = useId();
-  const [radius, setRadius] = useState(30);
   const searching = query.trim().length > 0;
   const scope = regions.find((region) => region.id === regionId)?.name ?? "hele Danmark";
   const entries: DirectoryEntry[] = [...locations, ...onlineShops];
-  const { matches, postcode, center } = searchLocations(entries, query, regionId, radius);
+  const { matches, postcode, center } = searchLocations(entries, query, regionId);
   const resultLabel = `${matches.length} ${matches.length === 1 ? "gårdbutik" : "gårdbutikker"}`;
 
   function changeQuery(value: string) {
@@ -40,10 +39,10 @@ export function LocationSearch({ regionId, onLocationSelect, query, onQueryChang
         {searching ? `${resultLabel} fundet i ${scope}` : `Søg blandt ${resultLabel} i ${scope}.`}
       </p>
       {!searching && <p className="search-help">Oversigten vokser løbende og omfatter endnu ikke alle gårdbutikker. Søg på et postnummer for at finde steder i nærheden.</p>}
-      {center && <div className="postcode-options"><p>Butikker i {postcode} {center.name} og op til {radius} km fra postnummerets omtrentlige centrum. Afstande er i luftlinje{regionId ? ", inden for den valgte region" : ""}.</p><label htmlFor={`${inputId}-radius`}>Søg i nærheden <select id={`${inputId}-radius`} value={radius} onChange={(event) => { setRadius(Number(event.target.value)); onLocationSelect(null); }}><option value={30}>30 km</option><option value={50}>50 km</option><option value={100}>100 km</option></select></label></div>}
+      {center && <div className="postcode-options"><p>Butikker inden for 50 km af {postcode} {center.name}. Afstande er i luftlinje fra postnummerets omtrentlige centrum{regionId ? ", inden for den valgte region" : ""}.</p></div>}
       {(regionId || searching) && <div className="location-list">
         {matches.map(({ location, distance }) => <LocationItem key={location.id} location={location} distance={distance} expanded={selectedId === location.id} onExpandedChange={(item, expanded) => onLocationSelect(expanded ? item : null)} />)}
-        {matches.length === 0 && <div className="empty-state"><p>{center ? `Vi har endnu ingen registrerede butikker, der matcher inden for ${radius} km. Prøv en større afstand eller se hele regionen.` : postcode ? "Postnummeret kunne ikke matches med en butik i oversigten. Prøv en by eller vælg en region på kortet." : "Ingen registrerede gårdbutikker matcher din søgning. Prøv et andet navn, en by eller en vare."}</p><p>Det betyder ikke, at der ikke findes gårdbutikker i området.</p><a href="mailto:christian@olsenvideo.dk?subject=Forslag%20til%20g%C3%A5rdbutik">Foreslå en gårdbutik ↗</a></div>}
+        {matches.length === 0 && <div className="empty-state"><p>{center ? "Vi har endnu ingen registrerede butikker, der matcher inden for 50 km. Prøv en by eller se hele regionen." : postcode ? "Postnummeret kunne ikke matches med en butik i oversigten. Prøv en by eller vælg en region på kortet." : "Ingen registrerede gårdbutikker matcher din søgning. Prøv et andet navn, en by eller en vare."}</p><p>Det betyder ikke, at der ikke findes gårdbutikker i området.</p><a href="mailto:christian@olsenvideo.dk?subject=Forslag%20til%20g%C3%A5rdbutik">Foreslå en gårdbutik ↗</a></div>}
       </div>}
     </div>
   );

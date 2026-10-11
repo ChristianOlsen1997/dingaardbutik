@@ -14,7 +14,7 @@ function distanceKm(a: { latitude: number; longitude: number }, b: { latitude: n
   return 6371 * 2 * Math.asin(Math.sqrt(Math.min(1, h)));
 }
 
-export function searchLocations(entries: DirectoryEntry[], query: string, regionId?: RegionId, radius = 30) {
+export function searchLocations(entries: DirectoryEntry[], query: string, regionId?: RegionId) {
   const terms = normalize(query).trim().split(/\s+/).filter(Boolean);
   const postcode = terms.find((term) => /^\d{4}$/.test(term));
   const center = postcode ? (postalCodes as Record<string, { name: string; latitude: number; longitude: number }>)[postcode] : undefined;
@@ -27,7 +27,7 @@ export function searchLocations(entries: DirectoryEntry[], query: string, region
     if (center) {
       if (location.kind === "webshop") return [];
       const distance = distanceKm(center, location.coordinates);
-      if (location.postalCode !== postcode && distance > radius) return [];
+      if (distance > 50) return [];
       return [{ location, distance }];
     }
     return [{ location, distance: undefined }];

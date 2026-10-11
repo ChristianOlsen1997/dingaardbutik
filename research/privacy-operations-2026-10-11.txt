@@ -27,9 +27,9 @@ https://vercel.com/docs/analytics/privacy-policy
 https://vercel.com/legal/dpa
 
 Postnummersøgning
-GeoNames DK.zip hentet 11. oktober 2026 fra https://download.geonames.org/export/zip/DK.zip. Estimerede postnummercentre (ikke præcise adresser), bearbejdet til src/data/postal-codes.json. CC BY 4.0, kilde/licens nævnt på privatlivssiden. Afstande er haversine i luftlinje. Butikker med det søgte postnummer medtages også, hvis et stort postdistrikt strækker sig ud over søgeradius. Øvrige tekstord og regionsfilter bevares.
+GeoNames DK.zip hentet 11. oktober 2026 fra https://download.geonames.org/export/zip/DK.zip. Estimerede postnummercentre (ikke præcise adresser), bearbejdet til src/data/postal-codes.json. CC BY 4.0, kilde/licens nævnt på privatlivssiden. Afstande er haversine i luftlinje. Søgningen medtager butikker inden for en fast radius på 50 km fra postnummerets omtrentlige centrum. Øvrige tekstord og regionsfilter bevares.
 
 Verifikation
 Produktionsbuild og TypeScript bestået. ESLint og git diff --check bestået.
-research/verify-feedback.mjs kontrollerer 5750 Ringe (12 butikker i nærheden ved 30 km), større radius, ukendt postnummer, Lille Jords sammenfoldede visning, kortvalg og tastatur, nulstilling af søgefilter ved kortvalg, default/afvis/accept/tilbagekald af statistik, URL-scrubbing, firma/privatliv på undersider, begge nye butikker og mobiloverløb.
+research/verify-feedback.mjs kontrollerer 5750 Ringe (fast radius på 50 km uden afstandsvælger), ukendt postnummer, Lille Jords sammenfoldede visning, kortvalg og tastatur, nulstilling af søgefilter ved kortvalg, default/afvis/accept/tilbagekald af statistik, URL-scrubbing, firma/privatliv på undersider, begge nye butikker og mobiloverløb.
 Vercels statistikscript er stubbet i den lokale browserkontrol, fordi Nexts lokale server ikke har Vercels intake. Kontrollen verificerer SDK-indlæsningen og blokeringen, ikke Vercels modtagelse af statistik i produktion.

@@ -29,9 +29,9 @@ const { chromium } = await import(process.env.PLAYWRIGHT_MODULE_PATH ? pathToFil
     const initialCount = await page.locator('.location-summary').count();
     assert(initialCount > 0, 'Postcode on central Funen must find nearby shops');
     assert.match(await page.locator('.postcode-options').innerText(), /5750 Ringe/);
-    await page.getByRole('combobox').selectOption('50');
-    assert((await page.locator('.location-summary').count()) >= initialCount);
-    console.log('5750 Ringe:', initialCount, 'shops within 30 km; radius expands results');
+    assert.equal(await page.getByRole('combobox').count(), 0);
+    assert.match(await page.locator('.postcode-options').innerText(), /inden for 50 km/);
+    console.log('5750 Ringe:', initialCount, 'shops within fixed 50 km');
     await page.getByRole('searchbox').fill('9999');
     assert.match(await page.locator('.empty-state').innerText(), /Det betyder ikke/);
     await page.getByRole('searchbox').fill('Lille Jord');
@@ -95,6 +95,6 @@ const { chromium } = await import(process.env.PLAYWRIGHT_MODULE_PATH ? pathToFil
     await page.getByRole('button', { name: 'Cookie- og statistikvalg', exact: true }).click();
     await page.screenshot({ path: 'research/feedback-consent-mobile-2026-10-11.png' });
     assert.equal(errors.length, 0, errors.join('\n'));
-    console.log('PASS: postcode/radius, empty results, webshop summary, map click/keyboard/filter reset, consent/default/rejection/acceptance/withdrawal, privacy/contact, new shops and mobile layout');
+    console.log('PASS: postcode/fixed 50 km, empty results, webshop summary, map click/keyboard/filter reset, consent/default/rejection/acceptance/withdrawal, privacy/contact, new shops and mobile layout');
   } finally { await browser.close(); }
 })().catch((error) => { console.error(error); process.exitCode = 1; });

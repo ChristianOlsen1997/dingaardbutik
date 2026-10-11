@@ -98,8 +98,6 @@ button, a { -webkit-tap-highlight-color:transparent; }
 .empty-state { padding:30px 0; }
 .empty-state p { margin:0 0 18px; line-height:1.55; }
 .search-help, .postcode-options p { font-size:.82rem; line-height:1.6; }
-.postcode-options label { display:flex; align-items:center; gap:12px; font-size:.8rem; margin:12px 0; }
-.postcode-options select { background:var(--cream); color:var(--forest); border:1px solid var(--line); padding:8px; font:inherit; }
 .location-distance { display:block; margin-top:7px; font-size:.76rem; }
 .location-summary { scroll-margin-block:24px; }
 .about-strip { position:relative; z-index:3; display:grid; background:var(--paper); grid-template-columns:38fr 62fr; gap:30px; padding:56px 0; border-bottom:1px solid var(--line); }
@@ -139,7 +137,7 @@ button, a { -webkit-tap-highlight-color:transparent; }
 .consent-actions { display:flex; flex-direction:column; justify-content:center; gap:12px; }
 .consent-actions button:not(.text-button) { border:1px solid var(--forest); padding:12px 18px; background:var(--paper); cursor:pointer; font-weight:700; }
 .consent-actions button:not(.text-button):hover { background:#dce8dc; }
-@media (max-width:800px) { .consent-banner { grid-template-columns:1fr; gap:12px; padding:18px; } .consent-actions { flex-direction:row; flex-wrap:wrap; } .consent-actions button:not(.text-button) { flex:1; } .postcode-options select { font-size:16px; } }
+@media (max-width:800px) { .consent-banner { grid-template-columns:1fr; gap:12px; padding:18px; } .consent-actions { flex-direction:row; flex-wrap:wrap; } .consent-actions button:not(.text-button) { flex:1; } }
 @keyframes content-in { from { opacity:0; transform:translateY(10px); } to { opacity:1; transform:none; } }
 @keyframes advertising-glow { 0%, 100% { background-color:rgb(255 255 255 / .18); border-color:color-mix(in srgb, var(--forest) 38%, transparent); } 50% { background-color:rgb(44 165 87 / .12); border-color:color-mix(in srgb, var(--green) 72%, transparent); } }
 
