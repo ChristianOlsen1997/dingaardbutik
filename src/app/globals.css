@@ -101,7 +101,6 @@ button, a { -webkit-tap-highlight-color:transparent; }
 .postcode-options label { display:flex; align-items:center; gap:12px; font-size:.8rem; margin:12px 0; }
 .postcode-options select { background:var(--cream); color:var(--forest); border:1px solid var(--line); padding:8px; font:inherit; }
 .location-distance { display:block; margin-top:7px; font-size:.76rem; }
-.listing-meta { font-size:.76rem; line-height:1.6; }
 .location-summary { scroll-margin-block:24px; }
 .about-strip { position:relative; z-index:3; display:grid; background:var(--paper); grid-template-columns:38fr 62fr; gap:30px; padding:56px 0; border-bottom:1px solid var(--line); }
 .about-strip p { margin:0; }

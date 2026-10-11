@@ -2,7 +2,7 @@ Din Gårdbutik — driftsnoter efter feedback 11. oktober 2026
 
 Implementeret
 - Privatlivspolitik og firmasiden /kontakt med brugerens bekræftede oplysninger.
-- Kilde og mailvej til rettelse/fjernelse ved hver fysisk butik.
+- Kildeinformation og vej til rettelse/fjernelse findes via links i sidens footer, efter brugerens ønske.
 - Vercel Web Analytics indlæses først efter aktiv accept. Afvisning, tilbagekaldelse og genvalg er testet. Browservalget udløber efter 180 dage.
 - Eksisterende annonceplads er markeret som ledig annonceplads. Ved indsættelse af en betalende annoncør skal mærkningen skiftes til “Annonce” og annoncørens navn vises.
 - Ingen indlejrede sociale medier eller Google Maps. Fonts leveres lokalt via next/font.

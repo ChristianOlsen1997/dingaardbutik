@@ -54,7 +54,6 @@ export default async function RegionPage({ params }: Props) {
                 {location.website && <a href={location.website} target="_blank" rel="noreferrer">Besøg {location.name} ↗</a>}
                 <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${location.address}, ${location.postalCode} ${location.city}`)}`} target="_blank" rel="noreferrer">Se på Google Maps ↗</a>
               </div>
-              <p className="listing-meta">{location.source && <><a href={location.source} target="_blank" rel="noreferrer">Kilde til oplysninger ↗</a> · </>}<a href={`mailto:christian@olsenvideo.dk?subject=${encodeURIComponent(`Rettelse eller fjernelse: ${location.name}`)}`}>Ret oplysninger eller få stedet fjernet</a></p>
             </article>
           ))}
         </div>

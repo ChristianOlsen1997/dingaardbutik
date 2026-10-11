@@ -35,7 +35,6 @@ export function LocationItem({ location, expanded, onExpandedChange, distance }:
             {mapsUrl && <a href={mapsUrl} target="_blank" rel="noreferrer">Se adresse på Google Maps <span aria-hidden="true">↗</span></a>}
           </div>
           <p className="travel-note">{isOnline ? "Se aktuelle leveringsvilkår og udvalg i webshoppen." : "Kontakt gerne gårdbutikken før dit besøg for at høre om det aktuelle udvalg."}</p>
-          <p className="listing-meta">{location.source && <><a href={location.source} target="_blank" rel="noreferrer">Kilde til oplysninger ↗</a><span> · </span></>}<a href={`mailto:christian@olsenvideo.dk?subject=${encodeURIComponent(`Rettelse eller fjernelse: ${location.name}`)}`}>Ret oplysninger eller få stedet fjernet</a></p>
         </div>
       </div>
     </article>
