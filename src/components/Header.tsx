@@ -14,7 +14,6 @@ export function Header() {
     <header className="site-header">
       <a className="wordmark" href="#top" aria-label="dingårdbutik, gå til toppen">dingårdbutik</a>
       <a className="advertising-slot" href="#annoncering" aria-label="Kontakt om ledig annonceplads">
-        <span className="advertising-label">Annonceplads · ledig</span>
         <strong>Støt lokale gårdbutikker</strong>
         <span>Annoncér her og hjælp flere med at finde dem.</span>
       </a>
