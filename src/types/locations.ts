@@ -16,7 +16,9 @@ export type Location = {
   phone?: string;
   website?: string;
   mapPosition: MapPosition;
+  coordinates: { latitude: number; longitude: number };
   description: string;
+  source?: string;
 };
 
 export type OnlineShop = {
@@ -26,6 +28,7 @@ export type OnlineShop = {
   description: string;
   website: string;
   phone?: string;
+  source?: string;
 };
 
 export type DirectoryEntry = Location | OnlineShop;

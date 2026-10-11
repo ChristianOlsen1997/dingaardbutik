@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { locations } from "@/data/locations";
 import { regions } from "@/data/regions";
+import { SiteFooter } from "@/components/SiteFooter";
 
 type Props = { params: Promise<{ region: string }> };
 
@@ -53,6 +54,7 @@ export default async function RegionPage({ params }: Props) {
                 {location.website && <a href={location.website} target="_blank" rel="noreferrer">Besøg {location.name} ↗</a>}
                 <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${location.address}, ${location.postalCode} ${location.city}`)}`} target="_blank" rel="noreferrer">Se på Google Maps ↗</a>
               </div>
+              <p className="listing-meta">{location.source && <><a href={location.source} target="_blank" rel="noreferrer">Kilde til oplysninger ↗</a> · </>}<a href={`mailto:christian@olsenvideo.dk?subject=${encodeURIComponent(`Rettelse eller fjernelse: ${location.name}`)}`}>Ret oplysninger eller få stedet fjernet</a></p>
             </article>
           ))}
         </div>
@@ -60,7 +62,7 @@ export default async function RegionPage({ params }: Props) {
           {regions.map((item) => <Link href={`/gaardbutikker/${item.id}`} key={item.id} aria-current={item.id === id ? "page" : undefined}>{item.name}</Link>)}
         </nav>
       </main>
-      <footer className="footer"><p>Din Gårdbutik — en uafhængig oversigt over danske gårdbutikker.</p><Link href="/#annoncering">Kontakt</Link></footer>
+      <SiteFooter />
     </div>
   );
 }

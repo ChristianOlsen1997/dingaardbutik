@@ -950,5 +950,21 @@
     "latitude": 55.4851821322741,
     "source": "https://adressevaelger.dk/husnumre/0a3f508e-7490-32b8-e044-0003ba298018?token=adressevaelger123",
     "approximate": false
+  },
+  {
+    "id": "den-groenne-vogn",
+    "address": "Nydalvej 2, 9800 Hjørring",
+    "longitude": 9.815529574707789,
+    "latitude": 57.46392376941907,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509a-8a62-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "grantoftegaard",
+    "address": "Pederstrupvej 69, 2750 Ballerup",
+    "longitude": 12.337227090265708,
+    "latitude": 55.73279179952064,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507b-727c-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
   }
 ]

@@ -5,6 +5,8 @@ import { siteUrl } from "@/data/site";
 export default function sitemap(): MetadataRoute.Sitemap {
   return [
     { url: `${siteUrl}/` },
+    { url: `${siteUrl}/privatliv` },
+    { url: `${siteUrl}/kontakt` },
     ...regions.map((region) => ({ url: `${siteUrl}/gaardbutikker/${region.id}` })),
   ];
 }

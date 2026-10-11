@@ -1,0 +1,35 @@
+Din Gårdbutik — driftsnoter efter feedback 11. oktober 2026
+
+Implementeret
+- Privatlivspolitik og firmasiden /kontakt med brugerens bekræftede oplysninger.
+- Kilde og mailvej til rettelse/fjernelse ved hver fysisk butik.
+- Vercel Web Analytics indlæses først efter aktiv accept. Afvisning, tilbagekaldelse og genvalg er testet. Browservalget udløber efter 180 dage.
+- Eksisterende annonceplads er markeret som ledig annonceplads. Ved indsættelse af en betalende annoncør skal mærkningen skiftes til “Annonce” og annoncørens navn vises.
+- Ingen indlejrede sociale medier eller Google Maps. Fonts leveres lokalt via next/font.
+
+Drift, som kræver Christian/Olsen Video
+1. Oplysningspligt: En offentlig privatlivsside er ikke i sig selv dokumentation for, at en registreret har fået de oplysninger, som artikel 14 kræver. Vurder de enkelte producentoplysninger og giv berørte enkeltmandsvirksomheder den relevante information direkte, hvor oplysningspligten gælder. Fristen er som udgangspunkt en måned og kan være tidligere ved offentliggørelse/videregivelse. En eventuel undtagelse kræver en konkret, dokumenteret vurdering. Der er ikke sendt beskeder til producenterne i denne opgave.
+2. Databehandleraftaler og overførsler: Bekræft aftalegrundlaget med Vercel og den faktisk anvendte mailudbyder samt relevante internationale overførsler. Vercels offentlige DPA er læst; kontoens individuelle aftaler og mailudbyder er ikke kontrolleret.
+3. Rettelser og sletning: Følg henvendelser til christian@olsenvideo.dk, svar som udgangspunkt inden en måned, og ret/fjern både aktive poster og unødvendigt kildegrundlag. Kontroller også tidligere deploys, Git-historik og eventuelle offentlige repositorykopier ved en sletningsanmodning. En ny deploy alene fjerner ikke alle historiske kopier.
+4. Opbevaring: Privatlivsteksten angiver sletning af afsluttede almindelige henvendelser inden 12 måneder. Dette er en ny driftsregel, som skal efterleves manuelt i mailarkivet. Statistikdata og driftslogs hos Vercel kræver kontrol af kontoens faktiske opbevaring og muligheder for sletning.
+5. Interesseafvejning: Dokumentér formålet (vejviser til lokale producenter), nødvendigheden (offentlige erhvervskontaktdata og besøgsadresse), påvirkningen af indehavere (særligt hvor hjemadresse og erhvervsadresse er samme sted) og hensynene (begrænset datasæt, kilde, korrektion og fjernelse). Privatlivstekstens interessegrundlag erstatter ikke denne konkrete vurdering.
+
+Forslag til kort direkte information til en berørt producent
+“Din Gårdbutik har optaget jeres butik i vores oversigt over lokale producenter. Vi viser navn, besøgsadresse, offentlige kontaktoplysninger og en kort beskrivelse fra offentligt tilgængelige erhvervskilder. Olsen Video (CVR 40057846), Jens Bangs Vej 7, 1. tv., 9400 Nørresundby, ved Christian Olsen er dataansvarlig. Formålet er at gøre det lettere at finde lokale producenter; behandling af eventuelle personoplysninger sker på baggrund af en legitim interesse. Oplysningerne vises offentligt og kan indekseres af søgemaskiner. I kan skrive til christian@olsenvideo.dk for kildeoplysninger, indsigt, rettelse, indsigelse eller fjernelse. Den fulde privatlivspolitik på Din Gårdbutik beskriver opbevaring, tjenester og rettigheder, herunder muligheden for at klage til Datatilsynet.”
+Tilføj det konkrete link til privatlivspolitikken og butikkens konkrete kilder før afsendelse.
+
+Kontrollerede primære vejledninger
+https://www.datatilsynet.dk/Media/C/0/Registreredes%20rettigheder.pdf
+https://www.datatilsynet.dk/borger/hvad-er-dine-rettigheder
+https://digst.dk/sikkerhed/digitale-tilsyn/tilsyn-med-sporingsteknologiomraadet/cookievejledningen/
+https://forbrugerombudsmanden.dk/alle-emner/anden-lovgivning/e-handelsloven
+https://vercel.com/docs/analytics/privacy-policy
+https://vercel.com/legal/dpa
+
+Postnummersøgning
+GeoNames DK.zip hentet 11. oktober 2026 fra https://download.geonames.org/export/zip/DK.zip. Estimerede postnummercentre (ikke præcise adresser), bearbejdet til src/data/postal-codes.json. CC BY 4.0, kilde/licens nævnt på privatlivssiden. Afstande er haversine i luftlinje. Butikker med det søgte postnummer medtages også, hvis et stort postdistrikt strækker sig ud over søgeradius. Øvrige tekstord og regionsfilter bevares.
+
+Verifikation
+Produktionsbuild og TypeScript bestået. ESLint og git diff --check bestået.
+research/verify-feedback.mjs kontrollerer 5750 Ringe (12 butikker i nærheden ved 30 km), større radius, ukendt postnummer, Lille Jords sammenfoldede visning, kortvalg og tastatur, nulstilling af søgefilter ved kortvalg, default/afvis/accept/tilbagekald af statistik, URL-scrubbing, firma/privatliv på undersider, begge nye butikker og mobiloverløb.
+Vercels statistikscript er stubbet i den lokale browserkontrol, fordi Nexts lokale server ikke har Vercels intake. Kontrollen verificerer SDK-indlæsningen og blokeringen, ikke Vercels modtagelse af statistik i produktion.

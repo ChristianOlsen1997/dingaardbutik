@@ -2,7 +2,7 @@
 
 import { locations } from "@/data/locations";
 import { regions } from "@/data/regions";
-import type { MapPosition } from "@/types/locations";
+import type { DirectoryEntry } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
 import { LocationSearch } from "@/components/LocationSearch";
 
@@ -10,10 +10,16 @@ export function RegionDirectory({
   regionId,
   onReset,
   onLocationSelect,
+  query,
+  onQueryChange,
+  selectedId,
 }: {
   regionId: RegionId;
   onReset: () => void;
-  onLocationSelect: (position: MapPosition | null) => void;
+  onLocationSelect: (entry: DirectoryEntry | null) => void;
+  query: string;
+  onQueryChange: (query: string) => void;
+  selectedId: string | null;
 }) {
   const region = regions.find((item) => item.id === regionId);
   const matches = locations.filter((location) => location.region === regionId).sort((a, b) => a.name.localeCompare(b.name, "da"));
@@ -26,7 +32,7 @@ export function RegionDirectory({
       <h1 id="directory-heading">{region.name}</h1>
       <p className="directory-count">{matches.length} {matches.length === 1 ? "registreret gårdbutik" : "registrerede gårdbutikker"}</p>
       <p className="directory-intro">{region.introduction}</p>
-      <LocationSearch regionId={regionId} onLocationSelect={onLocationSelect} />
+      <LocationSearch regionId={regionId} onLocationSelect={onLocationSelect} query={query} onQueryChange={onQueryChange} selectedId={selectedId} />
     </section>
   );
 }

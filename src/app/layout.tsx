@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { DM_Sans, Fraunces } from "next/font/google";
-import { Analytics } from "@vercel/analytics/next";
+import { PrivacyControls } from "@/components/PrivacyControls";
 import { siteUrl } from "@/data/site";
 import "./globals.css";
 
@@ -19,7 +19,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
     <html lang="da">
       <body className={`${sans.variable} ${display.variable}`}>
         {children}
-        <Analytics />
+        <PrivacyControls />
       </body>
     </html>
   );

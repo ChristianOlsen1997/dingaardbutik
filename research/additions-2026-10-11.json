@@ -1,0 +1,12 @@
+[
+  {
+    "farm": ["den-groenne-vogn", "Den Grønne Vogn", "nordjylland", "Nydalvej 2", "9800", "Hjørring", "", "https://vendsysselfoedevarer.dk/frugt_og_groent/", "Sæsonens friske grøntsager fra egen dyrkning ved Lønstrup, blandt andet tomater, gulerødder og kartofler. Se producentoversigten for aktuelle oplysninger før besøget.", "https://vendsysselfoedevarer.dk/frugt_og_groent/"],
+    "sources": ["https://www.enjoynordjylland.com/sites/enjoynordjylland.com/files/2022-08/Vendsyssel%20F%C3%B8devarer.pdf"],
+    "note": "Besøgsadresse og produkter bekræftet af producentforeningens oversigt og turistbrochure. Telefonnummeret 21721427 står også ved Brodamgaard i den aktuelle oversigt; ældre brochure bruger samme nummer, men sikkert aktuelt direkte nummer er ikke bekræftet og er udeladt. Linket går til producentforeningen, ikke en egen hjemmeside. Ingen økologipåstand tilføjet."
+  },
+  {
+    "farm": ["grantoftegaard", "Grantoftegaard", "hovedstaden", "Pederstrupvej 69", "2750", "Ballerup", "88185830", "https://grantoftegaard.dk/", "Økologiske grøntsager fra gårdens egne marker sælges fra en selvbetjent stadevogn i Pederstrup. Udvalget følger sæsonen. Åben besøgsgård og socialøkonomisk virksomhed.", "https://grantoftegaard.dk/"],
+    "sources": [],
+    "note": "Adresse og nuværende telefon fra egen hjemmeside. Stadevognen sælger grøntsager alle ugens dage året rundt. Caféen er aktuelt lukket; ældre katalogers caféåbningstider og kødudvalg er ikke importeret."
+  }
+]

@@ -1,0 +1,100 @@
+// Run against localhost:3014. Optionally set PLAYWRIGHT_MODULE_PATH to a bundled index.js.
+import assert from 'node:assert/strict';
+import { pathToFileURL } from 'node:url';
+const { chromium } = await import(process.env.PLAYWRIGHT_MODULE_PATH ? pathToFileURL(process.env.PLAYWRIGHT_MODULE_PATH).href : 'playwright');
+
+(async () => {
+  const browser = await chromium.launch({ headless: true, channel: 'msedge' });
+  try {
+    const context = await browser.newContext({ viewport: { width: 1440, height: 1000 } });
+    const page = await context.newPage();
+    const errors = [];
+    const analyticsRequests = [];
+    page.on('pageerror', (error) => errors.push(error.message));
+    page.on('request', (request) => { if (request.url().includes('/_vercel/insights/')) analyticsRequests.push(request.url()); });
+    // The local server has no Vercel intake. Stub only its script response;
+    // assert the real SDK does not request it until consent is given.
+    await page.route('**/_vercel/insights/script.js', (route) => route.fulfill({ contentType: 'application/javascript', body: '// Local consent-gate test; no telemetry sent.' }));
+    await page.goto('http://localhost:3014');
+    await page.getByRole('heading', { name: 'Må vi måle besøg?' }).waitFor();
+    assert.equal(await page.locator('script[data-sdkn]').count(), 0);
+    assert.equal(analyticsRequests.length, 0);
+    await page.getByRole('button', { name: 'Afvis statistik', exact: true }).click();
+    await page.reload();
+    await page.getByRole('searchbox').waitFor();
+    assert.equal(await page.locator('.consent-banner').count(), 0);
+    assert.equal(await page.locator('script[data-sdkn]').count(), 0);
+    await page.getByRole('searchbox').fill('5750');
+    await page.locator('.postcode-options').waitFor();
+    const initialCount = await page.locator('.location-summary').count();
+    assert(initialCount > 0, 'Postcode on central Funen must find nearby shops');
+    assert.match(await page.locator('.postcode-options').innerText(), /5750 Ringe/);
+    await page.getByRole('combobox').selectOption('50');
+    assert((await page.locator('.location-summary').count()) >= initialCount);
+    console.log('5750 Ringe:', initialCount, 'shops within 30 km; radius expands results');
+    await page.getByRole('searchbox').fill('9999');
+    assert.match(await page.locator('.empty-state').innerText(), /Det betyder ikke/);
+    await page.getByRole('searchbox').fill('Lille Jord');
+    assert.doesNotMatch(await page.locator('.search-status').innerText(), /webshop/);
+    assert.doesNotMatch(await page.locator('.location-summary').innerText(), /webshop/i);
+    await page.getByRole('button', { name: /Lille Jord/ }).click();
+    assert.match(await page.locator('.location-details[data-open="true"]').innerText(), /Online webshop/);
+    await page.getByRole('searchbox').fill('');
+    await page.locator('.denmark-map [data-region="syddanmark"]').click({ force: true });
+    await page.locator('.map-shop-marker').first().waitFor();
+    assert((await page.locator('.map-shop-marker').count()) > 0);
+    assert.match(await page.locator('.directory-count').innerText(), /36/);
+    await page.getByRole('searchbox').fill('unlikely-no-result');
+    const marker = page.locator('.map-shop-marker').first();
+    await marker.locator('.map-shop-dot').click();
+    await page.locator('.map-location-picker').waitFor();
+    const choice = page.locator('.map-location-picker > button').first();
+    const name = (await choice.innerText()).split('\n')[0];
+    await choice.click();
+    assert.equal(await page.getByRole('searchbox').inputValue(), '');
+    assert.match(await page.locator('.location-details[data-open="true"]').locator('..').innerText(), new RegExp(name));
+    assert.equal(await page.locator('.location-summary[aria-expanded="true"]').count(), 1);
+    await page.locator('.map-shop-marker[aria-label="Vis Naturmælk – Butikken, Tinglev"]').focus();
+    await page.keyboard.press('Enter');
+    assert.equal(await page.locator('.map-shop-marker[aria-pressed="true"]').count(), 1);
+    await page.screenshot({ path: 'research/feedback-map-desktop-2026-10-11.png' });
+    await page.getByRole('button', { name: 'Cookie- og statistikvalg', exact: true }).click();
+    await page.getByRole('button', { name: 'Acceptér statistik', exact: true }).click();
+    await page.locator('script[data-sdkn]').waitFor({ state: 'attached' });
+    await page.waitForTimeout(100);
+    assert(analyticsRequests.length > 0);
+    const scrubbed = await page.evaluate(() => {
+      const beforeSend = window.vaq.find((event) => event[0] === 'beforeSend')[1];
+      return beforeSend({ type: 'pageview', url: 'http://localhost:3014/?private=value#secret' }).url;
+    });
+    assert.equal(scrubbed, 'http://localhost:3014/');
+    await page.getByRole('button', { name: 'Cookie- og statistikvalg', exact: true }).click();
+    await page.getByRole('button', { name: 'Afvis statistik', exact: true }).click();
+    await page.waitForLoadState('load');
+    await page.getByRole('searchbox').waitFor();
+    assert.equal(await page.locator('script[data-sdkn]').count(), 0);
+    const requestsAfterWithdrawal = analyticsRequests.length;
+    await page.reload();
+    await page.getByRole('searchbox').waitFor();
+    assert.equal(analyticsRequests.length, requestsAfterWithdrawal);
+    for (const url of ['/privatliv', '/kontakt', '/gaardbutikker/hovedstaden', '/gaardbutikker/nordjylland']) {
+      await page.goto('http://localhost:3014' + url);
+      assert.equal(await page.locator('.footer').getByRole('link', { name: 'Privatlivspolitik' }).count(), 1);
+      assert.match(await page.locator('.footer').innerText(), /40057846/);
+    }
+    await page.goto('http://localhost:3014/gaardbutikker/hovedstaden');
+    assert.match(await page.locator('.region-list').innerText(), /Grantoftegaard/);
+    await page.goto('http://localhost:3014/gaardbutikker/nordjylland');
+    assert.match(await page.locator('.region-list').innerText(), /Den Grønne Vogn/);
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto('http://localhost:3014');
+    await page.getByRole('searchbox').fill('5750');
+    await page.waitForTimeout(500);
+    assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth), false);
+    await page.screenshot({ path: 'research/feedback-search-mobile-2026-10-11.png' });
+    await page.getByRole('button', { name: 'Cookie- og statistikvalg', exact: true }).click();
+    await page.screenshot({ path: 'research/feedback-consent-mobile-2026-10-11.png' });
+    assert.equal(errors.length, 0, errors.join('\n'));
+    console.log('PASS: postcode/radius, empty results, webshop summary, map click/keyboard/filter reset, consent/default/rejection/acceptance/withdrawal, privacy/contact, new shops and mobile layout');
+  } finally { await browser.close(); }
+})().catch((error) => { console.error(error); process.exitCode = 1; });

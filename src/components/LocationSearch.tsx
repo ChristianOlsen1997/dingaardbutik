@@ -5,38 +5,28 @@ import { LocationItem } from "@/components/LocationItem";
 import { locations } from "@/data/locations";
 import { onlineShops } from "@/data/online-shops";
 import { regions } from "@/data/regions";
-import type { DirectoryEntry, MapPosition } from "@/types/locations";
+import type { DirectoryEntry } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
+import { searchLocations } from "@/lib/location-search";
 
-function normalize(value: string) {
-  return value.toLocaleLowerCase("da").replaceAll("æ", "ae").replaceAll("ø", "oe").replaceAll("å", "aa").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-}
-
-export function LocationSearch({ regionId, onLocationSelect, onSearchChange }: {
+export function LocationSearch({ regionId, onLocationSelect, query, onQueryChange, selectedId }: {
   regionId?: RegionId;
-  onLocationSelect: (position: MapPosition | null) => void;
-  onSearchChange?: (searching: boolean) => void;
+  onLocationSelect: (entry: DirectoryEntry | null) => void;
+  query: string;
+  onQueryChange: (query: string) => void;
+  selectedId: string | null;
 }) {
   const inputId = useId();
-  const [query, setQuery] = useState("");
-  const [expandedId, setExpandedId] = useState<string | null>(null);
-  const terms = normalize(query).trim().split(/\s+/).filter(Boolean);
-  const searching = terms.length > 0;
+  const [radius, setRadius] = useState(30);
+  const searching = query.trim().length > 0;
   const scope = regions.find((region) => region.id === regionId)?.name ?? "hele Danmark";
   const entries: DirectoryEntry[] = [...locations, ...onlineShops];
-  const matches = entries.filter((location) => {
-    if (regionId && (location.kind === "webshop" || location.region !== regionId)) return false;
-    const addressTerms = location.kind === "webshop" ? "online webshop" : [location.address, location.postalCode, location.city].join(" ");
-    const text = normalize([location.name, addressTerms, location.description].join(" "));
-    return terms.every((term) => text.includes(term));
-  }).sort((a, b) => a.name.localeCompare(b.name, "da"));
+  const { matches, postcode, center } = searchLocations(entries, query, regionId, radius);
   const resultLabel = `${matches.length} ${matches.length === 1 ? "gårdbutik" : "gårdbutikker"}`;
 
   function changeQuery(value: string) {
-    setQuery(value);
-    setExpandedId(null);
+    onQueryChange(value);
     onLocationSelect(null);
-    onSearchChange?.(value.trim().length > 0);
   }
 
   return (
@@ -49,12 +39,11 @@ export function LocationSearch({ regionId, onLocationSelect, onSearchChange }: {
       <p id={`${inputId}-status`} className="search-status" role="status">
         {searching ? `${resultLabel} fundet i ${scope}` : `Søg blandt ${resultLabel} i ${scope}.`}
       </p>
+      {!searching && <p className="search-help">Oversigten vokser løbende og omfatter endnu ikke alle gårdbutikker. Søg på et postnummer for at finde steder i nærheden.</p>}
+      {center && <div className="postcode-options"><p>Butikker i {postcode} {center.name} og op til {radius} km fra postnummerets omtrentlige centrum. Afstande er i luftlinje{regionId ? ", inden for den valgte region" : ""}.</p><label htmlFor={`${inputId}-radius`}>Søg i nærheden <select id={`${inputId}-radius`} value={radius} onChange={(event) => { setRadius(Number(event.target.value)); onLocationSelect(null); }}><option value={30}>30 km</option><option value={50}>50 km</option><option value={100}>100 km</option></select></label></div>}
       {(regionId || searching) && <div className="location-list">
-        {matches.map((location) => <LocationItem key={location.id} location={location} expanded={expandedId === location.id} onExpandedChange={(item, expanded) => {
-          setExpandedId(expanded ? item.id : null);
-          onLocationSelect(expanded && item.kind !== "webshop" ? item.mapPosition : null);
-        }} />)}
-        {matches.length === 0 && <div className="empty-state"><p>Ingen gårdbutikker matcher din søgning. Prøv et andet navn, en by eller en vare.</p></div>}
+        {matches.map(({ location, distance }) => <LocationItem key={location.id} location={location} distance={distance} expanded={selectedId === location.id} onExpandedChange={(item, expanded) => onLocationSelect(expanded ? item : null)} />)}
+        {matches.length === 0 && <div className="empty-state"><p>{center ? `Vi har endnu ingen registrerede butikker, der matcher inden for ${radius} km. Prøv en større afstand eller se hele regionen.` : postcode ? "Postnummeret kunne ikke matches med en butik i oversigten. Prøv en by eller vælg en region på kortet." : "Ingen registrerede gårdbutikker matcher din søgning. Prøv et andet navn, en by eller en vare."}</p><p>Det betyder ikke, at der ikke findes gårdbutikker i området.</p><a href="mailto:christian@olsenvideo.dk?subject=Forslag%20til%20g%C3%A5rdbutik">Foreslå en gårdbutik ↗</a></div>}
       </div>}
     </div>
   );

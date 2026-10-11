@@ -4,17 +4,21 @@ import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
 import { regions } from "@/data/regions";
+import { locations } from "@/data/locations";
 import { DenmarkMap } from "@/components/DenmarkMap";
 import { Header } from "@/components/Header";
 import { RegionDirectory } from "@/components/RegionDirectory";
 import { LocationSearch } from "@/components/LocationSearch";
-import type { MapPosition } from "@/types/locations";
+import { SiteFooter } from "@/components/SiteFooter";
+import type { DirectoryEntry } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
 
 export default function Home() {
   const [selectedRegion, setSelectedRegion] = useState<RegionId | null>(null);
-  const [markerPosition, setMarkerPosition] = useState<MapPosition | null>(null);
-  const [searching, setSearching] = useState(false);
+  const [selectedLocation, setSelectedLocation] = useState<DirectoryEntry | null>(null);
+  const [query, setQuery] = useState("");
+  const markerPosition = selectedLocation && selectedLocation.kind !== "webshop" ? selectedLocation.mapPosition : null;
+  const searching = query.trim().length > 0;
 
   return (
     <>
@@ -27,16 +31,19 @@ export default function Home() {
                 regionId={selectedRegion}
                 onReset={() => {
                   setSelectedRegion(null);
-                  setMarkerPosition(null);
-                  setSearching(false);
+                  setSelectedLocation(null);
+                  setQuery("");
                 }}
-                onLocationSelect={setMarkerPosition}
+                onLocationSelect={setSelectedLocation}
+                query={query}
+                onQueryChange={setQuery}
+                selectedId={selectedLocation?.id ?? null}
               /> : (
               <section className="introduction" aria-labelledby="intro-heading">
                 <p className="eyebrow">Direkte fra gården</p>
                 <h1 id="intro-heading"><span>Find din</span><span>gårdbutik</span><span>i Danmark.</span></h1>
                 <p>Find gårdbutikker, der sælger lokale varer direkte fra gården.</p>
-                <LocationSearch onLocationSelect={setMarkerPosition} onSearchChange={setSearching} />
+                <LocationSearch onLocationSelect={setSelectedLocation} query={query} onQueryChange={setQuery} selectedId={selectedLocation?.id ?? null} />
                 <a className="intro-link" href="#kort">Vælg en region <span aria-hidden="true">↓</span></a>
               </section>
             )}
@@ -45,10 +52,20 @@ export default function Home() {
             <DenmarkMap
               selectedRegion={selectedRegion}
               markerPosition={markerPosition}
+              selectedLocationId={selectedLocation?.id ?? null}
+              onLocationSelect={(id) => {
+                setQuery("");
+                setSelectedLocation(locations.find((location) => location.id === id) ?? null);
+                requestAnimationFrame(() => {
+                  const button = document.getElementById(`select-${id}`);
+                  button?.scrollIntoView({ behavior: "instant", block: "center" });
+                  button?.focus({ preventScroll: true });
+                });
+              }}
               onSelect={(region) => {
                 setSelectedRegion(region);
-                setSearching(false);
-                setMarkerPosition(null);
+                setQuery("");
+                setSelectedLocation(null);
               }}
             />
           </div>
@@ -93,16 +110,7 @@ export default function Home() {
         <nav className="region-links" aria-label="Find gårdbutikker efter region">
           {regions.map((region) => <Link key={region.id} href={`/gaardbutikker/${region.id}`}>Gårdbutikker i {region.name}</Link>)}
         </nav>
-        <footer id="tilfoej" className="footer">
-          <div><span className="wordmark">dingårdbutik</span><p>En uafhængig oversigt over gårdbutikker i Danmark.</p><p>Bekræft altid oplysningerne direkte med gårdbutikken, før du tager afsted.</p></div>
-          <div id="annoncering" className="advertising-contact">
-            <p className="eyebrow">Kontakt for annonceplads og andre henvendelser</p>
-            <strong>Christian Olsen</strong>
-            <a href="tel:+4560492050">60 49 20 50</a>
-            <a href="mailto:Christian@olsenvideo.dk">Christian@olsenvideo.dk</a>
-          </div>
-          <p>© {new Date().getFullYear()}</p>
-        </footer>
+        <SiteFooter />
       </div>
     </>
   );

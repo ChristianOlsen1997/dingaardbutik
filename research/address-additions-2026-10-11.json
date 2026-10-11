@@ -1,0 +1,194 @@
+[
+  {
+    "id": "den-groenne-vogn",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Nydalvej+2%2C+9800&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Nydalvej",
+        "husnr": "2",
+        "postnr": "9800",
+        "x": 9.815529574707789,
+        "y": 57.46392376941907,
+        "betegnelse": "Nydalvej 2, 9800 Hjørring",
+        "href": "https://adressevaelger.dk/husnumre/0a3f509a-8a62-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f509a-8a62-32b8-e044-0003ba298018",
+          "husnummertekst": "2",
+          "adgangsadressebetegnelse": "Nydalvej 2, 9800 Hjørring",
+          "vejnavn": "Nydalvej",
+          "status": "3",
+          "virkningfra": "2020-01-02T13:38:13.148Z",
+          "virkningtil": null,
+          "registreringfra": "2020-01-02T13:38:13.148Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f509a-8a62-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2009-11-24T02:15:25+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                548922.89,
+                6369323.21
+              ]
+            },
+            "koordinater": {
+              "x": 548922.89,
+              "y": 6369323.21
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "db72c00e-63cc-47e5-b178-ceeeed33e550",
+            "navn": "Hjørring",
+            "postnr": "9800",
+            "status": "3",
+            "virkningfra": "2023-03-24T18:30:10.502107+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T18:30:10.502107+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "60f5f074-f4aa-49b1-ab07-3be72652af91",
+            "vejnavn": "Nydalvej",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-29T15:30:00.004005+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5cc513c0-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0860",
+            "vejkode": "2482",
+            "navngivenvej": "60f5f074-f4aa-49b1-ab07-3be72652af91",
+            "virkningfra": "1900-01-01T12:00:00+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "07164562-f2e0-4977-86cd-ed6c40bc11dc",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "grantoftegaard",
+    "url": "https://adressevaelger.dk/husnumre/soeg?tekst=Pederstrupvej+69%2C+2750&token=adressevaelger123",
+    "matches": [
+      {
+        "vejnavn": "Pederstrupvej",
+        "husnr": "69",
+        "postnr": "2750",
+        "x": 12.337227090265708,
+        "y": 55.73279179952064,
+        "betegnelse": "Pederstrupvej 69, 2750 Ballerup",
+        "href": "https://adressevaelger.dk/husnumre/0a3f507b-727c-32b8-e044-0003ba298018?token=adressevaelger123",
+        "official": {
+          "id_lokalid": "0a3f507b-727c-32b8-e044-0003ba298018",
+          "husnummertekst": "69",
+          "adgangsadressebetegnelse": "Pederstrupvej 69, 2750 Ballerup",
+          "vejnavn": "Pederstrupvej",
+          "status": "3",
+          "virkningfra": "2023-12-21T12:20:58.953Z",
+          "virkningtil": null,
+          "registreringfra": "2023-12-21T12:20:58.953Z",
+          "registreringtil": null,
+          "adgangspunkt": {
+            "id_lokalid": "0a3f507b-727c-32b8-e044-0003ba298018",
+            "status": "8",
+            "virkningfra": "2014-01-16T14:04:35.55+00:00",
+            "virkningtil": null,
+            "registreringfra": "2018-05-03T16:58:34+00:00",
+            "registreringtil": null,
+            "geometri": {
+              "type": "Point",
+              "crs": {
+                "type": "name",
+                "properties": {
+                  "name": "EPSG:25832"
+                }
+              },
+              "coordinates": [
+                709525.98,
+                6181385.83
+              ]
+            },
+            "koordinater": {
+              "x": 709525.98,
+              "y": 6181385.83
+            }
+          },
+          "postnummer": {
+            "id_lokalid": "1905247f-8f3c-42f6-8dc2-6f5901779cfc",
+            "navn": "Ballerup",
+            "postnr": "2750",
+            "status": "3",
+            "virkningfra": "2023-03-24T15:45:01.714117+00:00",
+            "virkningtil": null,
+            "registreringfra": "2023-03-24T15:45:01.714117+00:00",
+            "registreringtil": null
+          },
+          "navngivenvej": {
+            "id_lokalid": "281a1a85-ff41-4615-9d4c-61a0d115bf53",
+            "vejnavn": "Pederstrupvej",
+            "virkningfra": "2026-09-22T08:59:16.534497+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-09-22T08:59:16.534497+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejkommunedel": {
+            "id_lokalid": "5c99b4c9-4eae-11e8-93fd-066cff24d637",
+            "kommune": "0151",
+            "vejkode": "0252",
+            "navngivenvej": "281a1a85-ff41-4615-9d4c-61a0d115bf53",
+            "virkningfra": "2026-09-22T08:59:16.534497+00:00",
+            "virkningtil": null,
+            "registreringfra": "2026-09-22T08:59:16.534497+00:00",
+            "registreringtil": null
+          },
+          "navngivenvejpostnummer": {
+            "id_lokalid": "3a7724ce-72ff-4f3d-89a9-bc4a9059fe2a",
+            "virkningfra": "2020-12-18T15:17:19.000774+00:00",
+            "virkningtil": null,
+            "registreringfra": "2020-12-18T15:17:19.000774+00:00",
+            "registreringtil": null
+          },
+          "supplerendebynavn": {
+            "id_lokalid": null,
+            "status": null,
+            "supplerendebynavn": null,
+            "navn": null,
+            "virkningfra": null,
+            "virkningtil": null,
+            "registreringfra": null,
+            "registreringtil": null
+          }
+        }
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 # Gårdbutikker – kilder og kontrol
 
-Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. I alt 119 fysiske steder. Ingen åbningstider er importeret.
+Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. Den 11. oktober 2026 er Den Grønne Vogn og Grantoftegaard tilføjet. I alt 121 fysiske steder. Ingen åbningstider er importeret.
 
 Kontaktdata er fundet på butikkernes egne sider, hvor muligt, og ellers i de angivne sekundære kilder. Et adresseopslag bekræfter adressens eksistens, ikke at butikken fortsat drives. Tomme felter betyder ikke fundet sikkert. Links kan ændre sig eller kræve Facebook-login.
 
@@ -1064,4 +1064,23 @@ Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen (oprindel
 - Kontaktkilde: https://www.facebook.com/Knudsens-Gr%C3%A6s%C3%86g-103854182616524/
 - DAR: https://adressevaelger.dk/husnumre/0a3f508e-7490-32b8-e044-0003ba298018?token=adressevaelger123
 - Bemærkning: Besøgsadresse oplyst af brugeren. Offentlig profilbeskrivelse bekræfter økologiske græsæg og selvbetjent bod alle ugens dage. Ingen sikker telefon eller faste klokkeslæt fundet.
+
+## Den Grønne Vogn
+
+- Adresse: Nydalvej 2, 9800 Hjørring
+- Telefon: Ikke fundet sikkert
+- Link: https://vendsysselfoedevarer.dk/frugt_og_groent/
+- Kontaktkilde: https://vendsysselfoedevarer.dk/frugt_og_groent/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509a-8a62-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.enjoynordjylland.com/sites/enjoynordjylland.com/files/2022-08/Vendsyssel%20F%C3%B8devarer.pdf
+- Bemærkning: Besøgsadresse og produkter bekræftet af producentforeningens oversigt og turistbrochure. Telefonnummeret 21721427 står også ved Brodamgaard i den aktuelle oversigt; ældre brochure bruger samme nummer, men sikkert aktuelt direkte nummer er ikke bekræftet og er udeladt. Linket går til producentforeningen, ikke en egen hjemmeside. Ingen økologipåstand tilføjet.
+
+## Grantoftegaard
+
+- Adresse: Pederstrupvej 69, 2750 Ballerup
+- Telefon: 88185830
+- Link: https://grantoftegaard.dk/
+- Kontaktkilde: https://grantoftegaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507b-727c-32b8-e044-0003ba298018?token=adressevaelger123
+- Bemærkning: Adresse og nuværende telefon fra egen hjemmeside. Stadevognen sælger grøntsager alle ugens dage året rundt. Caféen er aktuelt lukket; ældre katalogers caféåbningstider og kødudvalg er ikke importeret.
 
