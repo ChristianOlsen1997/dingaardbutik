@@ -1,0 +1,445 @@
+# Akra – gennemgang 26. oktober 2026
+
+Akra bruges som opdagelseskilde. Butiksbeskrivelser er skrevet særskilt; billeder, anmeldelser og længere kildetekster er ikke importeret.
+
+## Resultat
+
+- 865 offentlige kortposter screenet.
+- 116 nye butikker/gårdsalg tilføjet efter kontrol af eksterne kilder og DAR-adresse.
+- 102 poster matcher eksisterende butikker (inklusive alternative navne/adresser).
+- 356 poster fravalgt som specialbutikker, fiskere, producenter uden relevant gårdbutik, lukkede steder eller testposter.
+- 291 kandidater er uafklarede og **ikke tilføjet**. Dette er ikke en påstand om, at de ikke har en gårdbutik. Manglende læsbare sider, utilstrækkelig dokumentation eller adressekonflikter forhindrer en sikker tilføjelse.
+
+## Kontrol og afgrænsning
+
+Først blev eksisterende navne og adresser sammenholdt med kortposterne. 418 mulige nye steder fik deres offentlige profil og tilgængelige egne sider undersøgt. Navne med fiskeri, bryggeri, almindelig specialhandel og lignende blev frasorteret ved den indledende screening. Navne alene er ikke dokumentation for butiksdrift.
+
+Tilføjelserne er fysiske gårdbutikker eller dokumenteret direkte gårdsalg af landbrugsvarer, også sæsonåbne og selvbetjente steder. En gård kan også have café, mejeri eller overnatning, hvis den har relevant gårdsalg. Rene webshops og fiskere er ikke medtaget.
+
+Adresse og sortiment er sammenholdt med butikkernes egne sider. Enkelte supplerende kilder er angivet eksplicit. Telefonnumre medtages kun, når de understøttes af de læste sider. Faste åbningstider importeres ikke; gæster henvises til butikken for aktuelle tider og udvalg. Tilgængelige websider er ikke i sig selv garanti for fortsat drift.
+
+Kortpositionerne kommer fra DAR gennem Adressevælgeren, ikke fra Akras kort. Regioner følger DAR-kommunen. Fire butikker angiver et hovednummer, som DAR opdeler i bogstaver; deres egen besøgsadresse bevares, og markøren er vejledende ved den dokumenterede ejendom. De er beskrevet i det samlede kilderegister.
+
+Alle 129 tidligere fysiske butikker bevares. De nye adresser er kontrolleret mod den eksisterende liste, også for næsten ens navne og nærliggende placeringer.
+
+## Dokumentation
+
+- `../additions-akra-2026-10-26.json`: de tilføjede data, egne beskrivelser og kilder.
+- `../address-additions-akra-2026-10-26.json`: DAR-opslag og kommuner.
+- `review.json`: resultat og undersøgte links for samtlige poster.
+- `accepted.json`: den manuelt godkendte delmængde og korrektioner.
+
+## Tilføjede steder
+
+- Fuglebjerggaard — Hemmingstrupvej 8, 3200 Helsinge
+- Stevninggård Frugt og Bær — Stevning Gade 23, 6430 Nordborg
+- Hasagergaard — Kirkeskovvej 85, 8450 Hammel
+- Kroghs Grønt — Sottrup By 8, 6372 Bylderup-Bov
+- Elmegaarden — Damager 7, 6560 Sommersted
+- Hestehavegård Frugtplantage — Hestehave 19, 6400 Sønderborg
+- Rishøjgård — Mejlbyvej 136, 8250 Egå
+- Paradiset — Norsmindevej 66, 8340 Malling
+- Sdr. Vissing Torvehal — Toftegårdsvej 2, Sdr. Vissing, 8740 Brædstrup
+- Møltrup — Møltrupvej 70, 7480 Vildbjerg
+- Lystlunden — Vestergade 166, 6051 Almind
+- Krastrupsøgaard — Aalborgvej 52, 9520 Skørping
+- Thy Gårdbutik — Stagstrup Skolevej 13, 7752 Snedsted
+- Birkemosehus — Birkelyvej 6, Lorup, 4180 Sorø
+- Adamsgården — Aggersvoldvej 3A, 4450 Jyderup
+- Sidinge — Sidingevej 39, 4560 Vig
+- Østergaard Frugt & Most — Østergaardsvej 35, Dalby, 3630 Jægerspris
+- Esromgård — Frederiksværksvej 11C, 3230 Græsted
+- Rokkedysse — Lejrvej 45, 3500 Værløse
+- Køng — Bankevejen 1, 4750 Lundby
+- Vibækgård — Kostervej 73, 4780 Stege
+- Bøgebjerggaard — Skovvangsvej 17, 5610 Assens
+- Holistia — Søhusvej 161, 5270 Odense N
+- Drivhuset — Korsholmvej 178, Vesterbølle, 9631 Gedsted
+- Thy Lam — Oddesundvej 105, 7752 Snedsted
+- Kalø Økologisk Gårdbutik — Molsvej 38, 8410 Rønde
+- Karensminde Frugtplantage — Eriksmindevej 38, 8300 Odder
+- Hopballe Mølle — Hopballevej 56, 7300 Jelling
+- Lamdrup Naturkød — Lamdrupvej 23, 5854 Gislev
+- Skodsbøl Fjerkræ — Skodsbølvej 71, 6310 Broager
+- Melbjerggaard Grønt — Ny Viborgvej 5, 7840 Højslev
+- Gaardens Grønt — Sandvej 12, 8740 Brædstrup
+- Peterslyst — Hovvejen 9, 8361 Hasselager
+- Rosilde Højgård — Gamle Vindingevej 21, 5800 Nyborg
+- Kræmmergård — Kræmmergårdvej 50, 7660 Bækmarksbro
+- Graverens Grøntsager — Hirtshalsvej 17, 9881 Bindslev
+- Frølund Økologi — Frølundvej 95, 7400 Herning
+- Skelbjerggaard — Stenstrupvej 74, 4573 Højby
+- Frydendal Ismejeri — Flensborg Landevej 5, 6400 Sønderborg
+- Ditlevsdal Bison Farm — Tokkerodvej 24, 5462 Morud
+- Sønderho — Vester Storetoft 67, 6720 Fanø
+- Fynshoved Café — Fynshovedvej 685, 5390 Martofte
+- Birthesminde — Tempelvej 14, 4390 Vipperød
+- Gløvermosegaard — Gløvermosevej 5, 4622 Havdrup
+- Labøllegaard — Labøllevej 21, 5471 Søndersø
+- Fårehyrdens Gård — Lystbækvej 1, 6990 Ulfborg
+- Fuglehal Landbrug — Fuglehalvej 18, 3310 Ølsted
+- Jensen Jordbær — Hestvangvej 6, 9300 Sæby
+- Fællinggaard — Ny Vestergade 70, 5672 Broby
+- Rosagergaard Gaardbutik — Færgevej 1, 5960 Marstal
+- Klintholm Gods — Klintholm Alle 1B, 4791 Borre
+- Møllebakkegård Gårdbutik — Tolstrupvej 1A, 4735 Mern
+- Pøtgaard - Fåreost Gårdmejeri — Norupvej 10, 8830 Tjele
+- Lolle Frugt — Gl Killerup 8, 4990 Sakskøbing
+- Den Glade Gris — Gammel Skårupvej 164, 5700 Svendborg
+- Gårdagergård — Gårdagervej 1, 4200 Slagelse
+- Frydenlund Slots Frugtplantage, Gårdbutikken — Frydenlunds Alle 23B, 2950 Vedbæk
+- Frugthaven — Ejstrupvej 23, 9520 Skørping
+- Nybro Frugtplantage — Lille Salbyvej 54, 5370 Mesinge
+- Ausumgaard — Holstebrovej 101, 7560 Hjerm
+- Jordbærgården — Råbrovej 58, 2765 Smørum
+- Raunsmed fjerkræfarm — Lyngbyvej 120, 9480 Løkken
+- Yduns Have — Alstrup 2, 8305 Samsø
+- Holgers Jordbær — Clemensvej 6, 8530 Hjortshøj
+- Gråsten Fjerkræ Gårdbutik — Kværsgade 18, 6300 Gråsten
+- Avernakø Gårdbutik — Skallevej 18, 5602 Avernakø
+- Velfærdskød v/Karen & Torben — Vindebækvej 25, 4792 Askeby
+- Lundsbjerggaard — Stormarken 47, 5471 Søndersø
+- Bigaard Økologisk Gartneri — Tøndervej 64, 6330 Padborg
+- KildeGaarden Highland Cattle — Skalkendrupvej 42, 5800 Nyborg
+- Gartneriet Lumbygaard — H.C. Lumbyes Vej 58, 5270 Odense N
+- Hækbæk Økologiske Frugtplantage — Næsvangsvej 12, 4550 Asnæs
+- Båring Vig Frugtplantage — Tanggyden 2, 5466 Asperup
+- Fjordvang Frugtplantage — Hasmarkmosen 18, 5450 Otterup
+- Samsø Bær — Sildeballe 35, 8305 Samsø
+- Hovedvejens Gårdbutik Nr Åby — Hovedvejen 234, 5580 Nørre Aaby
+- Thy Økobær — Legindvej 139, 7752 Snedsted
+- Freerslev Kotel — Roskildevej 207, 3330 Gørløse
+- Byaasgaard Gårdbutik — Amtsvejen 340, 3390 Hundested
+- Nystedgård — Hesselvej 79, 3660 Stenløse
+- Asgård Allerød — Sørupgårdsvej 12, 3450 Lillerød
+- Farmersmarket i Helsinge — Kæderupvej 3, 3200 Helsinge
+- Hegnstrup Økologisk Jordbrug — Gl. Københavnsvej 14, 3550 Slangerup
+- Lammefjordens spisekammer — Adelers Alle 102, 4540 Fårevejle Stationsby
+- Munkebjerggård — Strandgårdsvej 4, Veddinge Bakker, 4540 Fårevejle
+- Astrup Gods — Astrupvej 11, 4450 Jyderup
+- Gårdbutikken Planter og Pesto — Sønderkjærsvej 2, 6971 Spjald
+- Elkærholm Aroniabær — Elkærholmvej 6, Vester Nebel, 6040 Egtved
+- Øster Hegnet — Hvalpsundvej 6, 7870 Roslev
+- Hebbelstrupgaard Is — Hebbelstrupvej 157, 9800 Hjørring
+- Tvis Gårdbutik — Morrevej 12, 7500 Holstebro
+- Butik Pilti — Strandvejen 11, 4733 Tappernøje
+- Lindbjerggård — Hulen 16, 8930 Randers NØ
+- Skovløkke — Birketvedvejen 35, 5290 Marslev
+- Thorslundgård Gårdbutik — Stensbyvej 18, 5485 Skamby
+- Gyldenlund — Gram Møllevej 4, Ravnholt, 7130 Juelsminde
+- Fridalund — Enghavevej 60, 5390 Martofte
+- Åkandegård — Åkandegård 1, 4241 Gammel Forlev
+- Bradstrupgård Gårdsalg — Døstrupvej 168, Bradstrup, 9500 Hobro
+- Thorshøjgaard — Museumsvej 1, 3120 Dronningmølle
+- Farm Living Ged og Grønt — Trustrupvej 10, 8350 Hundslund
+- Rønhøjgaard — Gunderupvej 26, 9640 Farsø
+- Langemarksgaard — Langemarksvej 17, 8305 Samsø
+- Mejnerts Gårdbutik — Forsingevej 4, 4470 Svebølle
+- Thorlin Spisested og Gårdbutik — Knuthenlundvej 6, 4952 Stokkemarke
+- Grøntsagshytten — Stadionsvej 24, 8305 Samsø
+- Hammersly — Kirkebyen 36, 3790 Hasle
+- Kildegaardbutik — Assensvej 302, 5642 Millinge
+- Guldager Highland Cattle — Tarp Byvej 6F, 6715 Esbjerg N
+- Havredal Gårdbutik — Ulvedalsvej 32, Havredal, 7470 Karup J
+- Peters Gartneri — Ørnevænget 37, 8330 Beder
+- Mindelundgaard — Mindelundvej 8, 7400 Herning
+- Ravnsminde — Brandtlundvej 106, 7080 Børkop
+- Gårdbutik på Ajstrupvej — Ajstrupvej 50, 8340 Malling
+- Kirstineborg — Mejlbyvej 268, 8530 Hjortshøj
+- Storhaven — Storhavevej 4, 9940 Læsø
+
+## Ikke tilføjede kandidater
+
+Listen nedenfor er til opfølgning, ikke offentliggørelse som bekræftede butikker.
+
+- **Grambogaard** — Ellehaven 55, 5690 Tommerup. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Kildegaarden Dansk Kødkvæg** — Visborgvej 46, 9560 Hadsund. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Dragsholm Slot** — Dragsholm Allé 1, 4534 Hørve. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kongelundgaard** — Kongelundsvej 609, 2791 Dragør. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Rurup.dk Kødbutik** — Gammel Toftlundvej 8, Rurup, 6520 Toftlund. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Langager** — Stenderupvej 11, 6400 Sønderborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Abild** — Østerbyvej 2A, 6270 Tønder. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Åens Fjerkræ** — Ved Åen 7, 6270 Tønder. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kølbækgård** — Auningvej 48, 8544 Mørke. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Høbjerg Gartneri** — Høbjergvej 7, 8500 Grenaa. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Torp** — Åhusevej 55, 7470 Karup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Fredensfryd** — Aslundvej 51, 9310 Vodskov. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Dybkærgaard** — Dybkærvej 2, 4200 Slagelse. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Butik Bakkegården** — Salgårdshøjvej 50, 3210 Vejby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Græse Frugtplantage** — Græse Bygade, 3600 Frederikssund. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Ventegodtgaard** — Naurbjergvej 26, 4623 Ll. Skensved. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Søborggaards Butik** — Sorø Landevej 278, 4230 Skælskør. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Poul Erik's** — Jørgensøvej 43, 5450 Otterup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kværndrups blomster- og gårdbutik** — Kværndrup Vænge 26, 5772 Kværndrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nydal** — Søndre Lyngvej 37, 3700 Rønne. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Loklindt Frugt & Grønt** — Skovridervej 9, 6715 Esbjerg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kærum Gårdbutik** — Fåborgvej 135, 5610 Assens. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Sybergkvæg** — Tårup Bygade 34, Tårup, 5370 Mesinge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **De Fynske Gårde** — Blæsbjergvej 51, 5462 Morud. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Ingstrup Mejeri** — Hovedgaden 48, Ingstrup, 9480 Løkken. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Ostebørsen** — Industrivænget 14, 4241 Vemmelev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Tebstrup Gedeosteri** — Vrinners Bygade 45 B, 8420 Knebel. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lindved Mejeri** — Agersbølvej 2, 7100 Vejle. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Copenhagen Goat Milk** — Roskildevej 603, 4174 Jystrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Himmerlandske Bier** — Stikvejen 6, Rørbæk, 9500 Hobro. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Eskebæk Grønt** — Hjørringvej 295, 9900 Frederikshavn. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Korsmedergaard** — Klørupvej 13, 8920 Randers NV. Adressekonflikt: Akra angiver Klørupvej 13, andre kilder Gamle Viborgvej 210; butikkens aktuelle besøgsadresse er ikke bekræftet.
+- **Bækkelundgård** — Tyrsbjergvej 42, 5210 Odense. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frilandsgrønt** — Kjelstrupvej 11, 7700 Thisted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frueholm Gartneri** — Ammitsbølvej 104, 7100 Vejle. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Vestergårdens Grøntsager** — Hønnerupvej 112, 5463 Harndrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Roligheden** — Skovbrynet 38, 9990 Skagen. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Jernved Mejeri** — Jernvedvej 242, 6771 Gredstedbro. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lading Mejeri** — Viborgvej 856, 8471 Sabro. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Barrit Mejeri** — Brølbæk 5, 7150 Barrit. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kisbæk Gårdmælk** — Kisbækvej 1, 6240 Løgumkloster. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nørup Mejeri** — Billundvej 33, 7182 Bredsten. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Hedegårdens Vinavl** — Segaltvej 501, 8541 Skødstrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Slagterens Gårdbutik i Hvam** — Gammel Viborgvej 86, 9620 Aalestrup. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Voddersminde** — Hejrskovvej 20, 6670 Holsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kathrinelund** — Guldagervej 50, 6710 Esbjerg V. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Den Gamle Gaard** — Sorøvej 106, 4350 Ugerløse. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Damsmosegård** — Villingerødvej 61, 3120 Dronningmølle. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Lille Østergaard Økologi** — Amborgvej 56, 9700 Brønderslev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Kærsgaard** — Hjadstrupvej 28, 5450 Otterup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Høstet** — Ibskervej 34, 3730 Nexø. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Bakkegårdens Hereford Ærø** — Bakkegårdsvej 1, 5970 Ærøskøbing. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frederiksdal Kirsebærvin** — Frederiksdalsvej 30, 4912 Harpelunde. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Skovgård Gårdbutik** — Dyssevej 25, 4640 Faxe. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Nygård Ismejeri** — Tingvejen 304, 7200 Grindsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Holms Vejbod** — Lillevej 3, 7250 Hejnsvig. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Estate Wine** — Provst Kyndes Vej 12, 7500 Holstebro. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Lundevang Gårdbutik** — Klintholm Havnevej 102, 4791 Borre. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Enghavegård Vejbod** — Østerhusevej 17, 5953 Tranekær. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Frugtplantagen Egebakken** — Hølundvej 71, 9362 Gandrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Adamshøj Gods** — Adamshøj Alle 30, 4100 Ringsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Moselund Økologi og Gårdbutik** — Langholmsvej 12, 5892 Gudbjerg Sydfyn. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Thise Ostebutik** — Sundsørevej 62, 7870 Roslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Ullemose Frugt** — Hovvej 7, 5883 Oure. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Roslev frugt, frugtavler** — Viumvej 15, 7870 Roslev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Egeby Frugtplantage** — Fælledgårdsvej 4, 5450 Otterup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nordkystens Pluk Selv** — Hegedal, Fjellerup Vest, 8585 Glesborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Bi-Kongen** — Vestergade 36, 9320 Hjallerup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Pastariget** — Aarsdalevej 81, 3740 Svaneke. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Hybengaarden** — Hummelhedevej 102, 9740 Jerslev J. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Niels & Grete** — Hingevej 9, 8370 Hadsten. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Amager Planteopbevaring** — Ndr Dragørvej 54, 2791 Dragør. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Simested Gårdsalg** — Boldrupvej 109, 9620 Aalestrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Brovejens Frugtplantage** — Brovejen 78, 9620 Aalestrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kærby Gårdbutik** — Kærbyholmvej 1, 5466 Asperup. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Ravnstrup Gårdbutik** — Ravnstrupvej 14, 4863 Eskilstrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Anhøj Frugtplantage** — Hjortholmvej 59, 9530 Støvring. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lillemarken gårdbutik** — Rugårdsvej 124, 5463 Harndrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frederiksens Frugtplantage** — Lillevangsvej 3, 4000 Roskilde. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frugtplantagen Store Dalbygård** — Søndre Landevej 23, 3720 Aakirkeby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lindehøjgård Frugt** — Sandholmgårdsvej 31, 3450 Allerød. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **BeeNice** — Sjøstrupvej 44, 9600 Aars. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Gårdbutikken Egebak** — Egebakvej 119, 9740 Jerslev J. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Busk Økologi** — Saltumvej 174, 9700 Brønderslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Dueholm Æg** — Hovedgårdvej 7, 8660 Skanderborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Storskovens Grønt** — Storskovvej 17, 9330 Dronninglund. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Landlyst Gårdbutik & Bageri** — Koldingvej 82, 6040 Egtved. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Rye Nørskov Gårdbutik** — Kyhnsvej 28, 8680 Ry. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Årøsund Frugtplantage** — Gammelbrovej 56, 6100 Haderslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Jernløsegårdens øko-lam** — Sdr Jernløsevej 2, 4420 Regstrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Gårdbutik Hesseldal** — Bystævnevej 25, 5610 Assens. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Assendrup Gårdbutik** — Gl Århusvej 55, 8732 Hovedgård. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Lindved Frugt** — Hegningvej 2, 5260 Odense S. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Glade Grønsager** — Søndergade 61, 5450 Otterup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Saksager Pluk-Selv Græskar** — Saksagervej 150, 9760 Vrå. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Tværmose Slagter & Gårdbutik** — Tværmosevej 2, 7830 Vinderup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Bornholms Pluk Selv Blomster** — Fårebyvejen 3, 3720 Aakirkeby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Mosegården Jordbrug** — Knabstrupvej 18, Krøjerup, 4420 Regstrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Læsø Tang** — Doktorvejen 16, Byrum, 9940 Læsø. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Håbets Haver** — Sønderbyvej 6, 7270 Stakroge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nøvling** — Blüchersvej 2, 7480 Vildbjerg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Den Gamle Skoles Vejbod** — Hestehavevej 1A, 4130 Viby Sjælland. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Hjejlundgård** — Kokspang Hedevej 17, 6710 Esbjerg V. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Ormsiggaard** — Nørre Forumvej 8, 6715 Esbjerg N. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lyby Frugtplantage** — Lyby Møllevej 2, Ø. Lyby, 7800 Skive. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nordstrandsgård Mosteri** — Togårdsvej 6, 4750 Lundby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Tornemark Plantage** — Ørebjergvej 6, 4262 Sandved. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Fornebygård Jordbær** — Fornebyvej 4, 4930 Maribo. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Strids Mølle** — Åvej 2, 4470 Svebølle. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Rosengårdens Gårdbutik** — Kjølvejen 42, 8920 Randers. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kløverbakken** — Skelbyvej 32, 4160 Herlufmagle. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Gårdbutikken Marielyst** — Bøtø Ringvej 4, 4873 Væggerløse. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Ryesminde Mosteri** — Skovbyvej 38, 6470 Sydals. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Græskareventyret** — Saudalsvej, 7500 Holstebro. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Hellevad Pluk-Selv Jordbær** — Hellevad, 6230 Rødekro. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Roerslev Frugtplantage** — Blankegaardsvej 12, 5466 Asperup. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Bornholms Bær** — Skrædderbakkevejen, 3700 Rønne. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Skovfryd Frugt & Grønt** — Vestermarievej 19, 3700 Rønne. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Pluk Selv Blomster Fyn** — Grønnemosevej 20, 5690 Tommerup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Ørbæk Mosteri** — Odensevej 16, 5853 Ørbæk. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Christensmindes Gårdbutik** — Gl Assensvej 53, 5580 Nørre Aaby. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Gårdbutikken Eriksholm** — 5700 Svendborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Gårdmosteriet** — Boholtvej 15, 5874 Hesselager. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Sinai Ostebutik** — Sinaivej 16, 5672 Broby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lertoftegård** — Tovsgårdvej 7, 7700 Thisted. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Skelund blåbær** — Elkærvej 14, 9560 Hadsund. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Kollerødgård** — Smidstrupvej 104, 3230 Græsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Humlebæk Mikro Mejeri** — Hørsholmvej 3, 3050 Humlebæk. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kagerup Most** — Kagerup Byvej 20A, 3200 Helsinge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Fanefjord Frugt** — Hårbøllevej 22, 4792 Askeby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Strandgårdens Gårdbutik** — Strandvej 2, 4591 Føllenslev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Piberhus Frugt Og Granplantage** — Piberhusvej 7, 4690 Haslev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Cypreshøj Gårdbutik** — Nykøbingvej 113, 4990 Sakskøbing. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Osteriet & Ko** — Industrivænget 14, 4241 Vemmelev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Tuse Næs Frugthave** — Rækmarken 5, 4300 Holbæk. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Mosteriet Tvedemose** — Grubbevej 10, Majbølle, 4862 Guldborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Eskeholm** — Mellerup Bygade 2, 6392 Bolderslev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Bondelaugets Gårdbutik** — Havnevej 1, 8400 Ebeltoft. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Pape Pluk-Selv Blomster** — Funder Kirkevej 10A, 8600 Silkeborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frederiksberg Kødforsyning** — Bøsbrovej 3B, 8940 Randers. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kohavegaards Ismejeri** — Odensevej 133, 5610 Assens. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lysemosegaard** — Assensvej 25, 5250 Odense. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **La Petite Ferme** — Hulgaden 17, 8400 Ebeltoft. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Svampe Kompagniet** — Kaarsbergsvej 2, 8400 Ebeltoft. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Mikroliv** — Skovgårde Bygade 8, 8400 Ebeltoft. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Horseborg Økoblomster og skovlandbrug** — Jægergårdsvej 6, 8400 Ebeltoft. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Valnøddelauget** — Havmøllevej 12, 8400 Ebeltoft. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Jordbruget Soldug** — Elsegårde Skovvej 10, 8400 Ebeltoft. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Trustrupgaard** — Lykkesholmvej 2A, 8570 Trustrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Mols Food** — Eg Bygade 11, 8420 Knebel. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Verdens Ende** — Svanesmindevej 12, 8420 Knebel. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Skovlandbruget Myrrhis** — Friland 30, Feldballe, 8410 Rønde. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Helios - Det Lille Gartneri** — Gamle Mejerivej 3, 8400 Ebeltoft. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **folk og fæ** — Elsegårdevej 21, 8400 Ebeltoft. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Fra Kæret** — Emmelev Kærvej 5, 8500 Grenaa. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Fjaltring Købmandsgaard Aps** — Vestermøllevej 15, 7620 Fjaltring. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frøkær** — Bønstrupvej 7, 6580 Vamdrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Grippingslund** — Margrethesmindevej 5, 6580 Vamdrup. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Domaine Nyballe** — Nyballe 2-4, Skelde, 6310 Skelde. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **HosLykkegård Gårdbutik** — Bryndumvej 191, 6715 Esbjerg. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Blokhus Salt** — Helledivej 9, 9490 Pandrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Søndbjergs mini gårdbutik** — Ballevej 6, 7790 Thyholm. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Mølby Møllegaard** — Mølbyvej 17, 6760 Ribe. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Gaardmester ApS** — Løntvej 17, 6100 Haderslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Frugtplantagen Strandlyst** — Peløkkevej 9, 5900 Rudkøbing. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Fuglsang Grønt** — Fuglsangsvej, 6500 Vojens. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Arnes Jordbær** — Skovvangen 25, 8722 Hedensted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lerbjerggård** — Melbyvej 129, 3370 Melby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Mel fra Forum** — Alslevvej 10, 6715 Esbjerg N. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Pluk selv blomster Præstø** — Ronesbanke 12B, 4720 Præstø. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Refshøjgaard** — Skanderborgvej 202, 8382 Hinnerup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Samsø Gårdbutik** — Permelille 20, 8305 Samsø. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Skibby Farm** — Marbækvej 12, 4050 Skibby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Birkely** — Villingerødvej 31, 3120 Dronningmølle. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Anholt Gin** — Gennem Landet 90, 8592 Anholt. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Vernholt Gårdbutik** — Strib Landevej 108, 5500 Middelfart. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Økologiens Have** — Rørthvej 132, 8300 Odder. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Lipperts Landbod - Chilispecialiteter** — Nykøbingvej 61, 4571 Grevinge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Naturens fristed Gårdbutik** — Toftlundvej 1, 6760 Ribe. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Permahaven Ylva-Li** — Nølev Byvej 51, 8300 Odder. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Østervangs Økologiske Kartofler** — Hellevadvej 43, Klokkerholm, 9320 Hjallerup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **SL Æg** — Østre Skolevej 1, Skjørring, 8464 Galten. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Mark Schmidt Hvalsøe Hansen** — Kædebyvej 37, 5932 Kædeby. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Føltved - Strandvejen** — Strandvejen 28, 9370 Hals. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Garbolund Naturvin** — Helsingevej 7 Annisse, 3200 Annisse. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Arnes Vejbod** — Middelfartvej 63, 5492 Vissenbjerg. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Gyldengaard** — Nykøbing-Slagelsevej 40, 4560 Hønsinge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Gilleleje Wine** — Almevej 75, 3250 Hågendrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lemvig Vinlaug** — Lemvigvinlaug@gmail.com, Sølystvej 63, 7620 Lemvig. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Vivis Pryd - Gårdbutik og galleri** — Toftehøj 3, 4160 Herlufmagle. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Vejboden Funder** — Funder Skolevej 19, 8600 Silkeborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Vejbod Marias Mark** — Orebyvej 64, 4990 Sakskøbing. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Grønnegårds Dressing** — Fårtoftvej 80, 7700 Thisted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Thy Mikrogrønt** — Ashøjgade 36, 7760 Hurup Thy. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nørrelund Thy** — Møgelvej 18, Sundby, 7752 Snedsted. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Vibens Fryd** — Vibberstoftvej 9, 7752 Snedsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Thy Whisky** — Gyrupvej 14, Sønderhå, 7752 Snedsted. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Ismejeriet Thy / Ice Bakers** — Hundborgvej 139, Tingstrup, 7700 Thisted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Folmersminde** — Sø Bugten 14, Nørre Dråby, 7900 Nykøbing M. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nordic Hemp** — Toftegårdsvej 7, Flade, 7900 Nykøbing M. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Grøn Thy** — Dragstrupvej 50, Dragstrup, 7950 Erslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Thy Cider** — Landevejen 2, Heltborg, 7760 Hurup Thy. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Mettes Økologiske Grøntsager** — Meldkærvej 211, 9740 Jerslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Petershave** — Øllemosevej 10, 4250 Fuglebjerg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nørrebro Kolonial** — Jægersborggade 25, 2200 København. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Den Gode Gård** — Kirkemosevej 153, 9870 Sindal. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lykkesholm Æbler** — Øster Thirupvej 91, 9800 Hjørring. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Gårdbutikken Ny Hellested** — Ålborgvej 774, 9320 Hjallerup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **SkagenOx** — Skagensvej 360, 9981 Jerup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Skovlykål** — Kringelhedevej 37, 9300 Sæby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Stensgård Jordbær** — Løkkensvej 435, 9800 Hjørring. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Bremerholm Økologi** — Lundby Mosevej 27, 9260 Gistrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Fjordkvæg Naturpleje** — Vestergårdsvej 29, Strandby, 9640 Farsø. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kærum Frugtplantage** — Fåborgvej 80, 5610 Assens. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Skovgård – Fyn** — Lundagervej 25, 5610 Assens. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Holmgårds Grønt** — Hvalpsundvej 16, 9240 Nibe. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Højgaard gårdbutik** — Søndergade 66, 5580 Nørre Aaby. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Høbjerggård** — Skovdiget 6, 3200 Helsinge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Brandbygegaard, Vinhuset Kvist & Vitus** — Alrøvej 77, 8300 Odder. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Snapsekongen af Salling** — Bakkedraget 8, Rødding, 7860 Spøttrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Ebey’s Græskar og Kartofler** — Jegbjergvej 2, 7560 Hjerm. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **BAC, Bent Anker Christiansen** — Tegldal 7, 9830 Tårs. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nørballegård Frugt & Grønt** — Egtvedvej 121, 6040 Egtved. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Laden Langå Gårdbutik** — Højvangsvej 2, 8870 Langå. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Svalehøj Highland Cattle** — Midskovvej 40, 5370 Mesinge. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Østergaards Selvpluk** — Ølgårdvej 3, 6040 Egtved. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Vrangbækgaard** — Knarreborg Møllevej 16, 5883 Oure. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Kellebygaards Vejbod** — Kellebyvej 38, 5471 Kelleby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Bornholm Vinegar Company** — Stenbrudsvej 35, port 1, 3730 Nexø. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Den Lille Mark** — Marken ved Hvilehøjvej, 5220 Odense SØ. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Godis Grønt** — Blæsenborgvej 9, Vibevadgård, 4320 Lejre. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Høsteriet** — Marken ved Østergårdstoften, 8530 Hjortshøj. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nye Bønder** — Elstedvej 89, 8200 Aarhus N. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Nørre Krak Markedshave** — Nørre Krak 2, 3790 Hasle. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Aabybro Mejeri / Ryå Is** — Brogårdsvej 148, 9440 Aabybro. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Øens Have – grøntsagsordning** — Refshalevej 159B, 1432 København K. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **ØsterGRO** — Æbeløgade 4, 2100 København Ø. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Larsens Gårdbutik** — Kingstrupvej 119, Kingstrup, 5591 Gelsted. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Lille Gandrupgård** — Ll Gandrupgårdsvej 7, 9510 Arden. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Bakkenbutik** — Sønder Romvej 120, 9830 Tårs. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Tonnys Grønsager** — Havhøjvej 27, 9640 Farsø. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Vestermark Skovlandbrug** — Hammervej 81, 9381 Sulsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Bertels Grønt** — Findalsvej 16, Løjenkær, 8300 Odder. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Havens Deli** — Råkildevej 1, 7884 Fur. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Holms Bøffer** — Holmmøllevej 35, 8632 Lemming. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Langholm Frugt – Gårdbutik** — Risbyvej, Risby, 4750 Lundby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Elmelunds bod** — Hanstholmvej 32, 7700 Thisted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Stalddøren Sønder Lem** — Sønder lemvej 36, 7860 Spøttrup. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Langebjerggård Frugtplantage** — Langebjergvej 50, 4100 Ringsted. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Smørkrogen 2** — Smørkrogen 2, 9700 Brønderslev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Karensminde Grønt** — Egtved Holt 8, 6040 Egtved. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Gårdbutikken på Elbjerg** — Diernæsvej 192, 6100 Haderslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Sdr. Kjærgård Blomster** — Nielsbygårdvej 1, 6683 Føvling. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Artiskochen** — Rådvedvej 102, 8700 Horsens. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Boden Ydingvej** — Ydingvej 7, 8752 Østbirk. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Maigaard’s Gårdæg** — Rundemøllevej 150, Løjt Kirkeby, 6200 Aabenraa. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Øko kartofler og grønt** — Christianshedevej 14, 7441 Bording. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Strandgårdens Frugtplantage** — Vorsøvej 24, 8700 Horsens. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Rixgaarden** — Gjandrup Byvej 9, 8920 Randers. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Den Lille Landhandel – Svinggården** — Svinggårdsvej 1, 3100 Hornbæk. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Østervang – vejbod** — Myrekærvej 3, 4652 Hårlev. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Tvedemose – stalddørssalg** — Tvedemosevej 2, Snesere, 4750 Lundby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Naturplanteskolen** — Stærkendevej 177, 2640 Hedehusene. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Calendula Permakultur – gårdbutik** — Snødevej 142, 5953 Tranekær. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Ovnud** — Parkvænget 6, 8600 Silkeborg. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Knoldbjerggaard Markedshave** — Løserupvej 40, 4300 Holbæk. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Bøgballegård** — Bøgballevej 2, 8740 Brædstrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Økologisk Vejbod – Tåning** — Horndrupvej 35, 8660 Skanderborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Carls Krumme** — Gammel Stillingvej 430, 8462 Harlev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Haderisgård** — Haderisvej 3, 7540 Haderup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Æbletoften** — Nøruplundvej 2, Tirstrup, 8400 Ebeltoft. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Snaptun Frugtplantage** — Højballevej 3, 7130 Juelsminde. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Syrengården** — Mindelundsvej 120, Seden, 5240 Odense NØ. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Tandsgård Gårdbutik** — Tandsgårdvej 11, 6470 Sydals. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Strandbjerggaard** — Vesterfjordsvej 10, Odby, 7790 Thyholm. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Simmi, den grønne mark** — Ulvkærvej 4, Jegindø, 7790 Thyholm. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **grØntsmager** — Skovby Nederst 12, 5985 Søby Ærø. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Møns Lille Gård** — Tjørnemarkvej 14, 4780 Stege. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Kæragergård Grisen – gårdbutik** — Søndergade 108A, 7080 Børkop. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Søndergård vejbod** — Birkmosevej 5, 6920 Videbæk. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Sort Muld** — Savværksvej 10, 7870 Roslev. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Hildes vejbod** — Lynderupvej 3a, 8832 Skals. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Kornby Mølle** — Mørdrupvej 5, 3540 Lynge. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Lauses Grønt** — Vestre Kyvlingvej 7, 6880 Tarm. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Alpevejens Gårdbutik** — Alpevej 4, 5771 Stenstrup. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Søndergård Økologi** — Svanningehuse 21, 5600 Faaborg. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Brinkholm** — Kulagervej 23, 4653 Karise. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Brødskabet Liljevej** — Liljevej 7, 9310 Vodskov. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Tifoldgård Vejbod** — Øster Hornumvej 48B, 9230 Svenstrup J. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.
+- **Krestens Øko Jordbær** — Kongeåvej 46, 6771 Gredstedbro. Ikke tilføjet: ingen læsbar egen kilde; link mangler, kræver login eller kunne ikke hentes.
+- **Ramsmosegård Gårdbutik** — Køng Kirkevej 6, 4750 Lundby. Ikke tilføjet: aktuelt fysisk gårdsalg, sortiment eller besøgsadresse kunne ikke bekræftes tilstrækkeligt i de undersøgte kilder.

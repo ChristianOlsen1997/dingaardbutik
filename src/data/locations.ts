@@ -2555,5 +2555,2315 @@ export const locations: Location[] = [
     "source": "https://www.visitdenmark.dk/danmark/explore/treshoeje-gaardbutik-gdk1122459",
     "phone": "30282104",
     "website": "https://www.facebook.com/treshoejegaardbutik"
+  },
+  {
+    "id": "fuglebjerggaard",
+    "name": "Fuglebjerggaard",
+    "region": "hovedstaden",
+    "address": "Hemmingstrupvej 8",
+    "postalCode": "3200",
+    "city": "Helsinge",
+    "mapPosition": {
+      "x": 579.9,
+      "y": 436.7
+    },
+    "coordinates": {
+      "latitude": 56.05604977483362,
+      "longitude": 12.242859279215077
+    },
+    "description": "Økologisk gårdbutik med grøntsager, frugt, kød, syltevarer og krydderier samt planter og frø. Udvalget følger sæsonen.",
+    "source": "https://www.fuglebjerggaard.dk/gaardbutik/",
+    "phone": "24208354",
+    "website": "https://www.fuglebjerggaard.dk/"
+  },
+  {
+    "id": "stevninggaard-frugt-og-baer",
+    "name": "Stevninggård Frugt og Bær",
+    "region": "syddanmark",
+    "address": "Stevning Gade 23",
+    "postalCode": "6430",
+    "city": "Nordborg",
+    "mapPosition": {
+      "x": 267.6,
+      "y": 676.4
+    },
+    "coordinates": {
+      "latitude": 55.003427464955486,
+      "longitude": 9.818144440873354
+    },
+    "description": "Frugtplantage med stalddørssalg af sæsonens frugt og grøntsager samt mulighed for selvpluk.",
+    "source": "https://stevninggaard.dk/",
+    "phone": "40559799",
+    "website": "https://www.stevninggaard.dk/"
+  },
+  {
+    "id": "hasagergaard",
+    "name": "Hasagergaard",
+    "region": "midtjylland",
+    "address": "Kirkeskovvej 85",
+    "postalCode": "8450",
+    "city": "Hammel",
+    "mapPosition": {
+      "x": 281.4,
+      "y": 377.2
+    },
+    "coordinates": {
+      "latitude": 56.31341627149355,
+      "longitude": 9.92594523286464
+    },
+    "description": "Gårdbutik med kartofler, jordbær og varer fra landbruget. Udvalget følger sæsonen.",
+    "source": "https://hasagergaard.dk/forside.aspx",
+    "phone": "24617255",
+    "website": "https://hasagergaard.dk/"
+  },
+  {
+    "id": "kroghs-groent",
+    "name": "Kroghs Grønt",
+    "region": "syddanmark",
+    "address": "Sottrup By 8",
+    "postalCode": "6372",
+    "city": "Bylderup-Bov",
+    "mapPosition": {
+      "x": 172.4,
+      "y": 683.7
+    },
+    "coordinates": {
+      "latitude": 54.970609773685275,
+      "longitude": 9.079155795942082
+    },
+    "description": "Gårdbutik med jordbær, ærter, kartofler og asparges fra egne marker samt øvrige sæsonvarer.",
+    "source": "https://kroghs-groent.dk/",
+    "phone": "20603340",
+    "website": "https://kroghs-groent.dk/"
+  },
+  {
+    "id": "elmegaarden",
+    "name": "Elmegaarden",
+    "region": "syddanmark",
+    "address": "Damager 7",
+    "postalCode": "6560",
+    "city": "Sommersted",
+    "mapPosition": {
+      "x": 201.0,
+      "y": 604.4
+    },
+    "coordinates": {
+      "latitude": 55.32250984676886,
+      "longitude": 9.301661143272186
+    },
+    "description": "Gårdbutik med ost og andre produkter fra gårdens eget mejeri.",
+    "source": "https://elmegaarden.dk/",
+    "phone": "29403997",
+    "website": "https://elmegaarden.dk/"
+  },
+  {
+    "id": "hestehavegaard-frugtplantage",
+    "name": "Hestehavegård Frugtplantage",
+    "region": "syddanmark",
+    "address": "Hestehave 19",
+    "postalCode": "6400",
+    "city": "Sønderborg",
+    "mapPosition": {
+      "x": 262.5,
+      "y": 689.5
+    },
+    "coordinates": {
+      "latitude": 54.945102957619596,
+      "longitude": 9.778694022870203
+    },
+    "description": "Frugtplantage med gårdbutik, der sælger æbler, pærer, most og sæsonens øvrige frugt og grønt.",
+    "source": "https://hestehavefrugt.dk/",
+    "phone": "40370905",
+    "website": "https://hestehavefrugt.dk/"
+  },
+  {
+    "id": "rishoejgaard",
+    "name": "Rishøjgård",
+    "region": "midtjylland",
+    "address": "Mejlbyvej 136",
+    "postalCode": "8250",
+    "city": "Egå",
+    "mapPosition": {
+      "x": 325.4,
+      "y": 396.9
+    },
+    "coordinates": {
+      "latitude": 56.22847702627299,
+      "longitude": 10.267490813072296
+    },
+    "description": "Familiedrevet gårdbutik med frugt, grøntsager, æg og kolonialvarer samt planter og lokale håndværksprodukter.",
+    "source": "https://rishoejgaard.dk/",
+    "phone": "42806648",
+    "website": "https://rishoejgaard.dk/"
+  },
+  {
+    "id": "paradiset",
+    "name": "Paradiset",
+    "region": "midtjylland",
+    "address": "Norsmindevej 66",
+    "postalCode": "8340",
+    "city": "Malling",
+    "mapPosition": {
+      "x": 321.6,
+      "y": 442.3
+    },
+    "coordinates": {
+      "latitude": 56.03204058135551,
+      "longitude": 10.23765252087259
+    },
+    "description": "Gårdbutik og stalddørssalg med sæsonens grøntsager og udvalgte fødevarer.",
+    "source": "https://paradiset-gb.dk/",
+    "phone": "21783040",
+    "website": "https://paradiset-gb.dk/"
+  },
+  {
+    "id": "sdr-vissing-torvehal",
+    "name": "Sdr. Vissing Torvehal",
+    "region": "midtjylland",
+    "address": "Toftegårdsvej 2",
+    "postalCode": "8740",
+    "city": "Brædstrup",
+    "mapPosition": {
+      "x": 244.9,
+      "y": 444.9
+    },
+    "coordinates": {
+      "latitude": 56.020598999559795,
+      "longitude": 9.641869354484538
+    },
+    "description": "Gårdbutik med selvbetjening og et udvalg af fødevarer fra lokale producenter.",
+    "source": "https://www.torvehallen.com/",
+    "phone": "51260640",
+    "website": "https://torvehallen.com/"
+  },
+  {
+    "id": "moeltrup",
+    "name": "Møltrup",
+    "region": "midtjylland",
+    "address": "Møltrupvej 70",
+    "postalCode": "7480",
+    "city": "Vildbjerg",
+    "mapPosition": {
+      "x": 131.3,
+      "y": 409.0
+    },
+    "coordinates": {
+      "latitude": 56.175971812703835,
+      "longitude": 8.760368610904841
+    },
+    "description": "Gårdbutik på Møltrup med kød, pølser og varer fra stedets eget køkken.",
+    "source": "https://www.moltrup.dk/mad/gardbutikken",
+    "phone": "99929829",
+    "website": "https://moltrup.dk/mad/gardbutikken"
+  },
+  {
+    "id": "lystlunden",
+    "name": "Lystlunden",
+    "region": "syddanmark",
+    "address": "Vestergade 166",
+    "postalCode": "6051",
+    "city": "Almind",
+    "mapPosition": {
+      "x": 220.7,
+      "y": 549.0
+    },
+    "coordinates": {
+      "latitude": 55.566684093943884,
+      "longitude": 9.454563308065454
+    },
+    "description": "Gårdbutik med jordbær og kartofler. Udvalget følger høstsæsonen.",
+    "source": "https://lystlunden.dk",
+    "phone": "40895803",
+    "website": "https://lystlunden.dk"
+  },
+  {
+    "id": "krastrupsoegaard",
+    "name": "Krastrupsøgaard",
+    "region": "nordjylland",
+    "address": "Aalborgvej 52",
+    "postalCode": "9520",
+    "city": "Skørping",
+    "mapPosition": {
+      "x": 296.6,
+      "y": 248.7
+    },
+    "coordinates": {
+      "latitude": 56.862468998105335,
+      "longitude": 10.043447026731375
+    },
+    "description": "Gårdbutik med kød, kødpakker og tilberedte madvarer.",
+    "source": "https://krastrupsoegaard.dk",
+    "phone": "98339121",
+    "website": "https://krastrupsoegaard.dk"
+  },
+  {
+    "id": "thy-gaardbutik",
+    "name": "Thy Gårdbutik",
+    "region": "nordjylland",
+    "address": "Stagstrup Skolevej 13",
+    "postalCode": "7752",
+    "city": "Snedsted",
+    "mapPosition": {
+      "x": 108.0,
+      "y": 245.5
+    },
+    "coordinates": {
+      "latitude": 56.8760801834289,
+      "longitude": 8.579920571639624
+    },
+    "description": "Gårdbutik med hjemmelavet marmelade og syltede produkter. Udvalget varierer med årstiden.",
+    "source": "https://thygaardbutik.dk",
+    "phone": "29160928",
+    "website": "https://thygaardbutik.dk"
+  },
+  {
+    "id": "birkemosehus",
+    "name": "Birkemosehus",
+    "region": "sjaelland",
+    "address": "Birkelyvej 6",
+    "postalCode": "4180",
+    "city": "Sorø",
+    "mapPosition": {
+      "x": 481.5,
+      "y": 591.0
+    },
+    "coordinates": {
+      "latitude": 55.381734932202484,
+      "longitude": 11.478643108241043
+    },
+    "description": "Gårdbutik med lammekød og produkter af uld og skind fra gårdens fårehold.",
+    "source": "https://birkemosehus.dk",
+    "phone": "51326016",
+    "website": "https://birkemosehus.dk"
+  },
+  {
+    "id": "adamsgaarden",
+    "name": "Adamsgården",
+    "region": "sjaelland",
+    "address": "Aggersvoldvej 3A",
+    "postalCode": "4450",
+    "city": "Jyderup",
+    "mapPosition": {
+      "x": 474.4,
+      "y": 526.1
+    },
+    "coordinates": {
+      "latitude": 55.66705956906367,
+      "longitude": 11.423671764667885
+    },
+    "description": "Familiedrevet gårdbutik med kartofler, jordbær, grøntsager og sæsonvarer.",
+    "source": "https://www.adamsgaarden.dk",
+    "phone": "22264550",
+    "website": "https://www.adamsgaarden.dk"
+  },
+  {
+    "id": "sidinge",
+    "name": "Sidinge",
+    "region": "sjaelland",
+    "address": "Sidingevej 39",
+    "postalCode": "4560",
+    "city": "Vig",
+    "mapPosition": {
+      "x": 503.0,
+      "y": 487.0
+    },
+    "coordinates": {
+      "latitude": 55.837694917574396,
+      "longitude": 11.645466716504725
+    },
+    "description": "Gårdbutik ved frugtplantagen med egne produkter og udvalgte fødevarer.",
+    "source": "https://sidinge.dk",
+    "phone": "59328206",
+    "website": "https://sidinge.dk"
+  },
+  {
+    "id": "oestergaard-frugt-most",
+    "name": "Østergaard Frugt & Most",
+    "region": "hovedstaden",
+    "address": "Østergaardsvej 35",
+    "postalCode": "3630",
+    "city": "Jægerspris",
+    "mapPosition": {
+      "x": 544.0,
+      "y": 497.2
+    },
+    "coordinates": {
+      "latitude": 55.79320155833955,
+      "longitude": 11.963546674848045
+    },
+    "description": "Gårdbutik ved frugtplantagen med æbler, pærer, most og honning. Frugtsalget følger sæsonen.",
+    "source": "https://oefm.dk",
+    "phone": "47521249",
+    "website": "https://oefm.dk"
+  },
+  {
+    "id": "esromgaard",
+    "name": "Esromgård",
+    "region": "hovedstaden",
+    "address": "Frederiksværksvej 11",
+    "postalCode": "3230",
+    "city": "Græsted",
+    "mapPosition": {
+      "x": 599.1,
+      "y": 440.1
+    },
+    "coordinates": {
+      "latitude": 56.04149463934483,
+      "longitude": 12.391711612833697
+    },
+    "description": "Gårdsalg med jordbær, kartofler og asparges fra gårdens marker. Sæsonåbent.",
+    "source": "https://esromgaard.dk",
+    "website": "https://esromgaard.dk"
+  },
+  {
+    "id": "rokkedysse",
+    "name": "Rokkedysse",
+    "region": "hovedstaden",
+    "address": "Lejrvej 45",
+    "postalCode": "3500",
+    "city": "Værløse",
+    "mapPosition": {
+      "x": 590.4,
+      "y": 500.3
+    },
+    "coordinates": {
+      "latitude": 55.77982913706367,
+      "longitude": 12.32403186344741
+    },
+    "description": "Gårdbutik ved bærplantagen med sæsonens bær og frugt. Butikken er sæsonåben, og der tilbydes også selvpluk.",
+    "source": "https://rokkedysse.dk",
+    "phone": "31570740",
+    "website": "https://rokkedysse.dk"
+  },
+  {
+    "id": "koeng",
+    "name": "Køng",
+    "region": "sjaelland",
+    "address": "Bankevejen 1",
+    "postalCode": "4750",
+    "city": "Lundby",
+    "mapPosition": {
+      "x": 525.2,
+      "y": 651.6
+    },
+    "coordinates": {
+      "latitude": 55.11353293345017,
+      "longitude": 11.817739901343995
+    },
+    "description": "Gårdbutik med tomater, chili og peberfrugter i sæsonen samt planter og blomster.",
+    "source": "https://koenggaardbutik.dk",
+    "phone": "52522230",
+    "website": "https://koenggaardbutik.dk"
+  },
+  {
+    "id": "vibaekgaard",
+    "name": "Vibækgård",
+    "region": "sjaelland",
+    "address": "Kostervej 73",
+    "postalCode": "4780",
+    "city": "Stege",
+    "mapPosition": {
+      "x": 574.3,
+      "y": 684.1
+    },
+    "coordinates": {
+      "latitude": 54.96919790010605,
+      "longitude": 12.199403818967463
+    },
+    "description": "Gårdbutik på Møn med kartofler, ærter og jordbær fra egen dyrkning samt øvrige fødevarer.",
+    "source": "https://vibaekgaard.com",
+    "phone": "40245649",
+    "website": "https://vibaekgaard.com"
+  },
+  {
+    "id": "boegebjerggaard",
+    "name": "Bøgebjerggaard",
+    "region": "syddanmark",
+    "address": "Skovvangsvej 17",
+    "postalCode": "5610",
+    "city": "Assens",
+    "mapPosition": {
+      "x": 287.0,
+      "y": 601.6
+    },
+    "coordinates": {
+      "latitude": 55.33502367715011,
+      "longitude": 9.968798915388513
+    },
+    "description": "Gårdbutik med selvbetjening og hjemmelavede delikatesser.",
+    "source": "https://bogebjerggardsgaardbutik.dk",
+    "phone": "27858888",
+    "website": "https://bogebjerggardsgaardbutik.dk"
+  },
+  {
+    "id": "holistia",
+    "name": "Holistia",
+    "region": "syddanmark",
+    "address": "Søhusvej 161",
+    "postalCode": "5270",
+    "city": "Odense N",
+    "mapPosition": {
+      "x": 334.6,
+      "y": 576.6
+    },
+    "coordinates": {
+      "latitude": 55.44531814349112,
+      "longitude": 10.338780206562493
+    },
+    "description": "Gartneri med gårdbutik og sæsonvarer. Se hjemmesiden for det aktuelle udvalg.",
+    "source": "https://holistia.dk/",
+    "phone": "20418103",
+    "website": "https://holistia.dk/"
+  },
+  {
+    "id": "drivhuset",
+    "name": "Drivhuset",
+    "region": "nordjylland",
+    "address": "Korsholmvej 178",
+    "postalCode": "9631",
+    "city": "Gedsted",
+    "mapPosition": {
+      "x": 211.2,
+      "y": 283.2
+    },
+    "coordinates": {
+      "latitude": 56.71589736753112,
+      "longitude": 9.380808303327457
+    },
+    "description": "Gårdbutik med grøntsager og mulighed for bestilling af grøntsagskasser. Ring inden besøget.",
+    "source": "https://drivhuset-eva.dk/",
+    "phone": "98645655",
+    "website": "https://www.drivhuset-eva.dk/"
+  },
+  {
+    "id": "thy-lam",
+    "name": "Thy Lam",
+    "region": "nordjylland",
+    "address": "Oddesundvej 105",
+    "postalCode": "7752",
+    "city": "Snedsted",
+    "mapPosition": {
+      "x": 110.7,
+      "y": 240.4
+    },
+    "coordinates": {
+      "latitude": 56.89754029937696,
+      "longitude": 8.600949368990573
+    },
+    "description": "Gårdbutik med lammekød, skind og uld fra egne får.",
+    "source": "http://thy-lam.dk/",
+    "phone": "97931656",
+    "website": "http://thy-lam.dk/"
+  },
+  {
+    "id": "kaloe-oekologisk-gaardbutik",
+    "name": "Kalø Økologisk Gårdbutik",
+    "region": "midtjylland",
+    "address": "Molsvej 38",
+    "postalCode": "8410",
+    "city": "Rønde",
+    "mapPosition": {
+      "x": 356.3,
+      "y": 385.6
+    },
+    "coordinates": {
+      "latitude": 56.27697296327796,
+      "longitude": 10.507164667044169
+    },
+    "description": "Økologisk gårdbutik ved Kalø Landbrugsskole med sæsonens grøntsager og kød fra skolens landbrug og lokale producenter.",
+    "source": "https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik",
+    "website": "https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik"
+  },
+  {
+    "id": "karensminde-frugtplantage",
+    "name": "Karensminde Frugtplantage",
+    "region": "midtjylland",
+    "address": "Eriksmindevej 38",
+    "postalCode": "8300",
+    "city": "Odder",
+    "mapPosition": {
+      "x": 318.0,
+      "y": 461.4
+    },
+    "coordinates": {
+      "latitude": 55.94919170572125,
+      "longitude": 10.209680537476268
+    },
+    "description": "Frugtplantage med gårdbutik og selvpluk. Æbler, pærer og bær efter sæson.",
+    "source": "https://www.karensminde-frugt.dk/",
+    "phone": "50958196",
+    "website": "https://www.karensminde-frugt.dk/"
+  },
+  {
+    "id": "hopballe-moelle",
+    "name": "Hopballe Mølle",
+    "region": "syddanmark",
+    "address": "Hopballevej 56",
+    "postalCode": "7300",
+    "city": "Jelling",
+    "mapPosition": {
+      "x": 222.6,
+      "y": 509.0
+    },
+    "coordinates": {
+      "latitude": 55.74173931643982,
+      "longitude": 9.469317556964459
+    },
+    "description": "Gårdbutik ved Hopballe Mølle med gårdens kyllinger og andre fødevarer.",
+    "source": "https://www.hopballe.dk/",
+    "phone": "75853238",
+    "website": "https://www.hopballe.dk/"
+  },
+  {
+    "id": "lamdrup-naturkoed",
+    "name": "Lamdrup Naturkød",
+    "region": "syddanmark",
+    "address": "Lamdrupvej 23",
+    "postalCode": "5854",
+    "city": "Gislev",
+    "mapPosition": {
+      "x": 371.1,
+      "y": 629.3
+    },
+    "coordinates": {
+      "latitude": 55.212664448510886,
+      "longitude": 10.622127617630722
+    },
+    "description": "Gårdbutik med oksekød fra græsfodret kvæg. Både udskæringer og større portioner efter bestilling.",
+    "source": "https://xn--lamdrupnaturkd-2qb.dk/",
+    "phone": "29632564",
+    "website": "https://lamdrupnaturkød.dk/"
+  },
+  {
+    "id": "skodsboel-fjerkrae",
+    "name": "Skodsbøl Fjerkræ",
+    "region": "syddanmark",
+    "address": "Skodsbølvej 71",
+    "postalCode": "6310",
+    "city": "Broager",
+    "mapPosition": {
+      "x": 245.9,
+      "y": 699.4
+    },
+    "coordinates": {
+      "latitude": 54.90073162931556,
+      "longitude": 9.65034183448707
+    },
+    "description": "Gårdbutik med frilandsfjerkræ. Salget er sæsonbestemt; kontakt gården om bestilling og afhentning.",
+    "source": "https://finnh.dk/",
+    "phone": "22902918",
+    "website": "https://finnh.dk/"
+  },
+  {
+    "id": "melbjerggaard-groent",
+    "name": "Melbjerggaard Grønt",
+    "region": "midtjylland",
+    "address": "Ny Viborgvej 5",
+    "postalCode": "7840",
+    "city": "Højslev",
+    "mapPosition": {
+      "x": 176.3,
+      "y": 320.6
+    },
+    "coordinates": {
+      "latitude": 56.556258079581596,
+      "longitude": 9.11005540913958
+    },
+    "description": "Selvbetjent gårdbutik med egne kartofler, sæsonens grøntsager og æg samt most og honning.",
+    "source": "https://goforlocal.dk/find-lokale-foedevarer/melbjerggaard-groent",
+    "phone": "25742627",
+    "website": "https://www.facebook.com/Melbjerggaard/"
+  },
+  {
+    "id": "gaardens-groent",
+    "name": "Gaardens Grønt",
+    "region": "midtjylland",
+    "address": "Sandvej 12",
+    "postalCode": "8740",
+    "city": "Brædstrup",
+    "mapPosition": {
+      "x": 245.4,
+      "y": 462.5
+    },
+    "coordinates": {
+      "latitude": 55.94440545623053,
+      "longitude": 9.646359832418662
+    },
+    "description": "Gårdbutik og selvpluk med jordbær, kartofler og sæsonens øvrige afgrøder.",
+    "source": "https://gaardensgroent.dk/",
+    "phone": "21565487",
+    "website": "https://gaardensgroent.dk/"
+  },
+  {
+    "id": "peterslyst",
+    "name": "Peterslyst",
+    "region": "midtjylland",
+    "address": "Hovvejen 9",
+    "postalCode": "8361",
+    "city": "Hasselager",
+    "mapPosition": {
+      "x": 301.6,
+      "y": 431.4
+    },
+    "coordinates": {
+      "latitude": 56.07912893952809,
+      "longitude": 10.082254617329673
+    },
+    "description": "Gårdbutik med kartofler, jordbær, grøntsager, æg og honning. Udvalget følger sæsonen.",
+    "source": "https://peterslyst.com/",
+    "phone": "40364142",
+    "website": "https://peterslyst.com/"
+  },
+  {
+    "id": "rosilde-hoejgaard",
+    "name": "Rosilde Højgård",
+    "region": "syddanmark",
+    "address": "Gl. Vindingevej 21",
+    "postalCode": "5800",
+    "city": "Nyborg",
+    "mapPosition": {
+      "x": 387.6,
+      "y": 608.0
+    },
+    "coordinates": {
+      "latitude": 55.3067049495441,
+      "longitude": 10.749929293020791
+    },
+    "description": "Økologisk landbrug med gårdbutik, kartofler og sæsonens grøntsager.",
+    "source": "https://rosilde-hoejgaard.dk/",
+    "phone": "65310031",
+    "website": "https://www.rosilde-hoejgaard.dk/"
+  },
+  {
+    "id": "kraemmergaard",
+    "name": "Kræmmergård",
+    "region": "midtjylland",
+    "address": "Kræmmergårdvej 50",
+    "postalCode": "7660",
+    "city": "Bækmarksbro",
+    "mapPosition": {
+      "x": 75.8,
+      "y": 356.3
+    },
+    "coordinates": {
+      "latitude": 56.40302010067229,
+      "longitude": 8.32993422108019
+    },
+    "description": "Gårdbutik og frilandsgartneri med kartofler, jordbær, æbler og most fra egen produktion samt lokale specialiteter. Selvpluk i sæsonen.",
+    "source": "https://kraemmergaard.dk/gaardbutik/",
+    "phone": "97881034",
+    "website": "https://kraemmergaard.dk/gaardbutik/"
+  },
+  {
+    "id": "graverens-groentsager",
+    "name": "Graverens Grøntsager",
+    "region": "nordjylland",
+    "address": "Hirtshalsvej 17",
+    "postalCode": "9881",
+    "city": "Bindslev",
+    "mapPosition": {
+      "x": 311.4,
+      "y": 84.5
+    },
+    "coordinates": {
+      "latitude": 57.55270589778295,
+      "longitude": 10.158233562745613
+    },
+    "description": "Gårdbutik med hjemmeavlede grøntsager, kartofler og jordbær i sæsonen.",
+    "source": "https://www.graverensgroentsager.dk/",
+    "website": "https://www.graverensgroentsager.dk/"
+  },
+  {
+    "id": "froelund-oekologi",
+    "name": "Frølund Økologi",
+    "region": "midtjylland",
+    "address": "Frølundvej 95",
+    "postalCode": "7400",
+    "city": "Herning",
+    "mapPosition": {
+      "x": 175.3,
+      "y": 413.2
+    },
+    "coordinates": {
+      "latitude": 56.15790297033019,
+      "longitude": 9.101887077600571
+    },
+    "description": "Økologisk gårdbutik med frugt, grøntsager og bær fra egen dyrkning suppleret med varer fra andre økologiske producenter.",
+    "source": "https://xn--frlundkologi-wjbe.dk/kontakt",
+    "phone": "40200147",
+    "website": "https://xn--frlundkologi-wjbe.dk/"
+  },
+  {
+    "id": "skelbjerggaard",
+    "name": "Skelbjerggaard",
+    "region": "sjaelland",
+    "address": "Stenstrupvej 74",
+    "postalCode": "4573",
+    "city": "Højby",
+    "mapPosition": {
+      "x": 490.9,
+      "y": 465.6
+    },
+    "coordinates": {
+      "latitude": 55.930615863532594,
+      "longitude": 11.551751746250575
+    },
+    "description": "Gårdbutik med selvbetjening, kartofler, løg, hvidløg og sæsonens grøntsager. Selvpluk af jordbær i sæsonen.",
+    "source": "https://www.skelbjerggaard.dk/",
+    "phone": "23467314",
+    "website": "https://www.skelbjerggaard.dk/"
+  },
+  {
+    "id": "frydendal-ismejeri",
+    "name": "Frydendal Ismejeri",
+    "region": "syddanmark",
+    "address": "Flensborg Landevej 5",
+    "postalCode": "6400",
+    "city": "Sønderborg",
+    "mapPosition": {
+      "x": 254.3,
+      "y": 697.5
+    },
+    "coordinates": {
+      "latitude": 54.90937466380117,
+      "longitude": 9.715171170145297
+    },
+    "description": "Gårdbutik med hjemmelavet is og danske grøntsager i sæsonen.",
+    "source": "https://frydendal-ismejeri.dk/find-vej/",
+    "phone": "51620702",
+    "website": "http://frydendal-ismejeri.dk/"
+  },
+  {
+    "id": "ditlevsdal-bison-farm",
+    "name": "Ditlevsdal Bison Farm",
+    "region": "syddanmark",
+    "address": "Tokkerodvej 24",
+    "postalCode": "5462",
+    "city": "Morud",
+    "mapPosition": {
+      "x": 316.1,
+      "y": 574.2
+    },
+    "coordinates": {
+      "latitude": 55.455563595529675,
+      "longitude": 10.195242094918873
+    },
+    "description": "Gårdbutik på bisonfarmen med bisonkød fra egne dyr.",
+    "source": "https://ditlevsdal.dk/",
+    "phone": "64801227",
+    "website": "https://ditlevsdal.dk/"
+  },
+  {
+    "id": "soenderho",
+    "name": "Sønderho",
+    "region": "syddanmark",
+    "address": "Vester Storetoft 67",
+    "postalCode": "6720",
+    "city": "Fanø",
+    "mapPosition": {
+      "x": 92.8,
+      "y": 596.4
+    },
+    "coordinates": {
+      "latitude": 55.357821092254646,
+      "longitude": 8.461874397139882
+    },
+    "description": "Gårdbutik på Fanø med æg, kød og lokale specialiteter.",
+    "source": "https://sonderhogaardbutik.dk/",
+    "phone": "50932362",
+    "website": "https://sonderhogaardbutik.dk/"
+  },
+  {
+    "id": "fynshoved-cafe",
+    "name": "Fynshoved Café",
+    "region": "syddanmark",
+    "address": "Fynshovedvej 685",
+    "postalCode": "5390",
+    "city": "Martofte",
+    "mapPosition": {
+      "x": 371.9,
+      "y": 543.3
+    },
+    "coordinates": {
+      "latitude": 55.59162279160993,
+      "longitude": 10.628175615070724
+    },
+    "description": "Gårdbutik og café med okse- og lammekød fra egne naturplejedyr.",
+    "source": "https://fynshovedgaardbutik.dk/",
+    "phone": "51415685",
+    "website": "https://fynshovedgaardbutik.dk/"
+  },
+  {
+    "id": "birthesminde",
+    "name": "Birthesminde",
+    "region": "sjaelland",
+    "address": "Tempelvej 14",
+    "postalCode": "4390",
+    "city": "Vipperød",
+    "mapPosition": {
+      "x": 519.7,
+      "y": 524.9
+    },
+    "coordinates": {
+      "latitude": 55.67222061956914,
+      "longitude": 11.775052060221771
+    },
+    "description": "Gårdbutik med selvbetjent salg af kød og charcuteri fra gårdens egne grise og får.",
+    "source": "https://www.birthesminde.dk/",
+    "phone": "24200483",
+    "website": "https://www.birthesminde.dk/"
+  },
+  {
+    "id": "gloevermosegaard",
+    "name": "Gløvermosegaard",
+    "region": "sjaelland",
+    "address": "Gløvermosevej 5",
+    "postalCode": "4622",
+    "city": "Havdrup",
+    "mapPosition": {
+      "x": 561.9,
+      "y": 557.8
+    },
+    "coordinates": {
+      "latitude": 55.52781050944256,
+      "longitude": 12.102800095449435
+    },
+    "description": "Gårdbutik og besøgslandbrug med kød, æg og sæsonens fjerkræ. Begrænset åbningstid; tjek før besøget.",
+    "source": "https://glovermosegaard.dk/",
+    "phone": "21293820",
+    "website": "https://glovermosegaard.dk/"
+  },
+  {
+    "id": "laboellegaard",
+    "name": "Labøllegaard",
+    "region": "syddanmark",
+    "address": "Labøllevej 21",
+    "postalCode": "5471",
+    "city": "Søndersø",
+    "mapPosition": {
+      "x": 306.6,
+      "y": 566.5
+    },
+    "coordinates": {
+      "latitude": 55.489527447870834,
+      "longitude": 10.121320254475902
+    },
+    "description": "Gårdbutik med oksekød og æg. Se gårdens hjemmeside for bestilling og aktuelt udvalg.",
+    "source": "https://laboellegaard.dk/",
+    "phone": "24240084",
+    "website": "https://laboellegaard.dk/"
+  },
+  {
+    "id": "lystbaekgaard",
+    "name": "Lystbækgaard",
+    "region": "midtjylland",
+    "address": "Lystbækvej 1",
+    "postalCode": "6990",
+    "city": "Ulfborg",
+    "mapPosition": {
+      "x": 82.8,
+      "y": 393.0
+    },
+    "coordinates": {
+      "latitude": 56.244998868695,
+      "longitude": 8.383970895992643
+    },
+    "description": "Gårdbutik på fåregården Lystbækgaard med varer fra fåreholdet.",
+    "source": "https://www.lystbaekgaard.dk/",
+    "phone": "21232984",
+    "website": "https://www.lystbaekgaard.dk/"
+  },
+  {
+    "id": "fuglehal-landbrug",
+    "name": "Fuglehal Landbrug",
+    "region": "hovedstaden",
+    "address": "Fuglehalvej 18",
+    "postalCode": "3310",
+    "city": "Ølsted",
+    "mapPosition": {
+      "x": 554.4,
+      "y": 465.7
+    },
+    "coordinates": {
+      "latitude": 55.93036942798355,
+      "longitude": 12.044350889310051
+    },
+    "description": "Gårdbutik med okse-, kalve- og lammekød samt pålæg fra egne dyr. Der sælges også æg.",
+    "source": "https://www.fuglehal.dk/",
+    "website": "https://www.fuglehal.dk/"
+  },
+  {
+    "id": "jensen-jordbaer",
+    "name": "Jensen Jordbær",
+    "region": "nordjylland",
+    "address": "Hestvangvej 6",
+    "postalCode": "9300",
+    "city": "Sæby",
+    "mapPosition": {
+      "x": 346.5,
+      "y": 129.9
+    },
+    "coordinates": {
+      "latitude": 57.363187782582806,
+      "longitude": 10.431162715499925
+    },
+    "description": "Gårdbutik med selvbetjening, jordbær fra egne marker og sæsonvarer. Selvpluk tilbydes i sæsonen.",
+    "source": "https://jensenjordbaer.dk/",
+    "phone": "21219222",
+    "website": "https://jensenjordbaer.dk/"
+  },
+  {
+    "id": "faellinggaard",
+    "name": "Fællinggaard",
+    "region": "syddanmark",
+    "address": "Ny Vestergade 70",
+    "postalCode": "5672",
+    "city": "Broby",
+    "mapPosition": {
+      "x": 328.4,
+      "y": 617.3
+    },
+    "coordinates": {
+      "latitude": 55.26547172091895,
+      "longitude": 10.290661554971884
+    },
+    "description": "Gårdbutik med kød fra gårdens skotske højlandskvæg samt udvalgte delikatesser.",
+    "source": "https://www.faellinggaard.dk/",
+    "phone": "23958242",
+    "website": "https://www.faellinggaard.dk/"
+  },
+  {
+    "id": "rosagergaard-gaardbutik",
+    "name": "Rosagergaard Gaardbutik",
+    "region": "syddanmark",
+    "address": "Færgevej 1",
+    "postalCode": "5960",
+    "city": "Marstal",
+    "mapPosition": {
+      "x": 353.0,
+      "y": 707.9
+    },
+    "coordinates": {
+      "latitude": 54.86272373682299,
+      "longitude": 10.48102519628918
+    },
+    "description": "Gårdbutik med kød og æg fra egne dyr. Vinterlukket; tjek sæson og åbning før besøget.",
+    "source": "http://www.rosagergaard.com/",
+    "phone": "51760770",
+    "website": "http://www.rosagergaard.com/"
+  },
+  {
+    "id": "klintholm-gods",
+    "name": "Klintholm Gods",
+    "region": "sjaelland",
+    "address": "Klintholm Alle 1B",
+    "postalCode": "4791",
+    "city": "Borre",
+    "mapPosition": {
+      "x": 613.5,
+      "y": 681.9
+    },
+    "coordinates": {
+      "latitude": 54.97875204273594,
+      "longitude": 12.503376375651554
+    },
+    "description": "Gårdbutik ved Klintholm Gods med Hereford-kød fra godsets naturplejende kvæg. Sæsonåbent; tjek gårdens aktuelle åbningstider inden besøget.",
+    "source": "https://www.klintholm.dk/",
+    "website": "https://www.klintholm.dk/"
+  },
+  {
+    "id": "moellebakkegaard-gaardbutik",
+    "name": "Møllebakkegård Gårdbutik",
+    "region": "sjaelland",
+    "address": "Tolstrupvej 1",
+    "postalCode": "4735",
+    "city": "Mern",
+    "mapPosition": {
+      "x": 552.7,
+      "y": 670.0
+    },
+    "coordinates": {
+      "latitude": 55.031729057359414,
+      "longitude": 12.031280883316724
+    },
+    "description": "Økologisk gårdbutik med kød og æg fra egne dyr.",
+    "source": "https://moellebakkegaard.dk/",
+    "phone": "28100280",
+    "website": "https://moellebakkegaard.dk/"
+  },
+  {
+    "id": "poetgaard-faareost-gaardmejeri",
+    "name": "Pøtgaard - Fåreost Gårdmejeri",
+    "region": "midtjylland",
+    "address": "Norupvej 10",
+    "postalCode": "8830",
+    "city": "Tjele",
+    "mapPosition": {
+      "x": 235.8,
+      "y": 326.3
+    },
+    "coordinates": {
+      "latitude": 56.531829883846584,
+      "longitude": 9.57124129199731
+    },
+    "description": "Gårdmejeri med selvbetjent gårdbutik, fåreoste samt kød og pølser fra egne lam og frilandsgrise.",
+    "source": "https://poetgaard.dk/",
+    "phone": "24768830",
+    "website": "https://poetgaard.dk/"
+  },
+  {
+    "id": "lolle-frugt",
+    "name": "Lolle Frugt",
+    "region": "sjaelland",
+    "address": "Gl Killerup 8",
+    "postalCode": "4990",
+    "city": "Sakskøbing",
+    "mapPosition": {
+      "x": 504.4,
+      "y": 716.4
+    },
+    "coordinates": {
+      "latitude": 54.82476129205797,
+      "longitude": 11.65668983309423
+    },
+    "description": "Frugtplantage med gårdbutik, selvbetjening, frugt og æblemost. Mulighed for selvpluk i sæsonen.",
+    "source": "https://www.lollefrugt.dk/",
+    "phone": "21706424",
+    "website": "https://www.lollefrugt.dk/"
+  },
+  {
+    "id": "den-glade-gris",
+    "name": "Den Glade Gris",
+    "region": "syddanmark",
+    "address": "Gammel Skårupvej 164",
+    "postalCode": "5700",
+    "city": "Svendborg",
+    "mapPosition": {
+      "x": 375.1,
+      "y": 660.4
+    },
+    "coordinates": {
+      "latitude": 55.074670621432325,
+      "longitude": 10.65278232981542
+    },
+    "description": "Gårdbutik med kød, pølser og pålæg. Tjek butikkens aktuelle åbningstider før besøget.",
+    "source": "https://www.xn--grdbutikkendengladegris-k8b.dk/",
+    "phone": "22587310",
+    "website": "https://www.gårdbutikkendengladegris.dk/"
+  },
+  {
+    "id": "gaardagergaard",
+    "name": "Gårdagergård",
+    "region": "sjaelland",
+    "address": "Gårdagervej 1",
+    "postalCode": "4200",
+    "city": "Slagelse",
+    "mapPosition": {
+      "x": 461.7,
+      "y": 590.7
+    },
+    "coordinates": {
+      "latitude": 55.382839174722456,
+      "longitude": 11.32476993130937
+    },
+    "description": "Gårdbutik med selvbetjening, sæsonens frugt, most og andre produkter fra gården.",
+    "source": "https://www.gaardagergaard.dk/",
+    "phone": "40538090",
+    "website": "https://www.gaardagergaard.dk/"
+  },
+  {
+    "id": "frydenlund-slots-frugtplantage-gaardbutikken",
+    "name": "Frydenlund Slots Frugtplantage, Gårdbutikken",
+    "region": "hovedstaden",
+    "address": "Frydenlunds Alle 23B",
+    "postalCode": "2950",
+    "city": "Vedbæk",
+    "mapPosition": {
+      "x": 621.2,
+      "y": 486.5
+    },
+    "coordinates": {
+      "latitude": 55.8399257690948,
+      "longitude": 12.562945375798872
+    },
+    "description": "Gårdbutik ved frugtplantagen med håndplukket frugt, most, marmelade og is.",
+    "source": "https://www.frydenlundslot.dk/",
+    "website": "https://www.frydenlundslot.dk/"
+  },
+  {
+    "id": "frugthaven",
+    "name": "Frugthaven",
+    "region": "nordjylland",
+    "address": "Ejstrupvej 23",
+    "postalCode": "9520",
+    "city": "Skørping",
+    "mapPosition": {
+      "x": 294.4,
+      "y": 255.6
+    },
+    "coordinates": {
+      "latitude": 56.83335776219591,
+      "longitude": 10.026651693791944
+    },
+    "description": "Gårdbutik med æbler og pærer efter sæson, egen æblemost, marmelade og honning.",
+    "source": "http://www.frugtogmost.dk/",
+    "phone": "40125170",
+    "website": "http://www.frugtogmost.dk/"
+  },
+  {
+    "id": "nybro-frugtplantage",
+    "name": "Nybro Frugtplantage",
+    "region": "syddanmark",
+    "address": "Lille Salbyvej 54",
+    "postalCode": "5370",
+    "city": "Mesinge",
+    "mapPosition": {
+      "x": 373.4,
+      "y": 566.5
+    },
+    "coordinates": {
+      "latitude": 55.48946810994473,
+      "longitude": 10.639801315655744
+    },
+    "description": "Gårdbutik ved frugtplantagen med æbler, pærer og æblemost.",
+    "source": "https://nybrofrugt.dk/",
+    "phone": "22506738",
+    "website": "https://nybrofrugt.dk/"
+  },
+  {
+    "id": "ausumgaard",
+    "name": "Ausumgaard",
+    "region": "midtjylland",
+    "address": "Holstebrovej 101",
+    "postalCode": "7560",
+    "city": "Hjerm",
+    "mapPosition": {
+      "x": 110.9,
+      "y": 350.2
+    },
+    "coordinates": {
+      "latitude": 56.429132105913446,
+      "longitude": 8.601925132822675
+    },
+    "description": "Selvbetjent gårdbutik ved Ausumgaard med gårdens egne kødvarer og mel.",
+    "source": "https://ausumgaard.dk/",
+    "phone": "97464411",
+    "website": "https://ausumgaard.dk/"
+  },
+  {
+    "id": "jordbaergaarden",
+    "name": "Jordbærgården",
+    "region": "hovedstaden",
+    "address": "Råbrovej 58",
+    "postalCode": "2765",
+    "city": "Smørum",
+    "mapPosition": {
+      "x": 586.7,
+      "y": 514.6
+    },
+    "coordinates": {
+      "latitude": 55.71724223290678,
+      "longitude": 12.295036748284486
+    },
+    "description": "Gårdbutik og jordbær-selvpluk ved Smørum. Udvalget følger sæsonen.",
+    "source": "https://jordbaergaarden.dk/",
+    "phone": "24244360",
+    "website": "https://jordbaergaarden.dk/"
+  },
+  {
+    "id": "raunsmed-fjerkraefarm",
+    "name": "Raunsmed fjerkræfarm",
+    "region": "nordjylland",
+    "address": "Lyngbyvej 120",
+    "postalCode": "9480",
+    "city": "Løkken",
+    "mapPosition": {
+      "x": 260.1,
+      "y": 120.8
+    },
+    "coordinates": {
+      "latitude": 57.401389818401455,
+      "longitude": 9.760062482763056
+    },
+    "description": "Gårdbutik ved fjerkræfarmen med fjerkræ, æg og andre varer fra gården.",
+    "source": "https://raunsmed.dk/",
+    "phone": "40745252",
+    "website": "https://raunsmed.dk/"
+  },
+  {
+    "id": "yduns-have",
+    "name": "Yduns Have",
+    "region": "midtjylland",
+    "address": "Alstrup 2",
+    "postalCode": "8305",
+    "city": "Samsø",
+    "mapPosition": {
+      "x": 370.9,
+      "y": 477.8
+    },
+    "coordinates": {
+      "latitude": 55.8778483382606,
+      "longitude": 10.619951951769194
+    },
+    "description": "Økologisk gårdbutik på Samsø med selvbetjening og sæsonens grøntsager.",
+    "source": "https://xn--ydunshavesams-nnb.dk/",
+    "phone": "27430039",
+    "website": "https://ydunshavesamsø.dk/"
+  },
+  {
+    "id": "holgers-jordbaer",
+    "name": "Holgers Jordbær",
+    "region": "midtjylland",
+    "address": "Clemensvej 6",
+    "postalCode": "8530",
+    "city": "Hjortshøj",
+    "mapPosition": {
+      "x": 322.0,
+      "y": 386.4
+    },
+    "coordinates": {
+      "latitude": 56.27348826268035,
+      "longitude": 10.24100394156834
+    },
+    "description": "Gårdbutik med jordbær og ærter fra egen dyrkning i sæsonen samt andre fødevarer.",
+    "source": "https://holgers.net/",
+    "phone": "20205221",
+    "website": "https://holgers.net/"
+  },
+  {
+    "id": "graasten-fjerkrae-gaardbutik",
+    "name": "Gråsten Fjerkræ Gårdbutik",
+    "region": "syddanmark",
+    "address": "Kværsgade 18",
+    "postalCode": "6300",
+    "city": "Gråsten",
+    "mapPosition": {
+      "x": 226.2,
+      "y": 692.4
+    },
+    "coordinates": {
+      "latitude": 54.93198094402717,
+      "longitude": 9.496714794643248
+    },
+    "description": "Gårdbutik ved Gråsten Fjerkræ med et udvalg af fjerkræprodukter. Tjek aktuelle åbningstider.",
+    "source": "https://unghanen.dk/",
+    "phone": "74659071",
+    "website": "https://unghanen.dk/"
+  },
+  {
+    "id": "avernakoe-gaardbutik",
+    "name": "Avernakø Gårdbutik",
+    "region": "syddanmark",
+    "address": "Skallevej 18",
+    "postalCode": "5602",
+    "city": "Avernakø",
+    "mapPosition": {
+      "x": 326.1,
+      "y": 672.1
+    },
+    "coordinates": {
+      "latitude": 55.022260209647555,
+      "longitude": 10.272554013410469
+    },
+    "description": "Gårdbutik på Avernakø med okse- og lammekød, grøntsager og most fra egen frugtplantage.",
+    "source": "https://xn--avernak-grdbutik-lob35a.dk/",
+    "phone": "26787470",
+    "website": "https://avernakø-gårdbutik.dk/"
+  },
+  {
+    "id": "velfaerdskoed-v-karen-torben",
+    "name": "Velfærdskød v/Karen & Torben",
+    "region": "sjaelland",
+    "address": "Vindebækvej 25",
+    "postalCode": "4792",
+    "city": "Askeby",
+    "mapPosition": {
+      "x": 573.2,
+      "y": 702.2
+    },
+    "coordinates": {
+      "latitude": 54.88827200954961,
+      "longitude": 12.190890866309513
+    },
+    "description": "Gårdbutik på Møn med kød fra gårdens Jersey-kvæg og æg.",
+    "source": "https://xn--velfrdskd-j3a6r.dk/",
+    "phone": "20356216",
+    "website": "https://velfærdskød.dk/"
+  },
+  {
+    "id": "lundsbjerggaard",
+    "name": "Lundsbjerggaard",
+    "region": "syddanmark",
+    "address": "Stormarken 47",
+    "postalCode": "5471",
+    "city": "Søndersø",
+    "mapPosition": {
+      "x": 316.0,
+      "y": 568.0
+    },
+    "coordinates": {
+      "latitude": 55.48303564951284,
+      "longitude": 10.194089042870853
+    },
+    "description": "Gårdbutik med is og oksekød fra gårdens Jersey-køer.",
+    "source": "https://lundsbjerggaard.dk/",
+    "phone": "25119094",
+    "website": "https://lundsbjerggaard.dk/"
+  },
+  {
+    "id": "bigaard-oekologisk-gartneri",
+    "name": "Bigaard Økologisk Gartneri",
+    "region": "syddanmark",
+    "address": "Tøndervej 64",
+    "postalCode": "6330",
+    "city": "Padborg",
+    "mapPosition": {
+      "x": 199.1,
+      "y": 703.3
+    },
+    "coordinates": {
+      "latitude": 54.88344038495129,
+      "longitude": 9.28673679720279
+    },
+    "description": "Økologisk gartneri med gårdbutik, sæsonens grøntsager, kartofler og jordbær.",
+    "source": "http://bigaard.dk",
+    "phone": "81613003",
+    "website": "http://bigaard.dk"
+  },
+  {
+    "id": "kildegaarden-highland-cattle",
+    "name": "KildeGaarden Highland Cattle",
+    "region": "syddanmark",
+    "address": "Skalkendrupvej 42",
+    "postalCode": "5800",
+    "city": "Nyborg",
+    "mapPosition": {
+      "x": 385.7,
+      "y": 593.7
+    },
+    "coordinates": {
+      "latitude": 55.36975247617677,
+      "longitude": 10.735220030828636
+    },
+    "description": "Gårdbutik med oksekød fra eget skotsk højlandskvæg.",
+    "source": "https://kildegaarden-hlc.dk/",
+    "phone": "24912400",
+    "website": "https://kildegaarden-hlc.dk/"
+  },
+  {
+    "id": "gartneriet-lumbygaard",
+    "name": "Gartneriet Lumbygaard",
+    "region": "syddanmark",
+    "address": "H.C. Lumbyes Vej 58",
+    "postalCode": "5270",
+    "city": "Odense N",
+    "mapPosition": {
+      "x": 339.5,
+      "y": 572.9
+    },
+    "coordinates": {
+      "latitude": 55.46131225103676,
+      "longitude": 10.376646150854068
+    },
+    "description": "Gartneri med stalddørssalg af grøntsager, æg og kød fra egne dyr.",
+    "source": "https://www.lumbygaard.dk",
+    "phone": "60140298",
+    "website": "https://www.lumbygaard.dk"
+  },
+  {
+    "id": "haekbaek-oekologiske-frugtplantage",
+    "name": "Hækbæk Økologiske Frugtplantage",
+    "region": "sjaelland",
+    "address": "Næsvangsvej 12",
+    "postalCode": "4550",
+    "city": "Asnæs",
+    "mapPosition": {
+      "x": 488.0,
+      "y": 496.3
+    },
+    "coordinates": {
+      "latitude": 55.79720526453388,
+      "longitude": 11.529140092648566
+    },
+    "description": "Økologisk frugtplantage med vejbod, æbler, pærer, jordbær og most efter sæson.",
+    "source": "https://www.haekbaek.dk/",
+    "phone": "23606960",
+    "website": "https://www.haekbaek.dk/"
+  },
+  {
+    "id": "baaring-vig-frugtplantage",
+    "name": "Båring Vig Frugtplantage",
+    "region": "syddanmark",
+    "address": "Tanggyden 2",
+    "postalCode": "5466",
+    "city": "Asperup",
+    "mapPosition": {
+      "x": 277.5,
+      "y": 563.7
+    },
+    "coordinates": {
+      "latitude": 55.502069521904644,
+      "longitude": 9.895191010974392
+    },
+    "description": "Familiedrevet frugtplantage med gårdbutik, æbler, pærer, most og selvpluk i sæsonen.",
+    "source": "https://www.baaringvigfrugt.com/",
+    "phone": "93843922",
+    "website": "https://www.baaringvigfrugt.com/"
+  },
+  {
+    "id": "fjordvang-frugtplantage",
+    "name": "Fjordvang Frugtplantage",
+    "region": "syddanmark",
+    "address": "Hasmarkmosen 18",
+    "postalCode": "5450",
+    "city": "Otterup",
+    "mapPosition": {
+      "x": 344.2,
+      "y": 550.6
+    },
+    "coordinates": {
+      "latitude": 55.559525812505754,
+      "longitude": 10.41341431215198
+    },
+    "description": "Frugtplantage med gårdbutik og håndplukkede æbler og pærer. Kør ind fra Hasmarkmosen ved nr. 18.",
+    "source": "http://www.fjordvangfrugtplantage.dk/",
+    "phone": "64871112",
+    "website": "http://www.fjordvangfrugtplantage.dk/"
+  },
+  {
+    "id": "samsoe-baer",
+    "name": "Samsø Bær",
+    "region": "midtjylland",
+    "address": "Sildeballe 35",
+    "postalCode": "8305",
+    "city": "Samsø",
+    "mapPosition": {
+      "x": 377.8,
+      "y": 477.9
+    },
+    "coordinates": {
+      "latitude": 55.87719530411191,
+      "longitude": 10.673491591085838
+    },
+    "description": "Gårdbutik ved bærproduktionen med marmelade, saft, rapsolie og snaps.",
+    "source": "https://samsobaer.dk/",
+    "phone": "44114800",
+    "website": "https://samsobaer.dk/"
+  },
+  {
+    "id": "hovedvejens-gaardbutik-nr-aaby",
+    "name": "Hovedvejens Gårdbutik Nr Åby",
+    "region": "syddanmark",
+    "address": "Hovedvejen 234",
+    "postalCode": "5580",
+    "city": "Nørre Aaby",
+    "mapPosition": {
+      "x": 276.9,
+      "y": 571.0
+    },
+    "coordinates": {
+      "latitude": 55.46971536431385,
+      "longitude": 9.8904223669894
+    },
+    "description": "Gårdbutik med årstidens frugt og grønt fra egen avl og lokale avlere.",
+    "source": "http://www.hovedvejensgaardbutik.dk/index.html",
+    "phone": "27642728",
+    "website": "http://www.hovedvejensgaardbutik.dk/index.html"
+  },
+  {
+    "id": "thy-oekobaer",
+    "name": "Thy Økobær",
+    "region": "nordjylland",
+    "address": "Legindvej 139",
+    "postalCode": "7752",
+    "city": "Snedsted",
+    "mapPosition": {
+      "x": 89.7,
+      "y": 246.3
+    },
+    "coordinates": {
+      "latitude": 56.872864045670454,
+      "longitude": 8.437231395695273
+    },
+    "description": "Økologisk bærplantage med ubemandet gårdbutik, saft og sirup fra egne bær.",
+    "source": "https://thyokobaer.dk/",
+    "phone": "21762920",
+    "website": "https://thyokobaer.dk/"
+  },
+  {
+    "id": "freerslev-kotel",
+    "name": "Freerslev Kotel",
+    "region": "hovedstaden",
+    "address": "Roskildevej 207",
+    "postalCode": "3330",
+    "city": "Gørløse",
+    "mapPosition": {
+      "x": 577.4,
+      "y": 473.9
+    },
+    "coordinates": {
+      "latitude": 55.894773994006066,
+      "longitude": 12.223345501118034
+    },
+    "description": "Gårdbutik med oksekød fra eget kvæg, friske æg samt hjemmelavet syltetøj og saft.",
+    "source": "https://www.freerslevkotel.dk/",
+    "phone": "23371928",
+    "website": "https://www.freerslevkotel.dk/"
+  },
+  {
+    "id": "byaasgaard-gaardbutik",
+    "name": "Byaasgaard Gårdbutik",
+    "region": "hovedstaden",
+    "address": "Amtsvejen 340",
+    "postalCode": "3390",
+    "city": "Hundested",
+    "mapPosition": {
+      "x": 543.1,
+      "y": 458.2
+    },
+    "coordinates": {
+      "latitude": 55.962876969701675,
+      "longitude": 11.957243446470613
+    },
+    "description": "Gårdbutik og kaffebar med egne grøntsager, æg og lokale fødevarer.",
+    "source": "https://byaas.dk/gaardbutik/",
+    "phone": "47923102",
+    "website": "https://byaas.dk/farmshop/"
+  },
+  {
+    "id": "nystedgaard",
+    "name": "Nystedgård",
+    "region": "hovedstaden",
+    "address": "Hesselvej 79",
+    "postalCode": "3660",
+    "city": "Stenløse",
+    "mapPosition": {
+      "x": 579.2,
+      "y": 495.0
+    },
+    "coordinates": {
+      "latitude": 55.80264291811336,
+      "longitude": 12.237373212947025
+    },
+    "description": "Gårdbutik med frisklagte økologiske æg fra gårdens egne høns.",
+    "source": "https://nystedgaard.dk/",
+    "website": "https://nystedgaard.dk/"
+  },
+  {
+    "id": "asgaard-alleroed",
+    "name": "Asgård Allerød",
+    "region": "hovedstaden",
+    "address": "Sørupgårdsvej 12",
+    "postalCode": "3450",
+    "city": "Allerød",
+    "mapPosition": {
+      "x": 587.4,
+      "y": 477.1
+    },
+    "coordinates": {
+      "latitude": 55.88079087097653,
+      "longitude": 12.301028471879734
+    },
+    "description": "Gårdsalg med grøntsager, æg og honning. Sortimentet følger sæsonen.",
+    "source": "https://asgaard-alleroed.dk/",
+    "website": "https://asgaard-alleroed.dk/"
+  },
+  {
+    "id": "farmersmarket-i-helsinge",
+    "name": "Farmersmarket i Helsinge",
+    "region": "hovedstaden",
+    "address": "Kæderupvej 3",
+    "postalCode": "3200",
+    "city": "Helsinge",
+    "mapPosition": {
+      "x": 578.9,
+      "y": 447.3
+    },
+    "coordinates": {
+      "latitude": 56.010130129017185,
+      "longitude": 12.234524980765872
+    },
+    "description": "Gårdbutik med kød fra egne højlandskvæg, grise og lam samt æg, grøntsager og honning.",
+    "source": "https://www.gaardbutikken.com/",
+    "website": "https://www.gaardbutikken.com/"
+  },
+  {
+    "id": "hegnstrup-oekologisk-jordbrug",
+    "name": "Hegnstrup Økologisk Jordbrug",
+    "region": "hovedstaden",
+    "address": "Gl Københavnsvej 14",
+    "postalCode": "3550",
+    "city": "Slangerup",
+    "mapPosition": {
+      "x": 576.0,
+      "y": 486.4
+    },
+    "coordinates": {
+      "latitude": 55.84019785878215,
+      "longitude": 12.212635466958291
+    },
+    "description": "Gårdbutik med æg, grøntsager, frugt, bær og honning fra eget økologisk jordbrug.",
+    "source": "https://www.hegnstrup.dk/",
+    "phone": "60860687",
+    "website": "https://www.hegnstrup.dk/"
+  },
+  {
+    "id": "lammefjordens-spisekammer",
+    "name": "Lammefjordens spisekammer",
+    "region": "sjaelland",
+    "address": "Adelers Alle 102",
+    "postalCode": "4540",
+    "city": "Fårevejle",
+    "mapPosition": {
+      "x": 479.2,
+      "y": 497.9
+    },
+    "coordinates": {
+      "latitude": 55.7901164516836,
+      "longitude": 11.460763929433389
+    },
+    "description": "Gårdbutik med kartofler og sæsonens grøntsager fra Lammefjorden.",
+    "source": "https://lammefjordens-spisekammer.dk/",
+    "phone": "40417550",
+    "website": "https://lammefjordens-spisekammer.dk/"
+  },
+  {
+    "id": "munkebjerggaard",
+    "name": "Munkebjerggård",
+    "region": "sjaelland",
+    "address": "Strandgårdsvej 4",
+    "postalCode": "4540",
+    "city": "Fårevejle",
+    "mapPosition": {
+      "x": 479.1,
+      "y": 486.5
+    },
+    "coordinates": {
+      "latitude": 55.83985873776319,
+      "longitude": 11.4605241738733
+    },
+    "description": "Gårdbutik med sæsonens grøntsager, frugt og bær fra marken samt madvarer fra eget køkken.",
+    "source": "https://munkebjerggaard.dk/",
+    "phone": "21477772",
+    "website": "https://munkebjerggaard.dk/"
+  },
+  {
+    "id": "astrup-gods",
+    "name": "Astrup Gods",
+    "region": "sjaelland",
+    "address": "Astrupvej 11",
+    "postalCode": "4450",
+    "city": "Jyderup",
+    "mapPosition": {
+      "x": 465.7,
+      "y": 529.6
+    },
+    "coordinates": {
+      "latitude": 55.6516816418421,
+      "longitude": 11.35589083416188
+    },
+    "description": "Gårdbutik ved Astrup Gods med kød fra vildt nedlagt på godsets jorder.",
+    "source": "https://astrupgods.dk/",
+    "phone": "25664060",
+    "website": "https://astrupgods.dk/"
+  },
+  {
+    "id": "gaardbutikken-planter-og-pesto",
+    "name": "Gårdbutikken Planter og Pesto",
+    "region": "midtjylland",
+    "address": "Sønderkjærsvej 2",
+    "postalCode": "6971",
+    "city": "Spjald",
+    "mapPosition": {
+      "x": 100.3,
+      "y": 408.9
+    },
+    "coordinates": {
+      "latitude": 56.176466411120735,
+      "longitude": 8.520217246969407
+    },
+    "description": "Gårdbutik med pesto, marmelade, sirup og chutney lavet af frugt og grøntsager fra egen have.",
+    "source": "https://planterogpesto.dk/",
+    "phone": "21641611",
+    "website": "https://planterogpesto.dk/"
+  },
+  {
+    "id": "elkaerholm-aroniabaer",
+    "name": "Elkærholm Aroniabær",
+    "region": "syddanmark",
+    "address": "Elkærholmvej 6",
+    "postalCode": "6040",
+    "city": "Egtved",
+    "mapPosition": {
+      "x": 214.0,
+      "y": 551.5
+    },
+    "coordinates": {
+      "latitude": 55.555674534173086,
+      "longitude": 9.402444027436623
+    },
+    "description": "Gårdbutik ved aroniaplantagen med aroniasaft og andre bærprodukter.",
+    "source": "https://www.elkaerholm.dk/",
+    "phone": "60707525",
+    "website": "https://www.elkaerholm.dk/"
+  },
+  {
+    "id": "oester-hegnet",
+    "name": "Øster Hegnet",
+    "region": "midtjylland",
+    "address": "Hvalpsundvej 6",
+    "postalCode": "7870",
+    "city": "Roslev",
+    "mapPosition": {
+      "x": 181.7,
+      "y": 281.6
+    },
+    "coordinates": {
+      "latitude": 56.72274008726209,
+      "longitude": 9.151731511424014
+    },
+    "description": "Gårdbutik med jordbær, kartofler, saft og honning. Selvpluk af jordbær i sæsonen.",
+    "source": "https://oesterhegnet.dk/",
+    "phone": "30508754",
+    "website": "https://oesterhegnet.dk/"
+  },
+  {
+    "id": "hebbelstrupgaard-is",
+    "name": "Hebbelstrupgaard Is",
+    "region": "nordjylland",
+    "address": "Hebbelstrupvej 157",
+    "postalCode": "9800",
+    "city": "Hjørring",
+    "mapPosition": {
+      "x": 307.4,
+      "y": 84.5
+    },
+    "coordinates": {
+      "latitude": 57.55267877297674,
+      "longitude": 10.127429949327833
+    },
+    "description": "Gårdbutik og café på Hebbelstrupgaard med hjemmelavet is. Tjek sæson og åbningstider.",
+    "source": "https://www.hebbelstrupgaard.com/",
+    "phone": "91525524",
+    "website": "https://www.hebbelstrupgaard.com/"
+  },
+  {
+    "id": "tvis-gaardbutik",
+    "name": "Tvis Gårdbutik",
+    "region": "midtjylland",
+    "address": "Morrevej 12",
+    "postalCode": "7500",
+    "city": "Holstebro",
+    "mapPosition": {
+      "x": 131.4,
+      "y": 380.7
+    },
+    "coordinates": {
+      "latitude": 56.29841480720478,
+      "longitude": 8.761042835958351
+    },
+    "description": "Gårdbutik med fjerkræ, herunder kyllinger og sæsonens julefjerkræ.",
+    "source": "https://tvisgaardbutik.dk",
+    "phone": "97435070",
+    "website": "https://tvisgaardbutik.dk"
+  },
+  {
+    "id": "butik-pilti",
+    "name": "Butik Pilti",
+    "region": "sjaelland",
+    "address": "Strandvejen 11",
+    "postalCode": "4733",
+    "city": "Tappernøje",
+    "mapPosition": {
+      "x": 550.4,
+      "y": 642.2
+    },
+    "coordinates": {
+      "latitude": 55.15546106576561,
+      "longitude": 12.013491038260696
+    },
+    "description": "Socialøkonomisk gårdbutik under Marjatta med grøntsager og udvalgte fødevarer.",
+    "source": "https://marjatta.dk/om-marjatta/butik-pilti/",
+    "phone": "56517857",
+    "website": "https://marjatta.dk/om-marjatta/butik-pilti/"
+  },
+  {
+    "id": "lindbjerggaard",
+    "name": "Lindbjerggård",
+    "region": "midtjylland",
+    "address": "Hulen 16",
+    "postalCode": "8930",
+    "city": "Randers NØ",
+    "mapPosition": {
+      "x": 308.7,
+      "y": 327.2
+    },
+    "coordinates": {
+      "latitude": 56.52792805346687,
+      "longitude": 10.137804205508465
+    },
+    "description": "Gårdbutik med økologisk oksekød og fjerkræ.",
+    "source": "https://lindbjerggaard.dk/",
+    "phone": "61782282",
+    "website": "https://lindbjerggaard.dk/"
+  },
+  {
+    "id": "skovloekke",
+    "name": "Skovløkke",
+    "region": "syddanmark",
+    "address": "Birketvedvejen 35",
+    "postalCode": "5290",
+    "city": "Marslev",
+    "mapPosition": {
+      "x": 362.5,
+      "y": 587.6
+    },
+    "coordinates": {
+      "latitude": 55.39649910240997,
+      "longitude": 10.555073677312112
+    },
+    "description": "Gårdbutik med kartofler, jordbær og grøntsager fra eget gartneri. Sæsonåbent.",
+    "source": "https://skovloekke.dk/",
+    "phone": "30304208",
+    "website": "https://skovloekke.dk/"
+  },
+  {
+    "id": "thorslundgaard-gaardbutik",
+    "name": "Thorslundgård Gårdbutik",
+    "region": "syddanmark",
+    "address": "Stensbyvej 18",
+    "postalCode": "5485",
+    "city": "Skamby",
+    "mapPosition": {
+      "x": 326.9,
+      "y": 561.5
+    },
+    "coordinates": {
+      "latitude": 55.51156479071185,
+      "longitude": 10.278597403634503
+    },
+    "description": "Gårdbutik med sæsonens varer fra gården. Se hjemmesiden for aktuelt udvalg.",
+    "source": "https://thorslundgaard.dk/",
+    "phone": "71796366",
+    "website": "https://thorslundgaard.dk/"
+  },
+  {
+    "id": "gyldenlund",
+    "name": "Gyldenlund",
+    "region": "midtjylland",
+    "address": "Gram Møllevej 4",
+    "postalCode": "7130",
+    "city": "Juelsminde",
+    "mapPosition": {
+      "x": 277.6,
+      "y": 501.8
+    },
+    "coordinates": {
+      "latitude": 55.772935023476606,
+      "longitude": 9.895776423059367
+    },
+    "description": "Gårdbutik og mølleri med mel af korn fra egen jord samt udvalgte fødevarer.",
+    "source": "https://www.gyldenlund.info/",
+    "phone": "22247776",
+    "website": "https://www.gyldenlund.info/"
+  },
+  {
+    "id": "fridalund",
+    "name": "Fridalund",
+    "region": "syddanmark",
+    "address": "Enghavevej 60",
+    "postalCode": "5390",
+    "city": "Martofte",
+    "mapPosition": {
+      "x": 377.2,
+      "y": 554.9
+    },
+    "coordinates": {
+      "latitude": 55.54054875978113,
+      "longitude": 10.668870446213997
+    },
+    "description": "Gårdbutik med økologiske grøntsager og æg fra gårdens egen produktion.",
+    "source": "https://fridalund.dk/",
+    "website": "https://www.fridalund.dk"
+  },
+  {
+    "id": "aakandegaard",
+    "name": "Åkandegård",
+    "region": "sjaelland",
+    "address": "Åkandegård 1",
+    "postalCode": "4241",
+    "city": "Vemmelev",
+    "mapPosition": {
+      "x": 454.4,
+      "y": 590.2
+    },
+    "coordinates": {
+      "latitude": 55.385205006947004,
+      "longitude": 11.268773420496174
+    },
+    "description": "Selvbetjent gårdbutik med græsæg og sæsonens frugt og grønt.",
+    "source": "https://aakandegaard.dk",
+    "phone": "29921712",
+    "website": "https://aakandegaard.dk"
+  },
+  {
+    "id": "bradstrupgaard-gaardsalg",
+    "name": "Bradstrupgård Gårdsalg",
+    "region": "nordjylland",
+    "address": "Døstrupvej 168",
+    "postalCode": "9500",
+    "city": "Hobro",
+    "mapPosition": {
+      "x": 259.0,
+      "y": 279.5
+    },
+    "coordinates": {
+      "latitude": 56.731778826227,
+      "longitude": 9.751767076255327
+    },
+    "description": "Gårdbutik med okse- og kalvekød fra gårdens egne dyr samt æg.",
+    "source": "https://www.bradstrupgaard.dk/",
+    "phone": "28771124",
+    "website": "https://www.bradstrupgaard.dk/"
+  },
+  {
+    "id": "thorshoejgaard",
+    "name": "Thorshøjgaard",
+    "region": "hovedstaden",
+    "address": "Museumsvej 1",
+    "postalCode": "3120",
+    "city": "Dronningmølle",
+    "mapPosition": {
+      "x": 599.0,
+      "y": 429.7
+    },
+    "coordinates": {
+      "latitude": 56.08674944053456,
+      "longitude": 12.390889720182408
+    },
+    "description": "Biodynamisk gårdbutik med lamme-, svine-, kalve- og oksekød fra egne dyr. Udvalget afhænger af slagtning.",
+    "source": "https://www.thorshoejgaard-biodynamisk.dk/",
+    "phone": "23479209",
+    "website": "https://www.thorshoejgaard-biodynamisk.dk/"
+  },
+  {
+    "id": "farm-living-ged-og-groent",
+    "name": "Farm Living Ged og Grønt",
+    "region": "midtjylland",
+    "address": "Trustrupvej 10",
+    "postalCode": "8350",
+    "city": "Hundslund",
+    "mapPosition": {
+      "x": 297.8,
+      "y": 472.5
+    },
+    "coordinates": {
+      "latitude": 55.90093292518861,
+      "longitude": 10.052921486842386
+    },
+    "description": "Økologisk landbrug med gårdbutik i Sondrup. Kontakt gården for det aktuelle udvalg.",
+    "source": "https://farmliving-gedoggroent.dk/",
+    "phone": "20710844",
+    "website": "https://farmliving-gedoggroent.dk/"
+  },
+  {
+    "id": "roenhoejgaard",
+    "name": "Rønhøjgaard",
+    "region": "nordjylland",
+    "address": "Gunderupvej 26",
+    "postalCode": "9640",
+    "city": "Farsø",
+    "mapPosition": {
+      "x": 198.2,
+      "y": 260.3
+    },
+    "coordinates": {
+      "latitude": 56.813415790776524,
+      "longitude": 9.279855013099983
+    },
+    "description": "Gårdbutik med økologiske frilandsænder og andre fjerkræprodukter.",
+    "source": "https://roenhoejgaard.dk/",
+    "phone": "20142214",
+    "website": "https://roenhoejgaard.dk/"
+  },
+  {
+    "id": "langemarksgaard",
+    "name": "Langemarksgaard",
+    "region": "midtjylland",
+    "address": "Langemarksvej 17",
+    "postalCode": "8305",
+    "city": "Samsø",
+    "mapPosition": {
+      "x": 372.0,
+      "y": 484.0
+    },
+    "coordinates": {
+      "latitude": 55.850748732191846,
+      "longitude": 10.628916348300553
+    },
+    "description": "Familiedrevet gårdbutik med egne kartofler, frugt, grøntsager og krydderurter samt varer fra andre Samsø-producenter.",
+    "source": "https://www.langemarksgaard.dk/",
+    "phone": "20310098",
+    "website": "https://www.langemarksgaard.dk/"
+  },
+  {
+    "id": "mejnerts-gaardbutik",
+    "name": "Mejnerts Gårdbutik",
+    "region": "sjaelland",
+    "address": "Forsingevej 4",
+    "postalCode": "4470",
+    "city": "Svebølle",
+    "mapPosition": {
+      "x": 451.4,
+      "y": 528.2
+    },
+    "coordinates": {
+      "latitude": 55.65770629177932,
+      "longitude": 11.245501680083517
+    },
+    "description": "Selvbetjent gårdbutik med økologisk mel, frø, kerner, kartofler og honning.",
+    "source": "https://mejnerts.dk/",
+    "phone": "59294707",
+    "website": "https://mejnerts.dk/"
+  },
+  {
+    "id": "thorlin-spisested-og-gaardbutik",
+    "name": "Thorlin Spisested og Gårdbutik",
+    "region": "sjaelland",
+    "address": "Knuthenlundvej 6",
+    "postalCode": "4952",
+    "city": "Stokkemarke",
+    "mapPosition": {
+      "x": 467.0,
+      "y": 710.2
+    },
+    "coordinates": {
+      "latitude": 54.85265768602256,
+      "longitude": 11.366592426882022
+    },
+    "description": "Gårdbutik og spisested med kød fra gårdens grise og lam.",
+    "source": "https://www.thorlin.dk/",
+    "phone": "27813089",
+    "website": "https://www.thorlin.dk/"
+  },
+  {
+    "id": "groentsagshytten",
+    "name": "Grøntsagshytten",
+    "region": "midtjylland",
+    "address": "Stadionsvej 24",
+    "postalCode": "8305",
+    "city": "Samsø",
+    "mapPosition": {
+      "x": 365.2,
+      "y": 483.6
+    },
+    "coordinates": {
+      "latitude": 55.85254638942678,
+      "longitude": 10.575866137762047
+    },
+    "description": "Selvbetjent gårdbutik på Samsø med årstidens lokale grøntsager og kartofler.",
+    "source": "https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg",
+    "phone": "40301364",
+    "website": "https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg"
+  },
+  {
+    "id": "hammersly",
+    "name": "Hammersly",
+    "region": "hovedstaden",
+    "address": "Kirkebyen 36",
+    "postalCode": "3790",
+    "city": "Hasle",
+    "mapPosition": {
+      "x": 902.4,
+      "y": 629.8
+    },
+    "coordinates": {
+      "latitude": 55.21043375250345,
+      "longitude": 14.746137057672783
+    },
+    "description": "Grøntsagslandbrug med gårdbutik og sæsonens friskhøstede grøntsager.",
+    "source": "https://www.hammersly.dk/",
+    "phone": "93945268",
+    "website": "https://www.hammersly.dk/"
+  },
+  {
+    "id": "kildegaardbutik",
+    "name": "Kildegaardbutik",
+    "region": "syddanmark",
+    "address": "Assensvej 302",
+    "postalCode": "5642",
+    "city": "Millinge",
+    "mapPosition": {
+      "x": 316.8,
+      "y": 646.7
+    },
+    "coordinates": {
+      "latitude": 55.13524990190793,
+      "longitude": 10.200264984006031
+    },
+    "description": "Gårdbutik og vejbod med kartofler, jordbær, grøntsager og most. Udvalget følger sæsonen.",
+    "source": "https://www.kildegaardbutik.dk/",
+    "phone": "24859787",
+    "website": "https://www.kildegaardbutik.dk/"
+  },
+  {
+    "id": "guldager-highland-cattle",
+    "name": "Guldager Highland Cattle",
+    "region": "syddanmark",
+    "address": "Tarp Byvej 6F",
+    "postalCode": "6715",
+    "city": "Esbjerg N",
+    "mapPosition": {
+      "x": 91.8,
+      "y": 557.6
+    },
+    "coordinates": {
+      "latitude": 55.5287115796092,
+      "longitude": 8.454230287054637
+    },
+    "description": "Gårdbutik med oksekød fra skotsk højlandskvæg og produkter fra eget slagteri.",
+    "source": "https://www.guldagerhighlandcattle.dk/",
+    "phone": "28734911",
+    "website": "https://www.guldagerhighlandcattle.dk/"
+  },
+  {
+    "id": "havredal-gaardbutik",
+    "name": "Havredal Gårdbutik",
+    "region": "midtjylland",
+    "address": "Ulvedalsvej 32",
+    "postalCode": "7470",
+    "city": "Karup J",
+    "mapPosition": {
+      "x": 196.7,
+      "y": 375.4
+    },
+    "coordinates": {
+      "latitude": 56.320855880719506,
+      "longitude": 9.267744728196824
+    },
+    "description": "Socialøkonomisk gårdbutik med grøntsager og kød fra Havredals landbrug.",
+    "source": "https://havredal.dk/havredal-gaardbutik/",
+    "phone": "22567518",
+    "website": "https://havredal.dk/havredal-gaardbutik/"
+  },
+  {
+    "id": "peters-gartneri",
+    "name": "Peters Gartneri",
+    "region": "midtjylland",
+    "address": "Ørnevænget 37",
+    "postalCode": "8330",
+    "city": "Beder",
+    "mapPosition": {
+      "x": 324.8,
+      "y": 438.1
+    },
+    "coordinates": {
+      "latitude": 56.050398036558,
+      "longitude": 10.262515444848328
+    },
+    "description": "Økologisk gårdbutik med grøntsager, frugt, bær og krydderurter fra gartneriet. Udvalget følger sæsonen.",
+    "source": "https://petersgartneri.dk/",
+    "phone": "23327788",
+    "website": "https://petersgartneri.dk/"
+  },
+  {
+    "id": "mindelundgaard",
+    "name": "Mindelundgaard",
+    "region": "midtjylland",
+    "address": "Mindelundvej 8",
+    "postalCode": "7400",
+    "city": "Herning",
+    "mapPosition": {
+      "x": 164.9,
+      "y": 442.3
+    },
+    "coordinates": {
+      "latitude": 56.032094433990444,
+      "longitude": 9.021574835315304
+    },
+    "description": "Familiedrevet gårdbutik med egne grøntsager, honning og sæsonens blomster og planter.",
+    "source": "https://mindelundgaard.dk/",
+    "phone": "42614544",
+    "website": "https://mindelundgaard.dk/"
+  },
+  {
+    "id": "ravnsminde",
+    "name": "Ravnsminde",
+    "region": "syddanmark",
+    "address": "Brandtlundvej 106",
+    "postalCode": "7080",
+    "city": "Børkop",
+    "mapPosition": {
+      "x": 241.5,
+      "y": 531.5
+    },
+    "coordinates": {
+      "latitude": 55.64328424483194,
+      "longitude": 9.616144206342932
+    },
+    "description": "Gårdbutik med kød fra gården samt marmelade, most og andre fødevarer fra udvalgte producenter.",
+    "source": "https://ravnsminde.com/gaardbutikken/",
+    "phone": "26716802",
+    "website": "https://ravnsminde.com/gaardbutikken/"
+  },
+  {
+    "id": "gaardbutik-paa-ajstrupvej",
+    "name": "Gårdbutik på Ajstrupvej",
+    "region": "midtjylland",
+    "address": "Ajstrupvej 50",
+    "postalCode": "8340",
+    "city": "Malling",
+    "mapPosition": {
+      "x": 318.7,
+      "y": 440.7
+    },
+    "coordinates": {
+      "latitude": 56.03881113415995,
+      "longitude": 10.215067767617377
+    },
+    "description": "Sæsonåben gårdbutik med jordbær, kartofler, ærter, kål og øvrig frugt og grønt.",
+    "source": "https://gaardbutik-paa-ajstrupvej.dk/",
+    "phone": "22535232",
+    "website": "https://gaardbutik-paa-ajstrupvej.dk/"
+  },
+  {
+    "id": "kirstineborg",
+    "name": "Kirstineborg",
+    "region": "midtjylland",
+    "address": "Mejlbyvej 268",
+    "postalCode": "8530",
+    "city": "Hjortshøj",
+    "mapPosition": {
+      "x": 325.1,
+      "y": 394.1
+    },
+    "coordinates": {
+      "latitude": 56.240430439730105,
+      "longitude": 10.264751755304438
+    },
+    "description": "Frugtplantage med gårdbutik og frugt fra egen avl. Sæsonen starter typisk sidst i august og varer, til høsten er solgt.",
+    "source": "https://kirstineborg.dk/",
+    "phone": "21259094",
+    "website": "https://kirstineborg.dk/"
+  },
+  {
+    "id": "storhaven",
+    "name": "Storhaven",
+    "region": "nordjylland",
+    "address": "Storhavevej 4",
+    "postalCode": "9940",
+    "city": "Læsø",
+    "mapPosition": {
+      "x": 418.4,
+      "y": 156.9
+    },
+    "coordinates": {
+      "latitude": 57.24988703194028,
+      "longitude": 10.988677647783115
+    },
+    "description": "Gårdbutik, café og besøgsgård på Læsø med egen is og lokale delikatesser.",
+    "source": "https://storhaven.dk/",
+    "phone": "24276667",
+    "website": "https://storhaven.dk/"
   }
 ];

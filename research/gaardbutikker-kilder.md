@@ -1,6 +1,6 @@
 # Gårdbutikker – kilder og kontrol
 
-Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. Den 11. oktober 2026 er Den Grønne Vogn og Grantoftegaard tilføjet. Den 26. oktober 2026 er yderligere otte butikker tilføjet efter research; Anders Stenger Juleand afventer bekræftet afhentningsadresse. I alt 129 fysiske steder. Faste åbningstider er ikke importeret; sæsonbegrænsninger er nævnt, hvor relevante.
+Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. Den 11. oktober 2026 er Den Grønne Vogn og Grantoftegaard tilføjet. Den 26. oktober 2026 er yderligere otte butikker tilføjet efter research; Anders Stenger Juleand afventer bekræftet afhentningsadresse. Akra-gennemgangen den 26. oktober 2026 tilføjer 116 yderligere dokumenterede gårdbutikker og gårdsalg. I alt 245 fysiske steder. Se akra-2026-10-26/review.md for afgrænsning og uafklarede kandidater. Faste åbningstider er ikke importeret; sæsonbegrænsninger er nævnt, hvor relevante.
 
 Kontaktdata er fundet på butikkernes egne sider, hvor muligt, og ellers i de angivne sekundære kilder. Et adresseopslag bekræfter adressens eksistens, ikke at butikken fortsat drives. Tomme felter betyder ikke fundet sikkert. Links kan ændre sig eller kræve Facebook-login.
 
@@ -1167,4 +1167,1186 @@ Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen (oprindel
 - Supplerende kilde: https://blokhus.dk/aabent-hus-hos-treshoeje-gaardbutik/
 - Supplerende kilde: https://www.foodbevg.com/DK/Bonderup/109921680692021/Tresh%C3%B8je-G%C3%A5rdbutik
 - Bemærkning: Adresse, telefon og sortiment fra VisitDenmark. Bageri støttet af ejerens artikel på blokhus.dk. Hjemmesiden kunne ikke åbnes. Facebook-link udtrukket direkte fra VisitDenmarks kilde.
+
+## Fuglebjerggaard
+
+- Adresse: Hemmingstrupvej 8, 3200 Helsinge
+- Telefon: 24208354
+- Link: https://www.fuglebjerggaard.dk/
+- Kontaktkilde: https://www.fuglebjerggaard.dk/gaardbutik/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507f-6e5f-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.fuglebjerggaard.dk/gaardbutik/
+- Supplerende kilde: https://www.fuglebjerggaard.dk/om/
+- Supplerende kilde: https://fuglebjerggaard.dk/
+
+## Stevninggård Frugt og Bær
+
+- Adresse: Stevning Gade 23, 6430 Nordborg
+- Telefon: 40559799
+- Link: https://www.stevninggaard.dk/
+- Kontaktkilde: https://stevninggaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/b06d3b66-7a2a-46dd-b878-328570e318bf?token=adressevaelger123
+- Supplerende kilde: https://stevninggaard.dk/
+
+## Hasagergaard
+
+- Adresse: Kirkeskovvej 85, 8450 Hammel
+- Telefon: 24617255
+- Link: https://hasagergaard.dk/
+- Kontaktkilde: https://hasagergaard.dk/forside.aspx
+- DAR: https://adressevaelger.dk/husnumre/0a3f5093-ce58-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://hasagergaard.dk/forside.aspx
+- Supplerende kilde: https://hasagergaard.dk/kontakt.aspx
+- Supplerende kilde: https://hasagergaard.dk/gaardbutik.aspx
+
+## Kroghs Grønt
+
+- Adresse: Sottrup By 8, 6372 Bylderup-Bov
+- Telefon: 20603340
+- Link: https://kroghs-groent.dk/
+- Kontaktkilde: https://kroghs-groent.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508c-9cfe-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://kroghs-groent.dk/
+- Supplerende kilde: https://kroghs-groent.dk/gaardbutik/
+- Supplerende kilde: https://kroghs-groent.dk/kontakt/
+
+## Elmegaarden
+
+- Adresse: Damager 7, 6560 Sommersted
+- Telefon: 29403997
+- Link: https://elmegaarden.dk/
+- Kontaktkilde: https://elmegaarden.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508c-bb27-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://elmegaarden.dk/
+- Supplerende kilde: https://elmegaarden.dk/gaardbutik/
+- Supplerende kilde: https://elmegaarden.dk/gaardbutik/mejeriet/
+
+## Hestehavegård Frugtplantage
+
+- Adresse: Hestehave 19, 6400 Sønderborg
+- Telefon: 40370905
+- Link: https://hestehavefrugt.dk/
+- Kontaktkilde: https://hestehavefrugt.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508c-7069-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://hestehavefrugt.dk/
+
+## Rishøjgård
+
+- Adresse: Mejlbyvej 136, 8250 Egå
+- Telefon: 42806648
+- Link: https://rishoejgaard.dk/
+- Kontaktkilde: https://rishoejgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5096-9484-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://rishoejgaard.dk/
+- Supplerende kilde: https://vores-risskov.dk/a/fra-vejbod-til-levende-gaardbutik-rishoejgaard-samler-lokalsamfundet-om-baeredygtighed-og-naervaer/7589b220-be59-4815-8394-2c918e6625af
+
+## Paradiset
+
+- Adresse: Norsmindevej 66, 8340 Malling
+- Telefon: 21783040
+- Link: https://paradiset-gb.dk/
+- Kontaktkilde: https://paradiset-gb.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5096-a36a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://paradiset-gb.dk/
+- Supplerende kilde: https://paradiset-gb.dk/kontakt/
+
+## Sdr. Vissing Torvehal
+
+- Adresse: Toftegårdsvej 2, 8740 Brædstrup
+- Telefon: 51260640
+- Link: https://torvehallen.com/
+- Kontaktkilde: https://www.torvehallen.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508e-b7d7-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.torvehallen.com/
+- Supplerende kilde: https://www.torvehallen.com/find-os/
+
+## Møltrup
+
+- Adresse: Møltrupvej 70, 7480 Vildbjerg
+- Telefon: 99929829
+- Link: https://moltrup.dk/mad/gardbutikken
+- Kontaktkilde: https://www.moltrup.dk/mad/gardbutikken
+- DAR: https://adressevaelger.dk/husnumre/0a3f5092-cc4d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.moltrup.dk/mad/gardbutikken
+- Supplerende kilde: https://www.moltrup.dk/kontakt
+
+## Lystlunden
+
+- Adresse: Vestergade 166, 6051 Almind
+- Telefon: 40895803
+- Link: https://lystlunden.dk
+- Kontaktkilde: https://lystlunden.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5090-66eb-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://lystlunden.dk
+- Supplerende kilde: https://lystlunden.dk/link%20%26%20kontakt
+
+## Krastrupsøgaard
+
+- Adresse: Aalborgvej 52, 9520 Skørping
+- Telefon: 98339121
+- Link: https://krastrupsoegaard.dk
+- Kontaktkilde: https://krastrupsoegaard.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f509b-a65d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://krastrupsoegaard.dk
+- Supplerende kilde: https://krastrupsoegaard.dk/kontakt
+
+## Thy Gårdbutik
+
+- Adresse: Stagstrup Skolevej 13, 7752 Snedsted
+- Telefon: 29160928
+- Link: https://thygaardbutik.dk
+- Kontaktkilde: https://thygaardbutik.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-9c77-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://thygaardbutik.dk
+
+## Birkemosehus
+
+- Adresse: Birkelyvej 6, 4180 Sorø
+- Telefon: 51326016
+- Link: https://birkemosehus.dk
+- Kontaktkilde: https://birkemosehus.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-f3e3-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://birkemosehus.dk
+- Supplerende kilde: https://birkemosehus.dk/g%C3%A5rdbutik/
+- Supplerende kilde: https://birkemosehus.dk/g%C3%A5rdbutik/plaider
+
+## Adamsgården
+
+- Adresse: Aggersvoldvej 3A, 4450 Jyderup
+- Telefon: 22264550
+- Link: https://www.adamsgaarden.dk
+- Kontaktkilde: https://www.adamsgaarden.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5084-a8c3-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.adamsgaarden.dk
+- Supplerende kilde: https://www.adamsgaarden.dk/pages/gaardbutik
+
+## Sidinge
+
+- Adresse: Sidingevej 39, 4560 Vig
+- Telefon: 59328206
+- Link: https://sidinge.dk
+- Kontaktkilde: https://sidinge.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5084-ecb3-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://sidinge.dk
+- Supplerende kilde: https://sidinge.dk/kontakt/
+
+## Østergaard Frugt & Most
+
+- Adresse: Østergaardsvej 35, 3630 Jægerspris
+- Telefon: 47521249
+- Link: https://oefm.dk
+- Kontaktkilde: https://oefm.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5080-814b-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://oefm.dk
+- Supplerende kilde: https://oefm.dk/gaardbutik/
+- Supplerende kilde: https://oefm.dk/kontakt/
+
+## Esromgård
+
+- Adresse: Frederiksværksvej 11, 3230 Græsted
+- Telefon: Ikke fundet sikkert
+- Link: https://esromgaard.dk
+- Kontaktkilde: https://esromgaard.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f507f-29ed-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://esromgaard.dk
+- Bemærkning: Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Frederiksværksvej 11C. Oversigtskortet bruger nærmeste matchende DAR-bygning (Frederiksværksvej 11C); besøgsadressen bevares som angivet af butikken. Kortmarkøren er vejledende, Google Maps bruger hele besøgsadressen.
+
+## Rokkedysse
+
+- Adresse: Lejrvej 45, 3500 Værløse
+- Telefon: 31570740
+- Link: https://rokkedysse.dk
+- Kontaktkilde: https://rokkedysse.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f507e-29c3-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://rokkedysse.dk
+- Supplerende kilde: https://rokkedysse.dk/gaardbutik/
+- Supplerende kilde: https://rokkedysse.dk/kontaktos/
+
+## Køng
+
+- Adresse: Bankevejen 1, 4750 Lundby
+- Telefon: 52522230
+- Link: https://koenggaardbutik.dk
+- Kontaktkilde: https://koenggaardbutik.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5087-26c9-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://koenggaardbutik.dk
+- Supplerende kilde: https://koenggaardbutik.dk/tomater-2026
+- Supplerende kilde: https://koenggaardbutik.dk/chili_peberfrugt-2026
+
+## Vibækgård
+
+- Adresse: Kostervej 73, 4780 Stege
+- Telefon: 40245649
+- Link: https://vibaekgaard.com
+- Kontaktkilde: https://vibaekgaard.com
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-8f8d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://vibaekgaard.com
+
+## Bøgebjerggaard
+
+- Adresse: Skovvangsvej 17, 5610 Assens
+- Telefon: 27858888
+- Link: https://bogebjerggardsgaardbutik.dk
+- Kontaktkilde: https://bogebjerggardsgaardbutik.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5087-cc18-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://bogebjerggardsgaardbutik.dk
+- Supplerende kilde: https://bogebjerggardsgaardbutik.dk/nyhjem/salt
+- Supplerende kilde: https://bogebjerggardsgaardbutik.dk/opskrifter/
+
+## Holistia
+
+- Adresse: Søhusvej 161, 5270 Odense N
+- Telefon: 20418103
+- Link: https://holistia.dk/
+- Kontaktkilde: https://holistia.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5089-cfa6-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://holistia.dk/
+- Supplerende kilde: https://holistia.dk/kontakt.html
+
+## Drivhuset
+
+- Adresse: Korsholmvej 178, 9631 Gedsted
+- Telefon: 98645655
+- Link: https://www.drivhuset-eva.dk/
+- Kontaktkilde: https://drivhuset-eva.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5099-0d34-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://drivhuset-eva.dk/
+- Supplerende kilde: https://drivhuset-eva.dk/kontakt/
+
+## Thy Lam
+
+- Adresse: Oddesundvej 105, 7752 Snedsted
+- Telefon: 97931656
+- Link: http://thy-lam.dk/
+- Kontaktkilde: http://thy-lam.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-920c-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: http://thy-lam.dk/
+- Supplerende kilde: http://thy-lam.dk/Kontakt.html
+
+## Kalø Økologisk Gårdbutik
+
+- Adresse: Molsvej 38, 8410 Rønde
+- Telefon: Ikke fundet sikkert
+- Link: https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik
+- Kontaktkilde: https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik
+- DAR: https://adressevaelger.dk/husnumre/02c53cfa-735a-4aa1-aa6e-0eb3478adaa6?token=adressevaelger123
+- Supplerende kilde: https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik
+- Supplerende kilde: https://videndjurs.dk/kontakt
+
+## Karensminde Frugtplantage
+
+- Adresse: Eriksmindevej 38, 8300 Odder
+- Telefon: 50958196
+- Link: https://www.karensminde-frugt.dk/
+- Kontaktkilde: https://www.karensminde-frugt.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5094-6610-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.karensminde-frugt.dk/
+- Supplerende kilde: https://www.karensminde-frugt.dk/gaardbutik/
+
+## Hopballe Mølle
+
+- Adresse: Hopballevej 56, 7300 Jelling
+- Telefon: 75853238
+- Link: https://www.hopballe.dk/
+- Kontaktkilde: https://www.hopballe.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5090-c7a6-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.hopballe.dk/
+- Supplerende kilde: https://www.hopballe.dk/gaardbutik/
+- Supplerende kilde: https://www.hopballe.dk/kontakt/
+
+## Lamdrup Naturkød
+
+- Adresse: Lamdrupvej 23, 5854 Gislev
+- Telefon: 29632564
+- Link: https://lamdrupnaturkød.dk/
+- Kontaktkilde: https://xn--lamdrupnaturkd-2qb.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508a-4018-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://xn--lamdrupnaturkd-2qb.dk/
+- Supplerende kilde: https://xn--lamdrupnaturkd-2qb.dk/gaardbutik/
+- Supplerende kilde: https://xn--lamdrupnaturkd-2qb.dk/kontakt/
+
+## Skodsbøl Fjerkræ
+
+- Adresse: Skodsbølvej 71, 6310 Broager
+- Telefon: 22902918
+- Link: https://finnh.dk/
+- Kontaktkilde: https://finnh.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508b-4e51-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://finnh.dk/
+
+## Melbjerggaard Grønt
+
+- Adresse: Ny Viborgvej 5, 7840 Højslev
+- Telefon: 25742627
+- Link: https://www.facebook.com/Melbjerggaard/
+- Kontaktkilde: https://goforlocal.dk/find-lokale-foedevarer/melbjerggaard-groent
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-173d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://goforlocal.dk/find-lokale-foedevarer/melbjerggaard-groent
+- Supplerende kilde: https://goforlocal.dk/nyheder/interessen-gik-forud-for-erfaring-ved-melbjerggaard
+- Bemærkning: Oplysninger fra producentprofil og interview med ejeren hos Goforlocal.
+
+## Gaardens Grønt
+
+- Adresse: Sandvej 12, 8740 Brædstrup
+- Telefon: 21565487
+- Link: https://gaardensgroent.dk/
+- Kontaktkilde: https://gaardensgroent.dk/
+- DAR: https://adressevaelger.dk/husnumre/8686d094-c01b-4a8a-9f57-898dbd4de472?token=adressevaelger123
+- Supplerende kilde: https://gaardensgroent.dk/
+- Supplerende kilde: https://gaardensgroent.dk/kontakt/
+
+## Peterslyst
+
+- Adresse: Hovvejen 9, 8361 Hasselager
+- Telefon: 40364142
+- Link: https://peterslyst.com/
+- Kontaktkilde: https://peterslyst.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5096-5317-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://peterslyst.com/
+- Supplerende kilde: https://peterslyst.com/kontakt
+
+## Rosilde Højgård
+
+- Adresse: Gl. Vindingevej 21, 5800 Nyborg
+- Telefon: 65310031
+- Link: https://www.rosilde-hoejgaard.dk/
+- Kontaktkilde: https://rosilde-hoejgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-c76b-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://rosilde-hoejgaard.dk/
+- Supplerende kilde: https://rosilde-hoejgaard.dk/gaardbutik/
+- Supplerende kilde: https://rosilde-hoejgaard.dk/kontakt/
+
+## Kræmmergård
+
+- Adresse: Kræmmergårdvej 50, 7660 Bækmarksbro
+- Telefon: 97881034
+- Link: https://kraemmergaard.dk/gaardbutik/
+- Kontaktkilde: https://kraemmergaard.dk/gaardbutik/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5092-3753-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://kraemmergaard.dk/gaardbutik/
+
+## Graverens Grøntsager
+
+- Adresse: Hirtshalsvej 17, 9881 Bindslev
+- Telefon: Ikke fundet sikkert
+- Link: https://www.graverensgroentsager.dk/
+- Kontaktkilde: https://www.graverensgroentsager.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509a-4350-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.graverensgroentsager.dk/
+
+## Frølund Økologi
+
+- Adresse: Frølundvej 95, 7400 Herning
+- Telefon: 40200147
+- Link: https://xn--frlundkologi-wjbe.dk/
+- Kontaktkilde: https://xn--frlundkologi-wjbe.dk/kontakt
+- DAR: https://adressevaelger.dk/husnumre/0a3f5091-4bc5-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://xn--frlundkologi-wjbe.dk/kontakt
+- Supplerende kilde: https://www.visitdenmark.dk/danmark/explore/froelund-oekologi-gdk1148298
+
+## Skelbjerggaard
+
+- Adresse: Stenstrupvej 74, 4573 Højby
+- Telefon: 23467314
+- Link: https://www.skelbjerggaard.dk/
+- Kontaktkilde: https://www.skelbjerggaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5084-f1f4-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.skelbjerggaard.dk/
+
+## Frydendal Ismejeri
+
+- Adresse: Flensborg Landevej 5, 6400 Sønderborg
+- Telefon: 51620702
+- Link: http://frydendal-ismejeri.dk/
+- Kontaktkilde: https://frydendal-ismejeri.dk/find-vej/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508c-6d19-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://frydendal-ismejeri.dk/find-vej/
+- Supplerende kilde: http://frydendal-ismejeri.dk/
+- Supplerende kilde: http://frydendal-ismejeri.dk/kontakt-2/
+- Supplerende kilde: http://frydendal-ismejeri.dk/gaardbutik/
+
+## Ditlevsdal Bison Farm
+
+- Adresse: Tokkerodvej 24, 5462 Morud
+- Telefon: 64801227
+- Link: https://ditlevsdal.dk/
+- Kontaktkilde: https://ditlevsdal.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508a-b696-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://ditlevsdal.dk/
+- Supplerende kilde: https://ditlevsdal.dk/kontakt/
+
+## Sønderho
+
+- Adresse: Vester Storetoft 67, 6720 Fanø
+- Telefon: 50932362
+- Link: https://sonderhogaardbutik.dk/
+- Kontaktkilde: https://sonderhogaardbutik.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508d-ea79-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://sonderhogaardbutik.dk/
+- Supplerende kilde: https://sonderhogaardbutik.dk/kvaeget-koedet/
+- Supplerende kilde: https://sonderhogaardbutik.dk/produkter-2/
+
+## Fynshoved Café
+
+- Adresse: Fynshovedvej 685, 5390 Martofte
+- Telefon: 51415685
+- Link: https://fynshovedgaardbutik.dk/
+- Kontaktkilde: https://fynshovedgaardbutik.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-6500-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://fynshovedgaardbutik.dk/
+- Supplerende kilde: https://fynshovedgaardbutik.dk/abningstider/
+- Supplerende kilde: https://fynshovedgaardbutik.dk/kontakt/
+
+## Birthesminde
+
+- Adresse: Tempelvej 14, 4390 Vipperød
+- Telefon: 24200483
+- Link: https://www.birthesminde.dk/
+- Kontaktkilde: https://www.birthesminde.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5083-4da6-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.birthesminde.dk/
+- Supplerende kilde: https://www.birthesminde.dk/om-birthesminde/kontakt/
+- Supplerende kilde: https://www.birthesminde.dk/gaardsalg-charcuteri/
+
+## Gløvermosegaard
+
+- Adresse: Gløvermosevej 5, 4622 Havdrup
+- Telefon: 21293820
+- Link: https://glovermosegaard.dk/
+- Kontaktkilde: https://glovermosegaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-45d8-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://glovermosegaard.dk/
+- Supplerende kilde: https://glovermosegaard.dk/kontakt/
+
+## Labøllegaard
+
+- Adresse: Labøllevej 21, 5471 Søndersø
+- Telefon: 24240084
+- Link: https://laboellegaard.dk/
+- Kontaktkilde: https://laboellegaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508a-ad28-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://laboellegaard.dk/
+- Supplerende kilde: https://laboellegaard.dk/kontakt-os-paa-laboellegaard/
+- Supplerende kilde: https://laboellegaard.dk/kontakt-os-paa-laboellegaard/find-vej-til-laboellegaard.html
+
+## Lystbækgaard
+
+- Adresse: Lystbækvej 1, 6990 Ulfborg
+- Telefon: 21232984
+- Link: https://www.lystbaekgaard.dk/
+- Kontaktkilde: https://www.lystbaekgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5092-5f39-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.lystbaekgaard.dk/
+- Supplerende kilde: https://www.lystbaekgaard.dk/kontakt
+
+## Fuglehal Landbrug
+
+- Adresse: Fuglehalvej 18, 3310 Ølsted
+- Telefon: Ikke fundet sikkert
+- Link: https://www.fuglehal.dk/
+- Kontaktkilde: https://www.fuglehal.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507e-ec55-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.fuglehal.dk/
+- Supplerende kilde: https://www.fuglehal.dk/gaardbutik.html
+- Supplerende kilde: https://www.fuglehal.dk/kontakt.html
+
+## Jensen Jordbær
+
+- Adresse: Hestvangvej 6, 9300 Sæby
+- Telefon: 21219222
+- Link: https://jensenjordbaer.dk/
+- Kontaktkilde: https://jensenjordbaer.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509b-dfe6-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://jensenjordbaer.dk/
+- Supplerende kilde: https://jensenjordbaer.dk/kontakt/
+
+## Fællinggaard
+
+- Adresse: Ny Vestergade 70, 5672 Broby
+- Telefon: 23958242
+- Link: https://www.faellinggaard.dk/
+- Kontaktkilde: https://www.faellinggaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5087-e70a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.faellinggaard.dk/
+- Supplerende kilde: https://www.faellinggaard.dk/den%20lille%20g%C3%A5rdbutik
+
+## Rosagergaard Gaardbutik
+
+- Adresse: Færgevej 1, 5960 Marstal
+- Telefon: 51760770
+- Link: http://www.rosagergaard.com/
+- Kontaktkilde: http://www.rosagergaard.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-8bbc-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: http://www.rosagergaard.com/
+- Supplerende kilde: http://www.rosagergaard.com/kontakt/
+
+## Klintholm Gods
+
+- Adresse: Klintholm Alle 1B, 4791 Borre
+- Telefon: Ikke fundet sikkert
+- Link: https://www.klintholm.dk/
+- Kontaktkilde: https://www.klintholm.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-8e07-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.klintholm.dk/
+- Supplerende kilde: https://www.klintholm.dk/gaardbutik
+
+## Møllebakkegård Gårdbutik
+
+- Adresse: Tolstrupvej 1, 4735 Mern
+- Telefon: 28100280
+- Link: https://moellebakkegaard.dk/
+- Kontaktkilde: https://moellebakkegaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-668c-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://moellebakkegaard.dk/
+- Supplerende kilde: https://moellebakkegaard.dk/gaardbutik
+- Supplerende kilde: https://moellebakkegaard.dk/kontakt
+- Bemærkning: Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Tolstrupvej 1A. Oversigtskortet bruger nærmeste matchende DAR-bygning (Tolstrupvej 1A); besøgsadressen bevares som angivet af butikken. Kortmarkøren er vejledende, Google Maps bruger hele besøgsadressen.
+
+## Pøtgaard - Fåreost Gårdmejeri
+
+- Adresse: Norupvej 10, 8830 Tjele
+- Telefon: 24768830
+- Link: https://poetgaard.dk/
+- Kontaktkilde: https://poetgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-b4cb-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://poetgaard.dk/
+- Supplerende kilde: https://poetgaard.dk/kontakt
+
+## Lolle Frugt
+
+- Adresse: Gl Killerup 8, 4990 Sakskøbing
+- Telefon: 21706424
+- Link: https://www.lollefrugt.dk/
+- Kontaktkilde: https://www.lollefrugt.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5086-b51a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.lollefrugt.dk/
+- Supplerende kilde: https://www.lollefrugt.dk/index.php/gaardbutik/
+
+## Den Glade Gris
+
+- Adresse: Gammel Skårupvej 164, 5700 Svendborg
+- Telefon: 22587310
+- Link: https://www.gårdbutikkendengladegris.dk/
+- Kontaktkilde: https://www.xn--grdbutikkendengladegris-k8b.dk/
+- DAR: https://adressevaelger.dk/husnumre/8132a133-693c-4b0c-beee-cfa556ffa677?token=adressevaelger123
+- Supplerende kilde: https://www.xn--grdbutikkendengladegris-k8b.dk/
+- Supplerende kilde: https://www.xn--grdbutikkendengladegris-k8b.dk/kontakt.aspx
+
+## Gårdagergård
+
+- Adresse: Gårdagervej 1, 4200 Slagelse
+- Telefon: 40538090
+- Link: https://www.gaardagergaard.dk/
+- Kontaktkilde: https://www.gaardagergaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5084-498b-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.gaardagergaard.dk/
+- Supplerende kilde: https://www.gaardagergaard.dk/gaardbutikken/
+- Supplerende kilde: https://www.gaardagergaard.dk/kontakt/
+
+## Frydenlund Slots Frugtplantage, Gårdbutikken
+
+- Adresse: Frydenlunds Alle 23B, 2950 Vedbæk
+- Telefon: Ikke fundet sikkert
+- Link: https://www.frydenlundslot.dk/
+- Kontaktkilde: https://www.frydenlundslot.dk/
+- DAR: https://adressevaelger.dk/husnumre/f6eebcdb-0ef6-49da-b4bf-e07b1bdc4e33?token=adressevaelger123
+- Supplerende kilde: https://www.frydenlundslot.dk/
+
+## Frugthaven
+
+- Adresse: Ejstrupvej 23, 9520 Skørping
+- Telefon: 40125170
+- Link: http://www.frugtogmost.dk/
+- Kontaktkilde: http://www.frugtogmost.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509b-a98d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: http://www.frugtogmost.dk/
+- Supplerende kilde: http://www.frugtogmost.dk/Kontakt.aspx
+
+## Nybro Frugtplantage
+
+- Adresse: Lille Salbyvej 54, 5370 Mesinge
+- Telefon: 22506738
+- Link: https://nybrofrugt.dk/
+- Kontaktkilde: https://nybrofrugt.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-6c25-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://nybrofrugt.dk/
+- Supplerende kilde: https://nybrofrugt.dk/kontakt-os/
+- Supplerende kilde: https://nybrofrugt.dk/vare/aeblemost-fra-gaardbutik-paa-fyn/
+
+## Ausumgaard
+
+- Adresse: Holstebrovej 101, 7560 Hjerm
+- Telefon: 97464411
+- Link: https://ausumgaard.dk/
+- Kontaktkilde: https://ausumgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5092-940d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://ausumgaard.dk/
+- Supplerende kilde: https://ausumgaard.dk/gaardbutik/
+- Supplerende kilde: https://ausumgaard.dk/gaardbutik/produkter/
+
+## Jordbærgården
+
+- Adresse: Råbrovej 58, 2765 Smørum
+- Telefon: 24244360
+- Link: https://jordbaergaarden.dk/
+- Kontaktkilde: https://jordbaergaarden.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507d-2741-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://jordbaergaarden.dk/
+- Supplerende kilde: https://jordbaergaarden.dk/kontakt/
+
+## Raunsmed fjerkræfarm
+
+- Adresse: Lyngbyvej 120, 9480 Løkken
+- Telefon: 40745252
+- Link: https://raunsmed.dk/
+- Kontaktkilde: https://raunsmed.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509a-f957-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://raunsmed.dk/
+- Supplerende kilde: https://raunsmed.dk/kontakt.aspx
+- Supplerende kilde: https://raunsmed.dk/kontakt/forhandlere.aspx
+
+## Yduns Have
+
+- Adresse: Alstrup 2, 8305 Samsø
+- Telefon: 27430039
+- Link: https://ydunshavesamsø.dk/
+- Kontaktkilde: https://xn--ydunshavesams-nnb.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5095-31eb-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://xn--ydunshavesams-nnb.dk/
+- Supplerende kilde: https://xn--ydunshavesams-nnb.dk/kontakt-os/
+
+## Holgers Jordbær
+
+- Adresse: Clemensvej 6, 8530 Hjortshøj
+- Telefon: 20205221
+- Link: https://holgers.net/
+- Kontaktkilde: https://holgers.net/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5096-06ea-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://holgers.net/
+- Supplerende kilde: https://holgers.net/find-os/
+- Supplerende kilde: https://holgers.net/gaardbutik/
+
+## Gråsten Fjerkræ Gårdbutik
+
+- Adresse: Kværsgade 18, 6300 Gråsten
+- Telefon: 74659071
+- Link: https://unghanen.dk/
+- Kontaktkilde: https://unghanen.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508b-7a7a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://unghanen.dk/
+- Supplerende kilde: https://unghanen.dk/kontakt-info/
+
+## Avernakø Gårdbutik
+
+- Adresse: Skallevej 18, 5602 Avernakø
+- Telefon: 26787470
+- Link: https://avernakø-gårdbutik.dk/
+- Kontaktkilde: https://xn--avernak-grdbutik-lob35a.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-2db4-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://xn--avernak-grdbutik-lob35a.dk/
+- Supplerende kilde: https://xn--avernak-grdbutik-lob35a.dk/kontakt
+- Supplerende kilde: https://xn--avernak-grdbutik-lob35a.dk/gaardbutikken
+
+## Velfærdskød v/Karen & Torben
+
+- Adresse: Vindebækvej 25, 4792 Askeby
+- Telefon: 20356216
+- Link: https://velfærdskød.dk/
+- Kontaktkilde: https://xn--velfrdskd-j3a6r.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-a28c-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://xn--velfrdskd-j3a6r.dk/
+- Supplerende kilde: https://xn--velfrdskd-j3a6r.dk/gaardbutik.php
+- Supplerende kilde: https://xn--velfrdskd-j3a6r.dk/kontakt.php
+
+## Lundsbjerggaard
+
+- Adresse: Stormarken 47, 5471 Søndersø
+- Telefon: 25119094
+- Link: https://lundsbjerggaard.dk/
+- Kontaktkilde: https://lundsbjerggaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508a-b49b-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://lundsbjerggaard.dk/
+
+## Bigaard Økologisk Gartneri
+
+- Adresse: Tøndervej 64, 6330 Padborg
+- Telefon: 81613003
+- Link: http://bigaard.dk
+- Kontaktkilde: http://bigaard.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f508b-3b76-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: http://bigaard.dk
+
+## KildeGaarden Highland Cattle
+
+- Adresse: Skalkendrupvej 42, 5800 Nyborg
+- Telefon: 24912400
+- Link: https://kildegaarden-hlc.dk/
+- Kontaktkilde: https://kildegaarden-hlc.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-d7c4-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://kildegaarden-hlc.dk/
+
+## Gartneriet Lumbygaard
+
+- Adresse: H.C. Lumbyes Vej 58, 5270 Odense N
+- Telefon: 60140298
+- Link: https://www.lumbygaard.dk
+- Kontaktkilde: https://www.lumbygaard.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5089-3a84-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.lumbygaard.dk
+- Supplerende kilde: https://www.lumbygaard.dk/kontakt.html
+
+## Hækbæk Økologiske Frugtplantage
+
+- Adresse: Næsvangsvej 12, 4550 Asnæs
+- Telefon: 23606960
+- Link: https://www.haekbaek.dk/
+- Kontaktkilde: https://www.haekbaek.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-b7a9-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.haekbaek.dk/
+
+## Båring Vig Frugtplantage
+
+- Adresse: Tanggyden 2, 5466 Asperup
+- Telefon: 93843922
+- Link: https://www.baaringvigfrugt.com/
+- Kontaktkilde: https://www.baaringvigfrugt.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-eada-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.baaringvigfrugt.com/
+
+## Fjordvang Frugtplantage
+
+- Adresse: Hasmarkmosen 18, 5450 Otterup
+- Telefon: 64871112
+- Link: http://www.fjordvangfrugtplantage.dk/
+- Kontaktkilde: http://www.fjordvangfrugtplantage.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5089-ff0a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: http://www.fjordvangfrugtplantage.dk/
+- Supplerende kilde: http://www.fjordvangfrugtplantage.dk/kontakt
+
+## Samsø Bær
+
+- Adresse: Sildeballe 35, 8305 Samsø
+- Telefon: 44114800
+- Link: https://samsobaer.dk/
+- Kontaktkilde: https://samsobaer.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5095-3bba-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://samsobaer.dk/
+- Supplerende kilde: https://samsobaer.dk/gaardbutikken-i-sildeballe/
+- Supplerende kilde: https://samsobaer.dk/kontakt-os/
+
+## Hovedvejens Gårdbutik Nr Åby
+
+- Adresse: Hovedvejen 234, 5580 Nørre Aaby
+- Telefon: 27642728
+- Link: http://www.hovedvejensgaardbutik.dk/index.html
+- Kontaktkilde: http://www.hovedvejensgaardbutik.dk/index.html
+- DAR: https://adressevaelger.dk/husnumre/2b190e33-8258-3634-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: http://www.hovedvejensgaardbutik.dk/index.html
+- Supplerende kilde: http://www.hovedvejensgaardbutik.dk/frugtoggront.html
+- Supplerende kilde: http://www.hovedvejensgaardbutik.dk/indslevbeer.html
+
+## Thy Økobær
+
+- Adresse: Legindvej 139, 7752 Snedsted
+- Telefon: 21762920
+- Link: https://thyokobaer.dk/
+- Kontaktkilde: https://thyokobaer.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-8989-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://thyokobaer.dk/
+- Supplerende kilde: https://thyokobaer.dk/gardsalg/
+- Supplerende kilde: https://thyokobaer.dk/kontakt/
+
+## Freerslev Kotel
+
+- Adresse: Roskildevej 207, 3330 Gørløse
+- Telefon: 23371928
+- Link: https://www.freerslevkotel.dk/
+- Kontaktkilde: https://www.freerslevkotel.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5080-1423-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.freerslevkotel.dk/
+- Supplerende kilde: https://www.freerslevkotel.dk/gaardbutik-freerslev-kotel/
+- Supplerende kilde: https://www.freerslevkotel.dk/kontakt-freerslev-kotel/
+
+## Byaasgaard Gårdbutik
+
+- Adresse: Amtsvejen 340, 3390 Hundested
+- Telefon: 47923102
+- Link: https://byaas.dk/farmshop/
+- Kontaktkilde: https://byaas.dk/gaardbutik/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5080-265a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://byaas.dk/gaardbutik/
+- Supplerende kilde: https://byaas.dk/kontakt/
+- Supplerende kilde: https://byaas.dk/en/gaardbutik/
+- Bemærkning: Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Amtsvejen 340A. Oversigtskortet bruger nærmeste matchende DAR-bygning (Amtsvejen 340A); besøgsadressen bevares som angivet af butikken. Kortmarkøren er vejledende, Google Maps bruger hele besøgsadressen.
+
+## Nystedgård
+
+- Adresse: Hesselvej 79, 3660 Stenløse
+- Telefon: Ikke fundet sikkert
+- Link: https://nystedgaard.dk/
+- Kontaktkilde: https://nystedgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5080-d079-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://nystedgaard.dk/
+
+## Asgård Allerød
+
+- Adresse: Sørupgårdsvej 12, 3450 Allerød
+- Telefon: Ikke fundet sikkert
+- Link: https://asgaard-alleroed.dk/
+- Kontaktkilde: https://asgaard-alleroed.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507e-5ee9-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://asgaard-alleroed.dk/
+- Supplerende kilde: https://asgaard-alleroed.dk/kontakt-os/
+
+## Farmersmarket i Helsinge
+
+- Adresse: Kæderupvej 3, 3200 Helsinge
+- Telefon: Ikke fundet sikkert
+- Link: https://www.gaardbutikken.com/
+- Kontaktkilde: https://www.gaardbutikken.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f507f-759f-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.gaardbutikken.com/
+- Supplerende kilde: https://www.gaardbutikken.com/oekologiske-produkter
+- Supplerende kilde: https://www.gaardbutikken.com/klimaplan
+
+## Hegnstrup Økologisk Jordbrug
+
+- Adresse: Gl Københavnsvej 14, 3550 Slangerup
+- Telefon: 60860687
+- Link: https://www.hegnstrup.dk/
+- Kontaktkilde: https://www.hegnstrup.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5080-bc34-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.hegnstrup.dk/
+
+## Lammefjordens spisekammer
+
+- Adresse: Adelers Alle 102, 4540 Fårevejle
+- Telefon: 40417550
+- Link: https://lammefjordens-spisekammer.dk/
+- Kontaktkilde: https://lammefjordens-spisekammer.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-9ca9-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://lammefjordens-spisekammer.dk/
+- Supplerende kilde: https://lammefjordens-spisekammer.dk/kontakt/
+
+## Munkebjerggård
+
+- Adresse: Strandgårdsvej 4, 4540 Fårevejle
+- Telefon: 21477772
+- Link: https://munkebjerggaard.dk/
+- Kontaktkilde: https://munkebjerggaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-c295-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://munkebjerggaard.dk/
+- Supplerende kilde: https://munkebjerggaard.dk/find-os/
+- Supplerende kilde: https://munkebjerggaard.dk/gaardbutik/
+
+## Astrup Gods
+
+- Adresse: Astrupvej 11, 4450 Jyderup
+- Telefon: 25664060
+- Link: https://astrupgods.dk/
+- Kontaktkilde: https://astrupgods.dk/
+- DAR: https://adressevaelger.dk/husnumre/693c8a91-79c4-28de-e044-00144f3ead67?token=adressevaelger123
+- Supplerende kilde: https://astrupgods.dk/
+- Supplerende kilde: https://astrupgods.dk/gaardbutikken/
+- Supplerende kilde: https://astrupgods.dk/godset/kontakt/
+
+## Gårdbutikken Planter og Pesto
+
+- Adresse: Sønderkjærsvej 2, 6971 Spjald
+- Telefon: 21641611
+- Link: https://planterogpesto.dk/
+- Kontaktkilde: https://planterogpesto.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5093-0080-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://planterogpesto.dk/
+- Supplerende kilde: https://planterogpesto.dk/kontakt
+
+## Elkærholm Aroniabær
+
+- Adresse: Elkærholmvej 6, 6040 Egtved
+- Telefon: 60707525
+- Link: https://www.elkaerholm.dk/
+- Kontaktkilde: https://www.elkaerholm.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508e-dafc-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.elkaerholm.dk/
+- Supplerende kilde: https://www.elkaerholm.dk/gaardbutikker/
+- Supplerende kilde: https://www.elkaerholm.dk/kontakt-elkaerholm/
+
+## Øster Hegnet
+
+- Adresse: Hvalpsundvej 6, 7870 Roslev
+- Telefon: 30508754
+- Link: https://oesterhegnet.dk/
+- Kontaktkilde: https://oesterhegnet.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5098-4512-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://oesterhegnet.dk/
+- Supplerende kilde: https://oesterhegnet.dk/gaardbutik/
+- Supplerende kilde: https://oesterhegnet.dk/kontakt-os/
+
+## Hebbelstrupgaard Is
+
+- Adresse: Hebbelstrupvej 157, 9800 Hjørring
+- Telefon: 91525524
+- Link: https://www.hebbelstrupgaard.com/
+- Kontaktkilde: https://www.hebbelstrupgaard.com/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509a-75e2-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.hebbelstrupgaard.com/
+- Supplerende kilde: https://www.hebbelstrupgaard.com/kontakt
+
+## Tvis Gårdbutik
+
+- Adresse: Morrevej 12, 7500 Holstebro
+- Telefon: 97435070
+- Link: https://tvisgaardbutik.dk
+- Kontaktkilde: https://tvisgaardbutik.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5091-e292-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://tvisgaardbutik.dk
+- Supplerende kilde: https://tvisgaardbutik.dk/hus-udlejes/
+- Supplerende kilde: https://tvisgaardbutik.dk/om-os/
+
+## Butik Pilti
+
+- Adresse: Strandvejen 11, 4733 Tappernøje
+- Telefon: 56517857
+- Link: https://marjatta.dk/om-marjatta/butik-pilti/
+- Kontaktkilde: https://marjatta.dk/om-marjatta/butik-pilti/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-388a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://marjatta.dk/om-marjatta/butik-pilti/
+- Supplerende kilde: https://marjatta.dk/kontakt/
+- Supplerende kilde: https://marjatta.dk/om-marjatta/organisationen-og-kontakter/
+
+## Lindbjerggård
+
+- Adresse: Hulen 16, 8930 Randers NØ
+- Telefon: 61782282
+- Link: https://lindbjerggaard.dk/
+- Kontaktkilde: https://lindbjerggaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5094-350a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://lindbjerggaard.dk/
+- Supplerende kilde: https://lindbjerggaard.dk/kontakt
+
+## Skovløkke
+
+- Adresse: Birketvedvejen 35, 5290 Marslev
+- Telefon: 30304208
+- Link: https://skovloekke.dk/
+- Kontaktkilde: https://skovloekke.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-7aae-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://skovloekke.dk/
+- Supplerende kilde: https://skovloekke.dk/index.php/contact/
+
+## Thorslundgård Gårdbutik
+
+- Adresse: Stensbyvej 18, 5485 Skamby
+- Telefon: 71796366
+- Link: https://thorslundgaard.dk/
+- Kontaktkilde: https://thorslundgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508a-b485-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://thorslundgaard.dk/
+
+## Gyldenlund
+
+- Adresse: Gram Møllevej 4, 7130 Juelsminde
+- Telefon: 22247776
+- Link: https://www.gyldenlund.info/
+- Kontaktkilde: https://www.gyldenlund.info/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508f-f1a1-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.gyldenlund.info/
+- Supplerende kilde: https://www.gyldenlund.info/home/kontakt/
+
+## Fridalund
+
+- Adresse: Enghavevej 60, 5390 Martofte
+- Telefon: Ikke fundet sikkert
+- Link: https://www.fridalund.dk
+- Kontaktkilde: https://fridalund.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-6308-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://fridalund.dk/
+- Supplerende kilde: https://fridalund.dk/kontakt/
+- Supplerende kilde: https://fridalund.dk/gaardbutik-2/
+
+## Åkandegård
+
+- Adresse: Åkandegård 1, 4241 Vemmelev
+- Telefon: 29921712
+- Link: https://aakandegaard.dk
+- Kontaktkilde: https://aakandegaard.dk
+- DAR: https://adressevaelger.dk/husnumre/0a3f5083-c7d5-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://aakandegaard.dk
+
+## Bradstrupgård Gårdsalg
+
+- Adresse: Døstrupvej 168, 9500 Hobro
+- Telefon: 28771124
+- Link: https://www.bradstrupgaard.dk/
+- Kontaktkilde: https://www.bradstrupgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509b-1bdd-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.bradstrupgaard.dk/
+- Supplerende kilde: https://www.bradstrupgaard.dk/kontakt
+
+## Thorshøjgaard
+
+- Adresse: Museumsvej 1, 3120 Dronningmølle
+- Telefon: 23479209
+- Link: https://www.thorshoejgaard-biodynamisk.dk/
+- Kontaktkilde: https://www.thorshoejgaard-biodynamisk.dk/
+- DAR: https://adressevaelger.dk/husnumre/6c3e13ea-fa16-4b13-8295-60bea1ee7e91?token=adressevaelger123
+- Supplerende kilde: https://www.thorshoejgaard-biodynamisk.dk/
+- Bemærkning: Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Museumsvej 1A. Oversigtskortet bruger nærmeste matchende DAR-bygning (Museumsvej 1A); besøgsadressen bevares som angivet af butikken. Kortmarkøren er vejledende, Google Maps bruger hele besøgsadressen.
+
+## Farm Living Ged og Grønt
+
+- Adresse: Trustrupvej 10, 8350 Hundslund
+- Telefon: 20710844
+- Link: https://farmliving-gedoggroent.dk/
+- Kontaktkilde: https://farmliving-gedoggroent.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5094-841b-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://farmliving-gedoggroent.dk/
+
+## Rønhøjgaard
+
+- Adresse: Gunderupvej 26, 9640 Farsø
+- Telefon: 20142214
+- Link: https://roenhoejgaard.dk/
+- Kontaktkilde: https://roenhoejgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5099-84bc-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://roenhoejgaard.dk/
+- Supplerende kilde: https://roenhoejgaard.dk/kontakt/
+
+## Langemarksgaard
+
+- Adresse: Langemarksvej 17, 8305 Samsø
+- Telefon: 20310098
+- Link: https://www.langemarksgaard.dk/
+- Kontaktkilde: https://www.langemarksgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5095-3789-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.langemarksgaard.dk/
+
+## Mejnerts Gårdbutik
+
+- Adresse: Forsingevej 4, 4470 Svebølle
+- Telefon: 59294707
+- Link: https://mejnerts.dk/
+- Kontaktkilde: https://mejnerts.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5082-7a7c-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://mejnerts.dk/
+- Supplerende kilde: https://mejnerts.dk/mejnerts-gaardbutik/
+- Supplerende kilde: https://mejnerts.dk/kontakt/
+
+## Thorlin Spisested og Gårdbutik
+
+- Adresse: Knuthenlundvej 6, 4952 Stokkemarke
+- Telefon: 27813089
+- Link: https://www.thorlin.dk/
+- Kontaktkilde: https://www.thorlin.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5085-72be-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.thorlin.dk/
+- Supplerende kilde: https://www.thorlin.dk/kontakt-os
+
+## Grøntsagshytten
+
+- Adresse: Stadionsvej 24, 8305 Samsø
+- Telefon: 40301364
+- Link: https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg
+- Kontaktkilde: https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg
+- DAR: https://adressevaelger.dk/husnumre/0a3f5095-3cf4-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg
+- Supplerende kilde: https://goforlocal.dk/kontakt
+
+## Hammersly
+
+- Adresse: Kirkebyen 36, 3790 Hasle
+- Telefon: 93945268
+- Link: https://www.hammersly.dk/
+- Kontaktkilde: https://www.hammersly.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5087-75b8-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.hammersly.dk/
+
+## Kildegaardbutik
+
+- Adresse: Assensvej 302, 5642 Millinge
+- Telefon: 24859787
+- Link: https://www.kildegaardbutik.dk/
+- Kontaktkilde: https://www.kildegaardbutik.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-135a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.kildegaardbutik.dk/
+- Supplerende kilde: https://www.kildegaardbutik.dk/vejbod
+
+## Guldager Highland Cattle
+
+- Adresse: Tarp Byvej 6F, 6715 Esbjerg N
+- Telefon: 28734911
+- Link: https://www.guldagerhighlandcattle.dk/
+- Kontaktkilde: https://www.guldagerhighlandcattle.dk/
+- DAR: https://adressevaelger.dk/husnumre/bdc7cc01-ee35-45b2-9892-0683d53fb5d2?token=adressevaelger123
+- Supplerende kilde: https://www.guldagerhighlandcattle.dk/
+- Supplerende kilde: https://www.guldagerhighlandcattle.dk/gaardbutikken.asp
+- Supplerende kilde: https://www.guldagerhighlandcattle.dk/kontakt.asp
+
+## Havredal Gårdbutik
+
+- Adresse: Ulvedalsvej 32, 7470 Karup J
+- Telefon: 22567518
+- Link: https://havredal.dk/havredal-gaardbutik/
+- Kontaktkilde: https://havredal.dk/havredal-gaardbutik/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5097-89e0-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://havredal.dk/havredal-gaardbutik/
+- Supplerende kilde: https://havredal.dk/kontakt/
+
+## Peters Gartneri
+
+- Adresse: Ørnevænget 37, 8330 Beder
+- Telefon: 23327788
+- Link: https://petersgartneri.dk/
+- Kontaktkilde: https://petersgartneri.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5097-2d96-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://petersgartneri.dk/
+
+## Mindelundgaard
+
+- Adresse: Mindelundvej 8, 7400 Herning
+- Telefon: 42614544
+- Link: https://mindelundgaard.dk/
+- Kontaktkilde: https://mindelundgaard.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5091-6bb3-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://mindelundgaard.dk/
+- Supplerende kilde: https://mindelundgaard.dk/kontakt/
+
+## Ravnsminde
+
+- Adresse: Brandtlundvej 106, 7080 Børkop
+- Telefon: 26716802
+- Link: https://ravnsminde.com/gaardbutikken/
+- Kontaktkilde: https://ravnsminde.com/gaardbutikken/
+- DAR: https://adressevaelger.dk/husnumre/0a3f508e-bdab-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://ravnsminde.com/gaardbutikken/
+- Supplerende kilde: https://ravnsminde.com/vores-gaardbutik/
+
+## Gårdbutik på Ajstrupvej
+
+- Adresse: Ajstrupvej 50, 8340 Malling
+- Telefon: 22535232
+- Link: https://gaardbutik-paa-ajstrupvej.dk/
+- Kontaktkilde: https://gaardbutik-paa-ajstrupvej.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5095-de36-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://gaardbutik-paa-ajstrupvej.dk/
+
+## Kirstineborg
+
+- Adresse: Mejlbyvej 268, 8530 Hjortshøj
+- Telefon: 21259094
+- Link: https://kirstineborg.dk/
+- Kontaktkilde: https://kirstineborg.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5096-948d-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://kirstineborg.dk/
+- Supplerende kilde: https://kirstineborg.dk/om-gaardbutikken
+- Supplerende kilde: https://kirstineborg.dk/kontakt-aabningstider
+
+## Storhaven
+
+- Adresse: Storhavevej 4, 9940 Læsø
+- Telefon: 24276667
+- Link: https://storhaven.dk/
+- Kontaktkilde: https://storhaven.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f509a-cfed-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://storhaven.dk/
 

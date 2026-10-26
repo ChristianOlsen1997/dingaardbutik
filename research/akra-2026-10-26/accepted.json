@@ -1,0 +1,391 @@
+{
+  "19": {
+    "description": "Frugtplantage med stalddørssalg af sæsonens frugt og grøntsager samt mulighed for selvpluk."
+  },
+  "21": {
+    "description": "Gårdbutik med kartofler, jordbær og varer fra landbruget. Udvalget følger sæsonen."
+  },
+  "25": {
+    "description": "Gårdbutik med jordbær, ærter, kartofler og asparges fra egne marker samt øvrige sæsonvarer."
+  },
+  "28": {
+    "description": "Gårdbutik med ost og andre produkter fra gårdens eget mejeri."
+  },
+  "30": {
+    "description": "Frugtplantage med gårdbutik, der sælger æbler, pærer, most og sæsonens øvrige frugt og grønt."
+  },
+  "35": {
+    "description": "Gårdbutik og stalddørssalg med sæsonens grøntsager og udvalgte fødevarer."
+  },
+  "41": {
+    "description": "Gårdbutik med selvbetjening og et udvalg af fødevarer fra lokale producenter."
+  },
+  "53": {
+    "description": "Gårdbutik på Møltrup med kød, pølser og varer fra stedets eget køkken."
+  },
+  "66": {
+    "description": "Gårdbutik med jordbær og kartofler. Udvalget følger høstsæsonen."
+  },
+  "69": {
+    "description": "Gårdbutik med kød, kødpakker og tilberedte madvarer."
+  },
+  "76": {
+    "description": "Gårdbutik med hjemmelavet marmelade og syltede produkter. Udvalget varierer med årstiden."
+  },
+  "89": {
+    "description": "Gårdbutik med lammekød og produkter af uld og skind fra gårdens fårehold."
+  },
+  "92": {
+    "description": "Familiedrevet gårdbutik med kartofler, jordbær, grøntsager og sæsonvarer."
+  },
+  "95": {
+    "description": "Gårdbutik ved frugtplantagen med egne produkter og udvalgte fødevarer."
+  },
+  "96": {
+    "description": "Gårdbutik ved frugtplantagen med æbler, pærer, most og honning. Frugtsalget følger sæsonen."
+  },
+  "100": {
+    "description": "Gårdsalg med jordbær, kartofler og asparges fra gårdens marker. Sæsonåbent.",
+    "address": "Frederiksværksvej 11, 3230 Græsted",
+    "darStreet": "Frederiksværksvej 11C"
+  },
+  "109": {
+    "description": "Gårdbutik ved bærplantagen med sæsonens bær og frugt. Butikken er sæsonåben, og der tilbydes også selvpluk."
+  },
+  "112": {
+    "description": "Gårdbutik med tomater, chili og peberfrugter i sæsonen samt planter og blomster."
+  },
+  "114": {
+    "description": "Gårdbutik på Møn med kartofler, ærter og jordbær fra egen dyrkning samt øvrige fødevarer."
+  },
+  "124": {
+    "description": "Gårdbutik med selvbetjening og hjemmelavede delikatesser."
+  },
+  "161": {
+    "description": "Gartneri med gårdbutik og sæsonvarer. Se hjemmesiden for det aktuelle udvalg."
+  },
+  "165": {
+    "description": "Gårdbutik med grøntsager og mulighed for bestilling af grøntsagskasser. Ring inden besøget."
+  },
+  "168": {
+    "description": "Gårdbutik med lammekød, skind og uld fra egne får."
+  },
+  "173": {
+    "description": "Økologisk gårdbutik ved Kalø Landbrugsskole med sæsonens grøntsager og kød fra skolens landbrug og lokale producenter."
+  },
+  "174": {
+    "description": "Frugtplantage med gårdbutik og selvpluk. Æbler, pærer og bær efter sæson."
+  },
+  "176": {
+    "description": "Gårdbutik ved Hopballe Mølle med gårdens kyllinger og andre fødevarer."
+  },
+  "191": {
+    "description": "Gårdbutik med oksekød fra græsfodret kvæg. Både udskæringer og større portioner efter bestilling."
+  },
+  "202": {
+    "description": "Gårdbutik med frilandsfjerkræ. Salget er sæsonbestemt; kontakt gården om bestilling og afhentning."
+  },
+  "257": {
+    "description": "Gårdbutik og selvpluk med jordbær, kartofler og sæsonens øvrige afgrøder."
+  },
+  "258": {
+    "description": "Gårdbutik med kartofler, jordbær, grøntsager, æg og honning. Udvalget følger sæsonen."
+  },
+  "264": {
+    "description": "Økologisk landbrug med gårdbutik, kartofler og sæsonens grøntsager."
+  },
+  "267": {
+    "description": "Gårdbutik med hjemmeavlede grøntsager, kartofler og jordbær i sæsonen."
+  },
+  "271": {
+    "description": "Gårdbutik med selvbetjening, kartofler, løg, hvidløg og sæsonens grøntsager. Selvpluk af jordbær i sæsonen."
+  },
+  "281": {
+    "description": "Gårdbutik med hjemmelavet is og danske grøntsager i sæsonen.",
+    "sources": [
+      "https://frydendal-ismejeri.dk/find-vej/"
+    ],
+    "address": "Flensborg Landevej 5, 6400 Sønderborg"
+  },
+  "304": {
+    "description": "Gårdbutik på bisonfarmen med bisonkød fra egne dyr."
+  },
+  "306": {
+    "description": "Gårdbutik på Fanø med æg, kød og lokale specialiteter."
+  },
+  "307": {
+    "description": "Gårdbutik og café med okse- og lammekød fra egne naturplejedyr."
+  },
+  "309": {
+    "description": "Gårdbutik med selvbetjent salg af kød og charcuteri fra gårdens egne grise og får."
+  },
+  "310": {
+    "description": "Gårdbutik og besøgslandbrug med kød, æg og sæsonens fjerkræ. Begrænset åbningstid; tjek før besøget."
+  },
+  "314": {
+    "description": "Gårdbutik med oksekød og æg. Se gårdens hjemmeside for bestilling og aktuelt udvalg."
+  },
+  "317": {
+    "description": "Gårdbutik på fåregården Lystbækgaard med varer fra fåreholdet.",
+    "name": "Lystbækgaard"
+  },
+  "319": {
+    "description": "Gårdbutik med okse-, kalve- og lammekød samt pålæg fra egne dyr. Der sælges også æg."
+  },
+  "323": {
+    "description": "Gårdbutik med selvbetjening, jordbær fra egne marker og sæsonvarer. Selvpluk tilbydes i sæsonen."
+  },
+  "334": {
+    "description": "Gårdbutik med kød fra gårdens skotske højlandskvæg samt udvalgte delikatesser."
+  },
+  "340": {
+    "description": "Gårdbutik med kød og æg fra egne dyr. Vinterlukket; tjek sæson og åbning før besøget."
+  },
+  "346": {
+    "description": "Gårdbutik ved Klintholm Gods med Hereford-kød fra godsets naturplejende kvæg. Sæsonåbent; tjek gårdens aktuelle åbningstider inden besøget."
+  },
+  "376": {
+    "description": "Økologisk gårdbutik med kød og æg fra egne dyr.",
+    "address": "Tolstrupvej 1, 4735 Mern",
+    "darStreet": "Tolstrupvej 1A"
+  },
+  "381": {
+    "description": "Gårdmejeri med selvbetjent gårdbutik, fåreoste samt kød og pølser fra egne lam og frilandsgrise."
+  },
+  "386": {
+    "description": "Frugtplantage med gårdbutik, selvbetjening, frugt og æblemost. Mulighed for selvpluk i sæsonen."
+  },
+  "393": {
+    "description": "Gårdbutik med kød, pølser og pålæg. Tjek butikkens aktuelle åbningstider før besøget."
+  },
+  "417": {
+    "description": "Gårdbutik med selvbetjening, sæsonens frugt, most og andre produkter fra gården."
+  },
+  "442": {
+    "description": "Gårdbutik ved frugtplantagen med håndplukket frugt, most, marmelade og is."
+  },
+  "443": {
+    "description": "Gårdbutik med æbler og pærer efter sæson, egen æblemost, marmelade og honning."
+  },
+  "446": {
+    "description": "Gårdbutik ved frugtplantagen med æbler, pærer og æblemost."
+  },
+  "486": {
+    "description": "Selvbetjent gårdbutik ved Ausumgaard med gårdens egne kødvarer og mel."
+  },
+  "487": {
+    "description": "Gårdbutik og jordbær-selvpluk ved Smørum. Udvalget følger sæsonen."
+  },
+  "490": {
+    "description": "Gårdbutik ved fjerkræfarmen med fjerkræ, æg og andre varer fra gården."
+  },
+  "491": {
+    "description": "Økologisk gårdbutik på Samsø med selvbetjening og sæsonens grøntsager."
+  },
+  "496": {
+    "description": "Gårdbutik med jordbær og ærter fra egen dyrkning i sæsonen samt andre fødevarer."
+  },
+  "502": {
+    "description": "Gårdbutik ved Gråsten Fjerkræ med et udvalg af fjerkræprodukter. Tjek aktuelle åbningstider."
+  },
+  "505": {
+    "description": "Gårdbutik på Avernakø med okse- og lammekød, grøntsager og most fra egen frugtplantage."
+  },
+  "506": {
+    "description": "Gårdbutik på Møn med kød fra gårdens Jersey-kvæg og æg."
+  },
+  "509": {
+    "description": "Gårdbutik med is og oksekød fra gårdens Jersey-køer."
+  },
+  "517": {
+    "description": "Økologisk gartneri med gårdbutik, sæsonens grøntsager, kartofler og jordbær."
+  },
+  "518": {
+    "description": "Gårdbutik med oksekød fra eget skotsk højlandskvæg."
+  },
+  "526": {
+    "description": "Gartneri med stalddørssalg af grøntsager, æg og kød fra egne dyr."
+  },
+  "544": {
+    "description": "Økologisk frugtplantage med vejbod, æbler, pærer, jordbær og most efter sæson."
+  },
+  "700": {
+    "description": "Familiedrevet frugtplantage med gårdbutik, æbler, pærer, most og selvpluk i sæsonen."
+  },
+  "706": {
+    "description": "Frugtplantage med gårdbutik og håndplukkede æbler og pærer. Kør ind fra Hasmarkmosen ved nr. 18."
+  },
+  "714": {
+    "description": "Gårdbutik ved bærproduktionen med marmelade, saft, rapsolie og snaps."
+  },
+  "728": {
+    "description": "Gårdbutik med årstidens frugt og grønt fra egen avl og lokale avlere."
+  },
+  "738": {
+    "description": "Økologisk bærplantage med ubemandet gårdbutik, saft og sirup fra egne bær."
+  },
+  "742": {
+    "description": "Gårdbutik med oksekød fra eget kvæg, friske æg samt hjemmelavet syltetøj og saft."
+  },
+  "745": {
+    "description": "Gårdbutik og kaffebar med egne grøntsager, æg og lokale fødevarer.",
+    "darStreet": "Amtsvejen 340A"
+  },
+  "747": {
+    "description": "Gårdbutik med frisklagte økologiske æg fra gårdens egne høns."
+  },
+  "749": {
+    "description": "Gårdsalg med grøntsager, æg og honning. Sortimentet følger sæsonen."
+  },
+  "751": {
+    "description": "Gårdbutik med kød fra egne højlandskvæg, grise og lam samt æg, grøntsager og honning."
+  },
+  "752": {
+    "description": "Gårdbutik med æg, grøntsager, frugt, bær og honning fra eget økologisk jordbrug."
+  },
+  "755": {
+    "description": "Gårdbutik med kartofler og sæsonens grøntsager fra Lammefjorden."
+  },
+  "758": {
+    "description": "Gårdbutik med sæsonens grøntsager, frugt og bær fra marken samt madvarer fra eget køkken."
+  },
+  "769": {
+    "description": "Gårdbutik ved Astrup Gods med kød fra vildt nedlagt på godsets jorder."
+  },
+  "771": {
+    "description": "Gårdbutik med pesto, marmelade, sirup og chutney lavet af frugt og grøntsager fra egen have."
+  },
+  "772": {
+    "description": "Gårdbutik ved aroniaplantagen med aroniasaft og andre bærprodukter."
+  },
+  "783": {
+    "description": "Gårdbutik med jordbær, kartofler, saft og honning. Selvpluk af jordbær i sæsonen."
+  },
+  "842": {
+    "description": "Gårdbutik og café på Hebbelstrupgaard med hjemmelavet is. Tjek sæson og åbningstider."
+  },
+  "861": {
+    "description": "Gårdbutik med fjerkræ, herunder kyllinger og sæsonens julefjerkræ."
+  },
+  "868": {
+    "description": "Socialøkonomisk gårdbutik under Marjatta med grøntsager og udvalgte fødevarer."
+  },
+  "872": {
+    "description": "Gårdbutik med økologisk oksekød og fjerkræ."
+  },
+  "879": {
+    "description": "Gårdbutik med kartofler, jordbær og grøntsager fra eget gartneri. Sæsonåbent."
+  },
+  "880": {
+    "description": "Gårdbutik med sæsonens varer fra gården. Se hjemmesiden for aktuelt udvalg."
+  },
+  "883": {
+    "description": "Gårdbutik og mølleri med mel af korn fra egen jord samt udvalgte fødevarer."
+  },
+  "898": {
+    "description": "Gårdbutik med økologiske grøntsager og æg fra gårdens egen produktion."
+  },
+  "989": {
+    "description": "Selvbetjent gårdbutik med græsæg og sæsonens frugt og grønt."
+  },
+  "1184": {
+    "description": "Gårdbutik med okse- og kalvekød fra gårdens egne dyr samt æg."
+  },
+  "1241": {
+    "description": "Biodynamisk gårdbutik med lamme-, svine-, kalve- og oksekød fra egne dyr. Udvalget afhænger af slagtning.",
+    "darStreet": "Museumsvej 1A"
+  },
+  "1244": {
+    "description": "Økologisk landbrug med gårdbutik i Sondrup. Kontakt gården for det aktuelle udvalg."
+  },
+  "1249": {
+    "description": "Gårdbutik med økologiske frilandsænder og andre fjerkræprodukter."
+  },
+  "1257": {
+    "description": "Familiedrevet gårdbutik med egne kartofler, frugt, grøntsager og krydderurter samt varer fra andre Samsø-producenter."
+  },
+  "1274": {
+    "description": "Selvbetjent gårdbutik med økologisk mel, frø, kerner, kartofler og honning."
+  },
+  "1280": {
+    "description": "Gårdbutik og spisested med kød fra gårdens grise og lam."
+  },
+  "1281": {
+    "description": "Selvbetjent gårdbutik på Samsø med årstidens lokale grøntsager og kartofler."
+  },
+  "1315": {
+    "description": "Grøntsagslandbrug med gårdbutik og sæsonens friskhøstede grøntsager."
+  },
+  "1336": {
+    "description": "Gårdbutik og vejbod med kartofler, jordbær, grøntsager og most. Udvalget følger sæsonen."
+  },
+  "1353": {
+    "description": "Gårdbutik med oksekød fra skotsk højlandskvæg og produkter fra eget slagteri."
+  },
+  "1354": {
+    "description": "Socialøkonomisk gårdbutik med grøntsager og kød fra Havredals landbrug."
+  },
+  "1361": {
+    "description": "Økologisk gårdbutik med grøntsager, frugt, bær og krydderurter fra gartneriet. Udvalget følger sæsonen."
+  },
+  "1792523824972": {
+    "description": "Familiedrevet gårdbutik med egne grøntsager, honning og sæsonens blomster og planter."
+  },
+  "1792558827374": {
+    "description": "Gårdbutik med kød fra gården samt marmelade, most og andre fødevarer fra udvalgte producenter."
+  },
+  "1792578448826": {
+    "description": "Sæsonåben gårdbutik med jordbær, kartofler, ærter, kål og øvrig frugt og grønt."
+  },
+  "1792579747434": {
+    "description": "Frugtplantage med gårdbutik og frugt fra egen avl. Sæsonen starter typisk sidst i august og varer, til høsten er solgt."
+  },
+  "1792737667008": {
+    "description": "Gårdbutik, café og besøgsgård på Læsø med egen is og lokale delikatesser."
+  },
+  "1": {
+    "description": "Økologisk gårdbutik med grøntsager, frugt, kød, syltevarer og krydderier samt planter og frø. Udvalget følger sæsonen.",
+    "phone": "24208354",
+    "sources": [
+      "https://www.fuglebjerggaard.dk/gaardbutik/",
+      "https://www.fuglebjerggaard.dk/om/"
+    ],
+    "website": "https://www.fuglebjerggaard.dk/"
+  },
+  "265": {
+    "description": "Gårdbutik og frilandsgartneri med kartofler, jordbær, æbler og most fra egen produktion samt lokale specialiteter. Selvpluk i sæsonen.",
+    "phone": "97881034",
+    "website": "https://kraemmergaard.dk/gaardbutik/",
+    "sources": [
+      "https://kraemmergaard.dk/gaardbutik/"
+    ]
+  },
+  "270": {
+    "description": "Økologisk gårdbutik med frugt, grøntsager og bær fra egen dyrkning suppleret med varer fra andre økologiske producenter.",
+    "phone": "40200147",
+    "website": "https://xn--frlundkologi-wjbe.dk/",
+    "sources": [
+      "https://xn--frlundkologi-wjbe.dk/kontakt",
+      "https://www.visitdenmark.dk/danmark/explore/froelund-oekologi-gdk1148298"
+    ]
+  },
+  "34": {
+    "description": "Familiedrevet gårdbutik med frugt, grøntsager, æg og kolonialvarer samt planter og lokale håndværksprodukter.",
+    "phone": "42806648",
+    "website": "https://rishoejgaard.dk/",
+    "sources": [
+      "https://rishoejgaard.dk/",
+      "https://vores-risskov.dk/a/fra-vejbod-til-levende-gaardbutik-rishoejgaard-samler-lokalsamfundet-om-baeredygtighed-og-naervaer/7589b220-be59-4815-8394-2c918e6625af"
+    ]
+  },
+  "256": {
+    "description": "Selvbetjent gårdbutik med egne kartofler, sæsonens grøntsager og æg samt most og honning.",
+    "phone": "25742627",
+    "website": "https://www.facebook.com/Melbjerggaard/",
+    "sources": [
+      "https://goforlocal.dk/find-lokale-foedevarer/melbjerggaard-groent",
+      "https://goforlocal.dk/nyheder/interessen-gik-forud-for-erfaring-ved-melbjerggaard"
+    ],
+    "note": "Oplysninger fra producentprofil og interview med ejeren hos Goforlocal."
+  }
+}

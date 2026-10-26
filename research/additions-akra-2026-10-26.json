@@ -1,0 +1,2339 @@
+[
+  {
+    "farm": [
+      "fuglebjerggaard",
+      "Fuglebjerggaard",
+      "hovedstaden",
+      "Hemmingstrupvej 8",
+      "3200",
+      "Helsinge",
+      "24208354",
+      "https://www.fuglebjerggaard.dk/",
+      "Økologisk gårdbutik med grøntsager, frugt, kød, syltevarer og krydderier samt planter og frø. Udvalget følger sæsonen.",
+      "https://www.fuglebjerggaard.dk/gaardbutik/"
+    ],
+    "sources": [
+      "https://www.fuglebjerggaard.dk/gaardbutik/",
+      "https://www.fuglebjerggaard.dk/om/",
+      "https://fuglebjerggaard.dk/"
+    ],
+    "note": "",
+    "akraId": 1
+  },
+  {
+    "farm": [
+      "stevninggaard-frugt-og-baer",
+      "Stevninggård Frugt og Bær",
+      "syddanmark",
+      "Stevning Gade 23",
+      "6430",
+      "Nordborg",
+      "40559799",
+      "https://www.stevninggaard.dk/",
+      "Frugtplantage med stalddørssalg af sæsonens frugt og grøntsager samt mulighed for selvpluk.",
+      "https://stevninggaard.dk/"
+    ],
+    "sources": [
+      "https://stevninggaard.dk/"
+    ],
+    "note": "",
+    "akraId": 19
+  },
+  {
+    "farm": [
+      "hasagergaard",
+      "Hasagergaard",
+      "midtjylland",
+      "Kirkeskovvej 85",
+      "8450",
+      "Hammel",
+      "24617255",
+      "https://hasagergaard.dk/",
+      "Gårdbutik med kartofler, jordbær og varer fra landbruget. Udvalget følger sæsonen.",
+      "https://hasagergaard.dk/forside.aspx"
+    ],
+    "sources": [
+      "https://hasagergaard.dk/forside.aspx",
+      "https://hasagergaard.dk/kontakt.aspx",
+      "https://hasagergaard.dk/gaardbutik.aspx"
+    ],
+    "note": "",
+    "akraId": 21
+  },
+  {
+    "farm": [
+      "kroghs-groent",
+      "Kroghs Grønt",
+      "syddanmark",
+      "Sottrup By 8",
+      "6372",
+      "Bylderup-Bov",
+      "20603340",
+      "https://kroghs-groent.dk/",
+      "Gårdbutik med jordbær, ærter, kartofler og asparges fra egne marker samt øvrige sæsonvarer.",
+      "https://kroghs-groent.dk/"
+    ],
+    "sources": [
+      "https://kroghs-groent.dk/",
+      "https://kroghs-groent.dk/gaardbutik/",
+      "https://kroghs-groent.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 25
+  },
+  {
+    "farm": [
+      "elmegaarden",
+      "Elmegaarden",
+      "syddanmark",
+      "Damager 7",
+      "6560",
+      "Sommersted",
+      "29403997",
+      "https://elmegaarden.dk/",
+      "Gårdbutik med ost og andre produkter fra gårdens eget mejeri.",
+      "https://elmegaarden.dk/"
+    ],
+    "sources": [
+      "https://elmegaarden.dk/",
+      "https://elmegaarden.dk/gaardbutik/",
+      "https://elmegaarden.dk/gaardbutik/mejeriet/"
+    ],
+    "note": "",
+    "akraId": 28
+  },
+  {
+    "farm": [
+      "hestehavegaard-frugtplantage",
+      "Hestehavegård Frugtplantage",
+      "syddanmark",
+      "Hestehave 19",
+      "6400",
+      "Sønderborg",
+      "40370905",
+      "https://hestehavefrugt.dk/",
+      "Frugtplantage med gårdbutik, der sælger æbler, pærer, most og sæsonens øvrige frugt og grønt.",
+      "https://hestehavefrugt.dk/"
+    ],
+    "sources": [
+      "https://hestehavefrugt.dk/"
+    ],
+    "note": "",
+    "akraId": 30
+  },
+  {
+    "farm": [
+      "rishoejgaard",
+      "Rishøjgård",
+      "midtjylland",
+      "Mejlbyvej 136",
+      "8250",
+      "Egå",
+      "42806648",
+      "https://rishoejgaard.dk/",
+      "Familiedrevet gårdbutik med frugt, grøntsager, æg og kolonialvarer samt planter og lokale håndværksprodukter.",
+      "https://rishoejgaard.dk/"
+    ],
+    "sources": [
+      "https://rishoejgaard.dk/",
+      "https://vores-risskov.dk/a/fra-vejbod-til-levende-gaardbutik-rishoejgaard-samler-lokalsamfundet-om-baeredygtighed-og-naervaer/7589b220-be59-4815-8394-2c918e6625af"
+    ],
+    "note": "",
+    "akraId": 34
+  },
+  {
+    "farm": [
+      "paradiset",
+      "Paradiset",
+      "midtjylland",
+      "Norsmindevej 66",
+      "8340",
+      "Malling",
+      "21783040",
+      "https://paradiset-gb.dk/",
+      "Gårdbutik og stalddørssalg med sæsonens grøntsager og udvalgte fødevarer.",
+      "https://paradiset-gb.dk/"
+    ],
+    "sources": [
+      "https://paradiset-gb.dk/",
+      "https://paradiset-gb.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 35
+  },
+  {
+    "farm": [
+      "sdr-vissing-torvehal",
+      "Sdr. Vissing Torvehal",
+      "midtjylland",
+      "Toftegårdsvej 2",
+      "8740",
+      "Brædstrup",
+      "51260640",
+      "https://torvehallen.com/",
+      "Gårdbutik med selvbetjening og et udvalg af fødevarer fra lokale producenter.",
+      "https://www.torvehallen.com/"
+    ],
+    "sources": [
+      "https://www.torvehallen.com/",
+      "https://www.torvehallen.com/find-os/"
+    ],
+    "note": "",
+    "akraId": 41
+  },
+  {
+    "farm": [
+      "moeltrup",
+      "Møltrup",
+      "midtjylland",
+      "Møltrupvej 70",
+      "7480",
+      "Vildbjerg",
+      "99929829",
+      "https://moltrup.dk/mad/gardbutikken",
+      "Gårdbutik på Møltrup med kød, pølser og varer fra stedets eget køkken.",
+      "https://www.moltrup.dk/mad/gardbutikken"
+    ],
+    "sources": [
+      "https://www.moltrup.dk/mad/gardbutikken",
+      "https://www.moltrup.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 53
+  },
+  {
+    "farm": [
+      "lystlunden",
+      "Lystlunden",
+      "syddanmark",
+      "Vestergade 166",
+      "6051",
+      "Almind",
+      "40895803",
+      "https://lystlunden.dk",
+      "Gårdbutik med jordbær og kartofler. Udvalget følger høstsæsonen.",
+      "https://lystlunden.dk"
+    ],
+    "sources": [
+      "https://lystlunden.dk",
+      "https://lystlunden.dk/link%20%26%20kontakt"
+    ],
+    "note": "",
+    "akraId": 66
+  },
+  {
+    "farm": [
+      "krastrupsoegaard",
+      "Krastrupsøgaard",
+      "nordjylland",
+      "Aalborgvej 52",
+      "9520",
+      "Skørping",
+      "98339121",
+      "https://krastrupsoegaard.dk",
+      "Gårdbutik med kød, kødpakker og tilberedte madvarer.",
+      "https://krastrupsoegaard.dk"
+    ],
+    "sources": [
+      "https://krastrupsoegaard.dk",
+      "https://krastrupsoegaard.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 69
+  },
+  {
+    "farm": [
+      "thy-gaardbutik",
+      "Thy Gårdbutik",
+      "nordjylland",
+      "Stagstrup Skolevej 13",
+      "7752",
+      "Snedsted",
+      "29160928",
+      "https://thygaardbutik.dk",
+      "Gårdbutik med hjemmelavet marmelade og syltede produkter. Udvalget varierer med årstiden.",
+      "https://thygaardbutik.dk"
+    ],
+    "sources": [
+      "https://thygaardbutik.dk"
+    ],
+    "note": "",
+    "akraId": 76
+  },
+  {
+    "farm": [
+      "birkemosehus",
+      "Birkemosehus",
+      "sjaelland",
+      "Birkelyvej 6",
+      "4180",
+      "Sorø",
+      "51326016",
+      "https://birkemosehus.dk",
+      "Gårdbutik med lammekød og produkter af uld og skind fra gårdens fårehold.",
+      "https://birkemosehus.dk"
+    ],
+    "sources": [
+      "https://birkemosehus.dk",
+      "https://birkemosehus.dk/g%C3%A5rdbutik/",
+      "https://birkemosehus.dk/g%C3%A5rdbutik/plaider"
+    ],
+    "note": "",
+    "akraId": 89
+  },
+  {
+    "farm": [
+      "adamsgaarden",
+      "Adamsgården",
+      "sjaelland",
+      "Aggersvoldvej 3A",
+      "4450",
+      "Jyderup",
+      "22264550",
+      "https://www.adamsgaarden.dk",
+      "Familiedrevet gårdbutik med kartofler, jordbær, grøntsager og sæsonvarer.",
+      "https://www.adamsgaarden.dk"
+    ],
+    "sources": [
+      "https://www.adamsgaarden.dk",
+      "https://www.adamsgaarden.dk/pages/gaardbutik"
+    ],
+    "note": "",
+    "akraId": 92
+  },
+  {
+    "farm": [
+      "sidinge",
+      "Sidinge",
+      "sjaelland",
+      "Sidingevej 39",
+      "4560",
+      "Vig",
+      "59328206",
+      "https://sidinge.dk",
+      "Gårdbutik ved frugtplantagen med egne produkter og udvalgte fødevarer.",
+      "https://sidinge.dk"
+    ],
+    "sources": [
+      "https://sidinge.dk",
+      "https://sidinge.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 95
+  },
+  {
+    "farm": [
+      "oestergaard-frugt-most",
+      "Østergaard Frugt & Most",
+      "hovedstaden",
+      "Østergaardsvej 35",
+      "3630",
+      "Jægerspris",
+      "47521249",
+      "https://oefm.dk",
+      "Gårdbutik ved frugtplantagen med æbler, pærer, most og honning. Frugtsalget følger sæsonen.",
+      "https://oefm.dk"
+    ],
+    "sources": [
+      "https://oefm.dk",
+      "https://oefm.dk/gaardbutik/",
+      "https://oefm.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 96
+  },
+  {
+    "farm": [
+      "esromgaard",
+      "Esromgård",
+      "hovedstaden",
+      "Frederiksværksvej 11",
+      "3230",
+      "Græsted",
+      "",
+      "https://esromgaard.dk",
+      "Gårdsalg med jordbær, kartofler og asparges fra gårdens marker. Sæsonåbent.",
+      "https://esromgaard.dk"
+    ],
+    "sources": [
+      "https://esromgaard.dk"
+    ],
+    "note": "Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Frederiksværksvej 11C.",
+    "akraId": 100
+  },
+  {
+    "farm": [
+      "rokkedysse",
+      "Rokkedysse",
+      "hovedstaden",
+      "Lejrvej 45",
+      "3500",
+      "Værløse",
+      "31570740",
+      "https://rokkedysse.dk",
+      "Gårdbutik ved bærplantagen med sæsonens bær og frugt. Butikken er sæsonåben, og der tilbydes også selvpluk.",
+      "https://rokkedysse.dk"
+    ],
+    "sources": [
+      "https://rokkedysse.dk",
+      "https://rokkedysse.dk/gaardbutik/",
+      "https://rokkedysse.dk/kontaktos/"
+    ],
+    "note": "",
+    "akraId": 109
+  },
+  {
+    "farm": [
+      "koeng",
+      "Køng",
+      "sjaelland",
+      "Bankevejen 1",
+      "4750",
+      "Lundby",
+      "52522230",
+      "https://koenggaardbutik.dk",
+      "Gårdbutik med tomater, chili og peberfrugter i sæsonen samt planter og blomster.",
+      "https://koenggaardbutik.dk"
+    ],
+    "sources": [
+      "https://koenggaardbutik.dk",
+      "https://koenggaardbutik.dk/tomater-2026",
+      "https://koenggaardbutik.dk/chili_peberfrugt-2026"
+    ],
+    "note": "",
+    "akraId": 112
+  },
+  {
+    "farm": [
+      "vibaekgaard",
+      "Vibækgård",
+      "sjaelland",
+      "Kostervej 73",
+      "4780",
+      "Stege",
+      "40245649",
+      "https://vibaekgaard.com",
+      "Gårdbutik på Møn med kartofler, ærter og jordbær fra egen dyrkning samt øvrige fødevarer.",
+      "https://vibaekgaard.com"
+    ],
+    "sources": [
+      "https://vibaekgaard.com"
+    ],
+    "note": "",
+    "akraId": 114
+  },
+  {
+    "farm": [
+      "boegebjerggaard",
+      "Bøgebjerggaard",
+      "syddanmark",
+      "Skovvangsvej 17",
+      "5610",
+      "Assens",
+      "27858888",
+      "https://bogebjerggardsgaardbutik.dk",
+      "Gårdbutik med selvbetjening og hjemmelavede delikatesser.",
+      "https://bogebjerggardsgaardbutik.dk"
+    ],
+    "sources": [
+      "https://bogebjerggardsgaardbutik.dk",
+      "https://bogebjerggardsgaardbutik.dk/nyhjem/salt",
+      "https://bogebjerggardsgaardbutik.dk/opskrifter/"
+    ],
+    "note": "",
+    "akraId": 124
+  },
+  {
+    "farm": [
+      "holistia",
+      "Holistia",
+      "syddanmark",
+      "Søhusvej 161",
+      "5270",
+      "Odense N",
+      "20418103",
+      "https://holistia.dk/",
+      "Gartneri med gårdbutik og sæsonvarer. Se hjemmesiden for det aktuelle udvalg.",
+      "https://holistia.dk/"
+    ],
+    "sources": [
+      "https://holistia.dk/",
+      "https://holistia.dk/kontakt.html"
+    ],
+    "note": "",
+    "akraId": 161
+  },
+  {
+    "farm": [
+      "drivhuset",
+      "Drivhuset",
+      "nordjylland",
+      "Korsholmvej 178",
+      "9631",
+      "Gedsted",
+      "98645655",
+      "https://www.drivhuset-eva.dk/",
+      "Gårdbutik med grøntsager og mulighed for bestilling af grøntsagskasser. Ring inden besøget.",
+      "https://drivhuset-eva.dk/"
+    ],
+    "sources": [
+      "https://drivhuset-eva.dk/",
+      "https://drivhuset-eva.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 165
+  },
+  {
+    "farm": [
+      "thy-lam",
+      "Thy Lam",
+      "nordjylland",
+      "Oddesundvej 105",
+      "7752",
+      "Snedsted",
+      "97931656",
+      "http://thy-lam.dk/",
+      "Gårdbutik med lammekød, skind og uld fra egne får.",
+      "http://thy-lam.dk/"
+    ],
+    "sources": [
+      "http://thy-lam.dk/",
+      "http://thy-lam.dk/Kontakt.html"
+    ],
+    "note": "",
+    "akraId": 168
+  },
+  {
+    "farm": [
+      "kaloe-oekologisk-gaardbutik",
+      "Kalø Økologisk Gårdbutik",
+      "midtjylland",
+      "Molsvej 38",
+      "8410",
+      "Rønde",
+      "",
+      "https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik",
+      "Økologisk gårdbutik ved Kalø Landbrugsskole med sæsonens grøntsager og kød fra skolens landbrug og lokale producenter.",
+      "https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik"
+    ],
+    "sources": [
+      "https://videndjurs.dk/kaloe-oekologisk-landbrugsskole/kaloe-oekologisk-gaardbutik",
+      "https://videndjurs.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 173
+  },
+  {
+    "farm": [
+      "karensminde-frugtplantage",
+      "Karensminde Frugtplantage",
+      "midtjylland",
+      "Eriksmindevej 38",
+      "8300",
+      "Odder",
+      "50958196",
+      "https://www.karensminde-frugt.dk/",
+      "Frugtplantage med gårdbutik og selvpluk. Æbler, pærer og bær efter sæson.",
+      "https://www.karensminde-frugt.dk/"
+    ],
+    "sources": [
+      "https://www.karensminde-frugt.dk/",
+      "https://www.karensminde-frugt.dk/gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 174
+  },
+  {
+    "farm": [
+      "hopballe-moelle",
+      "Hopballe Mølle",
+      "syddanmark",
+      "Hopballevej 56",
+      "7300",
+      "Jelling",
+      "75853238",
+      "https://www.hopballe.dk/",
+      "Gårdbutik ved Hopballe Mølle med gårdens kyllinger og andre fødevarer.",
+      "https://www.hopballe.dk/"
+    ],
+    "sources": [
+      "https://www.hopballe.dk/",
+      "https://www.hopballe.dk/gaardbutik/",
+      "https://www.hopballe.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 176
+  },
+  {
+    "farm": [
+      "lamdrup-naturkoed",
+      "Lamdrup Naturkød",
+      "syddanmark",
+      "Lamdrupvej 23",
+      "5854",
+      "Gislev",
+      "29632564",
+      "https://lamdrupnaturkød.dk/",
+      "Gårdbutik med oksekød fra græsfodret kvæg. Både udskæringer og større portioner efter bestilling.",
+      "https://xn--lamdrupnaturkd-2qb.dk/"
+    ],
+    "sources": [
+      "https://xn--lamdrupnaturkd-2qb.dk/",
+      "https://xn--lamdrupnaturkd-2qb.dk/gaardbutik/",
+      "https://xn--lamdrupnaturkd-2qb.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 191
+  },
+  {
+    "farm": [
+      "skodsboel-fjerkrae",
+      "Skodsbøl Fjerkræ",
+      "syddanmark",
+      "Skodsbølvej 71",
+      "6310",
+      "Broager",
+      "22902918",
+      "https://finnh.dk/",
+      "Gårdbutik med frilandsfjerkræ. Salget er sæsonbestemt; kontakt gården om bestilling og afhentning.",
+      "https://finnh.dk/"
+    ],
+    "sources": [
+      "https://finnh.dk/"
+    ],
+    "note": "",
+    "akraId": 202
+  },
+  {
+    "farm": [
+      "melbjerggaard-groent",
+      "Melbjerggaard Grønt",
+      "midtjylland",
+      "Ny Viborgvej 5",
+      "7840",
+      "Højslev",
+      "25742627",
+      "https://www.facebook.com/Melbjerggaard/",
+      "Selvbetjent gårdbutik med egne kartofler, sæsonens grøntsager og æg samt most og honning.",
+      "https://goforlocal.dk/find-lokale-foedevarer/melbjerggaard-groent"
+    ],
+    "sources": [
+      "https://goforlocal.dk/find-lokale-foedevarer/melbjerggaard-groent",
+      "https://goforlocal.dk/nyheder/interessen-gik-forud-for-erfaring-ved-melbjerggaard"
+    ],
+    "note": "Oplysninger fra producentprofil og interview med ejeren hos Goforlocal.",
+    "akraId": 256
+  },
+  {
+    "farm": [
+      "gaardens-groent",
+      "Gaardens Grønt",
+      "midtjylland",
+      "Sandvej 12",
+      "8740",
+      "Brædstrup",
+      "21565487",
+      "https://gaardensgroent.dk/",
+      "Gårdbutik og selvpluk med jordbær, kartofler og sæsonens øvrige afgrøder.",
+      "https://gaardensgroent.dk/"
+    ],
+    "sources": [
+      "https://gaardensgroent.dk/",
+      "https://gaardensgroent.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 257
+  },
+  {
+    "farm": [
+      "peterslyst",
+      "Peterslyst",
+      "midtjylland",
+      "Hovvejen 9",
+      "8361",
+      "Hasselager",
+      "40364142",
+      "https://peterslyst.com/",
+      "Gårdbutik med kartofler, jordbær, grøntsager, æg og honning. Udvalget følger sæsonen.",
+      "https://peterslyst.com/"
+    ],
+    "sources": [
+      "https://peterslyst.com/",
+      "https://peterslyst.com/kontakt"
+    ],
+    "note": "",
+    "akraId": 258
+  },
+  {
+    "farm": [
+      "rosilde-hoejgaard",
+      "Rosilde Højgård",
+      "syddanmark",
+      "Gl. Vindingevej 21",
+      "5800",
+      "Nyborg",
+      "65310031",
+      "https://www.rosilde-hoejgaard.dk/",
+      "Økologisk landbrug med gårdbutik, kartofler og sæsonens grøntsager.",
+      "https://rosilde-hoejgaard.dk/"
+    ],
+    "sources": [
+      "https://rosilde-hoejgaard.dk/",
+      "https://rosilde-hoejgaard.dk/gaardbutik/",
+      "https://rosilde-hoejgaard.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 264
+  },
+  {
+    "farm": [
+      "kraemmergaard",
+      "Kræmmergård",
+      "midtjylland",
+      "Kræmmergårdvej 50",
+      "7660",
+      "Bækmarksbro",
+      "97881034",
+      "https://kraemmergaard.dk/gaardbutik/",
+      "Gårdbutik og frilandsgartneri med kartofler, jordbær, æbler og most fra egen produktion samt lokale specialiteter. Selvpluk i sæsonen.",
+      "https://kraemmergaard.dk/gaardbutik/"
+    ],
+    "sources": [
+      "https://kraemmergaard.dk/gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 265
+  },
+  {
+    "farm": [
+      "graverens-groentsager",
+      "Graverens Grøntsager",
+      "nordjylland",
+      "Hirtshalsvej 17",
+      "9881",
+      "Bindslev",
+      "",
+      "https://www.graverensgroentsager.dk/",
+      "Gårdbutik med hjemmeavlede grøntsager, kartofler og jordbær i sæsonen.",
+      "https://www.graverensgroentsager.dk/"
+    ],
+    "sources": [
+      "https://www.graverensgroentsager.dk/"
+    ],
+    "note": "",
+    "akraId": 267
+  },
+  {
+    "farm": [
+      "froelund-oekologi",
+      "Frølund Økologi",
+      "midtjylland",
+      "Frølundvej 95",
+      "7400",
+      "Herning",
+      "40200147",
+      "https://xn--frlundkologi-wjbe.dk/",
+      "Økologisk gårdbutik med frugt, grøntsager og bær fra egen dyrkning suppleret med varer fra andre økologiske producenter.",
+      "https://xn--frlundkologi-wjbe.dk/kontakt"
+    ],
+    "sources": [
+      "https://xn--frlundkologi-wjbe.dk/kontakt",
+      "https://www.visitdenmark.dk/danmark/explore/froelund-oekologi-gdk1148298"
+    ],
+    "note": "",
+    "akraId": 270
+  },
+  {
+    "farm": [
+      "skelbjerggaard",
+      "Skelbjerggaard",
+      "sjaelland",
+      "Stenstrupvej 74",
+      "4573",
+      "Højby",
+      "23467314",
+      "https://www.skelbjerggaard.dk/",
+      "Gårdbutik med selvbetjening, kartofler, løg, hvidløg og sæsonens grøntsager. Selvpluk af jordbær i sæsonen.",
+      "https://www.skelbjerggaard.dk/"
+    ],
+    "sources": [
+      "https://www.skelbjerggaard.dk/"
+    ],
+    "note": "",
+    "akraId": 271
+  },
+  {
+    "farm": [
+      "frydendal-ismejeri",
+      "Frydendal Ismejeri",
+      "syddanmark",
+      "Flensborg Landevej 5",
+      "6400",
+      "Sønderborg",
+      "51620702",
+      "http://frydendal-ismejeri.dk/",
+      "Gårdbutik med hjemmelavet is og danske grøntsager i sæsonen.",
+      "https://frydendal-ismejeri.dk/find-vej/"
+    ],
+    "sources": [
+      "https://frydendal-ismejeri.dk/find-vej/",
+      "http://frydendal-ismejeri.dk/",
+      "http://frydendal-ismejeri.dk/kontakt-2/",
+      "http://frydendal-ismejeri.dk/gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 281
+  },
+  {
+    "farm": [
+      "ditlevsdal-bison-farm",
+      "Ditlevsdal Bison Farm",
+      "syddanmark",
+      "Tokkerodvej 24",
+      "5462",
+      "Morud",
+      "64801227",
+      "https://ditlevsdal.dk/",
+      "Gårdbutik på bisonfarmen med bisonkød fra egne dyr.",
+      "https://ditlevsdal.dk/"
+    ],
+    "sources": [
+      "https://ditlevsdal.dk/",
+      "https://ditlevsdal.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 304
+  },
+  {
+    "farm": [
+      "soenderho",
+      "Sønderho",
+      "syddanmark",
+      "Vester Storetoft 67",
+      "6720",
+      "Fanø",
+      "50932362",
+      "https://sonderhogaardbutik.dk/",
+      "Gårdbutik på Fanø med æg, kød og lokale specialiteter.",
+      "https://sonderhogaardbutik.dk/"
+    ],
+    "sources": [
+      "https://sonderhogaardbutik.dk/",
+      "https://sonderhogaardbutik.dk/kvaeget-koedet/",
+      "https://sonderhogaardbutik.dk/produkter-2/"
+    ],
+    "note": "",
+    "akraId": 306
+  },
+  {
+    "farm": [
+      "fynshoved-cafe",
+      "Fynshoved Café",
+      "syddanmark",
+      "Fynshovedvej 685",
+      "5390",
+      "Martofte",
+      "51415685",
+      "https://fynshovedgaardbutik.dk/",
+      "Gårdbutik og café med okse- og lammekød fra egne naturplejedyr.",
+      "https://fynshovedgaardbutik.dk/"
+    ],
+    "sources": [
+      "https://fynshovedgaardbutik.dk/",
+      "https://fynshovedgaardbutik.dk/abningstider/",
+      "https://fynshovedgaardbutik.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 307
+  },
+  {
+    "farm": [
+      "birthesminde",
+      "Birthesminde",
+      "sjaelland",
+      "Tempelvej 14",
+      "4390",
+      "Vipperød",
+      "24200483",
+      "https://www.birthesminde.dk/",
+      "Gårdbutik med selvbetjent salg af kød og charcuteri fra gårdens egne grise og får.",
+      "https://www.birthesminde.dk/"
+    ],
+    "sources": [
+      "https://www.birthesminde.dk/",
+      "https://www.birthesminde.dk/om-birthesminde/kontakt/",
+      "https://www.birthesminde.dk/gaardsalg-charcuteri/"
+    ],
+    "note": "",
+    "akraId": 309
+  },
+  {
+    "farm": [
+      "gloevermosegaard",
+      "Gløvermosegaard",
+      "sjaelland",
+      "Gløvermosevej 5",
+      "4622",
+      "Havdrup",
+      "21293820",
+      "https://glovermosegaard.dk/",
+      "Gårdbutik og besøgslandbrug med kød, æg og sæsonens fjerkræ. Begrænset åbningstid; tjek før besøget.",
+      "https://glovermosegaard.dk/"
+    ],
+    "sources": [
+      "https://glovermosegaard.dk/",
+      "https://glovermosegaard.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 310
+  },
+  {
+    "farm": [
+      "laboellegaard",
+      "Labøllegaard",
+      "syddanmark",
+      "Labøllevej 21",
+      "5471",
+      "Søndersø",
+      "24240084",
+      "https://laboellegaard.dk/",
+      "Gårdbutik med oksekød og æg. Se gårdens hjemmeside for bestilling og aktuelt udvalg.",
+      "https://laboellegaard.dk/"
+    ],
+    "sources": [
+      "https://laboellegaard.dk/",
+      "https://laboellegaard.dk/kontakt-os-paa-laboellegaard/",
+      "https://laboellegaard.dk/kontakt-os-paa-laboellegaard/find-vej-til-laboellegaard.html"
+    ],
+    "note": "",
+    "akraId": 314
+  },
+  {
+    "farm": [
+      "lystbaekgaard",
+      "Lystbækgaard",
+      "midtjylland",
+      "Lystbækvej 1",
+      "6990",
+      "Ulfborg",
+      "21232984",
+      "https://www.lystbaekgaard.dk/",
+      "Gårdbutik på fåregården Lystbækgaard med varer fra fåreholdet.",
+      "https://www.lystbaekgaard.dk/"
+    ],
+    "sources": [
+      "https://www.lystbaekgaard.dk/",
+      "https://www.lystbaekgaard.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 317
+  },
+  {
+    "farm": [
+      "fuglehal-landbrug",
+      "Fuglehal Landbrug",
+      "hovedstaden",
+      "Fuglehalvej 18",
+      "3310",
+      "Ølsted",
+      "",
+      "https://www.fuglehal.dk/",
+      "Gårdbutik med okse-, kalve- og lammekød samt pålæg fra egne dyr. Der sælges også æg.",
+      "https://www.fuglehal.dk/"
+    ],
+    "sources": [
+      "https://www.fuglehal.dk/",
+      "https://www.fuglehal.dk/gaardbutik.html",
+      "https://www.fuglehal.dk/kontakt.html"
+    ],
+    "note": "",
+    "akraId": 319
+  },
+  {
+    "farm": [
+      "jensen-jordbaer",
+      "Jensen Jordbær",
+      "nordjylland",
+      "Hestvangvej 6",
+      "9300",
+      "Sæby",
+      "21219222",
+      "https://jensenjordbaer.dk/",
+      "Gårdbutik med selvbetjening, jordbær fra egne marker og sæsonvarer. Selvpluk tilbydes i sæsonen.",
+      "https://jensenjordbaer.dk/"
+    ],
+    "sources": [
+      "https://jensenjordbaer.dk/",
+      "https://jensenjordbaer.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 323
+  },
+  {
+    "farm": [
+      "faellinggaard",
+      "Fællinggaard",
+      "syddanmark",
+      "Ny Vestergade 70",
+      "5672",
+      "Broby",
+      "23958242",
+      "https://www.faellinggaard.dk/",
+      "Gårdbutik med kød fra gårdens skotske højlandskvæg samt udvalgte delikatesser.",
+      "https://www.faellinggaard.dk/"
+    ],
+    "sources": [
+      "https://www.faellinggaard.dk/",
+      "https://www.faellinggaard.dk/den%20lille%20g%C3%A5rdbutik"
+    ],
+    "note": "",
+    "akraId": 334
+  },
+  {
+    "farm": [
+      "rosagergaard-gaardbutik",
+      "Rosagergaard Gaardbutik",
+      "syddanmark",
+      "Færgevej 1",
+      "5960",
+      "Marstal",
+      "51760770",
+      "http://www.rosagergaard.com/",
+      "Gårdbutik med kød og æg fra egne dyr. Vinterlukket; tjek sæson og åbning før besøget.",
+      "http://www.rosagergaard.com/"
+    ],
+    "sources": [
+      "http://www.rosagergaard.com/",
+      "http://www.rosagergaard.com/kontakt/"
+    ],
+    "note": "",
+    "akraId": 340
+  },
+  {
+    "farm": [
+      "klintholm-gods",
+      "Klintholm Gods",
+      "sjaelland",
+      "Klintholm Alle 1B",
+      "4791",
+      "Borre",
+      "",
+      "https://www.klintholm.dk/",
+      "Gårdbutik ved Klintholm Gods med Hereford-kød fra godsets naturplejende kvæg. Sæsonåbent; tjek gårdens aktuelle åbningstider inden besøget.",
+      "https://www.klintholm.dk/"
+    ],
+    "sources": [
+      "https://www.klintholm.dk/",
+      "https://www.klintholm.dk/gaardbutik"
+    ],
+    "note": "",
+    "akraId": 346
+  },
+  {
+    "farm": [
+      "moellebakkegaard-gaardbutik",
+      "Møllebakkegård Gårdbutik",
+      "sjaelland",
+      "Tolstrupvej 1",
+      "4735",
+      "Mern",
+      "28100280",
+      "https://moellebakkegaard.dk/",
+      "Økologisk gårdbutik med kød og æg fra egne dyr.",
+      "https://moellebakkegaard.dk/"
+    ],
+    "sources": [
+      "https://moellebakkegaard.dk/",
+      "https://moellebakkegaard.dk/gaardbutik",
+      "https://moellebakkegaard.dk/kontakt"
+    ],
+    "note": "Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Tolstrupvej 1A.",
+    "akraId": 376
+  },
+  {
+    "farm": [
+      "poetgaard-faareost-gaardmejeri",
+      "Pøtgaard - Fåreost Gårdmejeri",
+      "midtjylland",
+      "Norupvej 10",
+      "8830",
+      "Tjele",
+      "24768830",
+      "https://poetgaard.dk/",
+      "Gårdmejeri med selvbetjent gårdbutik, fåreoste samt kød og pølser fra egne lam og frilandsgrise.",
+      "https://poetgaard.dk/"
+    ],
+    "sources": [
+      "https://poetgaard.dk/",
+      "https://poetgaard.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 381
+  },
+  {
+    "farm": [
+      "lolle-frugt",
+      "Lolle Frugt",
+      "sjaelland",
+      "Gl Killerup 8",
+      "4990",
+      "Sakskøbing",
+      "21706424",
+      "https://www.lollefrugt.dk/",
+      "Frugtplantage med gårdbutik, selvbetjening, frugt og æblemost. Mulighed for selvpluk i sæsonen.",
+      "https://www.lollefrugt.dk/"
+    ],
+    "sources": [
+      "https://www.lollefrugt.dk/",
+      "https://www.lollefrugt.dk/index.php/gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 386
+  },
+  {
+    "farm": [
+      "den-glade-gris",
+      "Den Glade Gris",
+      "syddanmark",
+      "Gammel Skårupvej 164",
+      "5700",
+      "Svendborg",
+      "22587310",
+      "https://www.gårdbutikkendengladegris.dk/",
+      "Gårdbutik med kød, pølser og pålæg. Tjek butikkens aktuelle åbningstider før besøget.",
+      "https://www.xn--grdbutikkendengladegris-k8b.dk/"
+    ],
+    "sources": [
+      "https://www.xn--grdbutikkendengladegris-k8b.dk/",
+      "https://www.xn--grdbutikkendengladegris-k8b.dk/kontakt.aspx"
+    ],
+    "note": "",
+    "akraId": 393
+  },
+  {
+    "farm": [
+      "gaardagergaard",
+      "Gårdagergård",
+      "sjaelland",
+      "Gårdagervej 1",
+      "4200",
+      "Slagelse",
+      "40538090",
+      "https://www.gaardagergaard.dk/",
+      "Gårdbutik med selvbetjening, sæsonens frugt, most og andre produkter fra gården.",
+      "https://www.gaardagergaard.dk/"
+    ],
+    "sources": [
+      "https://www.gaardagergaard.dk/",
+      "https://www.gaardagergaard.dk/gaardbutikken/",
+      "https://www.gaardagergaard.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 417
+  },
+  {
+    "farm": [
+      "frydenlund-slots-frugtplantage-gaardbutikken",
+      "Frydenlund Slots Frugtplantage, Gårdbutikken",
+      "hovedstaden",
+      "Frydenlunds Alle 23B",
+      "2950",
+      "Vedbæk",
+      "",
+      "https://www.frydenlundslot.dk/",
+      "Gårdbutik ved frugtplantagen med håndplukket frugt, most, marmelade og is.",
+      "https://www.frydenlundslot.dk/"
+    ],
+    "sources": [
+      "https://www.frydenlundslot.dk/"
+    ],
+    "note": "",
+    "akraId": 442
+  },
+  {
+    "farm": [
+      "frugthaven",
+      "Frugthaven",
+      "nordjylland",
+      "Ejstrupvej 23",
+      "9520",
+      "Skørping",
+      "40125170",
+      "http://www.frugtogmost.dk/",
+      "Gårdbutik med æbler og pærer efter sæson, egen æblemost, marmelade og honning.",
+      "http://www.frugtogmost.dk/"
+    ],
+    "sources": [
+      "http://www.frugtogmost.dk/",
+      "http://www.frugtogmost.dk/Kontakt.aspx"
+    ],
+    "note": "",
+    "akraId": 443
+  },
+  {
+    "farm": [
+      "nybro-frugtplantage",
+      "Nybro Frugtplantage",
+      "syddanmark",
+      "Lille Salbyvej 54",
+      "5370",
+      "Mesinge",
+      "22506738",
+      "https://nybrofrugt.dk/",
+      "Gårdbutik ved frugtplantagen med æbler, pærer og æblemost.",
+      "https://nybrofrugt.dk/"
+    ],
+    "sources": [
+      "https://nybrofrugt.dk/",
+      "https://nybrofrugt.dk/kontakt-os/",
+      "https://nybrofrugt.dk/vare/aeblemost-fra-gaardbutik-paa-fyn/"
+    ],
+    "note": "",
+    "akraId": 446
+  },
+  {
+    "farm": [
+      "ausumgaard",
+      "Ausumgaard",
+      "midtjylland",
+      "Holstebrovej 101",
+      "7560",
+      "Hjerm",
+      "97464411",
+      "https://ausumgaard.dk/",
+      "Selvbetjent gårdbutik ved Ausumgaard med gårdens egne kødvarer og mel.",
+      "https://ausumgaard.dk/"
+    ],
+    "sources": [
+      "https://ausumgaard.dk/",
+      "https://ausumgaard.dk/gaardbutik/",
+      "https://ausumgaard.dk/gaardbutik/produkter/"
+    ],
+    "note": "",
+    "akraId": 486
+  },
+  {
+    "farm": [
+      "jordbaergaarden",
+      "Jordbærgården",
+      "hovedstaden",
+      "Råbrovej 58",
+      "2765",
+      "Smørum",
+      "24244360",
+      "https://jordbaergaarden.dk/",
+      "Gårdbutik og jordbær-selvpluk ved Smørum. Udvalget følger sæsonen.",
+      "https://jordbaergaarden.dk/"
+    ],
+    "sources": [
+      "https://jordbaergaarden.dk/",
+      "https://jordbaergaarden.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 487
+  },
+  {
+    "farm": [
+      "raunsmed-fjerkraefarm",
+      "Raunsmed fjerkræfarm",
+      "nordjylland",
+      "Lyngbyvej 120",
+      "9480",
+      "Løkken",
+      "40745252",
+      "https://raunsmed.dk/",
+      "Gårdbutik ved fjerkræfarmen med fjerkræ, æg og andre varer fra gården.",
+      "https://raunsmed.dk/"
+    ],
+    "sources": [
+      "https://raunsmed.dk/",
+      "https://raunsmed.dk/kontakt.aspx",
+      "https://raunsmed.dk/kontakt/forhandlere.aspx"
+    ],
+    "note": "",
+    "akraId": 490
+  },
+  {
+    "farm": [
+      "yduns-have",
+      "Yduns Have",
+      "midtjylland",
+      "Alstrup 2",
+      "8305",
+      "Samsø",
+      "27430039",
+      "https://ydunshavesamsø.dk/",
+      "Økologisk gårdbutik på Samsø med selvbetjening og sæsonens grøntsager.",
+      "https://xn--ydunshavesams-nnb.dk/"
+    ],
+    "sources": [
+      "https://xn--ydunshavesams-nnb.dk/",
+      "https://xn--ydunshavesams-nnb.dk/kontakt-os/"
+    ],
+    "note": "",
+    "akraId": 491
+  },
+  {
+    "farm": [
+      "holgers-jordbaer",
+      "Holgers Jordbær",
+      "midtjylland",
+      "Clemensvej 6",
+      "8530",
+      "Hjortshøj",
+      "20205221",
+      "https://holgers.net/",
+      "Gårdbutik med jordbær og ærter fra egen dyrkning i sæsonen samt andre fødevarer.",
+      "https://holgers.net/"
+    ],
+    "sources": [
+      "https://holgers.net/",
+      "https://holgers.net/find-os/",
+      "https://holgers.net/gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 496
+  },
+  {
+    "farm": [
+      "graasten-fjerkrae-gaardbutik",
+      "Gråsten Fjerkræ Gårdbutik",
+      "syddanmark",
+      "Kværsgade 18",
+      "6300",
+      "Gråsten",
+      "74659071",
+      "https://unghanen.dk/",
+      "Gårdbutik ved Gråsten Fjerkræ med et udvalg af fjerkræprodukter. Tjek aktuelle åbningstider.",
+      "https://unghanen.dk/"
+    ],
+    "sources": [
+      "https://unghanen.dk/",
+      "https://unghanen.dk/kontakt-info/"
+    ],
+    "note": "",
+    "akraId": 502
+  },
+  {
+    "farm": [
+      "avernakoe-gaardbutik",
+      "Avernakø Gårdbutik",
+      "syddanmark",
+      "Skallevej 18",
+      "5602",
+      "Avernakø",
+      "26787470",
+      "https://avernakø-gårdbutik.dk/",
+      "Gårdbutik på Avernakø med okse- og lammekød, grøntsager og most fra egen frugtplantage.",
+      "https://xn--avernak-grdbutik-lob35a.dk/"
+    ],
+    "sources": [
+      "https://xn--avernak-grdbutik-lob35a.dk/",
+      "https://xn--avernak-grdbutik-lob35a.dk/kontakt",
+      "https://xn--avernak-grdbutik-lob35a.dk/gaardbutikken"
+    ],
+    "note": "",
+    "akraId": 505
+  },
+  {
+    "farm": [
+      "velfaerdskoed-v-karen-torben",
+      "Velfærdskød v/Karen & Torben",
+      "sjaelland",
+      "Vindebækvej 25",
+      "4792",
+      "Askeby",
+      "20356216",
+      "https://velfærdskød.dk/",
+      "Gårdbutik på Møn med kød fra gårdens Jersey-kvæg og æg.",
+      "https://xn--velfrdskd-j3a6r.dk/"
+    ],
+    "sources": [
+      "https://xn--velfrdskd-j3a6r.dk/",
+      "https://xn--velfrdskd-j3a6r.dk/gaardbutik.php",
+      "https://xn--velfrdskd-j3a6r.dk/kontakt.php"
+    ],
+    "note": "",
+    "akraId": 506
+  },
+  {
+    "farm": [
+      "lundsbjerggaard",
+      "Lundsbjerggaard",
+      "syddanmark",
+      "Stormarken 47",
+      "5471",
+      "Søndersø",
+      "25119094",
+      "https://lundsbjerggaard.dk/",
+      "Gårdbutik med is og oksekød fra gårdens Jersey-køer.",
+      "https://lundsbjerggaard.dk/"
+    ],
+    "sources": [
+      "https://lundsbjerggaard.dk/"
+    ],
+    "note": "",
+    "akraId": 509
+  },
+  {
+    "farm": [
+      "bigaard-oekologisk-gartneri",
+      "Bigaard Økologisk Gartneri",
+      "syddanmark",
+      "Tøndervej 64",
+      "6330",
+      "Padborg",
+      "81613003",
+      "http://bigaard.dk",
+      "Økologisk gartneri med gårdbutik, sæsonens grøntsager, kartofler og jordbær.",
+      "http://bigaard.dk"
+    ],
+    "sources": [
+      "http://bigaard.dk"
+    ],
+    "note": "",
+    "akraId": 517
+  },
+  {
+    "farm": [
+      "kildegaarden-highland-cattle",
+      "KildeGaarden Highland Cattle",
+      "syddanmark",
+      "Skalkendrupvej 42",
+      "5800",
+      "Nyborg",
+      "24912400",
+      "https://kildegaarden-hlc.dk/",
+      "Gårdbutik med oksekød fra eget skotsk højlandskvæg.",
+      "https://kildegaarden-hlc.dk/"
+    ],
+    "sources": [
+      "https://kildegaarden-hlc.dk/"
+    ],
+    "note": "",
+    "akraId": 518
+  },
+  {
+    "farm": [
+      "gartneriet-lumbygaard",
+      "Gartneriet Lumbygaard",
+      "syddanmark",
+      "H.C. Lumbyes Vej 58",
+      "5270",
+      "Odense N",
+      "60140298",
+      "https://www.lumbygaard.dk",
+      "Gartneri med stalddørssalg af grøntsager, æg og kød fra egne dyr.",
+      "https://www.lumbygaard.dk"
+    ],
+    "sources": [
+      "https://www.lumbygaard.dk",
+      "https://www.lumbygaard.dk/kontakt.html"
+    ],
+    "note": "",
+    "akraId": 526
+  },
+  {
+    "farm": [
+      "haekbaek-oekologiske-frugtplantage",
+      "Hækbæk Økologiske Frugtplantage",
+      "sjaelland",
+      "Næsvangsvej 12",
+      "4550",
+      "Asnæs",
+      "23606960",
+      "https://www.haekbaek.dk/",
+      "Økologisk frugtplantage med vejbod, æbler, pærer, jordbær og most efter sæson.",
+      "https://www.haekbaek.dk/"
+    ],
+    "sources": [
+      "https://www.haekbaek.dk/"
+    ],
+    "note": "",
+    "akraId": 544
+  },
+  {
+    "farm": [
+      "baaring-vig-frugtplantage",
+      "Båring Vig Frugtplantage",
+      "syddanmark",
+      "Tanggyden 2",
+      "5466",
+      "Asperup",
+      "93843922",
+      "https://www.baaringvigfrugt.com/",
+      "Familiedrevet frugtplantage med gårdbutik, æbler, pærer, most og selvpluk i sæsonen.",
+      "https://www.baaringvigfrugt.com/"
+    ],
+    "sources": [
+      "https://www.baaringvigfrugt.com/"
+    ],
+    "note": "",
+    "akraId": 700
+  },
+  {
+    "farm": [
+      "fjordvang-frugtplantage",
+      "Fjordvang Frugtplantage",
+      "syddanmark",
+      "Hasmarkmosen 18",
+      "5450",
+      "Otterup",
+      "64871112",
+      "http://www.fjordvangfrugtplantage.dk/",
+      "Frugtplantage med gårdbutik og håndplukkede æbler og pærer. Kør ind fra Hasmarkmosen ved nr. 18.",
+      "http://www.fjordvangfrugtplantage.dk/"
+    ],
+    "sources": [
+      "http://www.fjordvangfrugtplantage.dk/",
+      "http://www.fjordvangfrugtplantage.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 706
+  },
+  {
+    "farm": [
+      "samsoe-baer",
+      "Samsø Bær",
+      "midtjylland",
+      "Sildeballe 35",
+      "8305",
+      "Samsø",
+      "44114800",
+      "https://samsobaer.dk/",
+      "Gårdbutik ved bærproduktionen med marmelade, saft, rapsolie og snaps.",
+      "https://samsobaer.dk/"
+    ],
+    "sources": [
+      "https://samsobaer.dk/",
+      "https://samsobaer.dk/gaardbutikken-i-sildeballe/",
+      "https://samsobaer.dk/kontakt-os/"
+    ],
+    "note": "",
+    "akraId": 714
+  },
+  {
+    "farm": [
+      "hovedvejens-gaardbutik-nr-aaby",
+      "Hovedvejens Gårdbutik Nr Åby",
+      "syddanmark",
+      "Hovedvejen 234",
+      "5580",
+      "Nørre Aaby",
+      "27642728",
+      "http://www.hovedvejensgaardbutik.dk/index.html",
+      "Gårdbutik med årstidens frugt og grønt fra egen avl og lokale avlere.",
+      "http://www.hovedvejensgaardbutik.dk/index.html"
+    ],
+    "sources": [
+      "http://www.hovedvejensgaardbutik.dk/index.html",
+      "http://www.hovedvejensgaardbutik.dk/frugtoggront.html",
+      "http://www.hovedvejensgaardbutik.dk/indslevbeer.html"
+    ],
+    "note": "",
+    "akraId": 728
+  },
+  {
+    "farm": [
+      "thy-oekobaer",
+      "Thy Økobær",
+      "nordjylland",
+      "Legindvej 139",
+      "7752",
+      "Snedsted",
+      "21762920",
+      "https://thyokobaer.dk/",
+      "Økologisk bærplantage med ubemandet gårdbutik, saft og sirup fra egne bær.",
+      "https://thyokobaer.dk/"
+    ],
+    "sources": [
+      "https://thyokobaer.dk/",
+      "https://thyokobaer.dk/gardsalg/",
+      "https://thyokobaer.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 738
+  },
+  {
+    "farm": [
+      "freerslev-kotel",
+      "Freerslev Kotel",
+      "hovedstaden",
+      "Roskildevej 207",
+      "3330",
+      "Gørløse",
+      "23371928",
+      "https://www.freerslevkotel.dk/",
+      "Gårdbutik med oksekød fra eget kvæg, friske æg samt hjemmelavet syltetøj og saft.",
+      "https://www.freerslevkotel.dk/"
+    ],
+    "sources": [
+      "https://www.freerslevkotel.dk/",
+      "https://www.freerslevkotel.dk/gaardbutik-freerslev-kotel/",
+      "https://www.freerslevkotel.dk/kontakt-freerslev-kotel/"
+    ],
+    "note": "",
+    "akraId": 742
+  },
+  {
+    "farm": [
+      "byaasgaard-gaardbutik",
+      "Byaasgaard Gårdbutik",
+      "hovedstaden",
+      "Amtsvejen 340",
+      "3390",
+      "Hundested",
+      "47923102",
+      "https://byaas.dk/farmshop/",
+      "Gårdbutik og kaffebar med egne grøntsager, æg og lokale fødevarer.",
+      "https://byaas.dk/gaardbutik/"
+    ],
+    "sources": [
+      "https://byaas.dk/gaardbutik/",
+      "https://byaas.dk/kontakt/",
+      "https://byaas.dk/en/gaardbutik/"
+    ],
+    "note": "Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Amtsvejen 340A.",
+    "akraId": 745
+  },
+  {
+    "farm": [
+      "nystedgaard",
+      "Nystedgård",
+      "hovedstaden",
+      "Hesselvej 79",
+      "3660",
+      "Stenløse",
+      "",
+      "https://nystedgaard.dk/",
+      "Gårdbutik med frisklagte økologiske æg fra gårdens egne høns.",
+      "https://nystedgaard.dk/"
+    ],
+    "sources": [
+      "https://nystedgaard.dk/"
+    ],
+    "note": "",
+    "akraId": 747
+  },
+  {
+    "farm": [
+      "asgaard-alleroed",
+      "Asgård Allerød",
+      "hovedstaden",
+      "Sørupgårdsvej 12",
+      "3450",
+      "Allerød",
+      "",
+      "https://asgaard-alleroed.dk/",
+      "Gårdsalg med grøntsager, æg og honning. Sortimentet følger sæsonen.",
+      "https://asgaard-alleroed.dk/"
+    ],
+    "sources": [
+      "https://asgaard-alleroed.dk/",
+      "https://asgaard-alleroed.dk/kontakt-os/"
+    ],
+    "note": "",
+    "akraId": 749
+  },
+  {
+    "farm": [
+      "farmersmarket-i-helsinge",
+      "Farmersmarket i Helsinge",
+      "hovedstaden",
+      "Kæderupvej 3",
+      "3200",
+      "Helsinge",
+      "",
+      "https://www.gaardbutikken.com/",
+      "Gårdbutik med kød fra egne højlandskvæg, grise og lam samt æg, grøntsager og honning.",
+      "https://www.gaardbutikken.com/"
+    ],
+    "sources": [
+      "https://www.gaardbutikken.com/",
+      "https://www.gaardbutikken.com/oekologiske-produkter",
+      "https://www.gaardbutikken.com/klimaplan"
+    ],
+    "note": "",
+    "akraId": 751
+  },
+  {
+    "farm": [
+      "hegnstrup-oekologisk-jordbrug",
+      "Hegnstrup Økologisk Jordbrug",
+      "hovedstaden",
+      "Gl Københavnsvej 14",
+      "3550",
+      "Slangerup",
+      "60860687",
+      "https://www.hegnstrup.dk/",
+      "Gårdbutik med æg, grøntsager, frugt, bær og honning fra eget økologisk jordbrug.",
+      "https://www.hegnstrup.dk/"
+    ],
+    "sources": [
+      "https://www.hegnstrup.dk/"
+    ],
+    "note": "",
+    "akraId": 752
+  },
+  {
+    "farm": [
+      "lammefjordens-spisekammer",
+      "Lammefjordens spisekammer",
+      "sjaelland",
+      "Adelers Alle 102",
+      "4540",
+      "Fårevejle",
+      "40417550",
+      "https://lammefjordens-spisekammer.dk/",
+      "Gårdbutik med kartofler og sæsonens grøntsager fra Lammefjorden.",
+      "https://lammefjordens-spisekammer.dk/"
+    ],
+    "sources": [
+      "https://lammefjordens-spisekammer.dk/",
+      "https://lammefjordens-spisekammer.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 755
+  },
+  {
+    "farm": [
+      "munkebjerggaard",
+      "Munkebjerggård",
+      "sjaelland",
+      "Strandgårdsvej 4",
+      "4540",
+      "Fårevejle",
+      "21477772",
+      "https://munkebjerggaard.dk/",
+      "Gårdbutik med sæsonens grøntsager, frugt og bær fra marken samt madvarer fra eget køkken.",
+      "https://munkebjerggaard.dk/"
+    ],
+    "sources": [
+      "https://munkebjerggaard.dk/",
+      "https://munkebjerggaard.dk/find-os/",
+      "https://munkebjerggaard.dk/gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 758
+  },
+  {
+    "farm": [
+      "astrup-gods",
+      "Astrup Gods",
+      "sjaelland",
+      "Astrupvej 11",
+      "4450",
+      "Jyderup",
+      "25664060",
+      "https://astrupgods.dk/",
+      "Gårdbutik ved Astrup Gods med kød fra vildt nedlagt på godsets jorder.",
+      "https://astrupgods.dk/"
+    ],
+    "sources": [
+      "https://astrupgods.dk/",
+      "https://astrupgods.dk/gaardbutikken/",
+      "https://astrupgods.dk/godset/kontakt/"
+    ],
+    "note": "",
+    "akraId": 769
+  },
+  {
+    "farm": [
+      "gaardbutikken-planter-og-pesto",
+      "Gårdbutikken Planter og Pesto",
+      "midtjylland",
+      "Sønderkjærsvej 2",
+      "6971",
+      "Spjald",
+      "21641611",
+      "https://planterogpesto.dk/",
+      "Gårdbutik med pesto, marmelade, sirup og chutney lavet af frugt og grøntsager fra egen have.",
+      "https://planterogpesto.dk/"
+    ],
+    "sources": [
+      "https://planterogpesto.dk/",
+      "https://planterogpesto.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 771
+  },
+  {
+    "farm": [
+      "elkaerholm-aroniabaer",
+      "Elkærholm Aroniabær",
+      "syddanmark",
+      "Elkærholmvej 6",
+      "6040",
+      "Egtved",
+      "60707525",
+      "https://www.elkaerholm.dk/",
+      "Gårdbutik ved aroniaplantagen med aroniasaft og andre bærprodukter.",
+      "https://www.elkaerholm.dk/"
+    ],
+    "sources": [
+      "https://www.elkaerholm.dk/",
+      "https://www.elkaerholm.dk/gaardbutikker/",
+      "https://www.elkaerholm.dk/kontakt-elkaerholm/"
+    ],
+    "note": "",
+    "akraId": 772
+  },
+  {
+    "farm": [
+      "oester-hegnet",
+      "Øster Hegnet",
+      "midtjylland",
+      "Hvalpsundvej 6",
+      "7870",
+      "Roslev",
+      "30508754",
+      "https://oesterhegnet.dk/",
+      "Gårdbutik med jordbær, kartofler, saft og honning. Selvpluk af jordbær i sæsonen.",
+      "https://oesterhegnet.dk/"
+    ],
+    "sources": [
+      "https://oesterhegnet.dk/",
+      "https://oesterhegnet.dk/gaardbutik/",
+      "https://oesterhegnet.dk/kontakt-os/"
+    ],
+    "note": "",
+    "akraId": 783
+  },
+  {
+    "farm": [
+      "hebbelstrupgaard-is",
+      "Hebbelstrupgaard Is",
+      "nordjylland",
+      "Hebbelstrupvej 157",
+      "9800",
+      "Hjørring",
+      "91525524",
+      "https://www.hebbelstrupgaard.com/",
+      "Gårdbutik og café på Hebbelstrupgaard med hjemmelavet is. Tjek sæson og åbningstider.",
+      "https://www.hebbelstrupgaard.com/"
+    ],
+    "sources": [
+      "https://www.hebbelstrupgaard.com/",
+      "https://www.hebbelstrupgaard.com/kontakt"
+    ],
+    "note": "",
+    "akraId": 842
+  },
+  {
+    "farm": [
+      "tvis-gaardbutik",
+      "Tvis Gårdbutik",
+      "midtjylland",
+      "Morrevej 12",
+      "7500",
+      "Holstebro",
+      "97435070",
+      "https://tvisgaardbutik.dk",
+      "Gårdbutik med fjerkræ, herunder kyllinger og sæsonens julefjerkræ.",
+      "https://tvisgaardbutik.dk"
+    ],
+    "sources": [
+      "https://tvisgaardbutik.dk",
+      "https://tvisgaardbutik.dk/hus-udlejes/",
+      "https://tvisgaardbutik.dk/om-os/"
+    ],
+    "note": "",
+    "akraId": 861
+  },
+  {
+    "farm": [
+      "butik-pilti",
+      "Butik Pilti",
+      "sjaelland",
+      "Strandvejen 11",
+      "4733",
+      "Tappernøje",
+      "56517857",
+      "https://marjatta.dk/om-marjatta/butik-pilti/",
+      "Socialøkonomisk gårdbutik under Marjatta med grøntsager og udvalgte fødevarer.",
+      "https://marjatta.dk/om-marjatta/butik-pilti/"
+    ],
+    "sources": [
+      "https://marjatta.dk/om-marjatta/butik-pilti/",
+      "https://marjatta.dk/kontakt/",
+      "https://marjatta.dk/om-marjatta/organisationen-og-kontakter/"
+    ],
+    "note": "",
+    "akraId": 868
+  },
+  {
+    "farm": [
+      "lindbjerggaard",
+      "Lindbjerggård",
+      "midtjylland",
+      "Hulen 16",
+      "8930",
+      "Randers NØ",
+      "61782282",
+      "https://lindbjerggaard.dk/",
+      "Gårdbutik med økologisk oksekød og fjerkræ.",
+      "https://lindbjerggaard.dk/"
+    ],
+    "sources": [
+      "https://lindbjerggaard.dk/",
+      "https://lindbjerggaard.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 872
+  },
+  {
+    "farm": [
+      "skovloekke",
+      "Skovløkke",
+      "syddanmark",
+      "Birketvedvejen 35",
+      "5290",
+      "Marslev",
+      "30304208",
+      "https://skovloekke.dk/",
+      "Gårdbutik med kartofler, jordbær og grøntsager fra eget gartneri. Sæsonåbent.",
+      "https://skovloekke.dk/"
+    ],
+    "sources": [
+      "https://skovloekke.dk/",
+      "https://skovloekke.dk/index.php/contact/"
+    ],
+    "note": "",
+    "akraId": 879
+  },
+  {
+    "farm": [
+      "thorslundgaard-gaardbutik",
+      "Thorslundgård Gårdbutik",
+      "syddanmark",
+      "Stensbyvej 18",
+      "5485",
+      "Skamby",
+      "71796366",
+      "https://thorslundgaard.dk/",
+      "Gårdbutik med sæsonens varer fra gården. Se hjemmesiden for aktuelt udvalg.",
+      "https://thorslundgaard.dk/"
+    ],
+    "sources": [
+      "https://thorslundgaard.dk/"
+    ],
+    "note": "",
+    "akraId": 880
+  },
+  {
+    "farm": [
+      "gyldenlund",
+      "Gyldenlund",
+      "midtjylland",
+      "Gram Møllevej 4",
+      "7130",
+      "Juelsminde",
+      "22247776",
+      "https://www.gyldenlund.info/",
+      "Gårdbutik og mølleri med mel af korn fra egen jord samt udvalgte fødevarer.",
+      "https://www.gyldenlund.info/"
+    ],
+    "sources": [
+      "https://www.gyldenlund.info/",
+      "https://www.gyldenlund.info/home/kontakt/"
+    ],
+    "note": "",
+    "akraId": 883
+  },
+  {
+    "farm": [
+      "fridalund",
+      "Fridalund",
+      "syddanmark",
+      "Enghavevej 60",
+      "5390",
+      "Martofte",
+      "",
+      "https://www.fridalund.dk",
+      "Gårdbutik med økologiske grøntsager og æg fra gårdens egen produktion.",
+      "https://fridalund.dk/"
+    ],
+    "sources": [
+      "https://fridalund.dk/",
+      "https://fridalund.dk/kontakt/",
+      "https://fridalund.dk/gaardbutik-2/"
+    ],
+    "note": "",
+    "akraId": 898
+  },
+  {
+    "farm": [
+      "aakandegaard",
+      "Åkandegård",
+      "sjaelland",
+      "Åkandegård 1",
+      "4241",
+      "Vemmelev",
+      "29921712",
+      "https://aakandegaard.dk",
+      "Selvbetjent gårdbutik med græsæg og sæsonens frugt og grønt.",
+      "https://aakandegaard.dk"
+    ],
+    "sources": [
+      "https://aakandegaard.dk"
+    ],
+    "note": "",
+    "akraId": 989
+  },
+  {
+    "farm": [
+      "bradstrupgaard-gaardsalg",
+      "Bradstrupgård Gårdsalg",
+      "nordjylland",
+      "Døstrupvej 168",
+      "9500",
+      "Hobro",
+      "28771124",
+      "https://www.bradstrupgaard.dk/",
+      "Gårdbutik med okse- og kalvekød fra gårdens egne dyr samt æg.",
+      "https://www.bradstrupgaard.dk/"
+    ],
+    "sources": [
+      "https://www.bradstrupgaard.dk/",
+      "https://www.bradstrupgaard.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 1184
+  },
+  {
+    "farm": [
+      "thorshoejgaard",
+      "Thorshøjgaard",
+      "hovedstaden",
+      "Museumsvej 1",
+      "3120",
+      "Dronningmølle",
+      "23479209",
+      "https://www.thorshoejgaard-biodynamisk.dk/",
+      "Biodynamisk gårdbutik med lamme-, svine-, kalve- og oksekød fra egne dyr. Udvalget afhænger af slagtning.",
+      "https://www.thorshoejgaard-biodynamisk.dk/"
+    ],
+    "sources": [
+      "https://www.thorshoejgaard-biodynamisk.dk/"
+    ],
+    "note": "Besøgsadressen følger butikkens egen side; kortpositionen bruger DAR-bygningen Museumsvej 1A.",
+    "akraId": 1241
+  },
+  {
+    "farm": [
+      "farm-living-ged-og-groent",
+      "Farm Living Ged og Grønt",
+      "midtjylland",
+      "Trustrupvej 10",
+      "8350",
+      "Hundslund",
+      "20710844",
+      "https://farmliving-gedoggroent.dk/",
+      "Økologisk landbrug med gårdbutik i Sondrup. Kontakt gården for det aktuelle udvalg.",
+      "https://farmliving-gedoggroent.dk/"
+    ],
+    "sources": [
+      "https://farmliving-gedoggroent.dk/"
+    ],
+    "note": "",
+    "akraId": 1244
+  },
+  {
+    "farm": [
+      "roenhoejgaard",
+      "Rønhøjgaard",
+      "nordjylland",
+      "Gunderupvej 26",
+      "9640",
+      "Farsø",
+      "20142214",
+      "https://roenhoejgaard.dk/",
+      "Gårdbutik med økologiske frilandsænder og andre fjerkræprodukter.",
+      "https://roenhoejgaard.dk/"
+    ],
+    "sources": [
+      "https://roenhoejgaard.dk/",
+      "https://roenhoejgaard.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 1249
+  },
+  {
+    "farm": [
+      "langemarksgaard",
+      "Langemarksgaard",
+      "midtjylland",
+      "Langemarksvej 17",
+      "8305",
+      "Samsø",
+      "20310098",
+      "https://www.langemarksgaard.dk/",
+      "Familiedrevet gårdbutik med egne kartofler, frugt, grøntsager og krydderurter samt varer fra andre Samsø-producenter.",
+      "https://www.langemarksgaard.dk/"
+    ],
+    "sources": [
+      "https://www.langemarksgaard.dk/"
+    ],
+    "note": "",
+    "akraId": 1257
+  },
+  {
+    "farm": [
+      "mejnerts-gaardbutik",
+      "Mejnerts Gårdbutik",
+      "sjaelland",
+      "Forsingevej 4",
+      "4470",
+      "Svebølle",
+      "59294707",
+      "https://mejnerts.dk/",
+      "Selvbetjent gårdbutik med økologisk mel, frø, kerner, kartofler og honning.",
+      "https://mejnerts.dk/"
+    ],
+    "sources": [
+      "https://mejnerts.dk/",
+      "https://mejnerts.dk/mejnerts-gaardbutik/",
+      "https://mejnerts.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 1274
+  },
+  {
+    "farm": [
+      "thorlin-spisested-og-gaardbutik",
+      "Thorlin Spisested og Gårdbutik",
+      "sjaelland",
+      "Knuthenlundvej 6",
+      "4952",
+      "Stokkemarke",
+      "27813089",
+      "https://www.thorlin.dk/",
+      "Gårdbutik og spisested med kød fra gårdens grise og lam.",
+      "https://www.thorlin.dk/"
+    ],
+    "sources": [
+      "https://www.thorlin.dk/",
+      "https://www.thorlin.dk/kontakt-os"
+    ],
+    "note": "",
+    "akraId": 1280
+  },
+  {
+    "farm": [
+      "groentsagshytten",
+      "Grøntsagshytten",
+      "midtjylland",
+      "Stadionsvej 24",
+      "8305",
+      "Samsø",
+      "40301364",
+      "https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg",
+      "Selvbetjent gårdbutik på Samsø med årstidens lokale grøntsager og kartofler.",
+      "https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg"
+    ],
+    "sources": [
+      "https://goforlocal.dk/find-lokale-foedevarer/groentsagshytten-i-onsbjerg",
+      "https://goforlocal.dk/kontakt"
+    ],
+    "note": "",
+    "akraId": 1281
+  },
+  {
+    "farm": [
+      "hammersly",
+      "Hammersly",
+      "hovedstaden",
+      "Kirkebyen 36",
+      "3790",
+      "Hasle",
+      "93945268",
+      "https://www.hammersly.dk/",
+      "Grøntsagslandbrug med gårdbutik og sæsonens friskhøstede grøntsager.",
+      "https://www.hammersly.dk/"
+    ],
+    "sources": [
+      "https://www.hammersly.dk/"
+    ],
+    "note": "",
+    "akraId": 1315
+  },
+  {
+    "farm": [
+      "kildegaardbutik",
+      "Kildegaardbutik",
+      "syddanmark",
+      "Assensvej 302",
+      "5642",
+      "Millinge",
+      "24859787",
+      "https://www.kildegaardbutik.dk/",
+      "Gårdbutik og vejbod med kartofler, jordbær, grøntsager og most. Udvalget følger sæsonen.",
+      "https://www.kildegaardbutik.dk/"
+    ],
+    "sources": [
+      "https://www.kildegaardbutik.dk/",
+      "https://www.kildegaardbutik.dk/vejbod"
+    ],
+    "note": "",
+    "akraId": 1336
+  },
+  {
+    "farm": [
+      "guldager-highland-cattle",
+      "Guldager Highland Cattle",
+      "syddanmark",
+      "Tarp Byvej 6F",
+      "6715",
+      "Esbjerg N",
+      "28734911",
+      "https://www.guldagerhighlandcattle.dk/",
+      "Gårdbutik med oksekød fra skotsk højlandskvæg og produkter fra eget slagteri.",
+      "https://www.guldagerhighlandcattle.dk/"
+    ],
+    "sources": [
+      "https://www.guldagerhighlandcattle.dk/",
+      "https://www.guldagerhighlandcattle.dk/gaardbutikken.asp",
+      "https://www.guldagerhighlandcattle.dk/kontakt.asp"
+    ],
+    "note": "",
+    "akraId": 1353
+  },
+  {
+    "farm": [
+      "havredal-gaardbutik",
+      "Havredal Gårdbutik",
+      "midtjylland",
+      "Ulvedalsvej 32",
+      "7470",
+      "Karup J",
+      "22567518",
+      "https://havredal.dk/havredal-gaardbutik/",
+      "Socialøkonomisk gårdbutik med grøntsager og kød fra Havredals landbrug.",
+      "https://havredal.dk/havredal-gaardbutik/"
+    ],
+    "sources": [
+      "https://havredal.dk/havredal-gaardbutik/",
+      "https://havredal.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 1354
+  },
+  {
+    "farm": [
+      "peters-gartneri",
+      "Peters Gartneri",
+      "midtjylland",
+      "Ørnevænget 37",
+      "8330",
+      "Beder",
+      "23327788",
+      "https://petersgartneri.dk/",
+      "Økologisk gårdbutik med grøntsager, frugt, bær og krydderurter fra gartneriet. Udvalget følger sæsonen.",
+      "https://petersgartneri.dk/"
+    ],
+    "sources": [
+      "https://petersgartneri.dk/"
+    ],
+    "note": "",
+    "akraId": 1361
+  },
+  {
+    "farm": [
+      "mindelundgaard",
+      "Mindelundgaard",
+      "midtjylland",
+      "Mindelundvej 8",
+      "7400",
+      "Herning",
+      "42614544",
+      "https://mindelundgaard.dk/",
+      "Familiedrevet gårdbutik med egne grøntsager, honning og sæsonens blomster og planter.",
+      "https://mindelundgaard.dk/"
+    ],
+    "sources": [
+      "https://mindelundgaard.dk/",
+      "https://mindelundgaard.dk/kontakt/"
+    ],
+    "note": "",
+    "akraId": 1792523824972
+  },
+  {
+    "farm": [
+      "ravnsminde",
+      "Ravnsminde",
+      "syddanmark",
+      "Brandtlundvej 106",
+      "7080",
+      "Børkop",
+      "26716802",
+      "https://ravnsminde.com/gaardbutikken/",
+      "Gårdbutik med kød fra gården samt marmelade, most og andre fødevarer fra udvalgte producenter.",
+      "https://ravnsminde.com/gaardbutikken/"
+    ],
+    "sources": [
+      "https://ravnsminde.com/gaardbutikken/",
+      "https://ravnsminde.com/vores-gaardbutik/"
+    ],
+    "note": "",
+    "akraId": 1792558827374
+  },
+  {
+    "farm": [
+      "gaardbutik-paa-ajstrupvej",
+      "Gårdbutik på Ajstrupvej",
+      "midtjylland",
+      "Ajstrupvej 50",
+      "8340",
+      "Malling",
+      "22535232",
+      "https://gaardbutik-paa-ajstrupvej.dk/",
+      "Sæsonåben gårdbutik med jordbær, kartofler, ærter, kål og øvrig frugt og grønt.",
+      "https://gaardbutik-paa-ajstrupvej.dk/"
+    ],
+    "sources": [
+      "https://gaardbutik-paa-ajstrupvej.dk/"
+    ],
+    "note": "",
+    "akraId": 1792578448826
+  },
+  {
+    "farm": [
+      "kirstineborg",
+      "Kirstineborg",
+      "midtjylland",
+      "Mejlbyvej 268",
+      "8530",
+      "Hjortshøj",
+      "21259094",
+      "https://kirstineborg.dk/",
+      "Frugtplantage med gårdbutik og frugt fra egen avl. Sæsonen starter typisk sidst i august og varer, til høsten er solgt.",
+      "https://kirstineborg.dk/"
+    ],
+    "sources": [
+      "https://kirstineborg.dk/",
+      "https://kirstineborg.dk/om-gaardbutikken",
+      "https://kirstineborg.dk/kontakt-aabningstider"
+    ],
+    "note": "",
+    "akraId": 1792579747434
+  },
+  {
+    "farm": [
+      "storhaven",
+      "Storhaven",
+      "nordjylland",
+      "Storhavevej 4",
+      "9940",
+      "Læsø",
+      "24276667",
+      "https://storhaven.dk/",
+      "Gårdbutik, café og besøgsgård på Læsø med egen is og lokale delikatesser.",
+      "https://storhaven.dk/"
+    ],
+    "sources": [
+      "https://storhaven.dk/"
+    ],
+    "note": "",
+    "akraId": 1792737667008
+  }
+]

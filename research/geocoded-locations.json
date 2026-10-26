@@ -1030,5 +1030,933 @@
     "latitude": 57.06533774639891,
     "source": "https://adressevaelger.dk/husnumre/0a3f5099-a0a7-32b8-e044-0003ba298018?token=adressevaelger123",
     "approximate": false
+  },
+  {
+    "id": "fuglebjerggaard",
+    "address": "Hemmingstrupvej 8, Hemmingstrup, 3200 Helsinge",
+    "longitude": 12.242859279215077,
+    "latitude": 56.05604977483362,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507f-6e5f-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "stevninggaard-frugt-og-baer",
+    "address": "Stevning Gade 23, 6430 Nordborg",
+    "longitude": 9.818144440873354,
+    "latitude": 55.003427464955486,
+    "source": "https://adressevaelger.dk/husnumre/b06d3b66-7a2a-46dd-b878-328570e318bf?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hasagergaard",
+    "address": "Kirkeskovvej 85, Skjød, 8450 Hammel",
+    "longitude": 9.92594523286464,
+    "latitude": 56.31341627149355,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5093-ce58-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "kroghs-groent",
+    "address": "Sottrup By 8, 6372 Bylderup-Bov",
+    "longitude": 9.079155795942082,
+    "latitude": 54.970609773685275,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508c-9cfe-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "elmegaarden",
+    "address": "Damager 7, 6560 Sommersted",
+    "longitude": 9.301661143272186,
+    "latitude": 55.32250984676886,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508c-bb27-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hestehavegaard-frugtplantage",
+    "address": "Hestehave 19, Kær, 6400 Sønderborg",
+    "longitude": 9.778694022870203,
+    "latitude": 54.945102957619596,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508c-7069-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "rishoejgaard",
+    "address": "Mejlbyvej 136, 8250 Egå",
+    "longitude": 10.267490813072296,
+    "latitude": 56.22847702627299,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5096-9484-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "paradiset",
+    "address": "Norsmindevej 66, 8340 Malling",
+    "longitude": 10.23765252087259,
+    "latitude": 56.03204058135551,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5096-a36a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "sdr-vissing-torvehal",
+    "address": "Toftegårdsvej 2, Sdr Vissing, 8740 Brædstrup",
+    "longitude": 9.641869354484538,
+    "latitude": 56.020598999559795,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508e-b7d7-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "moeltrup",
+    "address": "Møltrupvej 70, Timring, 7480 Vildbjerg",
+    "longitude": 8.760368610904841,
+    "latitude": 56.175971812703835,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5092-cc4d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lystlunden",
+    "address": "Vestergade 166, 6051 Almind",
+    "longitude": 9.454563308065454,
+    "latitude": 55.566684093943884,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5090-66eb-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "krastrupsoegaard",
+    "address": "Aalborgvej 52, Lyngby, 9520 Skørping",
+    "longitude": 10.043447026731375,
+    "latitude": 56.862468998105335,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509b-a65d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "thy-gaardbutik",
+    "address": "Stagstrup Skolevej 13, Stagstrup, 7752 Snedsted",
+    "longitude": 8.579920571639624,
+    "latitude": 56.8760801834289,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-9c77-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "birkemosehus",
+    "address": "Birkelyvej 6, Lorup, 4180 Sorø",
+    "longitude": 11.478643108241043,
+    "latitude": 55.381734932202484,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-f3e3-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "adamsgaarden",
+    "address": "Aggersvoldvej 3A, 4450 Jyderup",
+    "longitude": 11.423671764667885,
+    "latitude": 55.66705956906367,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5084-a8c3-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "sidinge",
+    "address": "Sidingevej 39, Sidinge, 4560 Vig",
+    "longitude": 11.645466716504725,
+    "latitude": 55.837694917574396,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5084-ecb3-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "oestergaard-frugt-most",
+    "address": "Østergaardsvej 35, Dalby, 3630 Jægerspris",
+    "longitude": 11.963546674848045,
+    "latitude": 55.79320155833955,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5080-814b-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "esromgaard",
+    "address": "Frederiksværksvej 11C, Esbønderup Skovhuse, 3230 Græsted",
+    "longitude": 12.391711612833697,
+    "latitude": 56.04149463934483,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507f-29ed-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": true
+  },
+  {
+    "id": "rokkedysse",
+    "address": "Lejrvej 45, Kirke Værløse, 3500 Værløse",
+    "longitude": 12.32403186344741,
+    "latitude": 55.77982913706367,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507e-29c3-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "koeng",
+    "address": "Bankevejen 1, 4750 Lundby",
+    "longitude": 11.817739901343995,
+    "latitude": 55.11353293345017,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5087-26c9-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "vibaekgaard",
+    "address": "Kostervej 73, Koster, 4780 Stege",
+    "longitude": 12.199403818967463,
+    "latitude": 54.96919790010605,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-8f8d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "boegebjerggaard",
+    "address": "Skovvangsvej 17, Barløse, 5610 Assens",
+    "longitude": 9.968798915388513,
+    "latitude": 55.33502367715011,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5087-cc18-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "holistia",
+    "address": "Søhusvej 161, Kirkendrup, 5270 Odense N",
+    "longitude": 10.338780206562493,
+    "latitude": 55.44531814349112,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5089-cfa6-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "drivhuset",
+    "address": "Korsholmvej 178, Vesterbølle, 9631 Gedsted",
+    "longitude": 9.380808303327457,
+    "latitude": 56.71589736753112,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5099-0d34-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "thy-lam",
+    "address": "Oddesundvej 105, Skjoldborg, 7752 Snedsted",
+    "longitude": 8.600949368990573,
+    "latitude": 56.89754029937696,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-920c-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "kaloe-oekologisk-gaardbutik",
+    "address": "Molsvej 38, 8410 Rønde",
+    "longitude": 10.507164667044169,
+    "latitude": 56.27697296327796,
+    "source": "https://adressevaelger.dk/husnumre/02c53cfa-735a-4aa1-aa6e-0eb3478adaa6?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "karensminde-frugtplantage",
+    "address": "Eriksmindevej 38, Bjerager, 8300 Odder",
+    "longitude": 10.209680537476268,
+    "latitude": 55.94919170572125,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5094-6610-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hopballe-moelle",
+    "address": "Hopballevej 56, 7300 Jelling",
+    "longitude": 9.469317556964459,
+    "latitude": 55.74173931643982,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5090-c7a6-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lamdrup-naturkoed",
+    "address": "Lamdrupvej 23, 5854 Gislev",
+    "longitude": 10.622127617630722,
+    "latitude": 55.212664448510886,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508a-4018-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "skodsboel-fjerkrae",
+    "address": "Skodsbølvej 71, Skodsbøl, 6310 Broager",
+    "longitude": 9.65034183448707,
+    "latitude": 54.90073162931556,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508b-4e51-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "melbjerggaard-groent",
+    "address": "Ny Viborgvej 5, 7840 Højslev",
+    "longitude": 9.11005540913958,
+    "latitude": 56.556258079581596,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-173d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gaardens-groent",
+    "address": "Sandvej 12, Åstruplund, 8740 Brædstrup",
+    "longitude": 9.646359832418662,
+    "latitude": 55.94440545623053,
+    "source": "https://adressevaelger.dk/husnumre/8686d094-c01b-4a8a-9f57-898dbd4de472?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "peterslyst",
+    "address": "Hovvejen 9, 8361 Hasselager",
+    "longitude": 10.082254617329673,
+    "latitude": 56.07912893952809,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5096-5317-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "rosilde-hoejgaard",
+    "address": "Gl. Vindingevej 21, 5800 Nyborg",
+    "longitude": 10.749929293020791,
+    "latitude": 55.3067049495441,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-c76b-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "kraemmergaard",
+    "address": "Kræmmergårdvej 50, Møborg, 7660 Bækmarksbro",
+    "longitude": 8.32993422108019,
+    "latitude": 56.40302010067229,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5092-3753-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "graverens-groentsager",
+    "address": "Hirtshalsvej 17, Bindslev, 9881 Bindslev",
+    "longitude": 10.158233562745613,
+    "latitude": 57.55270589778295,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509a-4350-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "froelund-oekologi",
+    "address": "Frølundvej 95, Hammerum, 7400 Herning",
+    "longitude": 9.101887077600571,
+    "latitude": 56.15790297033019,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5091-4bc5-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "skelbjerggaard",
+    "address": "Stenstrupvej 74, Stenstrup, 4573 Højby",
+    "longitude": 11.551751746250575,
+    "latitude": 55.930615863532594,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5084-f1f4-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "frydendal-ismejeri",
+    "address": "Flensborg Landevej 5, Dybbøl, 6400 Sønderborg",
+    "longitude": 9.715171170145297,
+    "latitude": 54.90937466380117,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508c-6d19-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "ditlevsdal-bison-farm",
+    "address": "Tokkerodvej 24, 5462 Morud",
+    "longitude": 10.195242094918873,
+    "latitude": 55.455563595529675,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508a-b696-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "soenderho",
+    "address": "Vester Storetoft 67, Sønderho, 6720 Fanø",
+    "longitude": 8.461874397139882,
+    "latitude": 55.357821092254646,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508d-ea79-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "fynshoved-cafe",
+    "address": "Fynshovedvej 685, 5390 Martofte",
+    "longitude": 10.628175615070724,
+    "latitude": 55.59162279160993,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-6500-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "birthesminde",
+    "address": "Tempelvej 14, 4390 Vipperød",
+    "longitude": 11.775052060221771,
+    "latitude": 55.67222061956914,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5083-4da6-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gloevermosegaard",
+    "address": "Gløvermosevej 5, Kr Skensved, 4622 Havdrup",
+    "longitude": 12.102800095449435,
+    "latitude": 55.52781050944256,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-45d8-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "laboellegaard",
+    "address": "Labøllevej 21, Labølle, 5471 Søndersø",
+    "longitude": 10.121320254475902,
+    "latitude": 55.489527447870834,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508a-ad28-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lystbaekgaard",
+    "address": "Lystbækvej 1, Torsted, 6990 Ulfborg",
+    "longitude": 8.383970895992643,
+    "latitude": 56.244998868695,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5092-5f39-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "fuglehal-landbrug",
+    "address": "Fuglehalvej 18, 3310 Ølsted",
+    "longitude": 12.044350889310051,
+    "latitude": 55.93036942798355,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507e-ec55-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "jensen-jordbaer",
+    "address": "Hestvangvej 6, Karup, 9300 Sæby",
+    "longitude": 10.431162715499925,
+    "latitude": 57.363187782582806,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509b-dfe6-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "faellinggaard",
+    "address": "Ny Vestergade 70, Vejle, 5672 Broby",
+    "longitude": 10.290661554971884,
+    "latitude": 55.26547172091895,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5087-e70a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "rosagergaard-gaardbutik",
+    "address": "Færgevej 1, Kragnæs, 5960 Marstal",
+    "longitude": 10.48102519628918,
+    "latitude": 54.86272373682299,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-8bbc-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "klintholm-gods",
+    "address": "Klintholm Alle 1B, 4791 Borre",
+    "longitude": 12.503376375651554,
+    "latitude": 54.97875204273594,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-8e07-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "moellebakkegaard-gaardbutik",
+    "address": "Tolstrupvej 1A, 4735 Mern",
+    "longitude": 12.031280883316724,
+    "latitude": 55.031729057359414,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-668c-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": true
+  },
+  {
+    "id": "poetgaard-faareost-gaardmejeri",
+    "address": "Norupvej 10, Vammen, 8830 Tjele",
+    "longitude": 9.57124129199731,
+    "latitude": 56.531829883846584,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-b4cb-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lolle-frugt",
+    "address": "Gl Killerup 8, 4990 Sakskøbing",
+    "longitude": 11.65668983309423,
+    "latitude": 54.82476129205797,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5086-b51a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "den-glade-gris",
+    "address": "Gammel Skårupvej 164, 5700 Svendborg",
+    "longitude": 10.65278232981542,
+    "latitude": 55.074670621432325,
+    "source": "https://adressevaelger.dk/husnumre/8132a133-693c-4b0c-beee-cfa556ffa677?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gaardagergaard",
+    "address": "Gårdagervej 1, Landsgrav, 4200 Slagelse",
+    "longitude": 11.32476993130937,
+    "latitude": 55.382839174722456,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5084-498b-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "frydenlund-slots-frugtplantage-gaardbutikken",
+    "address": "Frydenlunds Alle 23B, 2950 Vedbæk",
+    "longitude": 12.562945375798872,
+    "latitude": 55.8399257690948,
+    "source": "https://adressevaelger.dk/husnumre/f6eebcdb-0ef6-49da-b4bf-e07b1bdc4e33?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "frugthaven",
+    "address": "Ejstrupvej 23, St Brøndum, 9520 Skørping",
+    "longitude": 10.026651693791944,
+    "latitude": 56.83335776219591,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509b-a98d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "nybro-frugtplantage",
+    "address": "Lille Salbyvej 54, Salby, 5370 Mesinge",
+    "longitude": 10.639801315655744,
+    "latitude": 55.48946810994473,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-6c25-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "ausumgaard",
+    "address": "Holstebrovej 101, Vejrum, 7560 Hjerm",
+    "longitude": 8.601925132822675,
+    "latitude": 56.429132105913446,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5092-940d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "jordbaergaarden",
+    "address": "Råbrovej 58, Ledøje, 2765 Smørum",
+    "longitude": 12.295036748284486,
+    "latitude": 55.71724223290678,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507d-2741-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "raunsmed-fjerkraefarm",
+    "address": "Lyngbyvej 120, Lyngbytorp, 9480 Løkken",
+    "longitude": 9.760062482763056,
+    "latitude": 57.401389818401455,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509a-f957-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "yduns-have",
+    "address": "Alstrup 2, 8305 Samsø",
+    "longitude": 10.619951951769194,
+    "latitude": 55.8778483382606,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5095-31eb-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "holgers-jordbaer",
+    "address": "Clemensvej 6, Bendstrup, 8530 Hjortshøj",
+    "longitude": 10.24100394156834,
+    "latitude": 56.27348826268035,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5096-06ea-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "graasten-fjerkrae-gaardbutik",
+    "address": "Kværsgade 18, Kværs, 6300 Gråsten",
+    "longitude": 9.496714794643248,
+    "latitude": 54.93198094402717,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508b-7a7a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "avernakoe-gaardbutik",
+    "address": "Skallevej 18, 5602 Avernakø",
+    "longitude": 10.272554013410469,
+    "latitude": 55.022260209647555,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-2db4-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "velfaerdskoed-v-karen-torben",
+    "address": "Vindebækvej 25, Vindebæk, 4792 Askeby",
+    "longitude": 12.190890866309513,
+    "latitude": 54.88827200954961,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-a28c-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lundsbjerggaard",
+    "address": "Stormarken 47, 5471 Søndersø",
+    "longitude": 10.194089042870853,
+    "latitude": 55.48303564951284,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508a-b49b-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "bigaard-oekologisk-gartneri",
+    "address": "Tøndervej 64, Vesterbæk, 6330 Padborg",
+    "longitude": 9.28673679720279,
+    "latitude": 54.88344038495129,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508b-3b76-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "kildegaarden-highland-cattle",
+    "address": "Skalkendrupvej 42, Skalkendrup, 5800 Nyborg",
+    "longitude": 10.735220030828636,
+    "latitude": 55.36975247617677,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-d7c4-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gartneriet-lumbygaard",
+    "address": "H.C. Lumbyes Vej 58, Lumby, 5270 Odense N",
+    "longitude": 10.376646150854068,
+    "latitude": 55.46131225103676,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5089-3a84-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "haekbaek-oekologiske-frugtplantage",
+    "address": "Næsvangsvej 12, 4550 Asnæs",
+    "longitude": 11.529140092648566,
+    "latitude": 55.79720526453388,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-b7a9-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "baaring-vig-frugtplantage",
+    "address": "Tanggyden 2, Baaring Mark, 5466 Asperup",
+    "longitude": 9.895191010974392,
+    "latitude": 55.502069521904644,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-eada-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "fjordvang-frugtplantage",
+    "address": "Hasmarkmosen 18, Hasmark Mark, 5450 Otterup",
+    "longitude": 10.41341431215198,
+    "latitude": 55.559525812505754,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5089-ff0a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "samsoe-baer",
+    "address": "Sildeballe 35, 8305 Samsø",
+    "longitude": 10.673491591085838,
+    "latitude": 55.87719530411191,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5095-3bba-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hovedvejens-gaardbutik-nr-aaby",
+    "address": "Hovedvejen 234, Asperup Mark, 5580 Nørre Aaby",
+    "longitude": 9.8904223669894,
+    "latitude": 55.46971536431385,
+    "source": "https://adressevaelger.dk/husnumre/2b190e33-8258-3634-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "thy-oekobaer",
+    "address": "Legindvej 139, Sønderhå, 7752 Snedsted",
+    "longitude": 8.437231395695273,
+    "latitude": 56.872864045670454,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-8989-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "freerslev-kotel",
+    "address": "Roskildevej 207, Freerslev, 3330 Gørløse",
+    "longitude": 12.223345501118034,
+    "latitude": 55.894773994006066,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5080-1423-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "byaasgaard-gaardbutik",
+    "address": "Amtsvejen 340A, 3390 Hundested",
+    "longitude": 11.957243446470613,
+    "latitude": 55.962876969701675,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5080-265a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": true
+  },
+  {
+    "id": "nystedgaard",
+    "address": "Hesselvej 79, Slagslunde, 3660 Stenløse",
+    "longitude": 12.237373212947025,
+    "latitude": 55.80264291811336,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5080-d079-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "asgaard-alleroed",
+    "address": "Sørupgårdsvej 12, 3450 Allerød",
+    "longitude": 12.301028471879734,
+    "latitude": 55.88079087097653,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507e-5ee9-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "farmersmarket-i-helsinge",
+    "address": "Kæderupvej 3, 3200 Helsinge",
+    "longitude": 12.234524980765872,
+    "latitude": 56.010130129017185,
+    "source": "https://adressevaelger.dk/husnumre/0a3f507f-759f-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hegnstrup-oekologisk-jordbrug",
+    "address": "Gl Københavnsvej 14, 3550 Slangerup",
+    "longitude": 12.212635466958291,
+    "latitude": 55.84019785878215,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5080-bc34-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lammefjordens-spisekammer",
+    "address": "Adelers Alle 102, 4540 Fårevejle",
+    "longitude": 11.460763929433389,
+    "latitude": 55.7901164516836,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-9ca9-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "munkebjerggaard",
+    "address": "Strandgårdsvej 4, Veddinge Bk, 4540 Fårevejle",
+    "longitude": 11.4605241738733,
+    "latitude": 55.83985873776319,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-c295-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "astrup-gods",
+    "address": "Astrupvej 11, Bjergsted, 4450 Jyderup",
+    "longitude": 11.35589083416188,
+    "latitude": 55.6516816418421,
+    "source": "https://adressevaelger.dk/husnumre/693c8a91-79c4-28de-e044-00144f3ead67?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gaardbutikken-planter-og-pesto",
+    "address": "Sønderkjærsvej 2, Grønbjerg, 6971 Spjald",
+    "longitude": 8.520217246969407,
+    "latitude": 56.176466411120735,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5093-0080-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "elkaerholm-aroniabaer",
+    "address": "Elkærholmvej 6, Vester Nebel, 6040 Egtved",
+    "longitude": 9.402444027436623,
+    "latitude": 55.555674534173086,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508e-dafc-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "oester-hegnet",
+    "address": "Hvalpsundvej 6, Nr. Thise, 7870 Roslev",
+    "longitude": 9.151731511424014,
+    "latitude": 56.72274008726209,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5098-4512-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hebbelstrupgaard-is",
+    "address": "Hebbelstrupvej 157, Mygdal, 9800 Hjørring",
+    "longitude": 10.127429949327833,
+    "latitude": 57.55267877297674,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509a-75e2-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "tvis-gaardbutik",
+    "address": "Morrevej 12, Tvis, 7500 Holstebro",
+    "longitude": 8.761042835958351,
+    "latitude": 56.29841480720478,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5091-e292-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "butik-pilti",
+    "address": "Strandvejen 11, Bredeshave, 4733 Tappernøje",
+    "longitude": 12.013491038260696,
+    "latitude": 55.15546106576561,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-388a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "lindbjerggaard",
+    "address": "Hulen 16, Lindbjerg, 8930 Randers NØ",
+    "longitude": 10.137804205508465,
+    "latitude": 56.52792805346687,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5094-350a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "skovloekke",
+    "address": "Birketvedvejen 35, 5290 Marslev",
+    "longitude": 10.555073677312112,
+    "latitude": 55.39649910240997,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-7aae-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "thorslundgaard-gaardbutik",
+    "address": "Stensbyvej 18, 5485 Skamby",
+    "longitude": 10.278597403634503,
+    "latitude": 55.51156479071185,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508a-b485-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gyldenlund",
+    "address": "Gram Møllevej 4, Ravnholt, 7130 Juelsminde",
+    "longitude": 9.895776423059367,
+    "latitude": 55.772935023476606,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508f-f1a1-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "fridalund",
+    "address": "Enghavevej 60, Martofte, 5390 Martofte",
+    "longitude": 10.668870446213997,
+    "latitude": 55.54054875978113,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-6308-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "aakandegaard",
+    "address": "Åkandegård 1, 4241 Vemmelev",
+    "longitude": 11.268773420496174,
+    "latitude": 55.385205006947004,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5083-c7d5-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "bradstrupgaard-gaardsalg",
+    "address": "Døstrupvej 168, Bradstrup, 9500 Hobro",
+    "longitude": 9.751767076255327,
+    "latitude": 56.731778826227,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509b-1bdd-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "thorshoejgaard",
+    "address": "Museumsvej 1A, Villingerød, 3120 Dronningmølle",
+    "longitude": 12.390889720182408,
+    "latitude": 56.08674944053456,
+    "source": "https://adressevaelger.dk/husnumre/6c3e13ea-fa16-4b13-8295-60bea1ee7e91?token=adressevaelger123",
+    "approximate": true
+  },
+  {
+    "id": "farm-living-ged-og-groent",
+    "address": "Trustrupvej 10, Sondrup, 8350 Hundslund",
+    "longitude": 10.052921486842386,
+    "latitude": 55.90093292518861,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5094-841b-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "roenhoejgaard",
+    "address": "Gunderupvej 26, Tandrup, 9640 Farsø",
+    "longitude": 9.279855013099983,
+    "latitude": 56.813415790776524,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5099-84bc-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "langemarksgaard",
+    "address": "Langemarksvej 17, 8305 Samsø",
+    "longitude": 10.628916348300553,
+    "latitude": 55.850748732191846,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5095-3789-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "mejnerts-gaardbutik",
+    "address": "Forsingevej 4, 4470 Svebølle",
+    "longitude": 11.245501680083517,
+    "latitude": 55.65770629177932,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5082-7a7c-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "thorlin-spisested-og-gaardbutik",
+    "address": "Knuthenlundvej 6, 4952 Stokkemarke",
+    "longitude": 11.366592426882022,
+    "latitude": 54.85265768602256,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5085-72be-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "groentsagshytten",
+    "address": "Stadionsvej 24, 8305 Samsø",
+    "longitude": 10.575866137762047,
+    "latitude": 55.85254638942678,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5095-3cf4-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "hammersly",
+    "address": "Kirkebyen 36, Rutsker, 3790 Hasle",
+    "longitude": 14.746137057672783,
+    "latitude": 55.21043375250345,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5087-75b8-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "kildegaardbutik",
+    "address": "Assensvej 302, 5642 Millinge",
+    "longitude": 10.200264984006031,
+    "latitude": 55.13524990190793,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-135a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "guldager-highland-cattle",
+    "address": "Tarp Byvej 6F, 6715 Esbjerg N",
+    "longitude": 8.454230287054637,
+    "latitude": 55.5287115796092,
+    "source": "https://adressevaelger.dk/husnumre/bdc7cc01-ee35-45b2-9892-0683d53fb5d2?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "havredal-gaardbutik",
+    "address": "Ulvedalsvej 32, Havredal, 7470 Karup J",
+    "longitude": 9.267744728196824,
+    "latitude": 56.320855880719506,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5097-89e0-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "peters-gartneri",
+    "address": "Ørnevænget 37, 8330 Beder",
+    "longitude": 10.262515444848328,
+    "latitude": 56.050398036558,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5097-2d96-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "mindelundgaard",
+    "address": "Mindelundvej 8, Arnborg, 7400 Herning",
+    "longitude": 9.021574835315304,
+    "latitude": 56.032094433990444,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5091-6bb3-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "ravnsminde",
+    "address": "Brandtlundvej 106, Skærup, 7080 Børkop",
+    "longitude": 9.616144206342932,
+    "latitude": 55.64328424483194,
+    "source": "https://adressevaelger.dk/husnumre/0a3f508e-bdab-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "gaardbutik-paa-ajstrupvej",
+    "address": "Ajstrupvej 50, 8340 Malling",
+    "longitude": 10.215067767617377,
+    "latitude": 56.03881113415995,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5095-de36-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "kirstineborg",
+    "address": "Mejlbyvej 268, 8530 Hjortshøj",
+    "longitude": 10.264751755304438,
+    "latitude": 56.240430439730105,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5096-948d-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "storhaven",
+    "address": "Storhavevej 4, Byrum, 9940 Læsø",
+    "longitude": 10.988677647783115,
+    "latitude": 57.24988703194028,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509a-cfed-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
   }
 ]
