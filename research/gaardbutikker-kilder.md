@@ -1,6 +1,6 @@
 # Gårdbutikker – kilder og kontrol
 
-Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. Den 11. oktober 2026 er Den Grønne Vogn og Grantoftegaard tilføjet. I alt 121 fysiske steder. Ingen åbningstider er importeret.
+Oprindelige 68 steder kontrolleret 28. september 2026 fra brugerens Danske Gårdbutikker.pdf. Tilføjelser kontrolleret 30. september 2026: 29 forslag, 28 nye steder. Den Bornholmske Kalv og Nygård-Pilegård er én post. Tilføjelser kontrolleret 4. oktober 2026: 23 nye fysiske steder og Lille Jord som separat webshop. Alle 24 forslag er indarbejdet; se additions-review-2026-10-04.md. Den 11. oktober 2026 er Den Grønne Vogn og Grantoftegaard tilføjet. Den 26. oktober 2026 er yderligere otte butikker tilføjet efter research; Anders Stenger Juleand afventer bekræftet afhentningsadresse. I alt 129 fysiske steder. Faste åbningstider er ikke importeret; sæsonbegrænsninger er nævnt, hvor relevante.
 
 Kontaktdata er fundet på butikkernes egne sider, hvor muligt, og ellers i de angivne sekundære kilder. Et adresseopslag bekræfter adressens eksistens, ikke at butikken fortsat drives. Tomme felter betyder ikke fundet sikkert. Links kan ændre sig eller kræve Facebook-login.
 
@@ -1083,4 +1083,88 @@ Kortpositioner kommer fra Danmarks Adresseregister via Dataforsyningen (oprindel
 - Kontaktkilde: https://grantoftegaard.dk/
 - DAR: https://adressevaelger.dk/husnumre/0a3f507b-727c-32b8-e044-0003ba298018?token=adressevaelger123
 - Bemærkning: Adresse og nuværende telefon fra egen hjemmeside. Stadevognen sælger grøntsager alle ugens dage året rundt. Caféen er aktuelt lukket; ældre katalogers caféåbningstider og kødudvalg er ikke importeret.
+
+## Enemærkegaards Hereford
+
+- Adresse: Juliedalvej 13, 4180 Sorø
+- Telefon: 50718405
+- Link: https://www.facebook.com/SusanneogBenny
+- Kontaktkilde: https://aabentlandbrug.dk/besoeg-en-gaardbutik/kort/gaardbutikken-enemaerkegaards-hereford/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5084-9544-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://hereford.dk/enemaerkegaards-gaardbutik/
+- Supplerende kilde: https://www.enemærkegaard.dk/
+- Bemærkning: Ejerhenvendelsen bekræfter adresse, telefon og sortiment. Hjemmesiden kunne ikke åbnes via researchværktøjet; ejerens Facebook-link anvendes. Faste åbningstider udeladt som på øvrige kort.
+
+## Klippingegård
+
+- Adresse: Bjælkerupvej 165, 4672 Klippinge
+- Telefon: 20296608
+- Link: https://www.klippingegaard.dk/
+- Kontaktkilde: https://www.klippingegaard.dk/visit
+- DAR: https://adressevaelger.dk/husnumre/0a3f5086-c56a-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.klippingegaard.dk/
+- Bemærkning: Fortolket som Klippinge gårdbutik i forslaget. Egen hjemmeside bekræfter navn, butik, adresse og telefon. Selvstændigt sted, forskelligt fra Nørbys Grøntsager.
+
+## Nørbys Grøntsager
+
+- Adresse: Esagervej 8, 4672 Klippinge
+- Telefon: 20419036
+- Link: https://norbysgrontsager.dk/
+- Kontaktkilde: https://norbysgrontsager.dk/kontakt/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5086-c8e0-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://norbysgrontsager.dk/
+- Bemærkning: Mobilnummer fra egen kontaktside prioriteret over ældre fastnetnummer i kataloger.
+
+## Maarager Gårdbutik
+
+- Adresse: Lyngby Torp 60, 9480 Løkken
+- Telefon: 30503299
+- Link: https://www.facebook.com/profile.php?id=100039385224041
+- Kontaktkilde: https://danskegaarde.dk/maarager-gardbutik
+- DAR: https://adressevaelger.dk/husnumre/0a3f509a-f926-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.proff.dk/firma/maarager-g%C3%A5rdbutik/l%C3%B8kken/jordbrug/0OTN4AI10OF
+- Bemærkning: Primær dokumentation: ejerhenvendelse og brugerens IMG_0151.jpeg, der bekræfter adresse, telefon og produkter. Facebook-link fundet i Danske Gaarde; indhold kunne ikke åbnes uden login. maarager.dk kunne ikke åbnes.
+
+## Knabegaarden
+
+- Adresse: Odensevej 210, 5600 Faaborg
+- Telefon: 20768110
+- Link: https://www.knabegaarden.dk/
+- Kontaktkilde: https://www.knabegaarden.dk/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5088-283e-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://www.kulinarisksydfyn.dk/aktoerer/knabegaarden/
+- Bemærkning: Egen hjemmeside angiver slut april, ikke midt april som foreslået. Sæsonen fremhævet for at undgå forgæves besøg.
+
+## Solkærgaard Gårdbutik
+
+- Adresse: Limbækvej 3A, 6300 Gråsten
+- Telefon: 42723202
+- Link: https://solkaergaard.dk/
+- Kontaktkilde: https://solkaergaard.dk/kontakt/
+- DAR: https://adressevaelger.dk/husnumre/127ced0d-0852-4327-94a9-8521488e2aea?token=adressevaelger123
+- Supplerende kilde: https://solkaergaard.dk/gaardbutikken/
+- Bemærkning: Begge numre bekræftet af egen kontaktside: 42723202 og 20815384. Første nummer fra brugerhenvendelsen anvendt som primær telefon.
+
+## Tranum Økobrug
+
+- Adresse: Jarmsted Byvej 6, 9460 Brovst
+- Telefon: 28446279
+- Link: https://www.instagram.com/tranum_okobrug/
+- Kontaktkilde: https://vendsysselfoedevarer.dk/koed-og-fjerkrae/
+- DAR: https://adressevaelger.dk/husnumre/0a3f5099-2af1-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://okodag.dk/host/thise-mejeri/tranum-oekobrug/
+- Supplerende kilde: https://www.facebook.com/share/1CVobEq6ka/
+- Supplerende kilde: https://estatistik.dk/virksomhed/tranum-oekobrug-jarmstedgaard/45481840
+- Bemærkning: Ejerhenvendelsen angav nr. 7, som ikke findes i DAR. Producentforeningens butiksoversigt, Økodag og virksomhedsregisteret angiver alle nr. 6 og samme telefonnummer. Derfor rettet til nr. 6. Besøg efter aftale ifølge producentforeningen. Ikke dublet af Naturbruget Tranum.
+
+## Treshøje Gårdbutik
+
+- Adresse: Lørstedvej 101, 9690 Fjerritslev
+- Telefon: 30282104
+- Link: https://www.facebook.com/treshoejegaardbutik
+- Kontaktkilde: https://www.visitdenmark.dk/danmark/explore/treshoeje-gaardbutik-gdk1122459
+- DAR: https://adressevaelger.dk/husnumre/0a3f5099-a0a7-32b8-e044-0003ba298018?token=adressevaelger123
+- Supplerende kilde: https://blokhus.dk/aabent-hus-hos-treshoeje-gaardbutik/
+- Supplerende kilde: https://www.foodbevg.com/DK/Bonderup/109921680692021/Tresh%C3%B8je-G%C3%A5rdbutik
+- Bemærkning: Adresse, telefon og sortiment fra VisitDenmark. Bageri støttet af ejerens artikel på blokhus.dk. Hjemmesiden kunne ikke åbnes. Facebook-link udtrukket direkte fra VisitDenmarks kilde.
 

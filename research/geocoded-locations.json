@@ -966,5 +966,69 @@
     "latitude": 55.73279179952064,
     "source": "https://adressevaelger.dk/husnumre/0a3f507b-727c-32b8-e044-0003ba298018?token=adressevaelger123",
     "approximate": false
+  },
+  {
+    "id": "enemaerkegaards-hereford",
+    "address": "Juliedalvej 13, Døjringe, 4180 Sorø",
+    "longitude": 11.598944528907975,
+    "latitude": 55.497005073484516,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5084-9544-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "klippingegaard",
+    "address": "Bjælkerupvej 165, 4672 Klippinge",
+    "longitude": 12.313174179082365,
+    "latitude": 55.358148304581434,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5086-c56a-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "noerbys-groentsager",
+    "address": "Esagervej 8, Magleby, 4672 Klippinge",
+    "longitude": 12.314315937894683,
+    "latitude": 55.36455529653891,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5086-c8e0-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "maarager-gaardbutik",
+    "address": "Lyngby Torp 60, Sdr Rubjerg, 9480 Løkken",
+    "longitude": 9.77682967974814,
+    "latitude": 57.404869750696555,
+    "source": "https://adressevaelger.dk/husnumre/0a3f509a-f926-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "knabegaarden",
+    "address": "Odensevej 210, 5600 Faaborg",
+    "longitude": 10.277114444384777,
+    "latitude": 55.16416373083757,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5088-283e-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "solkaergaard",
+    "address": "Limbækvej 3A, Kværs, 6300 Gråsten",
+    "longitude": 9.522727058358946,
+    "latitude": 54.93242409415605,
+    "source": "https://adressevaelger.dk/husnumre/127ced0d-0852-4327-94a9-8521488e2aea?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "tranum-oekobrug",
+    "address": "Jarmsted Byvej 6, 9460 Brovst",
+    "longitude": 9.45441780874233,
+    "latitude": 57.12219405771405,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5099-2af1-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
+  },
+  {
+    "id": "treshoeje-gaardbutik",
+    "address": "Lørstedvej 101, Tanderup, 9690 Fjerritslev",
+    "longitude": 9.395938541677278,
+    "latitude": 57.06533774639891,
+    "source": "https://adressevaelger.dk/husnumre/0a3f5099-a0a7-32b8-e044-0003ba298018?token=adressevaelger123",
+    "approximate": false
   }
 ]

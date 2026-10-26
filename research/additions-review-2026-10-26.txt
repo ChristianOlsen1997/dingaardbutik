@@ -1,0 +1,11 @@
+Kontrolleret 26. oktober 2026.
+Otte nye butikker: Enemærkegaards Hereford, Klippingegård, Nørbys Grøntsager, Maarager Gårdbutik, Knabegaarden, Solkærgaard, Tranum Økobrug, Treshøje Gårdbutik.
+Ingen dubletter blandt de eksisterende 121 fysiske steder. Se additions-2026-10-26.json for individuelle kilder og begrænsninger.
+
+Afventer: Anders Stenger Juleand.
+Produktion og salg underbygget af https://ribepakhus.dk/events/mortensaften/ og https://vvvingaard.dk/19034265/19034272 .
+Telefon 21473839 i producentnetværkets omtale matcher registreret virksomhed Anders Andersen Stenger på Ribevej 99, 6630 Rødding (https://bizdex.dk/companies/anders-andersen-stenger-45433072).
+Ingen sikker offentlig afhentningsadresse eller egen butiksside fundet. Bruger spurgt og svarede 'Ved ikke'. Virksomhedsadressen er ikke automatisk en besøgsadresse; ikke lagt på kortet. Alder, produktionsantal og påstand om to årlige hold er ikke verificeret.
+Ingen beskeder sendt til producenterne.
+
+Sociale links: brugerens præcise Facebook- og Instagram-adresser tilføjet som almindelige links i fælles footer, uden indlejrede tjenester.

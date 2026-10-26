@@ -2395,5 +2395,165 @@ export const locations: Location[] = [
     "source": "https://grantoftegaard.dk/",
     "phone": "88185830",
     "website": "https://grantoftegaard.dk/"
+  },
+  {
+    "id": "enemaerkegaards-hereford",
+    "name": "Enemærkegaards Hereford",
+    "region": "sjaelland",
+    "address": "Juliedalvej 13",
+    "postalCode": "4180",
+    "city": "Sorø",
+    "mapPosition": {
+      "x": 497.0,
+      "y": 564.8
+    },
+    "coordinates": {
+      "latitude": 55.497005073484516,
+      "longitude": 11.598944528907975
+    },
+    "description": "Oksekød fra gårdens egne Herefordkvæg samt leverpostej, grillpølser og spegepølser. Kødet sælges vakuumpakket og frosset.",
+    "source": "https://aabentlandbrug.dk/besoeg-en-gaardbutik/kort/gaardbutikken-enemaerkegaards-hereford/",
+    "phone": "50718405",
+    "website": "https://www.facebook.com/SusanneogBenny"
+  },
+  {
+    "id": "klippingegaard",
+    "name": "Klippingegård",
+    "region": "sjaelland",
+    "address": "Bjælkerupvej 165",
+    "postalCode": "4672",
+    "city": "Klippinge",
+    "mapPosition": {
+      "x": 589.0,
+      "y": 596.3
+    },
+    "coordinates": {
+      "latitude": 55.358148304581434,
+      "longitude": 12.313174179082365
+    },
+    "description": "Gårdbutik på Stevns med grøntsager fra gårdens egen dyrkning. Udvalget følger sæsonen.",
+    "source": "https://www.klippingegaard.dk/visit",
+    "phone": "20296608",
+    "website": "https://www.klippingegaard.dk/"
+  },
+  {
+    "id": "noerbys-groentsager",
+    "name": "Nørbys Grøntsager",
+    "region": "sjaelland",
+    "address": "Esagervej 8",
+    "postalCode": "4672",
+    "city": "Klippinge",
+    "mapPosition": {
+      "x": 589.1,
+      "y": 594.9
+    },
+    "coordinates": {
+      "latitude": 55.36455529653891,
+      "longitude": 12.314315937894683
+    },
+    "description": "Økologisk gårdbutik på Stevns med årstidens grøntsager, kartofler og jordbær fra egen produktion.",
+    "source": "https://norbysgrontsager.dk/kontakt/",
+    "phone": "20419036",
+    "website": "https://norbysgrontsager.dk/"
+  },
+  {
+    "id": "maarager-gaardbutik",
+    "name": "Maarager Gårdbutik",
+    "region": "nordjylland",
+    "address": "Lyngby Torp 60",
+    "postalCode": "9480",
+    "city": "Løkken",
+    "mapPosition": {
+      "x": 262.2,
+      "y": 119.9
+    },
+    "coordinates": {
+      "latitude": 57.404869750696555,
+      "longitude": 9.77682967974814
+    },
+    "description": "Kalvekød fra eget kvæg, æg, sæsonens grøntsager samt hjemmelavet marmelade, saft og syltede produkter med og uden sukker. Grønkålsboller til jul.",
+    "source": "https://danskegaarde.dk/maarager-gardbutik",
+    "phone": "30503299",
+    "website": "https://www.facebook.com/profile.php?id=100039385224041"
+  },
+  {
+    "id": "knabegaarden",
+    "name": "Knabegaarden",
+    "region": "syddanmark",
+    "address": "Odensevej 210",
+    "postalCode": "5600",
+    "city": "Faaborg",
+    "mapPosition": {
+      "x": 326.7,
+      "y": 640.2
+    },
+    "coordinates": {
+      "latitude": 55.16416373083757,
+      "longitude": 10.277114444384777
+    },
+    "description": "Familiedrevet gårdbutik med grønne, hvide og violette asparges, kartofler, rabarber og andre sæsongrøntsager. Sæsonåben typisk fra slutningen af april til Sankt Hans, afhængigt af vejret.",
+    "source": "https://www.knabegaarden.dk/",
+    "phone": "20768110",
+    "website": "https://www.knabegaarden.dk/"
+  },
+  {
+    "id": "solkaergaard",
+    "name": "Solkærgaard Gårdbutik",
+    "region": "syddanmark",
+    "address": "Limbækvej 3A",
+    "postalCode": "6300",
+    "city": "Gråsten",
+    "mapPosition": {
+      "x": 229.5,
+      "y": 692.3
+    },
+    "coordinates": {
+      "latitude": 54.93242409415605,
+      "longitude": 9.522727058358946
+    },
+    "description": "Gårdbutik ved Kværs med oksekød fra gårdens egne Angus-kvæg. Mulighed for bestilling og forudbestilling af kød.",
+    "source": "https://solkaergaard.dk/kontakt/",
+    "phone": "42723202",
+    "website": "https://solkaergaard.dk/"
+  },
+  {
+    "id": "tranum-oekobrug",
+    "name": "Tranum Økobrug",
+    "region": "nordjylland",
+    "address": "Jarmsted Byvej 6",
+    "postalCode": "9460",
+    "city": "Brovst",
+    "mapPosition": {
+      "x": 220.7,
+      "y": 187.3
+    },
+    "coordinates": {
+      "latitude": 57.12219405771405,
+      "longitude": 9.45441780874233
+    },
+    "description": "Økologisk landbrug med gårdbutik, der sælger oksekød fra egne dyr og græsæg fra høns i et mobilt hønsehus. Samarbejder med nabogården Naturbruget Tranum om sædskifte. Åbent efter aftale.",
+    "source": "https://vendsysselfoedevarer.dk/koed-og-fjerkrae/",
+    "phone": "28446279",
+    "website": "https://www.instagram.com/tranum_okobrug/"
+  },
+  {
+    "id": "treshoeje-gaardbutik",
+    "name": "Treshøje Gårdbutik",
+    "region": "nordjylland",
+    "address": "Lørstedvej 101",
+    "postalCode": "9690",
+    "city": "Fjerritslev",
+    "mapPosition": {
+      "x": 213.2,
+      "y": 200.8
+    },
+    "coordinates": {
+      "latitude": 57.06533774639891,
+      "longitude": 9.395938541677278
+    },
+    "description": "Gårdbutik ved Holmsø Hede med Galloway-oksekød, økologisk Limousine-oksekød, frilandsfjerkræ samt surdejsbrød og kager fra eget mikrobageri.",
+    "source": "https://www.visitdenmark.dk/danmark/explore/treshoeje-gaardbutik-gdk1122459",
+    "phone": "30282104",
+    "website": "https://www.facebook.com/treshoejegaardbutik"
   }
 ];
