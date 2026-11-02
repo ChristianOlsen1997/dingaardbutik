@@ -2,6 +2,8 @@
 
 import { ProductionFilters, useProductionFilters } from "./ProductionFilters";
 import { useId } from "react";
+import Image from "next/image";
+import styles from "./LocationSearch.module.css";
 import { LocationItem } from "@/components/LocationItem";
 import { locations } from "@/data/locations";
 import { onlineShops } from "@/data/online-shops";
@@ -37,7 +39,14 @@ export function LocationSearch({ regionId, onLocationSelect, query, onQueryChang
         <input id={inputId} type="search" value={query} onChange={(event) => changeQuery(event.target.value)} placeholder="Navn, by, postnummer eller varer" aria-describedby={`${inputId}-status`} />
         {query && <button type="button" onClick={() => changeQuery("")} aria-label="Ryd søgning">Ryd</button>}
       </div>
-      <ProductionFilters onChange={() => onLocationSelect(null)} />
+      <div className={styles.actions}>
+        <ProductionFilters onChange={() => onLocationSelect(null)} />
+        <a className={styles.instagram} href="https://www.instagram.com/dingaardbutik.dk/" target="_blank" rel="noopener noreferrer">
+          <Image src="/instagram-logo.png" alt="" width={20} height={20} />
+          <span>Følg os på Instagram</span>
+          <span aria-hidden="true">↗</span>
+        </a>
+      </div>
       <p id={`${inputId}-status`} className="search-status" role="status">
         {searching ? `${resultLabel} fundet i ${scope}` : `Søg blandt ${resultLabel} i ${scope}.`}
       </p>

@@ -1,0 +1,40 @@
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 8px 20px;
+  margin: 18px 0 12px;
+}
+
+.actions > fieldset {
+  margin: 0;
+}
+
+.actions > fieldset label {
+  margin-bottom: 0;
+}
+
+.instagram {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  font-size: .8rem;
+  font-weight: 600;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.instagram img {
+  flex-shrink: 0;
+}
+
+.instagram:hover span:first-of-type {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.instagram:focus-visible {
+  outline: 2px solid var(--forest);
+  outline-offset: 4px;
+}
