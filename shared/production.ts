@@ -1,0 +1,11 @@
+import organic from "./production/organic-status.json";
+import grass from "./production/grass-fed-status.json";
+import descriptions from "./production/reviewed-descriptions.json";
+type RecordInfo = { status: string; source_url?: string | null; note?: string | null };
+const organicRecords: Record<string, RecordInfo> = organic;
+const grassRecords: Record<string, RecordInfo> = grass;
+const reviewedDescriptions: Record<string, string> = descriptions;
+export const isOrganic = (farm: { id: string }) => organicRecords[farm.id]?.status === "source-confirmed";
+export const isGrassFed = (farm: { id: string }) => grassRecords[farm.id]?.status === "source-confirmed";
+export const descriptionFor = (farm: { id: string; description: string }) => reviewedDescriptions[farm.id] ?? farm.description;
+export const productionNotes = (farm: { id: string }) => [organicRecords[farm.id], grassRecords[farm.id]].filter(record => record?.status === "source-confirmed" && record.note);

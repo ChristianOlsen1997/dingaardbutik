@@ -1,3 +1,4 @@
+import { RegionFilteredList } from "@/components/RegionFilteredList";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -43,20 +44,7 @@ export default async function RegionPage({ params }: Props) {
         <h1>Gårdbutikker i {region.name}</h1>
         <p className="region-intro">{region.introduction} Her finder du adresser, beskrivelser af udvalget og links til producenterne.</p>
         <p>Kontakt gårdbutikken inden dit besøg for at bekræfte åbningstider og det aktuelle udvalg.</p>
-        <div className="region-list">
-          {matches.map((location) => (
-            <article className="region-entry" key={location.id} id={location.id}>
-              <h2>{location.name}</h2>
-              <p>{location.description}</p>
-              <address>{location.address}<br />{location.postalCode} {location.city}</address>
-              <div className="location-actions">
-                {location.phone && <a href={`tel:+45${location.phone}`}>Ring {location.phone.replace(/(\d{2})(?=\d)/g, "$1 ")}</a>}
-                {location.website && <a href={location.website} target="_blank" rel="noreferrer">Besøg {location.name} ↗</a>}
-                <a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${location.address}, ${location.postalCode} ${location.city}`)}`} target="_blank" rel="noreferrer">Se på Google Maps ↗</a>
-              </div>
-            </article>
-          ))}
-        </div>
+        <RegionFilteredList locations={matches} />
         <nav className="region-links" aria-label="Gårdbutikker i andre regioner">
           {regions.map((item) => <Link href={`/gaardbutikker/${item.id}`} key={item.id} aria-current={item.id === id ? "page" : undefined}>{item.name}</Link>)}
         </nav>

@@ -1,9 +1,11 @@
 "use client";
 
+import { isOrganic } from "../../shared/production";
 import DenmarkSvg from "@/assets/danmark-regioner.svg";
 import { regionIds } from "@/data/regions";
 import { locations } from "@/data/locations";
-import { useState } from "react";
+import { useProductionFilters } from "./ProductionFilters";
+import { useState, useMemo } from "react";
 import type { KeyboardEvent, MouseEvent, PointerEvent } from "react";
 import type { Location, MapPosition } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
@@ -39,8 +41,6 @@ function groupMarkers(items: Location[]) {
   return groups;
 }
 
-const markersByRegion = Object.fromEntries(regionIds.map((region) => [region, groupMarkers(locations.filter((location) => location.region === region))])) as Record<RegionId, ReturnType<typeof groupMarkers>>;
-
 function findRegion(target: EventTarget | null, boundary: EventTarget): RegionId | null {
   if (!(target instanceof Element)) return null;
   const group = target.closest<SVGElement>("[data-region]");
@@ -50,6 +50,8 @@ function findRegion(target: EventTarget | null, boundary: EventTarget): RegionId
 }
 
 export function DenmarkMap({ selectedRegion, markerPosition, onSelect, selectedLocationId, onLocationSelect }: DenmarkMapProps) {
+  const { organic, accepts } = useProductionFilters();
+  const markersByRegion = useMemo(() => Object.fromEntries(regionIds.map(region => [region, groupMarkers(locations.filter(location => location.region === region && (!organic || isOrganic(location))))])) as Record<RegionId, ReturnType<typeof groupMarkers>>, [organic]);
   const [hoveredRegion, setHoveredRegion] = useState<RegionId | null>(null);
   const [openGroup, setOpenGroup] = useState<{ region: RegionId; locations: Location[] } | null>(null);
   const groups = selectedRegion ? markersByRegion[selectedRegion] : [];
@@ -96,7 +98,7 @@ export function DenmarkMap({ selectedRegion, markerPosition, onSelect, selectedL
           {group.locations.length > 1 && <text className="map-cluster-count" x={group.position.x} y={group.position.y} dy=".35em">{group.locations.length}</text>}
         </g>)}
       </svg>}
-      {openGroup && openGroup.region === selectedRegion && <div className="map-location-picker" role="group" aria-label="Vælg en gårdbutik i området"><div><strong>Gårdbutikker i området</strong><button type="button" onClick={() => setOpenGroup(null)} aria-label="Luk butikker på kortet">×</button></div>{openGroup.locations.map((location) => <button key={location.id} type="button" onClick={() => { setOpenGroup(null); onLocationSelect(location.id); }}>{location.name}<span>{location.city}</span></button>)}</div>}
+      {openGroup && openGroup.region === selectedRegion && openGroup.locations.some(accepts) && <div className="map-location-picker" role="group" aria-label="Vælg en gårdbutik i området"><div><strong>Gårdbutikker i området</strong><button type="button" onClick={() => setOpenGroup(null)} aria-label="Luk butikker på kortet">×</button></div>{openGroup.locations.filter(accepts).map((location) => <button key={location.id} type="button" onClick={() => { setOpenGroup(null); onLocationSelect(location.id); }}>{location.name}<span>{location.city}</span></button>)}</div>}
       {markerPosition && (
         <svg className="map-marker-overlay" viewBox="-6 -5 1012 820" aria-hidden="true">
           <circle className="map-marker-ring" cx={markerPosition.x} cy={markerPosition.y} r="15" />

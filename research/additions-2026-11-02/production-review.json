@@ -1,0 +1,229 @@
+[
+  {
+    "id": "gaardbutikken-marielyst",
+    "name": "Gårdbutikken Marielyst",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "unconfirmed",
+      "source_url": "https://www.visitlolland-falster.dk/turist/planlaeg-din-ferie/gaardbutikken-marielyst-gdk1103128",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.visitlolland-falster.dk/turist/planlaeg-din-ferie/gaardbutikken-marielyst-gdk1103128",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Ingen entydig bekræftelse af økologisk produktion; intet mærke.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "uldum-moelle",
+    "name": "Uldum Mølle",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://uldummolle.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://uldummolle.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Økologisk mel og gryn fra møllen.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "strandgaardens-frugtplantage",
+    "name": "Strandgårdens Frugtplantage",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://www.facebook.com/p/Strandg%C3%A5rdens-Frugtplantage-100075798380485/",
+      "note": "Økologien er bekræftet for producentens egne kartofler; ikke nødvendigvis hele sortimentet.",
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/p/Strandg%C3%A5rdens-Frugtplantage-100075798380485/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Eget opslag 26. juni: egne nyopgravede kartofler er økologiske.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "skovloekke-munkebo",
+    "name": "Skovløkke Gårdbutik – Munkebo",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "unconfirmed",
+      "source_url": "https://skovloekke.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://skovloekke.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Ingen entydig bekræftelse af økologisk produktion; intet mærke.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "den-lille-mark",
+    "name": "Den Lille Mark",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://www.denlillemark.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.denlillemark.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Økologisk bylandbrug. Øko-autorisation 1108753.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "lysemosegaard",
+    "name": "Lysemosegaard Gårdbutik",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/people/Lysemosegaard-G%C3%A5rdbutik/100057260718188/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/people/Lysemosegaard-G%C3%A5rdbutik/100057260718188/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Ingen entydig bekræftelse af økologisk produktion; intet mærke.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "oekomoelleriet-kragegaarden",
+    "name": "Økomølleriet / Kragegaarden",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://kragegaarden.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://kragegaarden.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Økologisk drift siden 1986; øko-autorisation 20054.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "stokmosegaard",
+    "name": "Stokmosegård",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://www.facebook.com/stokmosegaard/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/stokmosegaard/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Profil: Lille regenerativt, økologisk landbrug.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "svanholm",
+    "name": "Svanholm",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://svanholm.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://svanholm.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Økologisk landbrug med egne produkter.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "knoldbjerggaard",
+    "name": "Knoldbjerggaard",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "unconfirmed",
+      "source_url": "https://www.knoldbjerggaard.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.knoldbjerggaard.dk/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Ingen entydig bekræftelse af økologisk produktion; intet mærke.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "kaeragergaard-grisen",
+    "name": "Kæragergård Grisen – gårdbutik",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/p/K%C3%A6ragerg%C3%A5rd-Grisen-100083066150967/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/p/K%C3%A6ragerg%C3%A5rd-Grisen-100083066150967/",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Ingen entydig bekræftelse af økologisk produktion; intet mærke.",
+    "grass_reason": "Ingen tydelig dokumentation for et aktuelt græsfodret kødsortiment."
+  },
+  {
+    "id": "knudsens-oeko-graesaeg",
+    "name": "Knudsens Øko Græsæg",
+    "checked_at": "2026-11-02",
+    "organic": {
+      "status": "source-confirmed",
+      "source_url": "https://www.facebook.com/profile.php?id=100089791791313",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "grass": {
+      "status": "unconfirmed",
+      "source_url": "https://www.facebook.com/profile.php?id=100089791791313",
+      "note": null,
+      "checked_at": "2026-11-02"
+    },
+    "evidence": "Profilens introduktion: Her sælges Økologiske GræsÆg. Baungårdsvej 65. Græsæg er ikke græsfodret kød."
+  }
+]

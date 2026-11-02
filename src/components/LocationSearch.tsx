@@ -1,5 +1,6 @@
 "use client";
 
+import { ProductionFilters, useProductionFilters } from "./ProductionFilters";
 import { useId } from "react";
 import { LocationItem } from "@/components/LocationItem";
 import { locations } from "@/data/locations";
@@ -17,9 +18,10 @@ export function LocationSearch({ regionId, onLocationSelect, query, onQueryChang
   selectedId: string | null;
 }) {
   const inputId = useId();
+  const filters = useProductionFilters();
   const searching = query.trim().length > 0;
   const scope = regions.find((region) => region.id === regionId)?.name ?? "hele Danmark";
-  const entries: DirectoryEntry[] = [...locations, ...onlineShops];
+  const entries: DirectoryEntry[] = [...locations, ...onlineShops].filter(filters.accepts);
   const { matches, postcode, center } = searchLocations(entries, query, regionId);
   const resultLabel = `${matches.length} ${matches.length === 1 ? "gårdbutik" : "gårdbutikker"}`;
 
@@ -35,6 +37,7 @@ export function LocationSearch({ regionId, onLocationSelect, query, onQueryChang
         <input id={inputId} type="search" value={query} onChange={(event) => changeQuery(event.target.value)} placeholder="Navn, by, postnummer eller varer" aria-describedby={`${inputId}-status`} />
         {query && <button type="button" onClick={() => changeQuery("")} aria-label="Ryd søgning">Ryd</button>}
       </div>
+      <ProductionFilters onChange={() => onLocationSelect(null)} />
       <p id={`${inputId}-status`} className="search-status" role="status">
         {searching ? `${resultLabel} fundet i ${scope}` : `Søg blandt ${resultLabel} i ${scope}.`}
       </p>

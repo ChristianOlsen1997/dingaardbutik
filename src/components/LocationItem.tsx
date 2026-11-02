@@ -1,5 +1,7 @@
 "use client";
 
+import { ProductionBadges } from "./ProductionFilters";
+import { descriptionFor, productionNotes } from "../../shared/production";
 import type { DirectoryEntry } from "@/types/locations";
 
 function formatPhone(phone: string) {
@@ -9,7 +11,7 @@ function formatPhone(phone: string) {
 export function LocationItem({ location, expanded, onExpandedChange, distance }: { location: DirectoryEntry; expanded: boolean; onExpandedChange: (location: DirectoryEntry, expanded: boolean) => void; distance?: number }) {
   const panelId = `location-${location.id}`;
   const isOnline = location.kind === "webshop";
-  const mapsUrl = isOnline ? null : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(`${location.address}, ${location.postalCode} ${location.city}`)}`;
+  const mapsUrl = isOnline ? null : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(location.id === "den-lille-mark" ? `${location.coordinates.latitude},${location.coordinates.longitude}` : `${location.address}, ${location.postalCode} ${location.city}`)}`;
 
   return (
     <article className="location-item">
@@ -19,7 +21,7 @@ export function LocationItem({ location, expanded, onExpandedChange, distance }:
       }}>
         <span className="location-main">
           <span className="location-title-line">
-            <span className="location-name">{location.name}</span>
+            <span className="location-name">{location.name}</span><ProductionBadges farm={location} />
           </span>
           {(!isOnline || location.phone) && <span className="location-address">{!isOnline && <>{location.address}<br />{location.postalCode} {location.city}</>}{location.phone && <>{!isOnline && " · "}{formatPhone(location.phone)}</>}</span>}
           {distance !== undefined && <span className="location-distance">Ca. {Math.round(distance)} km i luftlinje</span>}
@@ -28,7 +30,9 @@ export function LocationItem({ location, expanded, onExpandedChange, distance }:
       </button>
       <div id={panelId} className="location-details" data-open={expanded} inert={!expanded}>
         <div className="location-details-inner">
-          <p>{location.description}</p>
+          <p>{descriptionFor(location)}</p>
+          {productionNotes(location).map((info, index) => <p className="travel-note" key={index}>{info.note} {info.source_url && <a href={info.source_url} target="_blank" rel="noreferrer">Se producentens oplysninger ↗</a>}</p>)}
+          {location.openingHoursNote && <p className="travel-note">{location.openingHoursNote} {location.source && <a href={location.source} target="_blank" rel="noreferrer">Se kilden ↗</a>}</p>}
           <div className="location-actions">
             {location.phone && <a href={`tel:+45${location.phone}`} aria-label={`Ring til ${location.name} på ${formatPhone(location.phone)}`}>Ring {formatPhone(location.phone)}</a>}
             {location.website && <a href={location.website} target="_blank" rel="noreferrer">Besøg {isOnline ? "webshoppen" : new URL(location.website).hostname.endsWith("facebook.com") ? "Facebook" : "hjemmesiden"} <span aria-hidden="true">↗</span></a>}

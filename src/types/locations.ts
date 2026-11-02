@@ -19,6 +19,7 @@ export type Location = {
   coordinates: { latitude: number; longitude: number };
   description: string;
   source?: string;
+  openingHoursNote?: string;
 };
 
 export type OnlineShop = {
@@ -29,6 +30,7 @@ export type OnlineShop = {
   website: string;
   phone?: string;
   source?: string;
+  openingHoursNote?: string;
 };
 
 export type DirectoryEntry = Location | OnlineShop;

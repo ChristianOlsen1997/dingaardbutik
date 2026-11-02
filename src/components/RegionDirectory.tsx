@@ -1,5 +1,6 @@
 "use client";
 
+import { useProductionFilters } from "./ProductionFilters";
 import { locations } from "@/data/locations";
 import { regions } from "@/data/regions";
 import type { DirectoryEntry } from "@/types/locations";
@@ -21,8 +22,9 @@ export function RegionDirectory({
   onQueryChange: (query: string) => void;
   selectedId: string | null;
 }) {
+  const { accepts } = useProductionFilters();
   const region = regions.find((item) => item.id === regionId);
-  const matches = locations.filter((location) => location.region === regionId).sort((a, b) => a.name.localeCompare(b.name, "da"));
+  const matches = locations.filter((location) => location.region === regionId && accepts(location)).sort((a, b) => a.name.localeCompare(b.name, "da"));
   if (!region) return null;
 
   return (

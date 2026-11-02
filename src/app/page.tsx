@@ -1,5 +1,6 @@
 "use client";
 
+import { ProductionFilterProvider } from "@/components/ProductionFilters";
 import { useState } from "react";
 import Link from "next/link";
 import Image from "next/image";
@@ -13,7 +14,8 @@ import { SiteFooter } from "@/components/SiteFooter";
 import type { DirectoryEntry } from "@/types/locations";
 import type { RegionId } from "@/types/regions";
 
-export default function Home() {
+export default function Home() { return <ProductionFilterProvider><HomeContent /></ProductionFilterProvider>; }
+function HomeContent() {
   const [selectedRegion, setSelectedRegion] = useState<RegionId | null>(null);
   const [selectedLocation, setSelectedLocation] = useState<DirectoryEntry | null>(null);
   const [query, setQuery] = useState("");

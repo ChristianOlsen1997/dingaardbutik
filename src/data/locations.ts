@@ -4865,5 +4865,230 @@ export const locations: Location[] = [
     "source": "https://storhaven.dk/",
     "phone": "24276667",
     "website": "https://storhaven.dk/"
+  },
+  {
+    "id": "gaardbutikken-marielyst",
+    "name": "Gårdbutikken Marielyst",
+    "region": "sjaelland",
+    "address": "Bøtø Ringvej 4",
+    "postalCode": "4873",
+    "city": "Væggerløse",
+    "mapPosition": {
+      "x": 542.0,
+      "y": 749.1
+    },
+    "coordinates": {
+      "latitude": 54.67852519,
+      "longitude": 11.94826683
+    },
+    "description": "Grøntsager og bær fra egne marker, bl.a. kartofler, jordbær, asparges og rabarber. Desuden most, honning og andre lokale specialiteter.",
+    "source": "https://www.visitlolland-falster.dk/turist/planlaeg-din-ferie/gaardbutikken-marielyst-gdk1103128",
+    "phone": "60146900"
+  },
+  {
+    "id": "uldum-moelle",
+    "name": "Uldum Mølle",
+    "region": "midtjylland",
+    "address": "Skolegade 25",
+    "postalCode": "7171",
+    "city": "Uldum",
+    "mapPosition": {
+      "x": 237.4,
+      "y": 485.1
+    },
+    "coordinates": {
+      "latitude": 55.8457542,
+      "longitude": 9.5838398
+    },
+    "description": "Økologisk mel, gryn og hele kerner fra den historiske mølle. Møllebutikken er en del af møllemuseet.",
+    "source": "https://uldummolle.dk/",
+    "phone": "75679484",
+    "website": "https://uldummolle.dk/",
+    "openingHoursNote": "Frem til 1. december 2026: tirsdag kl. 10–16 og torsdag kl. 10–17. Se hjemmesiden for åbningstider derefter."
+  },
+  {
+    "id": "strandgaardens-frugtplantage",
+    "name": "Strandgårdens Frugtplantage",
+    "region": "midtjylland",
+    "address": "Vorsøvej 24",
+    "postalCode": "8700",
+    "city": "Horsens",
+    "mapPosition": {
+      "x": 292.3,
+      "y": 477.3
+    },
+    "coordinates": {
+      "latitude": 55.87993988,
+      "longitude": 10.00994772
+    },
+    "description": "Frugtplantage i Søvind med æbler, æg fra høns i plantagen og sæsonens grøntsager. Producenten oplyser, at egne kartofler dyrkes økologisk.",
+    "source": "https://www.facebook.com/p/Strandg%C3%A5rdens-Frugtplantage-100075798380485/",
+    "website": "https://www.facebook.com/p/Strandg%C3%A5rdens-Frugtplantage-100075798380485/"
+  },
+  {
+    "id": "skovloekke-munkebo",
+    "name": "Skovløkke Gårdbutik – Munkebo",
+    "region": "syddanmark",
+    "address": "Møllevejen 30",
+    "postalCode": "5330",
+    "city": "Munkebo",
+    "mapPosition": {
+      "x": 358.9,
+      "y": 576.0
+    },
+    "coordinates": {
+      "latitude": 55.44778599,
+      "longitude": 10.52716346
+    },
+    "description": "Gårdbutik i Dræby med kartofler, jordbær, ærter og sæsonens grøntsager fra Skovløkkes egne marker. Afgrøderne dyrkes uden sprøjtemidler under væksten. Dette er salgsstedet i Munkebo; Skovløkke har også butik i Marslev.",
+    "source": "https://goforlocal.dk/find-lokale-foedevarer/gaardbutikken-skovloekke-frilandsgroent",
+    "phone": "30304208",
+    "website": "https://skovloekke.dk/",
+    "openingHoursNote": "Selvbetjening i sæsonen. Se producentens aktuelle oplysninger før besøget."
+  },
+  {
+    "id": "den-lille-mark",
+    "name": "Den Lille Mark",
+    "region": "syddanmark",
+    "address": "Marken ved Hvilehøjvej 29",
+    "postalCode": "5220",
+    "city": "Odense SØ",
+    "mapPosition": {
+      "x": 349.6,
+      "y": 596.5
+    },
+    "coordinates": {
+      "latitude": 55.357307,
+      "longitude": 10.454914
+    },
+    "description": "Økologisk bylandbrug med grøntsager og pluk-selv-blomster. Marken ligger ved siden af Hvilehøjvej 29; der må ikke parkeres på den private ejendom. Brug kortets placering og producentens besøgsvejledning.",
+    "source": "https://www.denlillemark.dk/",
+    "website": "https://www.denlillemark.dk/",
+    "openingHoursNote": "Sæsonåbent fredag–søndag kl. 10–20. Se hjemmesiden for sæson og aktuelt salg."
+  },
+  {
+    "id": "lysemosegaard",
+    "name": "Lysemosegaard Gårdbutik",
+    "region": "syddanmark",
+    "address": "Assensvej 25",
+    "postalCode": "5250",
+    "city": "Odense SV",
+    "mapPosition": {
+      "x": 332.9,
+      "y": 598.1
+    },
+    "coordinates": {
+      "latitude": 55.3502875,
+      "longitude": 10.32523756
+    },
+    "description": "Gårdbutik med sæsonens grøntsager, kartofler, jordbær og æg. Følg butikkens opslag for dagens udvalg.",
+    "source": "https://www.facebook.com/people/Lysemosegaard-G%C3%A5rdbutik/100057260718188/",
+    "phone": "22182879",
+    "website": "https://www.facebook.com/people/Lysemosegaard-G%C3%A5rdbutik/100057260718188/",
+    "openingHoursNote": "Butikkens opslag fra 21. juli oplyser alle dage kl. 9–20. Bekræft aktuelle åbningstider før besøget."
+  },
+  {
+    "id": "oekomoelleriet-kragegaarden",
+    "name": "Økomølleriet / Kragegaarden",
+    "region": "syddanmark",
+    "address": "Kirkeløkken 8",
+    "postalCode": "5750",
+    "city": "Ringe",
+    "mapPosition": {
+      "x": 364.1,
+      "y": 610.6
+    },
+    "coordinates": {
+      "latitude": 55.29516768,
+      "longitude": 10.56731775
+    },
+    "description": "Økologisk gårdbutik og mølleri ved Havndrup. Her sælges bl.a. eget stenmalet mel, gryn, hele kerner, kartofler og grøntsager.",
+    "source": "https://kragegaarden.dk/KONTAKT/",
+    "phone": "20812071",
+    "website": "https://kragegaarden.dk/",
+    "openingHoursNote": "Døgnåben selvbetjening. Bemandet mandag–torsdag kl. 7–15."
+  },
+  {
+    "id": "stokmosegaard",
+    "name": "Stokmosegård",
+    "region": "syddanmark",
+    "address": "Skalkendrupvej 60",
+    "postalCode": "5800",
+    "city": "Nyborg",
+    "mapPosition": {
+      "x": 388.1,
+      "y": 593.7
+    },
+    "coordinates": {
+      "latitude": 55.36967212,
+      "longitude": 10.75415994
+    },
+    "description": "Lille regenerativt og økologisk landbrug med æglæggende høns, hyldeblomster, grøntsager og geder. Se producentens opslag for aktuelt gårdsalg.",
+    "source": "https://www.facebook.com/stokmosegaard/",
+    "phone": "31518030",
+    "website": "https://www.facebook.com/stokmosegaard/",
+    "openingHoursNote": "Facebook-profilen angiver altid åbent. Kontakt gården om aktuelt gårdsalg før besøget."
+  },
+  {
+    "id": "svanholm",
+    "name": "Svanholm",
+    "region": "hovedstaden",
+    "address": "Svanholm Gods 4A",
+    "postalCode": "4050",
+    "city": "Skibby",
+    "mapPosition": {
+      "x": 540.8,
+      "y": 499.4
+    },
+    "coordinates": {
+      "latitude": 55.7835771,
+      "longitude": 11.93888755
+    },
+    "description": "Økologisk landbrug med grøntsager, kød og mælk fra egen produktion samt lokale specialiteter. Café og grøntsagssalg er vinterlukket indtil foråret 2027; se hjemmesiden for øvrige besøg og salg.",
+    "source": "https://svanholm.dk/besoeg-os/",
+    "phone": "42140880",
+    "website": "https://svanholm.dk/",
+    "openingHoursNote": "Café og grøntsagssalg er vinterlukket frem til foråret 2027. Se hjemmesiden for aktuelle besøgs- og salgsmuligheder."
+  },
+  {
+    "id": "knoldbjerggaard",
+    "name": "Knoldbjerggaard",
+    "region": "sjaelland",
+    "address": "Løserupvej 40",
+    "postalCode": "4300",
+    "city": "Holbæk",
+    "mapPosition": {
+      "x": 514.3,
+      "y": 500.7
+    },
+    "coordinates": {
+      "latitude": 55.7780474,
+      "longitude": 11.73351618
+    },
+    "description": "Regenerativt dyrkede grøntsager fra Tuse Næs. Der tilbydes grøntsagskasser med levering i sæsonen og afhentning efter bestilling. Dyrkning uden sprøjtemidler er ikke det samme som økologisk certificering.",
+    "source": "https://www.knoldbjerggaard.dk/pages/om-os",
+    "phone": "61755001",
+    "website": "https://www.knoldbjerggaard.dk/",
+    "openingHoursNote": "Bestilling og afhentning efter producentens aktuelle anvisninger. Kontakt gården før besøget."
+  },
+  {
+    "id": "kaeragergaard-grisen",
+    "name": "Kæragergård Grisen – gårdbutik",
+    "region": "syddanmark",
+    "address": "Søndergade 108C",
+    "postalCode": "7080",
+    "city": "Børkop",
+    "mapPosition": {
+      "x": 243.8,
+      "y": 532.9
+    },
+    "coordinates": {
+      "latitude": 55.63703746,
+      "longitude": 9.63370722
+    },
+    "description": "Butik med svinekød, medister, pølser og andre kødvarer. Salgsstedet er i Søndergade i Børkop; gårdens adresse på Mørkholtvej er ikke butikkens besøgsadresse.",
+    "source": "https://www.facebook.com/photo/?fbid=1134044079374453&set=a.134023119376559",
+    "website": "https://www.facebook.com/p/K%C3%A6ragerg%C3%A5rd-Grisen-100083066150967/",
+    "openingHoursNote": "Aktuelt opslag for uge 45: torsdag og fredag kl. 10–17. Se Facebook for aktuelle åbningstider."
   }
 ];

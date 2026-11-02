@@ -1,0 +1,1544 @@
+{
+  "aakandegaard": {
+    "status": "planned",
+    "source_url": "https://aakandegaard.dk",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "aarstiderne": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "abildskaer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "adamsgaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "alsoe": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "asgaard-alleroed": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "astrup-gods": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "ausumgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "avernakoe-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "baaring-vig-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "baastrup-skovgaard": {
+    "status": "source-confirmed",
+    "source_url": "https://baastrupskovgaard.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "babberup": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "bakkemosegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "baksminde": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "bigaard-oekologisk-gartneri": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "birkemosegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "birkemosehus": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "birthesminde": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "bodebjergvej-42": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "boegebjerggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "bondegaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "bradstrupgaard-gaardsalg": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "brodamgaard": {
+    "status": "source-confirmed",
+    "source_url": "https://brodamgaard.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "buresoedal": {
+    "status": "source-confirmed",
+    "source_url": "https://xn--buresdal-94a.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "butik-pilti": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "byaasgaard-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "dalhoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "dalsgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "den-bornholmske-kalv": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "den-glade-bondemand": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "den-glade-gris": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "den-groenne-vogn": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "den-lille-bondegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "det-lille-oekori": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "det-var-soerens": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "diddesminde": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "ditlevsdal-bison-farm": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "dm-aeg": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "dreyers": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "drivhuset": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "dyssegaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "egebjerggaard-groent": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "elkaerholm-aroniabaer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "elmegaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "enemaerkegaards-hereford": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "engmosegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "esromgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "faellinggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fam-christoffersens": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "farm-living-ged-og-groent": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "farmersmarket-i-helsinge": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fiskbaek": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fjand": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fjerland": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fjordvang-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "freerslev-kotel": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fridalund": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "froelund-oekologi": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fru-hansens": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fru-moellers": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "frugthaven": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "frydendal-ismejeri": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "frydenlund-slots-frugtplantage-gaardbutikken": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fuglebjerggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fuglehal-landbrug": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fuglhoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fuglsanggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fyns-graesaeg": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "fynshoved-cafe": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gaardagergaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gaardbutik-paa-ajstrupvej": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gaardbutikken-planter-og-pesto": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gaardens-groent": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gaardstoften": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gartnergaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gartneriet-lumbygaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gartneriet-roedmose": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gloevermosegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gothenborg": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "graasten-fjerkrae-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gram-slot": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "grantoftegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "graverens-groentsager": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "grennessminde": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "groentsagshytten": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "grolykke": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "guldager-highland-cattle": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gyldenlund": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "haekbaek-oekologiske-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hallegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hammersly": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hasagergaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "havredal-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hebbelstrupgaard-is": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hedeagergaard": {
+    "status": "source-confirmed",
+    "source_url": "https://hedeager.info/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "hegnsholt": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hegnstrup-oekologisk-jordbrug": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "henrik-obling": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hestehavegaard-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hjoernegaarden-dollerup": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hoejlund-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hoekildegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "holgers-jordbaer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "holistia": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "holmelund": {
+    "status": "mixed-feed",
+    "source_url": "https://holmelund-ko.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hopballe-moelle": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "horstmann": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hovedvejens-gaardbutik-nr-aaby": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "hvolbaekgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "jensen-jordbaer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "jordbaergaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "jordkaergaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "jysk-naturkoed": {
+    "status": "source-confirmed",
+    "source_url": "https://www.jysknaturkoed.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "kaloe-oekologisk-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "karensminde-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kildegaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kildegaarden-highland-cattle": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kirstineborg": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "klintholm-gods": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "klippingegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "knabegaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "knudsens-oeko-graesaeg": {
+    "status": "unconfirmed",
+    "source_url": "https://www.facebook.com/profile.php?id=100089791791313",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "koed-og-ko": {
+    "status": "source-confirmed",
+    "source_url": "https://www.koedogko.dk/om-os",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "koeng": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kokaergaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kraemmergaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kraghoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "krastrupsoegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kroghs-groent": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "krogsholm-frugt": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "laboellegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lamdrup-naturkoed": {
+    "status": "source-confirmed",
+    "source_url": "https://xn--lamdrupnaturkd-2qb.dk/gaardbutik/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "lammefjordens-spisekammer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lammehave": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "langemarksgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lf-koed": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lille-jord": {
+    "status": "source-confirmed",
+    "source_url": "https://lillejord.dk/products/hakket-oksekod",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "lindbjerggaard": {
+    "status": "source-confirmed",
+    "source_url": "https://lindbjerggaard.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "lindegaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lindhoej": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lolle-frugt": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lophave": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lundsbjerggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lystbaekgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lystlunden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "maansson": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "maarager-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "madsens": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "mejnerts-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "melbjerggaard-groent": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "mindelundgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "moellebakkegaard-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "moellehoej": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "moeltrup": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "moen-is": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "munkebjerggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "muuhhies": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "naturbruget-tranum": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "naturmaelk-butikken": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "noerbys-groentsager": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "noergaard-charolais": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "noergaards-geder": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "noerregaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "norlin-wagyu": {
+    "status": "source-confirmed",
+    "source_url": "https://www.norlinwagyu.com/",
+    "note": "Græsfodringen gælder det almindelige oksekød. Wagyu-kvæget får en anden, sammensat diæt.",
+    "checked_at": "2026-11-02"
+  },
+  "nybro-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "nystedgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oekobo-bjoernoe": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oekogaardene": {
+    "status": "source-confirmed",
+    "source_url": "https://oekogaardene.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "oekoladen": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oellingegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oester-hegnet": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oestergaard-frugt-most": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oesterlund": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "omfaun": {
+    "status": "unavailable-product",
+    "source_url": "https://omfaun.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "over-ugilt": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "palleshavegaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "paradiset": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "peters-gartneri": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "peterslyst": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "pluk-selv-aarhus": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "poetgaard-faareost-gaardmejeri": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "raevhede": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "raunsmed-fjerkraefarm": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "ravnsminde": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "rishoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "roejlegaardens": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "roenhave-slagteren": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "roenhoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "rokkedysse": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "rosagergaard-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "rosenbeck": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "rosilde-hoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "rydskovgaard": {
+    "status": "mixed-feed",
+    "source_url": "https://rydskovgaard.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "ryttergaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "samsoe-baer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "sandgaarden-hoeve": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "saxenhoej": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "sdr-vissing-torvehal": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "sidinge": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "skelbjerggaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "skodsboel-fjerkrae": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "skotsgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "skovloekke": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "soeagergaard": {
+    "status": "source-confirmed",
+    "source_url": "https://soeagergaard.com/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "soenderho": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "soetofte-gaardmejeri": {
+    "status": "source-confirmed",
+    "source_url": "https://www.xn--stoftegrdmejeri-nlb03a.dk/oksekoed",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "solhoejgaard-oekologi": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "solkaergaard": {
+    "status": "source-confirmed",
+    "source_url": "https://solkaergaard.dk/vare/nyretapper-hanger-steak-graesfodret-koedkvaeg-koeb/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "solskin": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "sommergroent": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "stald-kaersgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "steensgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "stengaarden": {
+    "status": "source-confirmed",
+    "source_url": "https://stengaardenoko.dk/pages/landbruget",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "stensboelgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "stevninggaard-frugt-og-baer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "storhaven": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "the-branding-garage": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "thorlin-spisested-og-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "thorshoejgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "thorslundgaard-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "thy-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "thy-lam": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "thy-oekobaer": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "tinnetgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "toftegaard-oekologi": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "toftegaarden": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "toftegaards-oerbaek": {
+    "status": "source-confirmed",
+    "source_url": "https://toftegaards-gaardbutik.dk/oekologisk-koed-fyn/",
+    "note": "Oksekød fra græsfodret naturplejekvæg. Bekræftet i uddrag fra producentens egen side.",
+    "checked_at": "2026-11-02"
+  },
+  "torup-bakkegaard-orelund": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "tothaven": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "tranum-oekobrug": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "treshoeje-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "troldgaarden": {
+    "status": "source-confirmed",
+    "source_url": "https://troldgaarden.dk/",
+    "note": "Producenten oplyser græsfodret oksekød. Det gælder ikke automatisk alle varer eller 100 % græsfodring.",
+    "checked_at": "2026-11-02"
+  },
+  "tvis-gaardbutik": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "ulstrup-faar": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "varde-aadal": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "velfaerdskoed-v-karen-torben": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "verningelund": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "vester-krogsgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "vesterborg-fjerkrae": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "vestkystens": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "vibaekgaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "vild-hvede": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "vores-lille-gaard": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "wagyu-bornholm": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "yduns-have": {
+    "status": "unconfirmed",
+    "source_url": null,
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "gaardbutikken-marielyst": {
+    "status": "unconfirmed",
+    "source_url": "https://www.visitlolland-falster.dk/turist/planlaeg-din-ferie/gaardbutikken-marielyst-gdk1103128",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "uldum-moelle": {
+    "status": "unconfirmed",
+    "source_url": "https://uldummolle.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "strandgaardens-frugtplantage": {
+    "status": "unconfirmed",
+    "source_url": "https://www.facebook.com/p/Strandg%C3%A5rdens-Frugtplantage-100075798380485/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "skovloekke-munkebo": {
+    "status": "unconfirmed",
+    "source_url": "https://skovloekke.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "den-lille-mark": {
+    "status": "unconfirmed",
+    "source_url": "https://www.denlillemark.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "lysemosegaard": {
+    "status": "unconfirmed",
+    "source_url": "https://www.facebook.com/people/Lysemosegaard-G%C3%A5rdbutik/100057260718188/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "oekomoelleriet-kragegaarden": {
+    "status": "unconfirmed",
+    "source_url": "https://kragegaarden.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "stokmosegaard": {
+    "status": "unconfirmed",
+    "source_url": "https://www.facebook.com/stokmosegaard/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "svanholm": {
+    "status": "unconfirmed",
+    "source_url": "https://svanholm.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "knoldbjerggaard": {
+    "status": "unconfirmed",
+    "source_url": "https://www.knoldbjerggaard.dk/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  },
+  "kaeragergaard-grisen": {
+    "status": "unconfirmed",
+    "source_url": "https://www.facebook.com/p/K%C3%A6ragerg%C3%A5rd-Grisen-100083066150967/",
+    "note": null,
+    "checked_at": "2026-11-02"
+  }
+}
