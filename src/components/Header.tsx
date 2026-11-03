@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
+import styles from "./Header.module.css";
 
 const links = [
   { label: "Find gårdbutik", href: "#find-gaardbutik" },
@@ -12,7 +14,10 @@ export function Header() {
 
   return (
     <header className="site-header">
-      <a className="wordmark" href="#top" aria-label="dingårdbutik, gå til toppen">dingårdbutik</a>
+      <a className={`wordmark ${styles.brand}`} href="#top" aria-label="dingårdbutik, gå til toppen">
+        <Image className={styles.logo} src="/brand-logo.png" alt="" width={40} height={40} />
+        <span>dingårdbutik</span>
+      </a>
       <a className="advertising-slot" href="#annoncering" aria-label="Kontakt om ledig annonceplads">
         <strong>Støt lokale gårdbutikker</strong>
         <span>Annoncér her og hjælp flere med at finde dem.</span>
