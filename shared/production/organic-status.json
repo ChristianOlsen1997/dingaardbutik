@@ -1540,5 +1540,17 @@
     "source_url": "https://www.facebook.com/p/K%C3%A6ragerg%C3%A5rd-Grisen-100083066150967/",
     "note": null,
     "checked_at": "2026-11-02"
+  },
+  "copenhagen-goat-milk": {
+    "status": "unconfirmed",
+    "source_url": "https://www.bondensmarked.dk/stadeholdere/se-stadeholdere/mejeri/copenhagen-goat-milk/",
+    "note": null,
+    "checked_at": "2026-11-14"
+  },
+  "unika-by-ny-faurskovgaard": {
+    "status": "source-confirmed",
+    "source_url": "https://sofari.dk/find-en-gaard/sydjylland/ny-faurskov-aps/",
+    "note": null,
+    "checked_at": "2026-11-14"
   }
 }

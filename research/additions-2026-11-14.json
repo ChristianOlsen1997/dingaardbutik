@@ -1,0 +1,50 @@
+{
+  "scope": "website",
+  "checked_at": "2026-11-14",
+  "entries": [
+    {
+      "id": "copenhagen-goat-milk",
+      "name": "Copenhagen Goat Milk",
+      "region": "sjaelland",
+      "address": "Roskildevej 603",
+      "postalCode": "4174",
+      "city": "Jystrup",
+      "coordinates": {
+        "latitude": 55.51578,
+        "longitude": 11.89708
+      },
+      "description": "Gårdmejeri og gårdbutik med gedemælk, gedeoste, yoghurt og is fra egne geder.",
+      "phone": "51858126",
+      "website": "https://www.facebook.com/CopenhagenGoatMilk/",
+      "source": "https://www.bondensmarked.dk/stadeholdere/se-stadeholdere/mejeri/copenhagen-goat-milk/",
+      "mapPosition": {
+        "x": 535.4,
+        "y": 560.5
+      }
+    },
+    {
+      "id": "unika-by-ny-faurskovgaard",
+      "name": "Unika By Ny Faurskovgård",
+      "region": "syddanmark",
+      "address": "Favrskovvej 60",
+      "postalCode": "6670",
+      "city": "Holsted",
+      "coordinates": {
+        "latitude": 55.5324627,
+        "longitude": 8.93975107
+      },
+      "description": "Gårdbutik med økologisk oksekød, spegepølser, andre økologiske fødevarer og værtindegaver.",
+      "website": "https://sofari.dk/find-en-gaard/sydjylland/ny-faurskov-aps/",
+      "source": "https://sofari.dk/find-en-gaard/sydjylland/ny-faurskov-aps/",
+      "mapPosition": {
+        "x": 154.4,
+        "y": 556.7
+      }
+    }
+  ],
+  "coordinate_sources": {
+    "copenhagen-goat-milk": "https://jystrup.cylex.dk/firma/copenhagen-goat-milk/14037866.html",
+    "unika-by-ny-faurskovgaard": "https://www.dingeo.dk/adresse/6670-holsted/favrskovvej-60/"
+  },
+  "limitations": "No regular opening hours confirmed. Unika phone and direct social profile not confirmed; linked producer presentation at Sofari. Event hours are not used as regular opening hours."
+}

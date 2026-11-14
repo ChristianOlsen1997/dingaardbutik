@@ -5090,5 +5090,44 @@ export const locations: Location[] = [
     "source": "https://www.facebook.com/photo/?fbid=1134044079374453&set=a.134023119376559",
     "website": "https://www.facebook.com/p/K%C3%A6ragerg%C3%A5rd-Grisen-100083066150967/",
     "openingHoursNote": "Aktuelt opslag for uge 45: torsdag og fredag kl. 10–17. Se Facebook for aktuelle åbningstider."
+  },
+  {
+    "id": "copenhagen-goat-milk",
+    "name": "Copenhagen Goat Milk",
+    "region": "sjaelland",
+    "address": "Roskildevej 603",
+    "postalCode": "4174",
+    "city": "Jystrup",
+    "coordinates": {
+      "latitude": 55.51578,
+      "longitude": 11.89708
+    },
+    "description": "Gårdmejeri og gårdbutik med gedemælk, gedeoste, yoghurt og is fra egne geder.",
+    "phone": "51858126",
+    "website": "https://www.facebook.com/CopenhagenGoatMilk/",
+    "source": "https://www.bondensmarked.dk/stadeholdere/se-stadeholdere/mejeri/copenhagen-goat-milk/",
+    "mapPosition": {
+      "x": 535.4,
+      "y": 560.5
+    }
+  },
+  {
+    "id": "unika-by-ny-faurskovgaard",
+    "name": "Unika By Ny Faurskovgård",
+    "region": "syddanmark",
+    "address": "Favrskovvej 60",
+    "postalCode": "6670",
+    "city": "Holsted",
+    "coordinates": {
+      "latitude": 55.5324627,
+      "longitude": 8.93975107
+    },
+    "description": "Gårdbutik med økologisk oksekød, spegepølser, andre økologiske fødevarer og værtindegaver.",
+    "website": "https://sofari.dk/find-en-gaard/sydjylland/ny-faurskov-aps/",
+    "source": "https://sofari.dk/find-en-gaard/sydjylland/ny-faurskov-aps/",
+    "mapPosition": {
+      "x": 154.4,
+      "y": 556.7
+    }
   }
 ];
